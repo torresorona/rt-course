@@ -1,0 +1,41 @@
+{
+  "title": "Introduction to Real-Time Systems Quiz",
+  "questions": [
+    {
+      "text": "What distinguishes a real-time system from a general-purpose system?",
+      "answers": [
+        { "text": "It must run on specialized hardware" },
+        { "text": "Correctness depends on both logic and timing", "correct": true },
+        { "text": "It must use a real-time operating system" },
+        { "text": "It processes data faster than non-real-time systems" }
+      ]
+    },
+    {
+      "text": "In a hard real-time system, what happens when a deadline is missed?",
+      "answers": [
+        { "text": "The result is still useful but lower quality" },
+        { "text": "The result is discarded" },
+        { "text": "It is considered a system failure", "correct": true },
+        { "text": "The task is retried automatically" }
+      ]
+    },
+    {
+      "text": "Which term describes the variation in task execution time?",
+      "answers": [
+        { "text": "Latency" },
+        { "text": "Throughput" },
+        { "text": "Determinism" },
+        { "text": "Jitter", "correct": true }
+      ]
+    },
+    {
+      "text": "Which real-time category best describes a video streaming application?",
+      "answers": [
+        { "text": "Hard real-time" },
+        { "text": "Soft real-time", "correct": true },
+        { "text": "Firm real-time" },
+        { "text": "Non-real-time" }
+      ]
+    }
+  ]
+}

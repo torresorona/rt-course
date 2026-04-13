@@ -1,0 +1,6 @@
+System,Type,Deadline,Example
+Airbag Controller,Hard,< 10ms,Automotive safety
+Video Streaming,Soft,~33ms (30fps),Entertainment
+Sensor Network,Firm,100ms,Industrial monitoring
+Flight Control,Hard,< 5ms,Avionics
+Voice over IP,Soft,~20ms,Telecommunications

@@ -1,0 +1,32 @@
+---
+title: "Introduction to Real-Time Systems"
+description: "Learn the fundamentals of real-time computing and why timing constraints matter."
+order: 1
+---
+
+# Introduction to Real-Time Systems
+
+A **real-time system** is one where correctness depends not only on the logical result of computation but also on the _time_ at which the results are produced.
+
+## Why Real-Time Matters
+
+In many domains — avionics, medical devices, industrial control — a late answer is a wrong answer. Real-time systems are designed to guarantee that deadlines are met.
+
+### Hard vs. Soft Real-Time
+
+| Type | Missed Deadline | Example |
+|------|----------------|---------|
+| **Hard** | System failure | Airbag deployment |
+| **Soft** | Degraded quality | Video streaming |
+| **Firm** | Result discarded | Sensor reading |
+
+## Key Concepts
+
+1. **Determinism** — the system's timing behavior is predictable
+2. **Schedulability** — tasks can be analyzed to prove deadlines will be met
+3. **Jitter** — variation in task execution or response time
+4. **Latency** — delay between a stimulus and the system's response
+
+## Check Your Understanding
+
+<Quiz slug="module-1" />
