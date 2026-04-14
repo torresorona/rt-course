@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RT Course",
-  description: "Real-Time Systems Course",
+  title: "Respiratory Therapy Course",
+  description: "Respiratory Therapy Course",
 };
 
 export default function RootLayout({

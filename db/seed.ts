@@ -22,9 +22,13 @@ async function seed() {
     const slug = dir.name;
     const mdxPath = join(contentDir, slug, "lesson.mdx");
 
-    // Read title from MDX frontmatter
+    // Read title from module.json if it exists, otherwise from MDX frontmatter
     let title = slug;
-    if (existsSync(mdxPath)) {
+    const moduleJsonPath = join(contentDir, slug, "module.json");
+    if (existsSync(moduleJsonPath)) {
+      const moduleData = JSON.parse(readFileSync(moduleJsonPath, "utf-8"));
+      title = moduleData.title ?? slug;
+    } else if (existsSync(mdxPath)) {
       const { data } = matter(readFileSync(mdxPath, "utf-8"));
       title = data.title ?? slug;
     }

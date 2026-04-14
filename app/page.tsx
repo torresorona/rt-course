@@ -32,10 +32,10 @@ export default async function HomePage() {
       {/* Hero */}
       <div className="mb-10">
         <h1 className="mb-3 text-3xl font-bold tracking-tight text-sand-900">
-          Real-Time Systems
+          Respiratory Therapy Course
         </h1>
         <p className="text-lg text-sand-600">
-          A self-paced course on real-time computing fundamentals.
+          Study modules, quizzes, and resources for your coursework.
         </p>
       </div>
 
@@ -108,7 +108,7 @@ export default async function HomePage() {
           return (
             <Link
               key={mod.slug}
-              href={`/${mod.slug}`}
+              href={`/modules/${mod.slug}`}
               className="group flex items-center gap-4 rounded-2xl border border-sand-200 bg-white p-5 transition-all hover:border-sand-300 hover:shadow-sm"
             >
               <div
