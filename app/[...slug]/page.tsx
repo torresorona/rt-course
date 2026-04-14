@@ -52,6 +52,16 @@ export default async function LessonPage({
     moduleTitle = moduleData.title ?? null;
   }
 
+  // Detect audio file for this lesson
+  const audioMap: Record<string, string> = {
+    "pharmacology/lesson-1": "/audio/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a",
+    "pharmacology/lesson-2": "/audio/Airway_Pharmacology_and_Respiratory_Math.m4a",
+  };
+  const audioSrc = audioMap[slugPath] ?? null;
+
+  // Check if this lesson has resources
+  const hasResources = slugPath === "pharmacology/lesson-1";
+
   return (
     <div>
       {/* Breadcrumb */}
@@ -109,10 +119,9 @@ export default async function LessonPage({
       {/* Review view */}
       {activeView === "review" && (
         <div className="space-y-6">
-          <AudioPlayer
-            src="/audio/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a"
-            title="Listen: Principles of Drug Actions (Slides 1–38)"
-          />
+          {audioSrc && (
+            <AudioPlayer src={audioSrc} title={`Listen: ${frontmatter.title}`} />
+          )}
           <article className="rounded-2xl border border-sand-200 bg-white px-8 py-10 sm:px-10">
             <div className="prose prose-sand max-w-none">{content}</div>
           </article>
@@ -122,13 +131,18 @@ export default async function LessonPage({
       {/* Resources view */}
       {activeView === "resources" && (
         <div className="space-y-6">
-          <ReceptorTable />
+          {slugPath === "pharmacology/lesson-1" && <ReceptorTable />}
+          {!hasResources && (
+            <div className="rounded-2xl border border-dashed border-sand-300 p-8 text-center text-sand-500">
+              No additional resources for this lesson yet.
+            </div>
+          )}
         </div>
       )}
 
       {/* Quiz view */}
       {activeView === "quiz" && (
-        <Quiz slug={moduleSlug} />
+        <Quiz slug={slugPath} />
       )}
     </div>
   );

@@ -2,8 +2,13 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import matter from "gray-matter";
 import AudioPlayer from "@/components/AudioPlayer";
+
+interface Lesson {
+  slug: string;
+  title: string;
+  description?: string;
+}
 
 interface AudioEntry {
   title: string;
@@ -29,21 +34,9 @@ export default async function ModuleLandingPage({
   if (!existsSync(moduleJsonPath)) notFound();
 
   const moduleData = JSON.parse(readFileSync(moduleJsonPath, "utf-8"));
+  const lessons: Lesson[] = moduleData.lessons ?? [];
   const resources: Resource[] = moduleData.resources ?? [];
   const audioEntries: AudioEntry[] = moduleData.audio ?? [];
-
-  // Discover lessons by checking for lesson.mdx
-  const lessonFile = join(moduleDir, "lesson.mdx");
-  const lessons: { title: string; description?: string; href: string }[] = [];
-
-  if (existsSync(lessonFile)) {
-    const { data } = matter(readFileSync(lessonFile, "utf-8"));
-    lessons.push({
-      title: data.title ?? "Lesson",
-      description: data.description,
-      href: `/${slug}`,
-    });
-  }
 
   return (
     <div>
@@ -74,8 +67,8 @@ export default async function ModuleLandingPage({
         <div className="space-y-3">
           {lessons.map((lesson, i) => (
             <Link
-              key={i}
-              href={lesson.href}
+              key={lesson.slug}
+              href={`/${lesson.slug}`}
               className="group flex items-center gap-4 rounded-2xl border border-sand-200 bg-white p-5 transition-all hover:border-sand-300 hover:shadow-sm"
             >
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-sand-100 text-sm font-bold text-sand-500 transition-colors group-hover:bg-sand-200 group-hover:text-sand-700">

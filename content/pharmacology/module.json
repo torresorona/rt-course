@@ -1,0 +1,22 @@
+{
+  "title": "Pharmacology",
+  "description": "Principles of drug actions, receptor pathways, and medication administration.",
+  "lessons": [
+    { "slug": "pharmacology/lesson-1", "title": "Principles of Drug Actions", "description": "Slides 1–38: Patient verification, routes of administration, ADME, receptor pathways." },
+    { "slug": "pharmacology/lesson-2", "title": "Calculating Drug Doses & Bronchodilators", "description": "Slides 39–80: Drug dose calculations, SABAs, LABAs, anticholinergics, peak flow monitoring, xanthines." }
+  ],
+  "resources": [
+    {
+      "title": "Quizlet Study Sets — RESC 2320",
+      "description": "Flashcards and practice sets for Respiratory Therapy coursework.",
+      "url": "https://quizlet.com/user/unityross/folders/resc-2320?i=2hln02&x=1xqt",
+      "type": "quizlet"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Principles of Drug Actions (Slides 1–38)",
+      "src": "/audio/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a"
+    }
+  ]
+}
