@@ -1,27 +1,73 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-sand-50: #faf9f7;
+  --color-sand-100: #f5f3ef;
+  --color-sand-200: #e8e4dd;
+  --color-sand-300: #d4cec4;
+  --color-sand-400: #b8b0a2;
+  --color-sand-500: #9c9284;
+  --color-sand-600: #7a7068;
+  --color-sand-700: #5c544d;
+  --color-sand-800: #3d3832;
+  --color-sand-900: #1f1b17;
+
+  --color-terracotta-500: #c4704b;
+  --color-terracotta-600: #a85c3a;
+
+  --color-sage-100: #ecf0e8;
+  --color-sage-200: #d4ddc9;
+  --color-sage-500: #6b8f5e;
+  --color-sage-600: #567848;
+  --color-sage-700: #3f5a34;
+
+  --color-clay-100: #fbe9e0;
+  --color-clay-200: #f5d0bf;
+  --color-clay-500: #c4704b;
+
+  --color-sky-100: #e4eef6;
+  --color-sky-500: #5b8db8;
+  --color-sky-600: #4a78a0;
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body {
+  background: var(--color-sand-50);
+  color: var(--color-sand-900);
+  font-family: var(--font-sans), system-ui, sans-serif;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Prose overrides for warm MDX styling */
+.prose {
+  --tw-prose-body: var(--color-sand-800);
+  --tw-prose-headings: var(--color-sand-900);
+  --tw-prose-links: var(--color-terracotta-600);
+  --tw-prose-bold: var(--color-sand-900);
+  --tw-prose-counters: var(--color-sand-500);
+  --tw-prose-bullets: var(--color-sand-400);
+  --tw-prose-hr: var(--color-sand-200);
+  --tw-prose-quotes: var(--color-sand-700);
+  --tw-prose-quote-borders: var(--color-sand-300);
+  --tw-prose-code: var(--color-terracotta-600);
+  --tw-prose-th-borders: var(--color-sand-300);
+  --tw-prose-td-borders: var(--color-sand-200);
+}
+
+.prose :where(th):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  background: var(--color-sand-100);
+}
+
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  background: var(--color-sand-100);
+  padding: 0.15em 0.4em;
+  border-radius: 0.25rem;
+  font-weight: 500;
+}
+
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::before,
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::after {
+  content: none;
 }

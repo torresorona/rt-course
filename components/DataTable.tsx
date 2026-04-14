@@ -13,25 +13,25 @@ export default function DataTable({ file }: DataTableProps) {
   const rows = lines.slice(1).map((line) => line.split(","));
 
   return (
-    <div className="my-6 overflow-x-auto">
-      <table className="min-w-full border-collapse text-sm">
+    <div className="not-prose my-6 overflow-x-auto rounded-xl border border-sand-200">
+      <table className="min-w-full text-sm">
         <thead>
-          <tr>
+          <tr className="bg-sand-100">
             {headers.map((h, i) => (
               <th
                 key={i}
-                className="border-b border-gray-300 bg-gray-100 px-4 py-2 text-left font-semibold"
+                className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-sand-600"
               >
                 {h.trim()}
               </th>
             ))}
           </tr>
         </thead>
-        <tbody>
+        <tbody className="divide-y divide-sand-100">
           {rows.map((row, i) => (
-            <tr key={i} className="even:bg-gray-50">
+            <tr key={i} className="bg-white transition-colors hover:bg-sand-50">
               {row.map((cell, j) => (
-                <td key={j} className="border-b border-gray-200 px-4 py-2">
+                <td key={j} className="px-4 py-3 text-sand-800">
                   {cell.trim()}
                 </td>
               ))}

@@ -1,32 +1,238 @@
 ---
-title: "Introduction to Real-Time Systems"
-description: "Learn the fundamentals of real-time computing and why timing constraints matter."
+title: "Principles of Drug Actions"
+description: "Covers Slides 1–38: Patient identifiers & medication verification, drug administration phase, routes of administration, pharmacokinetic phase, pharmacodynamic phase, lock and key theory, adrenergic pathway, and cholinergic pathway."
 order: 1
 ---
 
-# Introduction to Real-Time Systems
+# Principles of Drug Actions
 
-A **real-time system** is one where correctness depends not only on the logical result of computation but also on the _time_ at which the results are produced.
+## Introduction: Definition
 
-## Why Real-Time Matters
+**Pharmacology** — the study of drugs to include their origin, properties, and interactions with living organisms.
 
-In many domains — avionics, medical devices, industrial control — a late answer is a wrong answer. Real-time systems are designed to guarantee that deadlines are met.
+Drugs are often referred to by their **generic** and **trade (brand) name**:
 
-### Hard vs. Soft Real-Time
+- Acetaminophen / Tylenol
+- Ibuprofen / Motrin or Advil
 
-| Type | Missed Deadline | Example |
-|------|----------------|---------|
-| **Hard** | System failure | Airbag deployment |
-| **Soft** | Degraded quality | Video streaming |
-| **Firm** | Result discarded | Sensor reading |
+---
 
-## Key Concepts
+## Patient and Medication Verification
 
-1. **Determinism** — the system's timing behavior is predictable
-2. **Schedulability** — tasks can be analyzed to prove deadlines will be met
-3. **Jitter** — variation in task execution or response time
-4. **Latency** — delay between a stimulus and the system's response
+BEFORE we administer any medication, we must first be sure we have the right patient!
 
-## Check Your Understanding
+### Step 1: Verify Patient Identity
+
+Verify patient identity using **2 identifiers**: Full name and DOB.
+
+### Step 2: Verify the Medication
+
+Verify the medication prescribed and double check if any substitutions are or are not allowed.
+
+> **Example:** Your patient was prescribed albuterol. The patient states that albuterol makes their heart race. The physician did not list any approved substitutions. What do we do?
+
+### Step 3: Verify the Dosage
+
+Verify the dosage of the medication. The dosage of the drug can vary depending on the condition being treated and the way it is administered to the patient.
+
+### Step 4: Verify Correct Treatment Frequency
+
+How many times can this drug be given within a 24-hour period? Are we giving it during the correct prescribed time?
+
+### Step 5: Verify Treatment Route
+
+> **Example:** Your order states to give your patient a dry powder inhaler (device that crushes the pill and is released when the user inhales deeply through the mouthpiece). You go to your patient's room and see that they are intubated. What now?
+
+---
+
+## Phases of Drug Action
+
+1. **Administration**
+2. **Pharmacokinetics**
+3. **Pharmacodynamics**
+
+### Administration
+
+Administration — how the drug is made available to the body.
+
+---
+
+## Routes of Administration
+
+1. **Oral**
+2. **Parenteral (injectable)** — Intravenous (IV), Intramuscular (IM), Subcutaneous (SC), Intraosseous (IO)
+3. **Inhalation**
+4. **Topical**
+
+### Oral Route
+
+- Preferable for patients who cannot tolerate or may not respond to inhaled medications
+- Noncompliant patients
+- Children
+- Slower absorption time
+- Metabolized systemically; greater side effects
+
+### Inhalation Route
+
+- Produces less side effects since it bypasses GI absorption and limits hepatic metabolism
+- Requires smaller doses
+- Faster onset of action for respiratory medications
+- Smaller particle size of drug results in easier delivery into the lungs
+
+### Parenteral Route
+
+- Quicker onset of action systemically
+- Intravenous (IV) is route of preference for systemically acting drugs in emergency conditions (ex: fluids, cardiac medications, vasopressors, etc.)
+- More systemic side effects
+- Intramuscular (IM) and Subcutaneous (SQ) routes are slower to absorb and distribute resulting in greater onset of action time
+
+#### IV Delivery
+
+In certain cases, giving drugs through an IV may be considered a **bolus injection** (emergencies, pain management, anesthesia induction, etc.). Once the concentrated dose is pushed, it's followed by a flush of saline to ensure complete medication delivery.
+
+### Intraosseous (IO)
+
+- Administration of medications directly into the marrow of large bones
+- Only used when IV access cannot be established, or other routes are not available
+- Concerns: necrosis, infection, osteomyelitis
+
+### Down the Endotracheal Tube
+
+In an emergency, specific medications can be delivered down the endotracheal tube (ETT) if IV/IO access is unavailable.
+
+**NAVEL:**
+
+| Letter | Medication |
+|--------|-----------|
+| **N** | Naloxone (Narcan) |
+| **A** | Atropine |
+| **V** | Vasopressin |
+| **E** | Epinephrine |
+| **L** | Lidocaine |
+
+2–2.5 times the normal IV dose followed by 10mL saline flush.
+
+---
+
+## Pharmacokinetics
+
+**Pharmacokinetics** — actions the body performs with the drug.
+
+**ADME:**
+
+- **A** — Absorption
+- **D** — Distribution
+- **M** — Metabolism
+- **E** — Elimination
+
+---
+
+## Pharmacodynamics
+
+**Pharmacodynamics** — mechanisms by which medications produce effects in the body.
+
+- **Agonistic medications** — stimulate receptors
+- **Antagonistic medications** — block receptors
+
+---
+
+## Lock and Key Theory
+
+**Definition:** How drugs, hormones, chemical substances and neurotransmitters can exert/act upon specific receptor sites.
+
+- The **neurotransmitter** is the "key" that holds the message
+- The **receptor** is the "lock" that will receive the message
+
+---
+
+## Sympathetic Nervous System — Adrenergic Pathway
+
+The Adrenergic Pathway falls under the sympathetic nervous system.
+
+- **Adrenergic** — stimulate receptors responding to norepinephrine/epinephrine
+- **Anti-adrenergic** — block receptors from responding to norepinephrine/epinephrine
+
+### Alpha(1) Receptors
+
+Located in heart, lungs, and vasculature.
+
+When stimulated, they will cause:
+
+- Vasoconstriction (increasing blood pressure)
+- An increased HR
+
+**Example:** Vasopressors
+
+### Alpha Anti-Adrenergic Medications
+
+- Reduce arteriolar resistance
+- Produces vasodilation (lowers BP)
+
+**Example:** These types of drugs are referred to as your "zosin" drugs — Prazosin, doxazosin, terazosin. Helps with blood pressure.
+
+### Beta 1 Receptors
+
+Located in heart and kidneys.
+
+When stimulated = will cause constriction/contraction THUS:
+
+- Increasing HR
+- Increasing myocardial contractility
+
+**Example:** Dobutamine (increases HR & contractility)
+
+### Beta 2 Receptors
+
+Located in lungs, pancreas, liver, intestines, and arteriolar smooth muscle.
+
+When stimulated = cause relaxation:
+
+- Vasodilation (decreased BP)
+- Bronchodilation (opening up the airways)
+
+**Example:** Albuterol, levalbuterol
+
+### Beta Anti-Adrenergic Medications ("Beta Blockers")
+
+Block the effects of epinephrine and norepinephrine.
+
+Result:
+
+- Reduces HR and BP
+- Primary treatment for hypertension
+
+**Example:** Your "lol" drugs — atenolol, metoprolol, labetolol
+
+---
+
+## Parasympathetic Nervous System — Cholinergic Pathway
+
+Under the PNS, we follow the Cholinergic Pathway. These receptors (receivers) under this pathway are our **muscarinic receptors**.
+
+- **Cholinergic** — stimulate receptors to respond to acetylcholine
+- **Anti-cholinergic** — block receptors from responding to acetylcholine
+
+### Muscarinic Receptors
+
+Located in airways.
+
+- **M1, M3** when stimulated = cause constriction of the airways
+- **Anti-cholinergic medications** — will block stimulation of M1 and M3. This will result in bronchodilation.
+
+---
+
+## Tips and Tricks
+
+1. Where is my receptor located?
+2. What number? (**Key: 1 & 3 contract; 2 relax!**)
+3. Am I stimulating the receptor or blocking the receptor? (agonist or antagonist)
+
+> **Example:** B2 Adrenergic Medication
+> - Location: lungs, smooth arteriolar muscles, liver, pancreas, "guts"
+> - 2 = relaxation
+> - Agonist / stimulating
+> - Result: Relaxation of the lungs / bronchodilation
+
+---
 
 <Quiz slug="module-1" />

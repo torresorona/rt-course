@@ -1,40 +1,229 @@
 {
-  "title": "Introduction to Real-Time Systems Quiz",
+  "title": "Principles of Drug Actions Quiz",
   "questions": [
     {
-      "text": "What distinguishes a real-time system from a general-purpose system?",
+      "text": "What is pharmacology?",
       "answers": [
-        { "text": "It must run on specialized hardware" },
-        { "text": "Correctness depends on both logic and timing", "correct": true },
-        { "text": "It must use a real-time operating system" },
-        { "text": "It processes data faster than non-real-time systems" }
+        { "text": "The study of drugs to include their origin, properties, and interactions with living organisms", "correct": true },
+        { "text": "The study of how the body absorbs and eliminates chemicals" },
+        { "text": "The study of how receptors respond to neurotransmitters" },
+        { "text": "The study of drug manufacturing and distribution" }
       ]
     },
     {
-      "text": "In a hard real-time system, what happens when a deadline is missed?",
+      "text": "What are the 2 identifiers used to verify patient identity before administering medication?",
       "answers": [
-        { "text": "The result is still useful but lower quality" },
-        { "text": "The result is discarded" },
-        { "text": "It is considered a system failure", "correct": true },
-        { "text": "The task is retried automatically" }
+        { "text": "Medical record number and allergies" },
+        { "text": "Full name and DOB", "correct": true },
+        { "text": "Room number and physician name" },
+        { "text": "Insurance ID and date of admission" }
       ]
     },
     {
-      "text": "Which term describes the variation in task execution time?",
+      "text": "What are the three phases of drug action?",
       "answers": [
-        { "text": "Latency" },
-        { "text": "Throughput" },
-        { "text": "Determinism" },
-        { "text": "Jitter", "correct": true }
+        { "text": "Absorption, distribution, elimination" },
+        { "text": "Administration, pharmacokinetics, pharmacodynamics", "correct": true },
+        { "text": "Oral, parenteral, inhalation" },
+        { "text": "Agonistic, antagonistic, metabolic" }
       ]
     },
     {
-      "text": "Which real-time category best describes a video streaming application?",
+      "text": "What does 'administration' refer to in the phases of drug action?",
       "answers": [
-        { "text": "Hard real-time" },
-        { "text": "Soft real-time", "correct": true },
-        { "text": "Firm real-time" },
-        { "text": "Non-real-time" }
+        { "text": "How the drug is metabolized by the liver" },
+        { "text": "How the drug is made available to the body", "correct": true },
+        { "text": "How the drug is eliminated from the body" },
+        { "text": "How the drug stimulates or blocks receptors" }
+      ]
+    },
+    {
+      "text": "Which route of administration is the route of preference for systemically acting drugs in emergency conditions?",
+      "answers": [
+        { "text": "Oral" },
+        { "text": "Intramuscular (IM)" },
+        { "text": "Intravenous (IV)", "correct": true },
+        { "text": "Subcutaneous (SC)" }
+      ]
+    },
+    {
+      "text": "Why does the inhalation route produce less side effects?",
+      "answers": [
+        { "text": "It requires larger doses that are more targeted" },
+        { "text": "It bypasses GI absorption and limits hepatic metabolism", "correct": true },
+        { "text": "It is metabolized systemically" },
+        { "text": "It is only used for topical conditions" }
+      ]
+    },
+    {
+      "text": "What does NAVEL stand for?",
+      "answers": [
+        { "text": "Naloxone, Atropine, Vasopressin, Epinephrine, Lidocaine", "correct": true },
+        { "text": "Narcan, Albuterol, Vasopressin, Epinephrine, Levalbuterol" },
+        { "text": "Naloxone, Acetaminophen, Vasopressin, Ephedrine, Lidocaine" },
+        { "text": "Narcan, Atropine, Valium, Epinephrine, Lorazepam" }
+      ]
+    },
+    {
+      "text": "When medications are delivered down the endotracheal tube, what dosage adjustment is required?",
+      "answers": [
+        { "text": "Half the normal IV dose followed by 5mL saline flush" },
+        { "text": "The same IV dose followed by 20mL saline flush" },
+        { "text": "2–2.5 times the normal IV dose followed by 10mL saline flush", "correct": true },
+        { "text": "3 times the normal IV dose with no flush" }
+      ]
+    },
+    {
+      "text": "What does ADME stand for in pharmacokinetics?",
+      "answers": [
+        { "text": "Administration, dosage, metabolism, excretion" },
+        { "text": "Absorption, distribution, metabolism, elimination", "correct": true },
+        { "text": "Absorption, delivery, modification, elimination" },
+        { "text": "Administration, distribution, metabolism, elimination" }
+      ]
+    },
+    {
+      "text": "What is pharmacokinetics?",
+      "answers": [
+        { "text": "Mechanisms by which medications produce effects in the body" },
+        { "text": "How the drug is made available to the body" },
+        { "text": "Actions the body performs with the drug", "correct": true },
+        { "text": "How drugs act upon specific receptor sites" }
+      ]
+    },
+    {
+      "text": "What is pharmacodynamics?",
+      "answers": [
+        { "text": "Actions the body performs with the drug" },
+        { "text": "Mechanisms by which medications produce effects in the body", "correct": true },
+        { "text": "How the drug is absorbed and distributed" },
+        { "text": "How the drug is eliminated from the body" }
+      ]
+    },
+    {
+      "text": "In the Lock and Key Theory, the neurotransmitter is the _____ and the receptor is the _____.",
+      "answers": [
+        { "text": "Lock; key" },
+        { "text": "Key; lock", "correct": true },
+        { "text": "Agonist; antagonist" },
+        { "text": "Message; sender" }
+      ]
+    },
+    {
+      "text": "Adrenergic medications do what?",
+      "answers": [
+        { "text": "Block receptors from responding to norepinephrine/epinephrine" },
+        { "text": "Stimulate receptors responding to norepinephrine/epinephrine", "correct": true },
+        { "text": "Stimulate receptors to respond to acetylcholine" },
+        { "text": "Block receptors from responding to acetylcholine" }
+      ]
+    },
+    {
+      "text": "Where are Alpha(1) receptors located?",
+      "answers": [
+        { "text": "Lungs, pancreas, liver, and intestines" },
+        { "text": "Heart and kidneys" },
+        { "text": "Heart, lungs, and vasculature", "correct": true },
+        { "text": "Airways only" }
+      ]
+    },
+    {
+      "text": "When Alpha(1) receptors are stimulated, what do they cause?",
+      "answers": [
+        { "text": "Vasodilation and decreased HR" },
+        { "text": "Bronchodilation" },
+        { "text": "Vasoconstriction (increasing blood pressure) and an increased HR", "correct": true },
+        { "text": "Relaxation of smooth muscle" }
+      ]
+    },
+    {
+      "text": "Alpha anti-adrenergic medications (the 'zosin' drugs) produce what effect?",
+      "answers": [
+        { "text": "Vasoconstriction and increased blood pressure" },
+        { "text": "Vasodilation (lowers BP)", "correct": true },
+        { "text": "Bronchodilation" },
+        { "text": "Increased myocardial contractility" }
+      ]
+    },
+    {
+      "text": "Where are Beta 1 receptors located?",
+      "answers": [
+        { "text": "Heart, lungs, and vasculature" },
+        { "text": "Lungs, pancreas, liver, and intestines" },
+        { "text": "Heart and kidneys", "correct": true },
+        { "text": "Airways" }
+      ]
+    },
+    {
+      "text": "When Beta 2 receptors are stimulated, what occurs?",
+      "answers": [
+        { "text": "Vasoconstriction and increased HR" },
+        { "text": "Constriction of the airways" },
+        { "text": "Increased myocardial contractility" },
+        { "text": "Vasodilation (decreased BP) and bronchodilation (opening up the airways)", "correct": true }
+      ]
+    },
+    {
+      "text": "Beta anti-adrenergic medications ('Beta Blockers') are the primary treatment for what condition?",
+      "answers": [
+        { "text": "Bronchospasm" },
+        { "text": "Hypertension", "correct": true },
+        { "text": "Cardiac arrest" },
+        { "text": "Osteomyelitis" }
+      ]
+    },
+    {
+      "text": "Under the parasympathetic nervous system, the Cholinergic Pathway uses which type of receptors?",
+      "answers": [
+        { "text": "Alpha receptors" },
+        { "text": "Beta receptors" },
+        { "text": "Muscarinic receptors", "correct": true },
+        { "text": "Adrenergic receptors" }
+      ]
+    },
+    {
+      "text": "What happens when muscarinic receptors M1 and M3 are stimulated?",
+      "answers": [
+        { "text": "Bronchodilation" },
+        { "text": "Vasodilation" },
+        { "text": "Constriction of the airways", "correct": true },
+        { "text": "Relaxation of smooth muscle" }
+      ]
+    },
+    {
+      "text": "Anti-cholinergic medications block stimulation of M1 and M3, resulting in what?",
+      "answers": [
+        { "text": "Vasoconstriction" },
+        { "text": "Increased HR" },
+        { "text": "Constriction of the airways" },
+        { "text": "Bronchodilation", "correct": true }
+      ]
+    },
+    {
+      "text": "According to the 'Tips and Tricks,' what is the key rule for receptor numbers?",
+      "answers": [
+        { "text": "1 & 2 contract; 3 relax" },
+        { "text": "1 & 3 contract; 2 relax", "correct": true },
+        { "text": "All numbers cause relaxation" },
+        { "text": "Odd numbers contract; even numbers relax" }
+      ]
+    },
+    {
+      "text": "Intraosseous (IO) administration involves injecting medications directly into what?",
+      "answers": [
+        { "text": "The muscle tissue" },
+        { "text": "The subcutaneous fat layer" },
+        { "text": "The marrow of large bones", "correct": true },
+        { "text": "The endotracheal tube" }
+      ]
+    },
+    {
+      "text": "Agonistic medications do what to receptors?",
+      "answers": [
+        { "text": "Block receptors" },
+        { "text": "Stimulate receptors", "correct": true },
+        { "text": "Destroy receptors" },
+        { "text": "Have no effect on receptors" }
       ]
     }
   ]

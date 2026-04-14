@@ -69,86 +69,169 @@ export default function Quiz({ slug }: { slug: string }) {
     }
   }
 
-  if (loading) return <p className="text-gray-500">Loading quiz…</p>;
-  if (error) return <p className="text-red-600">{error}</p>;
+  if (loading) {
+    return (
+      <div className="not-prose my-10 flex items-center justify-center rounded-2xl border border-sand-200 bg-sand-50 p-12">
+        <div className="flex items-center gap-3 text-sand-500">
+          <svg
+            className="h-5 w-5 animate-spin"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              className="opacity-25"
+              cx="12"
+              cy="12"
+              r="10"
+              stroke="currentColor"
+              strokeWidth="4"
+            />
+            <path
+              className="opacity-75"
+              fill="currentColor"
+              d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"
+            />
+          </svg>
+          Loading quiz...
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="not-prose my-10 rounded-2xl border border-clay-200 bg-clay-100 p-6 text-center text-sm text-terracotta-600">
+        {error}
+      </div>
+    );
+  }
+
   if (!quiz) return null;
 
-  return (
-    <div className="my-8 rounded-lg border border-gray-200 bg-gray-50 p-6">
-      <h3 className="mb-4 text-lg font-semibold">{quiz.title}</h3>
+  const answered = Object.keys(responses).length;
+  const total = quiz.questions.length;
 
-      {result ? (
-        <div>
-          <p className="mb-4 text-lg">
-            Score: <strong>{result.score}%</strong> ({result.correct}/
-            {result.total})
+  // Results view
+  if (result) {
+    const passed = result.score >= 80;
+    return (
+      <div className="not-prose my-10">
+        {/* Score card */}
+        <div
+          className={`mb-6 rounded-2xl p-8 text-center ${
+            passed
+              ? "bg-sage-100 text-sage-700"
+              : "bg-clay-100 text-terracotta-600"
+          }`}
+        >
+          <p className="mb-1 text-4xl font-bold">{result.score}%</p>
+          <p className="text-sm font-medium opacity-80">
+            {result.correct} of {result.total} correct
           </p>
-          <ul className="space-y-2">
-            {quiz.questions.map((q) => {
-              const r = result.results.find((r) => r.questionId === q.id);
-              return (
-                <li key={q.id} className="flex items-start gap-2">
-                  <span className={r?.correct ? "text-green-600" : "text-red-600"}>
-                    {r?.correct ? "✓" : "✗"}
-                  </span>
-                  <span>{q.text}</span>
-                </li>
-              );
-            })}
-          </ul>
-          <button
-            onClick={() => {
-              setResult(null);
-              setResponses({});
-            }}
-            className="mt-4 rounded bg-gray-800 px-4 py-2 text-sm text-white hover:bg-gray-700"
-          >
-            Retry
-          </button>
+          {passed && (
+            <p className="mt-2 text-sm font-medium">
+              Great work! Module complete.
+            </p>
+          )}
         </div>
-      ) : (
-        <form onSubmit={handleSubmit}>
-          <ol className="list-decimal space-y-6 pl-5">
-            {quiz.questions.map((q) => (
-              <li key={q.id}>
-                <p className="mb-2 font-medium">{q.text}</p>
-                <div className="space-y-1">
-                  {q.answers.map((a) => (
-                    <label
+
+        {/* Question results */}
+        <div className="space-y-3">
+          {quiz.questions.map((q) => {
+            const r = result.results.find((r) => r.questionId === q.id);
+            return (
+              <div
+                key={q.id}
+                className={`flex items-start gap-3 rounded-xl border p-4 ${
+                  r?.correct
+                    ? "border-sage-200 bg-white"
+                    : "border-clay-200 bg-white"
+                }`}
+              >
+                <span
+                  className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-bold ${
+                    r?.correct
+                      ? "bg-sage-100 text-sage-700"
+                      : "bg-clay-100 text-terracotta-600"
+                  }`}
+                >
+                  {r?.correct ? "\u2713" : "\u2717"}
+                </span>
+                <p className="text-sm text-sand-800">{q.text}</p>
+              </div>
+            );
+          })}
+        </div>
+
+        <button
+          onClick={() => {
+            setResult(null);
+            setResponses({});
+          }}
+          className="mt-6 w-full rounded-xl bg-sand-900 px-5 py-3 text-sm font-semibold text-sand-50 transition-colors hover:bg-sand-800"
+        >
+          Try again
+        </button>
+      </div>
+    );
+  }
+
+  // Quiz form
+  return (
+    <div className="not-prose my-10">
+      {/* Header */}
+      <div className="mb-6 flex items-center justify-between">
+        <h3 className="text-lg font-semibold text-sand-900">{quiz.title}</h3>
+        <span className="rounded-full bg-sand-100 px-3 py-1 text-xs font-medium text-sand-600">
+          {answered} / {total}
+        </span>
+      </div>
+
+      <form onSubmit={handleSubmit}>
+        <div className="space-y-6">
+          {quiz.questions.map((q, qi) => (
+            <div key={q.id} className="rounded-2xl border border-sand-200 bg-white p-6">
+              <p className="mb-4 text-sm font-semibold text-sand-800">
+                <span className="mr-2 text-sand-400">{qi + 1}.</span>
+                {q.text}
+              </p>
+              <div className="grid gap-2 sm:grid-cols-2">
+                {q.answers.map((a) => {
+                  const selected = responses[String(q.id)] === a.id;
+                  return (
+                    <button
                       key={a.id}
-                      className="flex cursor-pointer items-center gap-2 rounded p-1 hover:bg-gray-100"
+                      type="button"
+                      onClick={() =>
+                        setResponses((prev) => ({
+                          ...prev,
+                          [String(q.id)]: a.id,
+                        }))
+                      }
+                      className={`rounded-xl border px-4 py-3 text-left text-sm transition-all ${
+                        selected
+                          ? "border-terracotta-500 bg-clay-100 font-medium text-sand-900 shadow-sm"
+                          : "border-sand-200 bg-sand-50 text-sand-700 hover:border-sand-300 hover:bg-sand-100"
+                      }`}
                     >
-                      <input
-                        type="radio"
-                        name={`q-${q.id}`}
-                        value={a.id}
-                        checked={responses[String(q.id)] === a.id}
-                        onChange={() =>
-                          setResponses((prev) => ({
-                            ...prev,
-                            [String(q.id)]: a.id,
-                          }))
-                        }
-                      />
-                      <span>{a.text}</span>
-                    </label>
-                  ))}
-                </div>
-              </li>
-            ))}
-          </ol>
-          <button
-            type="submit"
-            disabled={
-              submitting ||
-              Object.keys(responses).length < quiz.questions.length
-            }
-            className="mt-6 rounded bg-gray-800 px-4 py-2 text-sm text-white hover:bg-gray-700 disabled:opacity-50"
-          >
-            {submitting ? "Submitting…" : "Submit Answers"}
-          </button>
-        </form>
-      )}
+                      {a.text}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <button
+          type="submit"
+          disabled={submitting || answered < total}
+          className="mt-6 w-full rounded-xl bg-sand-900 px-5 py-3.5 text-sm font-semibold text-sand-50 transition-all hover:bg-sand-800 disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          {submitting ? "Checking answers..." : "Submit answers"}
+        </button>
+      </form>
     </div>
   );
 }
