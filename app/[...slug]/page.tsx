@@ -5,8 +5,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Quiz from "@/components/Quiz";
 import DataTable from "@/components/DataTable";
+import AudioPlayer from "@/components/AudioPlayer";
 
-const components = { Quiz, DataTable };
+const components = { Quiz, DataTable, AudioPlayer };
 
 export default async function LessonPage({
   params,

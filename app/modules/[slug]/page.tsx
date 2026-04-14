@@ -1,8 +1,14 @@
-import { readFileSync, existsSync, readdirSync } from "fs";
+import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import matter from "gray-matter";
+import AudioPlayer from "@/components/AudioPlayer";
+
+interface AudioEntry {
+  title: string;
+  src: string;
+}
 
 interface Resource {
   title: string;
@@ -24,6 +30,7 @@ export default async function ModuleLandingPage({
 
   const moduleData = JSON.parse(readFileSync(moduleJsonPath, "utf-8"));
   const resources: Resource[] = moduleData.resources ?? [];
+  const audioEntries: AudioEntry[] = moduleData.audio ?? [];
 
   // Discover lessons by checking for lesson.mdx
   const lessonFile = join(moduleDir, "lesson.mdx");
@@ -89,6 +96,18 @@ export default async function ModuleLandingPage({
           ))}
         </div>
       </section>
+
+      {/* Audio section */}
+      {audioEntries.length > 0 && (
+        <section className="mb-10">
+          <h2 className="mb-4 text-sm font-semibold uppercase tracking-wider text-sand-500">
+            Audio
+          </h2>
+          {audioEntries.map((entry, i) => (
+            <AudioPlayer key={i} src={entry.src} title={entry.title} />
+          ))}
+        </section>
+      )}
 
       {/* Resources section */}
       {resources.length > 0 && (
