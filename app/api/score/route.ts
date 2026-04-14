@@ -41,29 +41,27 @@ export async function POST(request: Request) {
 
   // Grade each response
   let correct = 0;
-  const results: { questionId: number; correct: boolean }[] = [];
+  const results: { questionId: number; correct: boolean; correctAnswerId: number }[] = [];
 
   for (const q of quizQuestions) {
-    const selectedAnswerId = responses[String(q.id)];
-    if (!selectedAnswerId) {
-      results.push({ questionId: q.id, correct: false });
-      continue;
-    }
-
-    const answer = await db
+    // Find the correct answer for this question
+    const correctAnswer = await db
       .select()
       .from(answers)
       .where(
-        and(
-          eq(answers.id, selectedAnswerId),
-          eq(answers.questionId, q.id)
-        )
+        and(eq(answers.questionId, q.id), eq(answers.correct, true))
       )
       .then((rows) => rows[0]);
 
-    const isCorrect = answer?.correct ?? false;
+    const selectedAnswerId = responses[String(q.id)];
+    if (!selectedAnswerId) {
+      results.push({ questionId: q.id, correct: false, correctAnswerId: correctAnswer.id });
+      continue;
+    }
+
+    const isCorrect = selectedAnswerId === correctAnswer.id;
     if (isCorrect) correct++;
-    results.push({ questionId: q.id, correct: isCorrect });
+    results.push({ questionId: q.id, correct: isCorrect, correctAnswerId: correctAnswer.id });
   }
 
   const total = quizQuestions.length;

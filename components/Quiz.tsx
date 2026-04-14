@@ -23,7 +23,7 @@ interface ScoreResult {
   score: number;
   correct: number;
   total: number;
-  results: { questionId: number; correct: boolean }[];
+  results: { questionId: number; correct: boolean; correctAnswerId: number }[];
 }
 
 export default function Quiz({ slug }: { slug: string }) {
@@ -140,25 +140,50 @@ export default function Quiz({ slug }: { slug: string }) {
         <div className="space-y-3">
           {quiz.questions.map((q) => {
             const r = result.results.find((r) => r.questionId === q.id);
+            const correctAnswerText = !r?.correct
+              ? q.answers.find((a) => a.id === r?.correctAnswerId)?.text
+              : null;
+            const selectedText = q.answers.find(
+              (a) => a.id === responses[String(q.id)]
+            )?.text;
+
             return (
               <div
                 key={q.id}
-                className={`flex items-start gap-3 rounded-xl border p-4 ${
+                className={`rounded-xl border p-4 ${
                   r?.correct
                     ? "border-sage-200 bg-white"
                     : "border-clay-200 bg-white"
                 }`}
               >
-                <span
-                  className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-bold ${
-                    r?.correct
-                      ? "bg-sage-100 text-sage-700"
-                      : "bg-clay-100 text-terracotta-600"
-                  }`}
-                >
-                  {r?.correct ? "\u2713" : "\u2717"}
-                </span>
-                <p className="text-sm text-sand-800">{q.text}</p>
+                <div className="flex items-start gap-3">
+                  <span
+                    className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-bold ${
+                      r?.correct
+                        ? "bg-sage-100 text-sage-700"
+                        : "bg-clay-100 text-terracotta-600"
+                    }`}
+                  >
+                    {r?.correct ? "\u2713" : "\u2717"}
+                  </span>
+                  <p className="text-sm text-sand-800">{q.text}</p>
+                </div>
+                {!r?.correct && (
+                  <div className="mt-3 ml-9 space-y-1.5">
+                    {selectedText && (
+                      <p className="text-sm text-terracotta-600">
+                        <span className="font-medium">Your answer:</span>{" "}
+                        {selectedText}
+                      </p>
+                    )}
+                    {correctAnswerText && (
+                      <p className="text-sm text-sage-700">
+                        <span className="font-medium">Correct answer:</span>{" "}
+                        {correctAnswerText}
+                      </p>
+                    )}
+                  </div>
+                )}
               </div>
             );
           })}
