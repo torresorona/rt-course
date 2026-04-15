@@ -11,6 +11,12 @@
       "description": "Flashcards and practice sets for Respiratory Therapy coursework.",
       "url": "https://quizlet.com/user/unityross/folders/resc-2320?i=2hln02&x=1xqt",
       "type": "quizlet"
+    },
+    {
+      "title": "Pharmacology Study Guide",
+      "description": "Interactive fill-in-the-blank study guide covering routes, receptors, bronchodilators, cardiac meds, and more.",
+      "url": "/pharmacology-study-guide.html",
+      "type": "study-guide"
     }
   ],
   "audio": [
