@@ -585,5 +585,21 @@
 </div>
 
 </div>
+<script>
+(function(){
+  var KEY='pharm-study-guide';
+  var inputs=document.querySelectorAll('input[type=text]');
+  var saved;
+  try{saved=JSON.parse(localStorage.getItem(KEY))||{};}catch(e){saved={};}
+  inputs.forEach(function(el,i){
+    el.setAttribute('data-idx',i);
+    if(saved[i]!=null){el.value=saved[i];}
+    el.addEventListener('input',function(){
+      saved[this.getAttribute('data-idx')]=this.value;
+      localStorage.setItem(KEY,JSON.stringify(saved));
+    });
+  });
+})();
+</script>
 </body>
 </html>

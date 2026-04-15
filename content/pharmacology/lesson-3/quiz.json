@@ -1,0 +1,410 @@
+{
+  "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents Quiz",
+  "questions": [
+    {
+      "text": "What is the primary indication for inhaled corticosteroids?",
+      "answers": [
+        { "text": "Acute asthma exacerbation" },
+        { "text": "Primary maintenance treatment for asthma", "correct": true },
+        { "text": "Rescue bronchodilation" },
+        { "text": "Prophylactic treatment for pneumonia" }
+      ]
+    },
+    {
+      "text": "Corticosteroids produce anti-inflammatory action in the lungs by inhibiting what?",
+      "answers": [
+        { "text": "Acetylcholine receptors" },
+        { "text": "Beta-2 receptors" },
+        { "text": "Cytokines and pro-inflammatory cells", "correct": true },
+        { "text": "Disulfide bonds in mucus" }
+      ]
+    },
+    {
+      "text": "What is the preferred route of corticosteroid administration for respiratory treatment?",
+      "answers": [
+        { "text": "Oral" },
+        { "text": "IV" },
+        { "text": "Inhalation", "correct": true },
+        { "text": "Subcutaneous injection" }
+      ]
+    },
+    {
+      "text": "Corticosteroids are contraindicated for what?",
+      "answers": [
+        { "text": "Chronic asthma maintenance" },
+        { "text": "COPD control therapy" },
+        { "text": "Acute exacerbations", "correct": true },
+        { "text": "Nocturnal dyspnea" }
+      ]
+    },
+    {
+      "text": "What fungal infection (yeast infection/Thrush) is a side effect of corticosteroid use?",
+      "answers": [
+        { "text": "Aspergillosis" },
+        { "text": "Candida Albicans", "correct": true },
+        { "text": "Pseudomonas Aeruginosa" },
+        { "text": "Pneumocystis Carinii" }
+      ]
+    },
+    {
+      "text": "What are two methods to prevent fungal infections from inhaled corticosteroids?",
+      "answers": [
+        { "text": "Increase dose and frequency" },
+        { "text": "Utilize a holding chamber and rinse mouth post treatment", "correct": true },
+        { "text": "Switch to IV administration" },
+        { "text": "Add a SABA to each treatment" }
+      ]
+    },
+    {
+      "text": "Advair (DPI & MDI) is a combination of which two medications?",
+      "answers": [
+        { "text": "Budesonide + Formoterol" },
+        { "text": "Mometasone + Formoterol" },
+        { "text": "Fluticasone + Salmeterol", "correct": true },
+        { "text": "Beclomethasone + Salmeterol" }
+      ]
+    },
+    {
+      "text": "What is the brand name for Budesonide?",
+      "answers": [
+        { "text": "Qvar" },
+        { "text": "Flovent" },
+        { "text": "Pulmicort", "correct": true },
+        { "text": "Alvesco" }
+      ]
+    },
+    {
+      "text": "What is the primary indication for nonsteroidal anti-asthma agents?",
+      "answers": [
+        { "text": "Acute asthma relief" },
+        { "text": "Prophylactic management of mild persistent asthma", "correct": true },
+        { "text": "Treatment of COPD exacerbations" },
+        { "text": "Rescue bronchodilation" }
+      ]
+    },
+    {
+      "text": "Extrinsic or Atopic asthma triggers are caused by what?",
+      "answers": [
+        { "text": "Internal factors within the body" },
+        { "text": "Allergic hypersensitivity reactions to antigens", "correct": true },
+        { "text": "Medication side effects" },
+        { "text": "Bacterial infections" }
+      ]
+    },
+    {
+      "text": "What is the action of Cromolyn Sodium?",
+      "answers": [
+        { "text": "Blocks IgE from attaching to mast cells" },
+        { "text": "Inhibits the PDE4 enzyme" },
+        { "text": "Encapsulates the cell membrane making breach more difficult, neutralizing release of inflammatory mediators", "correct": true },
+        { "text": "Blocks acetylcholine receptors" }
+      ]
+    },
+    {
+      "text": "Montelukast (Singulair) is indicated for prophylaxis and long-term treatment of asthma in patients of what age?",
+      "answers": [
+        { "text": ">5 years" },
+        { "text": ">12 years" },
+        { "text": ">12 months", "correct": true },
+        { "text": ">18 years" }
+      ]
+    },
+    {
+      "text": "Which anti-leukotriene requires liver enzymes to be checked regularly due to liver damage susceptibility?",
+      "answers": [
+        { "text": "Zafirlukast (Accolate)" },
+        { "text": "Montelukast (Singulair)" },
+        { "text": "Zileuton (Zyflo)", "correct": true },
+        { "text": "Cromolyn Sodium" }
+      ]
+    },
+    {
+      "text": "Omalizumab (Xolair) prevents what from attaching to mast cells?",
+      "answers": [
+        { "text": "Leukotrienes" },
+        { "text": "Histamine" },
+        { "text": "IgE (immunoglobulin E)", "correct": true },
+        { "text": "Prostaglandins" }
+      ]
+    },
+    {
+      "text": "Roflumilast (PDE4 inhibitor) increases what substance to suppress pro-inflammatory pathways?",
+      "answers": [
+        { "text": "Histamine" },
+        { "text": "IgE" },
+        { "text": "cAMP", "correct": true },
+        { "text": "Acetylcholine" }
+      ]
+    },
+    {
+      "text": "Pentamidine (Nebupent) is indicated for prophylactic therapy for what condition?",
+      "answers": [
+        { "text": "Chronic Pseudomonas Aeruginosa" },
+        { "text": "Respiratory Syncytial Virus (RSV)" },
+        { "text": "Pneumocystis Carinii Pneumonia (PCP) common in AIDS infected patients", "correct": true },
+        { "text": "Influenza" }
+      ]
+    },
+    {
+      "text": "Ribavirin (Virazole) is indicated for infants with what condition?",
+      "answers": [
+        { "text": "Pneumocystis Carinii Pneumonia" },
+        { "text": "Chronic Pseudomonas Aeruginosa" },
+        { "text": "Severe Respiratory Syncytial Virus (RSV)", "correct": true },
+        { "text": "Influenza" }
+      ]
+    },
+    {
+      "text": "What device is used to administer Ribavirin (Virazole)?",
+      "answers": [
+        { "text": "Respirgard II nebulizer" },
+        { "text": "DPI / Diskhaler" },
+        { "text": "Small Particle Aerosol Generator (SPAG-2)", "correct": true },
+        { "text": "Standard nebulizer" }
+      ]
+    },
+    {
+      "text": "Tobramycin (Tobi) is indicated for what condition and is common treatment for CF patients?",
+      "answers": [
+        { "text": "Pneumocystis Carinii Pneumonia" },
+        { "text": "Pulmonary fungal infections" },
+        { "text": "Chronic Pseudomonas Aeruginosa", "correct": true },
+        { "text": "Respiratory Syncytial Virus" }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT an inhaled negative effect of Tobramycin (Tobi)?",
+      "answers": [
+        { "text": "Teratogenic effects" },
+        { "text": "Ototoxicity" },
+        { "text": "Nephrotoxicity" },
+        { "text": "Malignant hyperthermia", "correct": true }
+      ]
+    },
+    {
+      "text": "Zanamivir (Relenza) is indicated for influenza within the first how many days of infection?",
+      "answers": [
+        { "text": "1 day" },
+        { "text": "2 days", "correct": true },
+        { "text": "5 days" },
+        { "text": "7 days" }
+      ]
+    },
+    {
+      "text": "Amphotericin B is indicated for what type of infections?",
+      "answers": [
+        { "text": "Gram positive bacterial infections" },
+        { "text": "Viral infections" },
+        { "text": "Pulmonary fungal infections (transplants)", "correct": true },
+        { "text": "Gram negative bacterial infections" }
+      ]
+    },
+    {
+      "text": "What type of antibiotics are Quinolones?",
+      "answers": [
+        { "text": "Treat Gram+ bacteria only" },
+        { "text": "Treat Gram- bacteria only" },
+        { "text": "Treat Gram+/- bacteria; a more broad-spectrum type of antibiotic", "correct": true },
+        { "text": "Antifungal agents" }
+      ]
+    },
+    {
+      "text": "Benadryl (Diphenhydramine) differs from Allegra, Zyrtec, and Claritin in what way?",
+      "answers": [
+        { "text": "It is non-sedating" },
+        { "text": "It has a sedating effect", "correct": true },
+        { "text": "It is only available by prescription" },
+        { "text": "It does not reduce secretions" }
+      ]
+    },
+    {
+      "text": "What is the primary FDA-approved indication for Inhaled Nitric Oxide (INOmax)?",
+      "answers": [
+        { "text": "ARDS in adults" },
+        { "text": "Acute pulmonary hypertension in adults" },
+        { "text": "Persistent Pulmonary Hypertension in Neonates (PPHN) >34 wks", "correct": true },
+        { "text": "Post lung transplant perfusion" }
+      ]
+    },
+    {
+      "text": "What is the recommended dose for INOmax?",
+      "answers": [
+        { "text": "<5 ppm" },
+        { "text": "<10 ppm" },
+        { "text": "<20 ppm", "correct": true },
+        { "text": "<40 ppm" }
+      ]
+    },
+    {
+      "text": "Methemoglobin is a risk of INOmax. What characterizes methemoglobin?",
+      "answers": [
+        { "text": "A hemoglobin molecule with increased oxygen affinity" },
+        { "text": "A ferric (Fe3+) hemoglobin molecule that cannot bind with oxygen", "correct": true },
+        { "text": "A hemoglobin molecule with reduced carbon dioxide binding" },
+        { "text": "A normal hemoglobin variant" }
+      ]
+    },
+    {
+      "text": "Succinylcholine is what type of neuromuscular blocking agent?",
+      "answers": [
+        { "text": "Non-depolarizing agent" },
+        { "text": "Depolarizing agent — the only agent in this category", "correct": true },
+        { "text": "Anticholinergic agent" },
+        { "text": "Adrenergic agent" }
+      ]
+    },
+    {
+      "text": "How quickly does Succinylcholine produce paralysis?",
+      "answers": [
+        { "text": "10–15 seconds" },
+        { "text": "60–90 seconds", "correct": true },
+        { "text": "5 minutes" },
+        { "text": "30 minutes" }
+      ]
+    },
+    {
+      "text": "Does Succinylcholine have a reversal agent?",
+      "answers": [
+        { "text": "Yes, Neostigmine" },
+        { "text": "Yes, Atropine" },
+        { "text": "No reversal agent", "correct": true },
+        { "text": "Yes, Epinephrine" }
+      ]
+    },
+    {
+      "text": "What is the reversal agent for non-depolarizing neuromuscular blocking agents?",
+      "answers": [
+        { "text": "Succinylcholine" },
+        { "text": "Atropine" },
+        { "text": "Neostigmine", "correct": true },
+        { "text": "Epinephrine" }
+      ]
+    },
+    {
+      "text": "Non-depolarizing agents are preferred for paralysis of what type of patients?",
+      "answers": [
+        { "text": "Patients requiring intubation" },
+        { "text": "Surgical patients only" },
+        { "text": "Mechanically ventilated patients", "correct": true },
+        { "text": "Patients in cardiac arrest" }
+      ]
+    },
+    {
+      "text": "Which non-depolarizing agent has the greatest potential for cardiovascular side effects?",
+      "answers": [
+        { "text": "Rocuronium" },
+        { "text": "Vecuronium" },
+        { "text": "Pancuronium", "correct": true },
+        { "text": "Succinylcholine" }
+      ]
+    },
+    {
+      "text": "Effects of severe hyperkalemia from Succinylcholine include what?",
+      "answers": [
+        { "text": "Hypotension and bradycardia" },
+        { "text": "Bronchospasm and cough" },
+        { "text": "Arrhythmias and cardiac arrest", "correct": true },
+        { "text": "Malignant hyperthermia only" }
+      ]
+    },
+    {
+      "text": "Furosemide (Lasix) is the most commonly used diuretic for what condition?",
+      "answers": [
+        { "text": "Hypertension" },
+        { "text": "Cerebral edema" },
+        { "text": "Congestive Heart Failure (CHF)", "correct": true },
+        { "text": "Renal dysfunction" }
+      ]
+    },
+    {
+      "text": "What type of diuretic is Furosemide (Lasix)?",
+      "answers": [
+        { "text": "Thiazide" },
+        { "text": "Osmotic" },
+        { "text": "Loop", "correct": true },
+        { "text": "Potassium Sparing" }
+      ]
+    },
+    {
+      "text": "What is normal urine output?",
+      "answers": [
+        { "text": "10 to 20 mL/hr" },
+        { "text": "30 to 60 mL/hr", "correct": true },
+        { "text": "60 to 100 mL/hr" },
+        { "text": "100 to 150 mL/hr" }
+      ]
+    },
+    {
+      "text": "Anuria is defined as what?",
+      "answers": [
+        { "text": "Urine output <30 mL/hr" },
+        { "text": "Urine output >60 mL/hr" },
+        { "text": "No urine output (sign of renal failure)", "correct": true },
+        { "text": "Normal urine output" }
+      ]
+    },
+    {
+      "text": "Hypotension is defined as blood pressure less than what?",
+      "answers": [
+        { "text": "120/80 mmHg" },
+        { "text": "100/70 mmHg" },
+        { "text": "90/65 mmHg", "correct": true },
+        { "text": "80/50 mmHg" }
+      ]
+    },
+    {
+      "text": "Hypotension is NOT synonymous with what?",
+      "answers": [
+        { "text": "Hypovolemia" },
+        { "text": "Dehydration" },
+        { "text": "Shock", "correct": true },
+        { "text": "Low blood pressure" }
+      ]
+    },
+    {
+      "text": "What are the two categories of shock?",
+      "answers": [
+        { "text": "Acute and chronic" },
+        { "text": "Hypo-dynamic (cardiogenic; hypovolemic) and hyper-dynamic (vascular; septic; anaphylactic)", "correct": true },
+        { "text": "Internal and external" },
+        { "text": "Primary and secondary" }
+      ]
+    },
+    {
+      "text": "A colloid solution is described as what?",
+      "answers": [
+        { "text": "Small molecule solution that crosses semipermeable membrane" },
+        { "text": "Large molecule solution incapable of crossing the healthy semipermeable capillary membrane", "correct": true },
+        { "text": "Normal saline (0.9%)" },
+        { "text": "Oral rehydration solution" }
+      ]
+    },
+    {
+      "text": "What is the most common crystalloid resuscitation fluid?",
+      "answers": [
+        { "text": "Human Albumin (4 to 5%) in saline" },
+        { "text": "Hydroxyethyl Starch (HES)" },
+        { "text": "Normal saline (0.9%)", "correct": true },
+        { "text": "Lactated Ringer's" }
+      ]
+    },
+    {
+      "text": "Depolarizing agents work by doing what to acetylcholine receptors?",
+      "answers": [
+        { "text": "Blocking them" },
+        { "text": "Occupying them", "correct": true },
+        { "text": "Destroying them" },
+        { "text": "Stimulating them" }
+      ]
+    },
+    {
+      "text": "Non-depolarizing agents work by doing what to acetylcholine receptors?",
+      "answers": [
+        { "text": "Occupying them" },
+        { "text": "Stimulating them" },
+        { "text": "Blocking them", "correct": true },
+        { "text": "Destroying them" }
+      ]
+    }
+  ]
+}
