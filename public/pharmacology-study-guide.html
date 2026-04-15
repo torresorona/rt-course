@@ -1,605 +1,841 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pharmacology Study Guide</title>
-<style>
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;background:#f5f5f5;color:#1a1a1a;padding:20px}
-  .page{max-width:1100px;margin:0 auto}
-  h1{font-size:22px;font-weight:600;color:#1a1a1a;margin-bottom:18px;padding-bottom:10px;border-bottom:2px solid #4a90d9}
-  h2{font-size:13px;font-weight:600;color:#fff;padding:5px 10px;border-radius:4px;display:inline-block;margin-bottom:10px}
-  .section{background:#fff;border:1px solid #ddd;border-radius:8px;padding:14px 16px;margin-bottom:14px;page-break-inside:avoid}
-  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-  .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
-  .grid4{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:10px}
-  .cell{background:#f9f9f9;border:1px solid #e5e5e5;border-radius:5px;padding:8px 10px}
-  .cell-label{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#888;margin-bottom:4px}
-  input[type=text]{border:none;border-bottom:1.5px solid #bbb;background:transparent;font-size:13px;font-family:inherit;padding:1px 4px;outline:none;color:#1a1a1a}
-  input[type=text]:focus{border-bottom-color:#4a90d9}
-  input.sm{width:80px}
-  input.md{width:130px}
-  input.lg{width:100%;display:block;margin-top:2px}
-  input.full{width:100%;display:block}
-  table{width:100%;border-collapse:collapse;font-size:12.5px}
-  th{text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:#666;padding:6px 8px;border-bottom:1.5px solid #ddd;background:#fafafa}
-  td{padding:7px 8px;border-bottom:1px solid #eee;vertical-align:top}
-  tr:last-child td{border-bottom:none}
-  .badge{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px}
-  .b-blue{background:#d6eaf8;color:#1a5276}
-  .b-teal{background:#d1f2eb;color:#0e6655}
-  .b-amber{background:#fef9e7;color:#7d6608;border:1px solid #f0d060}
-  .b-purple{background:#e8daef;color:#4a235a}
-  .b-coral{background:#fde8df;color:#7b241c}
-  .b-red{background:#fce4e4;color:#7b1c1c}
-  .b-green{background:#d5f5e3;color:#1d6a39}
-  .h-blue{background:#2980b9}
-  .h-teal{background:#1e8449}
-  .h-amber{background:#d4a017}
-  .h-purple{background:#6c3483}
-  .h-coral{background:#c0392b}
-  .h-red{background:#c0392b}
-  .h-green{background:#1e8449}
-  .h-gray{background:#555}
-  .zone{border-radius:5px;padding:6px 10px;margin-bottom:5px;font-size:12.5px;display:flex;align-items:center;gap:6px}
-  .z-green{background:#eafaf1;border-left:4px solid #27ae60;color:#1d6a39}
-  .z-yellow{background:#fefde7;border-left:4px solid #f1c40f;color:#7d6608}
-  .z-red{background:#fce4e4;border-left:4px solid #e74c3c;color:#7b1c1c}
-  .callout{border-radius:5px;padding:8px 12px;font-size:12.5px;margin-top:8px}
-  .callout-red{background:#fce4e4;border-left:3px solid #e74c3c;color:#7b1c1c}
-  .callout-green{background:#d5f5e3;border-left:3px solid #27ae60;color:#1d6a39}
-  .callout-amber{background:#fef9e7;border-left:3px solid #f39c12;color:#7d6608}
-  .navel-letter{font-size:20px;font-weight:700;color:#2980b9;min-width:22px}
-  .navel-row{display:flex;align-items:center;gap:10px;margin-bottom:6px}
-  .pill{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;background:#eee;color:#555;margin:2px 2px 0 0}
-  @media print{body{background:#fff;padding:5px}.section{break-inside:avoid;box-shadow:none}}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Respiratory Pharmacology Study Guide</title>
+  <style>
+    :root{
+      --bg:#f6f8fb;
+      --card:#ffffff;
+      --ink:#1f2937;
+      --muted:#6b7280;
+      --line:#dbe3ee;
+      --accent:#2563eb;
+      --accent-soft:#dbeafe;
+      --good:#ecfdf5;
+      --warn:#fff7ed;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:Arial, Helvetica, sans-serif;
+      color:var(--ink);
+      background:var(--bg);
+      line-height:1.45;
+    }
+    header{
+      background:linear-gradient(135deg,#1d4ed8,#3b82f6);
+      color:white;
+      padding:28px 20px;
+    }
+    header .wrap, main .wrap, footer .wrap{
+      max-width:1100px;
+      margin:0 auto;
+    }
+    h1{margin:0 0 8px;font-size:2rem}
+    .subtitle{opacity:.95;max-width:850px}
+    .toolbar{
+      display:flex;gap:10px;flex-wrap:wrap;margin-top:16px
+    }
+    button{
+      border:0;
+      border-radius:10px;
+      padding:10px 14px;
+      font-weight:700;
+      cursor:pointer;
+    }
+    .primary{background:white;color:#1d4ed8}
+    .secondary{background:rgba(255,255,255,.18);color:white;border:1px solid rgba(255,255,255,.35)}
+    .toggle-on{background:#22c55e;color:white;border:1px solid rgba(255,255,255,.35)}
+    main{padding:22px 20px 40px}
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+      gap:18px;
+    }
+    .card{
+      background:var(--card);
+      border:1px solid var(--line);
+      border-radius:16px;
+      padding:18px;
+      box-shadow:0 6px 18px rgba(15,23,42,.05);
+      margin-bottom:18px;
+    }
+    h2{
+      font-size:1.25rem;
+      margin:0 0 14px;
+      border-bottom:2px solid var(--accent-soft);
+      padding-bottom:8px;
+    }
+    h3{margin:18px 0 8px;font-size:1rem}
+    p.helper{
+      margin:0 0 14px;
+      color:var(--muted);
+      font-size:.95rem;
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      margin:10px 0 14px;
+      font-size:.95rem;
+      background:white;
+    }
+    th,td{
+      border:1px solid var(--line);
+      padding:10px;
+      vertical-align:top;
+      text-align:left;
+    }
+    th{
+      background:#f8fafc;
+      font-weight:700;
+    }
+    input[type="text"], textarea, select{
+      width:100%;
+      border:1px solid #cbd5e1;
+      border-radius:10px;
+      padding:10px 12px;
+      font:inherit;
+      background:white;
+    }
+    textarea{min-height:90px;resize:vertical}
+    .blank{
+      background:#fffef0;
+      border:2px dashed #eab308;
+      min-height:42px;
+    }
+    .row{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:12px;
+      margin:10px 0;
+    }
+    .row-3{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:12px;
+      margin:10px 0;
+    }
+    .prompt{
+      font-weight:700;
+      margin:10px 0 6px;
+    }
+    .tag{
+      display:inline-block;
+      font-size:.8rem;
+      background:var(--accent-soft);
+      color:#1d4ed8;
+      border-radius:999px;
+      padding:4px 10px;
+      margin-bottom:10px;
+      font-weight:700;
+    }
+    .note{
+      background:var(--warn);
+      border:1px solid #fed7aa;
+      padding:12px;
+      border-radius:12px;
+      margin-top:12px;
+      font-size:.95rem;
+    }
+    .success{
+      background:var(--good);
+      border:1px solid #a7f3d0;
+      padding:12px;
+      border-radius:12px;
+      margin-top:12px;
+      font-size:.95rem;
+    }
+    .checklist label{
+      display:block;
+      margin:6px 0;
+    }
+    .small{font-size:.9rem;color:var(--muted)}
+    .full{grid-column:1/-1}
+    footer{
+      padding:0 20px 30px;
+    }
+    @media print{
+      header .toolbar, .no-print{display:none}
+      body{background:white}
+      .card{box-shadow:none;break-inside:avoid}
+      main, footer{padding:0}
+    }
+    @media (max-width:700px){
+      .row,.row-3{grid-template-columns:1fr}
+    }
+  </style>
 </head>
 <body>
-<div class="page">
-<h1>Pharmacology Study Guide</h1>
-
-<!-- ROUTES -->
-<div class="section">
-  <h2 class="h-blue">Routes of Administration</h2>
-  <table>
-    <thead><tr><th>Route</th><th>When used / key patients</th><th>Characteristics</th><th>Notes</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Oral</strong></td>
-        <td><input type="text" class="lg"></td>
-        <td>Absorbed <input type="text" class="sm"></td>
-        <td><input type="text" class="sm"> side effects</td>
-      </tr>
-      <tr>
-        <td><strong>Inhalation</strong></td>
-        <td>Bypasses <input type="text" class="sm"> tract; directly targets <input type="text" class="sm"></td>
-        <td>Smaller <input type="text" class="sm">; smaller <input type="text" class="sm"></td>
-        <td>Faster for resp meds</td>
-      </tr>
-      <tr>
-        <td><strong>Parenteral</strong></td>
-        <td>Quicker <input type="text" class="sm"> action</td>
-        <td>Emergency meds: <input type="text" class="sm"> preferred</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>Intraosseous</strong></td>
-        <td>Bone <input type="text" class="sm">; when IV can't be established / other routes unavailable</td>
-        <td colspan="2"><span class="badge b-red">Hazards:</span> &nbsp;<input type="text" class="md">, <input type="text" class="md">, <input type="text" class="md"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<!-- 5 RIGHTS + NAVEL -->
-<div class="grid2">
-<div class="section">
-  <h2 class="h-purple">5 Rights of Medication Administration</h2>
-  <div class="grid2">
-    <div>
-      <div class="cell" style="margin-bottom:6px">1. Right <input type="text" class="md"></div>
-      <div class="cell" style="margin-bottom:6px">2. Right <input type="text" class="md"></div>
-      <div class="cell" style="margin-bottom:6px">3. Right <input type="text" class="md"></div>
+  <header>
+    <div class="wrap">
+      <h1>Respiratory Pharmacology Study Guide</h1>
+      <div class="subtitle">
+        Reworked into a clean, fillable webpage from the uploaded worksheet. Answers auto-save in your browser using local storage.
+      </div>
+      <div class="toolbar">
+        <button class="primary" onclick="window.print()">Print / Save PDF</button>
+        <button class="secondary" onclick="clearAnswers()">Clear All Answers</button>
+        <button id="hint-toggle" class="secondary" onclick="toggleHints()">Hide Hints</button>
+      </div>
     </div>
-    <div>
-      <div class="cell" style="margin-bottom:6px">4. Right <input type="text" class="md"></div>
-      <div class="cell" style="margin-bottom:6px">5. Right <input type="text" class="md"></div>
-    </div>
-  </div>
-  <div class="callout callout-amber" style="margin-top:8px">
-    <strong>Medication Frequency:</strong> daily, bd (2×), tds (3×), qid (4×), stat (immediately), ac (before meals), pc (after meals), prn (as needed), hs (bedtime), om (morning)
-  </div>
-</div>
-<div class="section">
-  <h2 class="h-amber">NAVEL — ETT Drug Mnemonic</h2>
-  <p style="font-size:12px;color:#666;margin-bottom:8px">ETT dose = <input type="text" class="sm"> × IV dose</p>
-  <div class="navel-row"><span class="navel-letter">N</span><input type="text" style="width:200px"></div>
-  <div class="navel-row"><span class="navel-letter">A</span><input type="text" style="width:200px"></div>
-  <div class="navel-row"><span class="navel-letter">V</span><input type="text" style="width:200px"></div>
-  <div class="navel-row"><span class="navel-letter">E</span><input type="text" style="width:200px"></div>
-  <div class="navel-row"><span class="navel-letter">L</span><input type="text" style="width:200px"></div>
-</div>
-</div>
+  </header>
 
-<!-- PHARMACOKINETICS / DYNAMICS -->
-<div class="section">
-  <h2 class="h-teal">Principles of Drug Action</h2>
-  <div class="grid2">
-    <div>
-      <div class="cell">
-        <div class="cell-label">Pharmacokinetics — what the body does with the med</div>
-        <input type="text" class="full" style="margin-bottom:8px">
-        <div class="grid2">
-          <div><strong>A</strong> — <input type="text" class="full"></div>
-          <div><strong>D</strong> — <input type="text" class="full"></div>
-          <div><strong>M</strong> — <input type="text" class="full"></div>
-          <div><strong>E</strong> — <input type="text" class="full"></div>
+  <main>
+    <div class="wrap">
+
+
+
+      <section class="card">
+        <h2>1) Drug Routes, ETT Meds, and Core Principles</h2>
+        <p class="helper">Based on the route comparison and pharmacology overview on page 1.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Route</th>
+              <th>Key Advantages / Use Cases</th>
+              <th>Limitations / Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Oral</td>
+              <td><textarea data-save="route_oral_adv" class="blank" placeholder="Example: patients who cannot tolerate..."></textarea></td>
+              <td><textarea data-save="route_oral_limit" class="blank" placeholder="Example: slower absorption, more side effects..."></textarea></td>
+            </tr>
+            <tr>
+              <td>Inhalation</td>
+              <td><textarea data-save="route_inhalation_adv" class="blank" placeholder="Example: bypasses GI tract, smaller doses..."></textarea></td>
+              <td><textarea data-save="route_inhalation_limit" class="blank" placeholder="Notes about particles, delivery to lungs, etc."></textarea></td>
+            </tr>
+            <tr>
+              <td>Parenteral</td>
+              <td><textarea data-save="route_parenteral_adv" class="blank" placeholder="Example: quicker systemic action, emergency meds..."></textarea></td>
+              <td><textarea data-save="route_parenteral_limit" class="blank" placeholder="Add route-specific cautions"></textarea></td>
+            </tr>
+            <tr>
+              <td>Intraosseous</td>
+              <td><textarea data-save="route_io_adv" class="blank" placeholder="Example: bone marrow access when IV cannot be established..."></textarea></td>
+              <td><textarea data-save="route_io_limit" class="blank" placeholder="Example: necrosis, infection, osteomyelitis..."></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Five Rights of medication administration</div>
+            <textarea data-save="five_rights" class="blank" placeholder="Right patient, right drug, right dose, right route, right time..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">Common ETT medications</div>
+            <textarea data-save="ett_meds" class="blank" placeholder="Example: Narcan, Atropine, Vasopressin, Epinephrine, Lidocaine"></textarea>
+          </div>
         </div>
-      </div>
-    </div>
-    <div>
-      <div class="cell">
-        <div class="cell-label">Pharmacodynamics — how the med effects the body</div>
-        <input type="text" class="full" style="margin-bottom:8px">
-        <div style="line-height:1.9;font-size:13px">
-          <div>Neurotransmitter = the <strong>KEY</strong> (holds the message)</div>
-          <div>Receptor = the <strong>LOCK</strong> (receives the message)</div>
-          <div style="margin-top:6px"><input type="text" class="sm"> = stimulates receptors</div>
-          <div><input type="text" class="sm"> = blocks receptors</div>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Pharmacokinetics = ?</div>
+            <textarea data-save="pharmacokinetics" class="blank" placeholder="What the body does with the medication..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">Pharmacodynamics = ?</div>
+            <textarea data-save="pharmacodynamics" class="blank" placeholder="How the medication affects the body..."></textarea>
+          </div>
         </div>
-      </div>
-    </div>
-  </div>
-</div>
 
-<!-- ANS -->
-<div class="section">
-  <h2 class="h-coral">Autonomic Nervous System</h2>
-  <div class="grid2">
-    <div>
-      <div class="cell-label" style="margin-bottom:6px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#888">Parasympathetic — Rest &amp; Digest — Cholinergic Pathway</div>
-      <div class="cell" style="margin-bottom:6px">
-        <div class="grid2">
-          <div><div class="cell-label">Receptor</div><input type="text" class="full"></div>
-          <div><div class="cell-label">Neurotransmitter</div><input type="text" class="full"></div>
+        <div class="row-3">
+          <div><div class="prompt">Absorption</div><input data-save="adme_absorption" type="text" class="blank" /></div>
+          <div><div class="prompt">Distribution</div><input data-save="adme_distribution" type="text" class="blank" /></div>
+          <div><div class="prompt">Metabolism</div><input data-save="adme_metabolism" type="text" class="blank" /></div>
         </div>
-      </div>
-      <div class="cell" style="font-size:12.5px;line-height:1.8">
-        <div><span class="badge b-teal">Cholinergic</span> — <input type="text" style="width:180px"></div>
-        <div style="margin-top:4px"><span class="badge b-red">Anti-cholinergic</span> — <input type="text" style="width:180px"></div>
-        <div style="margin-top:6px">M1/M3 stimulation → <strong><input type="text" class="sm"></strong></div>
-        <div>M2 stimulation → <input type="text" style="width:180px"></div>
-        <div style="margin-top:4px"><em>Anti-cholinergic blocks M1/M3 → results in </em><strong><input type="text" class="sm"></strong></div>
-      </div>
-    </div>
-    <div>
-      <div class="cell-label" style="margin-bottom:6px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#888">Sympathetic — Fight or Flight — Adrenergic Pathway</div>
-      <div class="cell" style="margin-bottom:6px">
-        <div class="grid2">
-          <div><div class="cell-label">Receptors</div><input type="text" class="full"></div>
-          <div><div class="cell-label">Neurotransmitter</div><input type="text" class="full"></div>
+        <div class="row">
+          <div><div class="prompt">Elimination</div><input data-save="adme_elimination" type="text" class="blank" /></div>
+          <div><div class="prompt">ETT dose compared with IV dose</div><input data-save="ett_vs_iv" type="text" class="blank" placeholder="Example: 2–2.5 × IV dose" /></div>
         </div>
-      </div>
-      <div class="cell" style="font-size:12.5px;line-height:1.9">
-        <div><strong>α1</strong> (heart, lungs, vasculature) → stimulation causes <input type="text" class="sm"></div>
-        <div><strong>β1</strong> ❤ (heart &amp; kidneys) → stimulation causes <input type="text" class="sm"></div>
-        <div><strong>β2</strong> 🫁 (lungs, gut, arteriolar SM) → stimulation causes <input type="text" class="sm"></div>
-        <div style="border-top:1px solid #eee;margin-top:6px;padding-top:6px">
-          <div><span class="badge b-coral">Alpha blockers</span> "ZOSIN" drugs → <input type="text" style="width:160px"></div>
-          <div style="margin-top:4px"><span class="badge b-blue">Beta blockers</span> "LOL" drugs → <input type="text" style="width:160px"></div>
+      </section>
+
+      <section class="card">
+        <h2>2) Parasympathetic vs Sympathetic Pathways</h2>
+        <p class="helper">Based on receptor and neurotransmitter content on page 2.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>System</th>
+              <th>Pathway / Receptors</th>
+              <th>Neurotransmitter(s)</th>
+              <th>Main Effects</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Parasympathetic</td>
+              <td><textarea data-save="para_receptors" class="blank" placeholder="Muscarinic M1, M2, M3"></textarea></td>
+              <td><textarea data-save="para_nt" class="blank" placeholder="Acetylcholine"></textarea></td>
+              <td><textarea data-save="para_effects" class="blank" placeholder="Rest and digest..."></textarea></td>
+            </tr>
+            <tr>
+              <td>Sympathetic</td>
+              <td><textarea data-save="symp_receptors" class="blank" placeholder="Alpha, Beta1, Beta2"></textarea></td>
+              <td><textarea data-save="symp_nt" class="blank" placeholder="Epinephrine, norepinephrine"></textarea></td>
+              <td><textarea data-save="symp_effects" class="blank" placeholder="Fight or flight..."></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row-3">
+          <div>
+            <div class="prompt">What does cholinergic mean?</div>
+            <textarea data-save="cholinergic_def" class="blank"></textarea>
+          </div>
+          <div>
+            <div class="prompt">What does anticholinergic mean?</div>
+            <textarea data-save="anticholinergic_def" class="blank"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Airway effect of blocking M1/M3</div>
+            <textarea data-save="m1m3_block" class="blank" placeholder="Bronchodilation"></textarea>
+          </div>
         </div>
-      </div>
+
+        <div class="row-3">
+          <div>
+            <div class="prompt">M1/M3 stimulation causes</div>
+            <input data-save="m1m3_stim" type="text" class="blank" placeholder="Bronchoconstriction" />
+          </div>
+          <div>
+            <div class="prompt">M2 stimulation causes</div>
+            <textarea data-save="m2_effect" class="blank" placeholder="Decreases amount of ACh released"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Lock-and-key analogy</div>
+            <textarea data-save="lock_key" class="blank" placeholder="Neurotransmitter = key; receptor = lock"></textarea>
+          </div>
+        </div>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Receptor</th>
+              <th>Location</th>
+              <th>When Stimulated</th>
+              <th>Example Drug / Class</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>α1</td>
+              <td><textarea data-save="a1_location" class="blank"></textarea></td>
+              <td><textarea data-save="a1_effect" class="blank"></textarea></td>
+              <td><textarea data-save="a1_example" class="blank" placeholder="Vasopressors"></textarea></td>
+            </tr>
+            <tr>
+              <td>β1</td>
+              <td><textarea data-save="b1_location" class="blank"></textarea></td>
+              <td><textarea data-save="b1_effect" class="blank"></textarea></td>
+              <td><textarea data-save="b1_example" class="blank" placeholder="Dobutamine"></textarea></td>
+            </tr>
+            <tr>
+              <td>β2</td>
+              <td><textarea data-save="b2_location" class="blank"></textarea></td>
+              <td><textarea data-save="b2_effect" class="blank"></textarea></td>
+              <td><textarea data-save="b2_example" class="blank" placeholder="Albuterol, Levalbuterol"></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="card">
+        <h2>3) Bronchodilator Classes and Dose Math</h2>
+        <p class="helper">Built from the respiratory medication chart and drug-dose section on page 3.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Class</th>
+              <th>Examples</th>
+              <th>Indications</th>
+              <th>Duration / Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>SABA</td>
+              <td><textarea data-save="saba_examples" class="blank" placeholder="Albuterol, Xopenex"></textarea></td>
+              <td><textarea data-save="saba_indications" class="blank" placeholder="Rescue for acute asthma, before exercise..."></textarea></td>
+              <td><textarea data-save="saba_notes" class="blank" placeholder="Frequent class, adverse effects, etc."></textarea></td>
+            </tr>
+            <tr>
+              <td>LABA</td>
+              <td><textarea data-save="laba_examples" class="blank" placeholder="Salmeterol, Formoterol"></textarea></td>
+              <td><textarea data-save="laba_indications" class="blank"></textarea></td>
+              <td><textarea data-save="laba_notes" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>SAMA</td>
+              <td><textarea data-save="sama_examples" class="blank" placeholder="Ipratropium bromide"></textarea></td>
+              <td><textarea data-save="sama_indications" class="blank"></textarea></td>
+              <td><textarea data-save="sama_notes" class="blank" placeholder="Duration up to 6 hours"></textarea></td>
+            </tr>
+            <tr>
+              <td>LAMA</td>
+              <td><textarea data-save="lama_examples" class="blank" placeholder="Tiotropium bromide"></textarea></td>
+              <td><textarea data-save="lama_indications" class="blank"></textarea></td>
+              <td><textarea data-save="lama_notes" class="blank" placeholder="Duration 24 hours"></textarea></td>
+            </tr>
+            <tr>
+              <td>Combination</td>
+              <td><textarea data-save="combo_examples" class="blank" placeholder="DuoNeb, Combivent"></textarea></td>
+              <td><textarea data-save="combo_indications" class="blank"></textarea></td>
+              <td><textarea data-save="combo_notes" class="blank" placeholder="COPD patient requiring added bronchodilation"></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Racemic epinephrine indications</div>
+            <textarea data-save="racemic_epi" class="blank" placeholder="Upper airway swelling, bronchiolitis, post-extubation stridor, epiglottitis, croup..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">Epinephrine indications and routes</div>
+            <textarea data-save="epi_indications" class="blank" placeholder="Anaphylaxis, cardiac stimulant, asthma exacerbation; IM, inhalation, SQ..."></textarea>
+          </div>
+        </div>
+
+        <div class="row-3">
+          <div><div class="prompt">Solute</div><input data-save="solute_def" type="text" class="blank" placeholder="What is being dissolved (mg)" /></div>
+          <div><div class="prompt">Solvent</div><input data-save="solvent_def" type="text" class="blank" placeholder="Where it is dissolved (mL)" /></div>
+          <div><div class="prompt">Solution</div><input data-save="solution_def" type="text" class="blank" placeholder="Mixture / concentration" /></div>
+        </div>
+
+        <div class="prompt">Your dose-calculation notes or formulas</div>
+        <textarea data-save="dose_math" class="blank" placeholder="Write the concentration formula and any class dose examples here"></textarea>
+      </section>
+
+      <section class="card">
+        <h2>4) Peak Flow and Methylxanthines</h2>
+        <p class="helper">From page 4.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>PEF Range</th>
+              <th>Meaning / Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>80–100%</td>
+              <td><input data-save="pef_green" type="text" class="blank" placeholder="Normal, no action required" /></td>
+            </tr>
+            <tr>
+              <td>60–80%</td>
+              <td><input data-save="pef_yellow" type="text" class="blank" placeholder="Bronchodilator and possibly oral steroids" /></td>
+            </tr>
+            <tr>
+              <td>&lt;60%</td>
+              <td><input data-save="pef_red" type="text" class="blank" placeholder="Bronchodilator, call doctor, call 9-1-1" /></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Predicted peak expiratory flow is based on</div>
+            <textarea data-save="pef_predictors" class="blank" placeholder="Sex, age, height"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Methylxanthine effects</div>
+            <textarea data-save="methylxanthine_effects" class="blank" placeholder="Increase heart contractility, respiratory muscle endurance, CNS alertness, diuresis..."></textarea>
+          </div>
+        </div>
+
+        <div class="row-3">
+          <div>
+            <div class="prompt">Theophylline use</div>
+            <textarea data-save="theophylline_use" class="blank"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Caffeine citrate use</div>
+            <textarea data-save="caffeine_use" class="blank" placeholder="Apnea of prematurity"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Toxic effects to monitor</div>
+            <textarea data-save="toxicity_monitor" class="blank" placeholder="Nausea, arrhythmias, seizures, liver/kidney function"></textarea>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>5) Mucus-Control Meds and Corticosteroids</h2>
+        <p class="helper">From page 5.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Medication</th>
+              <th>Main Indications / Action</th>
+              <th>Hazards / Key Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Acetylcysteine (Mucomyst)</td>
+              <td><textarea data-save="mucomyst_action" class="blank"></textarea></td>
+              <td><textarea data-save="mucomyst_hazards" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>Dornase alfa (Pulmozyme)</td>
+              <td><textarea data-save="pulmozyme_action" class="blank"></textarea></td>
+              <td><textarea data-save="pulmozyme_hazards" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>Hypertonic saline (HyperSal)</td>
+              <td><textarea data-save="hypersal_action" class="blank"></textarea></td>
+              <td><textarea data-save="hypersal_hazards" class="blank"></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="prompt">Diseases with abnormal mucus production / clearance</div>
+        <textarea data-save="mucus_diseases" class="blank" placeholder="Cystic fibrosis, bronchitis, pneumonia, asthma, bronchiolitis, primary ciliary dyskinesia..."></textarea>
+
+        <div class="prompt">Corticosteroid summary</div>
+        <textarea data-save="steroid_summary" class="blank" placeholder="Maintenance therapy, routes, LABA pairing, side effects, thrush prevention..."></textarea>
+
+        <div class="success">
+          Tip: The original worksheet emphasizes using a holding chamber and rinsing the mouth after inhaled corticosteroids to reduce thrush risk.
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>6) Antimicrobial and Nonsteroidal Anti-Asthma Agents</h2>
+        <p class="helper">From page 6.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Drug</th>
+              <th>Indications</th>
+              <th>Administration / Notes</th>
+              <th>Negative Effects</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Pentamidine</td>
+              <td><textarea data-save="pentamidine_ind" class="blank"></textarea></td>
+              <td><textarea data-save="pentamidine_admin" class="blank"></textarea></td>
+              <td><textarea data-save="pentamidine_neg" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>Ribavirin</td>
+              <td><textarea data-save="ribavirin_ind" class="blank"></textarea></td>
+              <td><textarea data-save="ribavirin_admin" class="blank"></textarea></td>
+              <td><textarea data-save="ribavirin_neg" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>Tobramycin</td>
+              <td><textarea data-save="tobramycin_ind" class="blank"></textarea></td>
+              <td><textarea data-save="tobramycin_admin" class="blank"></textarea></td>
+              <td><textarea data-save="tobramycin_neg" class="blank"></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Anti-leukotriene medications</div>
+            <textarea data-save="anti_leukotrienes" class="blank" placeholder="Zafirlukast, Montelukast, Zileuton..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">Histamine and antihistamine notes</div>
+            <textarea data-save="histamine_notes" class="blank" placeholder="Non-sedating: Zyrtec, Claritin, Allegra; sedating: Benadryl..."></textarea>
+          </div>
+        </div>
+
+        <div class="prompt">Mast cell stabilizer mechanism</div>
+        <textarea data-save="mast_cell" class="blank" placeholder="Cromolyn sodium stabilizes the membrane and reduces release of inflammatory substances..."></textarea>
+      </section>
+
+      <section class="card">
+        <h2>7) Neuromuscular Blocking Agents and Pulmonary Vasodilators</h2>
+        <p class="helper">From page 7.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Example / Mechanism</th>
+              <th>Onset / Duration</th>
+              <th>Major Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Depolarizing</td>
+              <td><textarea data-save="depolarizing_mech" class="blank" placeholder="Succinylcholine occupies ACh receptors"></textarea></td>
+              <td><textarea data-save="depolarizing_time" class="blank" placeholder="Acts in 60–90 seconds, lasts 10–15 minutes"></textarea></td>
+              <td><textarea data-save="depolarizing_notes" class="blank" placeholder="No reversal agent, adverse effects..."></textarea></td>
+            </tr>
+            <tr>
+              <td>Non-depolarizing</td>
+              <td><textarea data-save="nondepolarizing_mech" class="blank" placeholder="Blocks ACh receptors"></textarea></td>
+              <td><textarea data-save="nondepolarizing_time" class="blank" placeholder="Depends on dose; can take up to 5 min, lasts ~30 min"></textarea></td>
+              <td><textarea data-save="nondepolarizing_notes" class="blank" placeholder="Neostigmine reversal, ventilation concerns..."></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Why are NMBAs used?</div>
+            <textarea data-save="nmba_use" class="blank" placeholder="Facilitate intubation, surgery, vent synchrony, decrease ICP and O2 consumption..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">What do NMBAs affect?</div>
+            <textarea data-save="nmba_affect" class="blank" placeholder="Skeletal muscle only"></textarea>
+          </div>
+        </div>
+
+        <div class="prompt">INOmax / inhaled nitric oxide notes</div>
+        <textarea data-save="inomax_notes" class="blank" placeholder="PPHN in neonates >34 weeks, usually <14 days and <20 ppm, risk for methemoglobin, wean slowly..."></textarea>
+      </section>
+
+      <section class="card">
+        <h2>8) Diuretics, Hypovolemia, and Fluid Resuscitation</h2>
+        <p class="helper">From page 8.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Urine Output Category</th>
+              <th>Definition</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Normal</td><td><input data-save="urine_normal" type="text" class="blank" placeholder="30–60 mL/hr" /></td></tr>
+            <tr><td>Anuria</td><td><input data-save="urine_anuria" type="text" class="blank" placeholder="No urine output" /></td></tr>
+            <tr><td>Oliguria</td><td><input data-save="urine_oliguria" type="text" class="blank" placeholder="<30–60 mL/hr" /></td></tr>
+            <tr><td>Polyuria</td><td><input data-save="urine_polyuria" type="text" class="blank" placeholder=">60 mL/hr" /></td></tr>
+          </tbody>
+        </table>
+
+        <div class="row-3">
+          <div><div class="prompt">Carbonic anhydrase inhibitors</div><textarea data-save="diuretic_carbonic" class="blank"></textarea></div>
+          <div><div class="prompt">Osmotic diuretics</div><textarea data-save="diuretic_osmotic" class="blank"></textarea></div>
+          <div><div class="prompt">Loop diuretics</div><textarea data-save="diuretic_loop" class="blank" placeholder="Furosemide (Lasix)"></textarea></div>
+        </div>
+        <div class="row">
+          <div><div class="prompt">Thiazides</div><textarea data-save="diuretic_thiazide" class="blank"></textarea></div>
+          <div><div class="prompt">Potassium-sparing</div><textarea data-save="diuretic_sparing" class="blank"></textarea></div>
+        </div>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Diuretic effects</div>
+            <textarea data-save="diuretic_effects" class="blank" placeholder="Increase urine production, fluid removal, decrease blood pressure..."></textarea>
+          </div>
+          <div>
+            <div class="prompt">Diuretic side effects</div>
+            <textarea data-save="diuretic_side" class="blank" placeholder="Hypovolemia, acid-base abnormalities..."></textarea>
+          </div>
+        </div>
+
+        <div class="row">
+          <div>
+            <div class="prompt">Hypovolemia definition and causes</div>
+            <textarea data-save="hypovolemia" class="blank"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Fluid resuscitation treatment options</div>
+            <textarea data-save="resuscitation" class="blank" placeholder="Colloids, crystalloids, vasopressors, Trendelenburg..."></textarea>
+          </div>
+        </div>
+
+        <div class="note">
+          The worksheet specifically notes that hypovolemia is <strong>not synonymous with shock</strong>.
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>9) Sedation, Analgesia, and Benzodiazepines</h2>
+        <p class="helper">From page 9.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Main Purpose</th>
+              <th>Examples</th>
+              <th>Notes / Adverse Effects</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Opioids / Narcotics</td>
+              <td><textarea data-save="opioids_purpose" class="blank"></textarea></td>
+              <td><textarea data-save="opioids_examples" class="blank" placeholder="Morphine, hydromorphone, fentanyl, meperidine, codeine"></textarea></td>
+              <td><textarea data-save="opioids_notes" class="blank" placeholder="Respiratory/CNS depression, hypotension..."></textarea></td>
+            </tr>
+            <tr>
+              <td>Sedation agents</td>
+              <td><textarea data-save="sedation_purpose" class="blank"></textarea></td>
+              <td><textarea data-save="sedation_examples" class="blank" placeholder="Etomidate, propofol, pentothal, haloperidol..."></textarea></td>
+              <td><textarea data-save="sedation_notes" class="blank"></textarea></td>
+            </tr>
+            <tr>
+              <td>Benzodiazepines</td>
+              <td><textarea data-save="benzo_purpose" class="blank" placeholder="Treat anxiety, panic attacks, insomnia, seizures"></textarea></td>
+              <td><textarea data-save="benzo_examples" class="blank" placeholder="Midazolam, lorazepam, alprazolam, diazepam"></textarea></td>
+              <td><textarea data-save="benzo_notes" class="blank" placeholder="Versed most commonly used"></textarea></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="prompt">Analgesics summary</div>
+        <textarea data-save="analgesics_summary" class="blank" placeholder="NSAIDs, Tylenol, moderate pain, oral/IV routes, inflammation notes..."></textarea>
+      </section>
+
+      <section class="card">
+        <h2>10) Emergency / Cardiac Medications</h2>
+        <p class="helper">From page 10.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Medication</th>
+              <th>Indicated For</th>
+              <th>Primary Effect / Mechanism</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Adenosine</td><td><textarea data-save="adenosine_ind" class="blank"></textarea></td><td><textarea data-save="adenosine_mech" class="blank"></textarea></td></tr>
+            <tr><td>Amiodarone</td><td><textarea data-save="amiodarone_ind" class="blank"></textarea></td><td><textarea data-save="amiodarone_mech" class="blank"></textarea></td></tr>
+            <tr><td>Atropine sulfate</td><td><textarea data-save="atropine_ind" class="blank"></textarea></td><td><textarea data-save="atropine_mech" class="blank"></textarea></td></tr>
+            <tr><td>Dopamine</td><td><textarea data-save="dopamine_ind" class="blank"></textarea></td><td><textarea data-save="dopamine_mech" class="blank"></textarea></td></tr>
+            <tr><td>Epinephrine</td><td><textarea data-save="epinephrine_ind" class="blank"></textarea></td><td><textarea data-save="epinephrine_mech" class="blank"></textarea></td></tr>
+            <tr><td>Lidocaine</td><td><textarea data-save="lidocaine_ind" class="blank"></textarea></td><td><textarea data-save="lidocaine_mech" class="blank"></textarea></td></tr>
+            <tr><td>Magnesium sulfate</td><td><textarea data-save="magnesium_ind" class="blank"></textarea></td><td><textarea data-save="magnesium_mech" class="blank"></textarea></td></tr>
+            <tr><td>Norepinephrine</td><td><textarea data-save="norepi_ind" class="blank"></textarea></td><td><textarea data-save="norepi_mech" class="blank"></textarea></td></tr>
+            <tr><td>Oxygen</td><td><textarea data-save="oxygen_ind" class="blank"></textarea></td><td><textarea data-save="oxygen_mech" class="blank"></textarea></td></tr>
+          </tbody>
+        </table>
+
+        <div class="prompt">Anaphylaxis treatment sequence</div>
+        <textarea data-save="anaphylaxis_tx" class="blank" placeholder="Epinephrine first-line, antihistamine injection, corticosteroid injection, fluids, Trendelenburg..."></textarea>
+      </section>
+
+      <section class="card">
+        <h2>11) Final Review</h2>
+        <div class="row">
+          <div>
+            <div class="prompt">Top 10 facts I still need to memorize</div>
+            <textarea data-save="review_memorize" placeholder="Create your own exam cram list here"></textarea>
+          </div>
+          <div>
+            <div class="prompt">Questions for my instructor or study group</div>
+            <textarea data-save="review_questions" placeholder="List confusing topics, drug classes, or formulas here"></textarea>
+          </div>
+        </div>
+        <div class="checklist">
+          <label><input data-save="check_1" type="checkbox" /> I reviewed autonomic receptors</label>
+          <label><input data-save="check_2" type="checkbox" /> I reviewed bronchodilator classes</label>
+          <label><input data-save="check_3" type="checkbox" /> I reviewed methylxanthines and mucus meds</label>
+          <label><input data-save="check_4" type="checkbox" /> I reviewed diuretics and fluid resuscitation</label>
+          <label><input data-save="check_5" type="checkbox" /> I reviewed emergency cardiac medications</label>
+        </div>
+      </section>
+
     </div>
-  </div>
-</div>
+  </main>
 
-<!-- BRONCHODILATORS -->
-<div class="section">
-  <h2 class="h-teal">Bronchodilators</h2>
-  <table>
-    <thead><tr><th>Class</th><th>Examples</th><th>Indications</th><th>Duration</th><th>Side effects / notes</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><span class="badge b-green">SABA</span></td>
-        <td><input type="text" style="width:120px"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><span class="badge b-blue">LABA</span></td>
-        <td>Salmeterol, Formoterol</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td>Paired with <input type="text" class="sm"></td>
-      </tr>
-      <tr>
-        <td><span class="badge b-amber">SAMA</span></td>
-        <td><input type="text" style="width:120px"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><span class="badge b-purple">LAMA</span></td>
-        <td><input type="text" style="width:120px"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><span class="badge b-coral">Combo</span></td>
-        <td>DuoNeb, Combivent</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="grid2" style="margin-top:10px">
-    <div class="cell">
-      <div class="cell-label">Racemic epinephrine — indications &amp; route</div>
-      <input type="text" class="full">
-      <div style="margin-top:4px">Route: <input type="text" style="width:180px"></div>
+  <footer>
+    <div class="wrap small">
+      Reworked from the uploaded study guide into a structured HTML study page. You can host this as-is or embed it in your own site layout.
     </div>
-    <div class="cell">
-      <div class="cell-label">Epinephrine — indications &amp; routes</div>
-      <input type="text" class="full">
-      <div style="margin-top:4px">Routes: <input type="text" style="width:180px"></div>
-    </div>
-  </div>
-</div>
+  </footer>
 
-<!-- PEAK FLOW + XANTHINES -->
-<div class="grid2">
-<div class="section">
-  <h2 class="h-amber">Peak Expiratory Flow (PEF)</h2>
-  <p style="font-size:12px;color:#666;margin-bottom:8px">Predicted PEF based on: <input type="text" style="width:170px"> — record <strong>best</strong> of attempts</p>
-  <div class="zone z-green"><strong>Green 80–100%</strong> → <input type="text" style="width:160px"></div>
-  <div class="zone z-yellow"><strong>Yellow 60–80%</strong> → <input type="text" style="width:160px"></div>
-  <div class="zone z-red"><strong>Red &lt;60%</strong> → <input type="text" style="width:160px"></div>
-</div>
-<div class="section">
-  <h2 class="h-gray">Xanthines (Methylxanthines)</h2>
-  <p style="font-size:12px;color:#666;margin-bottom:8px">Act like stimulants: ↑ heart contractility, ↑ resp muscle endurance, ↑ CNS alertness, diuresis</p>
-  <table>
-    <thead><tr><th>Drug</th><th>Indication</th><th>Notes</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Theophylline</strong></td>
-        <td><input type="text" style="width:120px"></td>
-        <td><span class="badge b-red">Contraindicated</span> in <input type="text" class="sm"></td>
-      </tr>
-      <tr>
-        <td><strong>Caffeine citrate</strong></td>
-        <td><input type="text" style="width:120px"></td>
-        <td>Stimulates breathing; ↑ CNS alertness</td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="callout callout-red" style="margin-top:8px"><strong>Toxic effects to monitor:</strong> <input type="text" style="width:100%"></div>
-</div>
-</div>
+  <script>
+    const fields = document.querySelectorAll('[data-save]');
+    var hintsVisible = localStorage.getItem('studyguide_hints') !== 'hidden';
+    var savedPlaceholders = {};
 
-<!-- MUCOLYTICS -->
-<div class="section">
-  <h2 class="h-teal">Mucus-Controlling Medications</h2>
-  <p style="font-size:12px;color:#666;margin-bottom:8px">Diseases with abnormal mucus: <span class="pill">CF</span><span class="pill">Bronchitis</span><span class="pill">Pneumonia</span><span class="pill">Asthma</span><span class="pill">Bronchiolitis</span><span class="pill">Primary Ciliary Dyskinesia</span></p>
-  <table>
-    <thead><tr><th>Drug</th><th>Mechanism</th><th>Indications</th><th>Hazards / special handling</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Acetylcysteine</strong><br><em style="color:#888">(Mucomyst)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Dornase alfa</strong><br><em style="color:#888">(Pulmozyme)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Hypertonic saline</strong><br><em style="color:#888">(HyperSal)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+    function loadAnswers(){
+      fields.forEach(el => {
+        const key = 'studyguide_' + el.dataset.save;
+        if(el.type === 'checkbox'){
+          el.checked = localStorage.getItem(key) === 'true';
+        } else {
+          const saved = localStorage.getItem(key);
+          if(saved !== null) el.value = saved;
+        }
+      });
+    }
 
-<!-- CORTICOSTEROIDS -->
-<div class="section">
-  <h2 class="h-purple">Corticosteroids</h2>
-  <div class="grid2">
-    <div class="cell" style="line-height:1.9;font-size:13px">
-      <div>Primary <input type="text" class="sm"> drugs for asthma</div>
-      <div><span class="badge b-red">Contraindicated</span> for <input type="text" style="width:150px"></div>
-      <div>Preferred route: <input type="text" class="sm">; given <input type="text" class="sm"> (long-lasting)</div>
-      <div>Commonly paired with <input type="text" class="sm"> (e.g., Symbicort)</div>
-    </div>
-    <div class="cell" style="line-height:1.9;font-size:13px">
-      <div class="cell-label">Side effects</div>
-      <div>• <strong>Tachyphylaxis</strong> — decline in maximum drug effect</div>
-      <div>• Potential growth stunting in <input type="text" class="sm"></div>
-      <div>• Oral <input type="text" style="width:180px"></div>
-      <div class="callout callout-green" style="margin-top:6px">Prevention: use a <input type="text" class="sm"> and rinse mouth after</div>
-    </div>
-  </div>
-</div>
+    function saveAnswer(el){
+      const key = 'studyguide_' + el.dataset.save;
+      const value = el.type === 'checkbox' ? el.checked : el.value;
+      localStorage.setItem(key, value);
+    }
 
-<!-- ANTI-INFECTIVE -->
-<div class="section">
-  <h2 class="h-coral">Anti-Infective Respiratory Agents</h2>
-  <table>
-    <thead><tr><th>Drug</th><th>Trade name</th><th>Indication</th><th>Nebulizer</th><th>Side effects</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Pentamidine</strong></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Ribavirin</strong></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Tobramycin</strong></td>
-        <td><input type="text" class="sm"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td>Standard</td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+    function clearAnswers(){
+      if(!confirm('Clear all saved answers from this browser?')) return;
+      fields.forEach(el => {
+        const key = 'studyguide_' + el.dataset.save;
+        localStorage.removeItem(key);
+        if(el.type === 'checkbox'){
+          el.checked = false;
+        } else {
+          el.value = '';
+        }
+      });
+    }
 
-<!-- NONSTEROIDAL ANTI-ASTHMA -->
-<div class="section">
-  <h2 class="h-blue">Nonsteroidal Anti-Asthma Agents</h2>
-  <div class="callout callout-amber" style="margin-bottom:10px">Controller medications only — <strong>NOT</strong> for acute exacerbations. Used in conjunction with anti-inflammatory therapy.</div>
-  <table>
-    <thead><tr><th>Inflammatory mediator</th><th>Drug class</th><th>Examples</th><th>Key notes</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Leukotrienes</strong></td>
-        <td>Anti-leukotrienes</td>
-        <td>Zafirlukast (Accolate) — ≥5 yr<br>Montelukast (Singulair) — ≥12 mo<br>Zileuton (Zyflo) — ≥12 yr</td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Histamine</strong></td>
-        <td>Antihistamines</td>
-        <td>Non-sedating: <input type="text" style="width:150px"><br>Sedating: <input type="text" style="width:150px"></td>
-        <td>Reduce secretions in allergies and upper airway disease</td>
-      </tr>
-      <tr>
-        <td><strong>Prostaglandins / mast cells</strong></td>
-        <td>Mast cell stabilizers</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+    function initPlaceholders(){
+      fields.forEach(el => {
+        if(el.placeholder){
+          savedPlaceholders[el.dataset.save] = el.placeholder;
+        }
+      });
+    }
 
-<!-- NMBAs -->
-<div class="section">
-  <h2 class="h-gray">Neuromuscular Blocking Agents (NMBAs)</h2>
-  <p style="font-size:12px;color:#666;margin-bottom:10px">Purpose: facilitate intubation, surgery, vent synchrony, ↓ICP, ↓O₂ consumption — <strong>paralyze &amp; relax skeletal muscle ONLY</strong></p>
-  <div class="grid2">
-    <div class="cell">
-      <div class="cell-label" style="margin-bottom:6px">Depolarizing agents</div>
-      <div style="line-height:1.9;font-size:13px">
-        <div>Only agent: <input type="text" style="width:150px"></div>
-        <div>Action on receptors: <input type="text" style="width:150px"></div>
-        <div>Onset: <input type="text" class="sm"> sec; Duration: <input type="text" class="sm"> min</div>
-        <div>Best for: <input type="text" style="width:180px"></div>
-        <div>Reversal agent: <span class="badge b-red">None</span></div>
-        <div class="callout callout-amber" style="margin-top:6px"><strong>Side effects:</strong> <input type="text" style="width:100%"></div>
-      </div>
-    </div>
-    <div class="cell">
-      <div class="cell-label" style="margin-bottom:6px">Non-depolarizing agents</div>
-      <div style="line-height:1.9;font-size:13px">
-        <div>Action on receptors: <input type="text" style="width:150px"></div>
-        <div>Onset: up to <input type="text" class="sm"> min; Duration: ~<input type="text" class="sm"> min</div>
-        <div>Preferred for: <input type="text" style="width:150px"></div>
-        <div>Reversal agent: <span class="badge b-green"><input type="text" class="sm"></span></div>
-        <div class="callout callout-amber" style="margin-top:6px"><strong>Side effects:</strong> <input type="text" style="width:100%"></div>
-      </div>
-    </div>
-  </div>
-  <div class="callout callout-amber" style="margin-top:8px"><strong>Pulmonary vasodilator — INOMax:</strong> indicated for PPHN in neonates &gt; <input type="text" class="sm"> weeks | dose &lt;<input type="text" class="sm"> days at &lt;20 ppm | delivered via <input type="text" style="width:130px"> | risk: <input type="text" class="sm"> | <strong>wean slowly</strong> (rebound)</div>
-</div>
+    function applyHintState(){
+      var btn = document.getElementById('hint-toggle');
+      if(hintsVisible){
+        fields.forEach(el => {
+          if(savedPlaceholders[el.dataset.save]){
+            el.placeholder = savedPlaceholders[el.dataset.save];
+          }
+        });
+        btn.textContent = 'Hide Hints';
+        btn.className = 'secondary';
+      } else {
+        fields.forEach(el => {
+          if(el.placeholder) el.placeholder = '';
+        });
+        btn.textContent = 'Show Hints';
+        btn.className = 'toggle-on';
+      }
+    }
 
-<!-- DIURETICS -->
-<div class="section">
-  <h2 class="h-teal">Diuretics</h2>
-  <div class="grid4" style="margin-bottom:10px">
-    <div class="cell"><div class="cell-label">Normal urine output</div><input type="text" class="full"></div>
-    <div class="cell"><div class="cell-label">Anuria</div><input type="text" class="full"></div>
-    <div class="cell"><div class="cell-label">Oliguria</div><input type="text" class="full"></div>
-    <div class="cell"><div class="cell-label">Polyuria</div><input type="text" class="full"></div>
-  </div>
-  <table>
-    <thead><tr><th>Class</th><th>Key drug(s)</th><th>Primary indication</th><th>Side effects</th></tr></thead>
-    <tbody>
-      <tr><td>Carbonic anhydrase inhibitor</td><td><input type="text" style="width:150px"></td><td><input type="text" style="width:100%"></td><td rowspan="5" style="vertical-align:top;padding:8px">
-        <div class="cell-label">Diuretic side effects</div>
-        <div style="line-height:1.9">1. <input type="text" class="full"></div>
-        <div>2. <input type="text" class="full"></div>
-        <div>3. <input type="text" class="full"></div>
-        <div>4. <input type="text" class="full"></div>
-        <div>5. <input type="text" class="full"></div>
-      </td></tr>
-      <tr><td>Osmotic</td><td><input type="text" style="width:150px"></td><td><input type="text" style="width:100%"></td></tr>
-      <tr><td>Loop</td><td><input type="text" style="width:150px"></td><td><span class="badge b-blue">Most common for CHF</span></td></tr>
-      <tr><td>Thiazide</td><td><input type="text" style="width:150px"></td><td><input type="text" style="width:100%"></td></tr>
-      <tr><td>Potassium sparing</td><td><input type="text" style="width:150px"></td><td><input type="text" style="width:100%"></td></tr>
-    </tbody>
-  </table>
-  <div style="margin-top:8px;font-size:12.5px;color:#666">Contraindications: <input type="text" style="width:280px"></div>
-</div>
+    function toggleHints(){
+      hintsVisible = !hintsVisible;
+      localStorage.setItem('studyguide_hints', hintsVisible ? 'visible' : 'hidden');
+      applyHintState();
+    }
 
-<!-- SEDATION/ANALGESIA -->
-<div class="section">
-  <h2 class="h-purple">Sedation, Analgesia &amp; Paralytics</h2>
-  <table>
-    <thead><tr><th>Category</th><th>Examples</th><th>Primary use</th><th>Adverse effects</th><th>Routes</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Opioids / narcotics</strong></td>
-        <td>Morphine, Hydromorphone, Fentanyl, Meperidine, Codeine</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td>IM, IV, oral, dermal</td>
-      </tr>
-      <tr>
-        <td><strong>Barbiturate / hypnotic sedation</strong></td>
-        <td>Sodium thiopental (Pentothal), Etomidate (Amidate), Propofol (Diprivan)</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td>IV</td>
-      </tr>
-      <tr>
-        <td><strong>Benzodiazepines</strong></td>
-        <td>Midazolam (Versed) — most common<br>Lorazepam (Ativan), Alprazolam (Xanax), Diazepam (Valium)</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-        <td>Multiple</td>
-      </tr>
-      <tr>
-        <td><strong>NSAIDs</strong></td>
-        <td>Ibuprofen, Naproxen, Aspirin (salicylate), Celebrex</td>
-        <td><input type="text" style="width:100%"></td>
-        <td></td>
-        <td>Oral or IV</td>
-      </tr>
-      <tr>
-        <td><strong>Acetaminophen (Tylenol)</strong></td>
-        <td>Tylenol</td>
-        <td><input type="text" style="width:100%"></td>
-        <td><span class="badge b-red">OD → treat with Mucomyst (acetylcysteine)</span></td>
-        <td>Oral / IV</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<!-- CARDIAC EMERGENCY MEDS -->
-<div class="section">
-  <h2 class="h-red">Cardiac Emergency Medications</h2>
-  <table>
-    <thead><tr><th>Drug</th><th>Indication(s)</th><th>Mechanism of action</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>Adenosine</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Amiodarone</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Atropine sulfate</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Dopamine</strong> <em style="color:#888">(inotrope)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Epinephrine</strong> <em style="color:#888">(inotrope)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Lidocaine</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Magnesium sulfate</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Norepinephrine / Levophed</strong> <em style="color:#888">(inotrope)</em></td>
-        <td><input type="text" style="width:100%"></td>
-        <td><input type="text" style="width:100%"></td>
-      </tr>
-      <tr>
-        <td><strong>Oxygen</strong></td>
-        <td><input type="text" style="width:100%"></td>
-        <td>Allows cells to produce ATP for heart contraction</td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="callout callout-red" style="margin-top:10px">
-    <strong>Anaphylaxis treatment sequence:</strong>
-    &nbsp;1. <input type="text" class="sm">
-    &nbsp;2. <input type="text" class="sm">
-    &nbsp;3. <input type="text" class="sm">
-    &nbsp;4. Fluids
-    &nbsp;5. <input type="text" class="sm">
-  </div>
-</div>
-
-<!-- DRUG DOSE CALC -->
-<div class="section">
-  <h2 class="h-amber">Drug Dose Calculation</h2>
-  <div class="grid2">
-    <div class="cell" style="line-height:2;font-size:13px">
-      <div style="font-size:16px;font-weight:600;margin-bottom:8px">mg = (%) × (mL) × 10</div>
-      <div><strong>Solute</strong> = <input type="text" style="width:200px"></div>
-      <div><strong>Solvent</strong> = <input type="text" style="width:200px"></div>
-      <div><strong>Solution</strong> = <input type="text" style="width:200px"></div>
-      <div style="margin-top:8px;font-size:14px"><strong>% concentration:</strong> x : y = (x / y) × 100</div>
-    </div>
-    <div class="cell" style="font-size:13px">
-      <div class="cell-label" style="margin-bottom:6px">Fluid resuscitation — hypotension / hypovolemia</div>
-      <div style="line-height:1.9">
-        <div>Hypotension defined as BP &lt; <input type="text" class="sm"></div>
-        <div><strong>Colloids</strong> (volume expanders): <input type="text" style="width:180px"></div>
-        <div><strong>Crystalloids</strong>: <input type="text" style="width:180px"></div>
-        <div><strong>Vasopressors</strong>: <input type="text" style="width:180px"></div>
-        <div>Position: <input type="text" class="sm"></div>
-        <div style="margin-top:4px;font-size:11px;color:#888">Note: hypovolemia ≠ shock</div>
-      </div>
-    </div>
-  </div>
-</div>
-
-</div>
-<script>
-(function(){
-  var KEY='pharm-study-guide';
-  var inputs=document.querySelectorAll('input[type=text]');
-  var saved;
-  try{saved=JSON.parse(localStorage.getItem(KEY))||{};}catch(e){saved={};}
-  inputs.forEach(function(el,i){
-    el.setAttribute('data-idx',i);
-    if(saved[i]!=null){el.value=saved[i];}
-    el.addEventListener('input',function(){
-      saved[this.getAttribute('data-idx')]=this.value;
-      localStorage.setItem(KEY,JSON.stringify(saved));
+    fields.forEach(el => {
+      const eventName = el.type === 'checkbox' ? 'change' : 'input';
+      el.addEventListener(eventName, () => saveAnswer(el));
     });
-  });
-})();
-</script>
+
+    initPlaceholders();
+    loadAnswers();
+    applyHintState();
+  </script>
 </body>
 </html>
