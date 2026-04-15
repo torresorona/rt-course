@@ -1,5 +1,5 @@
 # Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents — Complete Study Guide
-## Respiratory Therapy Course — RESC 2320 (Slides 89–end)
+## Respiratory Therapy Course — RESC 2320 (Slides 89–152)
 
 ---
 

@@ -4,7 +4,7 @@
   "lessons": [
     { "slug": "pharmacology/lesson-1", "title": "Principles of Drug Actions", "description": "Slides 1–38: Patient verification, routes of administration, ADME, receptor pathways." },
     { "slug": "pharmacology/lesson-2", "title": "Calculating Drug Doses, Bronchodilators & Mucus-Controlling Therapy", "description": "Slides 39–88: Drug dose calculations, SABAs, LABAs, anticholinergics, peak flow monitoring, xanthines, and mucus-controlling drug therapy." },
-    { "slug": "pharmacology/lesson-3", "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents", "description": "Slides 89–end: Corticosteroids, nonsteroidal anti-asthma agents, anti-infective agents, cold and cough agents, pulmonary vasodilators, neuromuscular blocking agents, diuretics, and fluid resuscitation." }
+    { "slug": "pharmacology/lesson-3", "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents", "description": "Slides 89–152: Corticosteroids, nonsteroidal anti-asthma agents, anti-infective agents, cold and cough agents, pulmonary vasodilators, neuromuscular blocking agents, diuretics, and fluid resuscitation." }
   ],
   "resources": [
     {
@@ -30,7 +30,7 @@
       "src": "/audio/Airway_Pharmacology_and_Respiratory_Math.m4a"
     },
     {
-      "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents (Slides 89–end)",
+      "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents (Slides 89–152)",
       "src": "/audio/Clinical_Guide_to_Respiratory_Pharmacology.m4a"
     }
   ]
