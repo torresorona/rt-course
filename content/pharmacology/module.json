@@ -3,7 +3,7 @@
   "description": "Principles of drug actions, receptor pathways, and medication administration.",
   "lessons": [
     { "slug": "pharmacology/lesson-1", "title": "Principles of Drug Actions", "description": "Slides 1–38: Patient verification, routes of administration, ADME, receptor pathways." },
-    { "slug": "pharmacology/lesson-2", "title": "Calculating Drug Doses & Bronchodilators", "description": "Slides 39–80: Drug dose calculations, SABAs, LABAs, anticholinergics, peak flow monitoring, xanthines." }
+    { "slug": "pharmacology/lesson-2", "title": "Calculating Drug Doses, Bronchodilators & Mucus-Controlling Therapy", "description": "Slides 39–88: Drug dose calculations, SABAs, LABAs, anticholinergics, peak flow monitoring, xanthines, and mucus-controlling drug therapy." }
   ],
   "resources": [
     {

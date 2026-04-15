@@ -252,6 +252,87 @@
         { "text": "Sustained release therapy" },
         { "text": "Diuresis" }
       ]
+    },
+    {
+      "text": "What are the indications for mucus-controlling medications?",
+      "answers": [
+        { "text": "Increase mucus production and improve cough reflex" },
+        { "text": "Reduce secretion accumulation, reduce risk of infections, and improve gas exchange", "correct": true },
+        { "text": "Stimulate bronchodilation and reduce airway resistance" },
+        { "text": "Increase CNS alertness and respiratory drive" }
+      ]
+    },
+    {
+      "text": "Which of the following diseases is NOT commonly associated with above normal mucus production/clearance?",
+      "answers": [
+        { "text": "Cystic Fibrosis (CF)" },
+        { "text": "Bronchitis" },
+        { "text": "Hypertension", "correct": true },
+        { "text": "Primary Ciliary Dyskinesia" }
+      ]
+    },
+    {
+      "text": "What does Acetylcysteine (Mucomyst) do?",
+      "answers": [
+        { "text": "Selectively lyses DNA structure of mucus" },
+        { "text": "Breaks disulfide bonds in mucus", "correct": true },
+        { "text": "Induces cough and mobilizes secretions" },
+        { "text": "Stimulates breathing in premature infants" }
+      ]
+    },
+    {
+      "text": "Besides mucus management, Acetylcysteine (Mucomyst) can also be given for what?",
+      "answers": [
+        { "text": "Anaphylaxis" },
+        { "text": "Cardiac arrest" },
+        { "text": "Tylenol overdoses", "correct": true },
+        { "text": "Apnea of prematurity" }
+      ]
+    },
+    {
+      "text": "What are the hazards of Acetylcysteine (Mucomyst)?",
+      "answers": [
+        { "text": "Tachycardia, hypertension, tremors" },
+        { "text": "Airway irritation/bronchospasm, airway obstruction from liquifying mucus, nausea due to sulfur smell", "correct": true },
+        { "text": "Seizures, arrhythmias, nausea" },
+        { "text": "Photosensitivity and liver damage" }
+      ]
+    },
+    {
+      "text": "What does Dornase Alfa (Pulmozyme) do to mucus?",
+      "answers": [
+        { "text": "Breaks disulfide bonds" },
+        { "text": "Induces cough to mobilize secretions" },
+        { "text": "Selectively lyses DNA structure of mucus", "correct": true },
+        { "text": "Increases mucus viscosity" }
+      ]
+    },
+    {
+      "text": "What are the indications for Dornase Alfa (Pulmozyme)?",
+      "answers": [
+        { "text": "Tylenol overdoses and bronchospasm" },
+        { "text": "CF mucus management, reduce respiratory tract infections, improves pulmonary function", "correct": true },
+        { "text": "Acute asthma exacerbation" },
+        { "text": "Post extubation stridor and croup" }
+      ]
+    },
+    {
+      "text": "What are the special handling instructions for Dornase Alfa (Pulmozyme)?",
+      "answers": [
+        { "text": "Must be mixed with saline before administration" },
+        { "text": "Photosensitive; refrigerated 36–46 F°; cannot be mixed with other medications", "correct": true },
+        { "text": "Must be administered within 1 hour of opening" },
+        { "text": "No special handling required" }
+      ]
+    },
+    {
+      "text": "What is Hypertonic Saline (Hyper-Sal) used for?",
+      "answers": [
+        { "text": "Breaking disulfide bonds in mucus" },
+        { "text": "Lysing DNA structure of mucus" },
+        { "text": "Induces cough/mobilizes secretions (useful in obtaining sputum sample)", "correct": true },
+        { "text": "Reducing respiratory tract infections in CF patients" }
+      ]
     }
   ]
 }

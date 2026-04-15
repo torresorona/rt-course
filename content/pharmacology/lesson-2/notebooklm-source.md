@@ -1,5 +1,5 @@
-# Calculating Drug Doses & Bronchodilators — Complete Study Guide
-## Respiratory Therapy Course — RESC 2320
+# Calculating Drug Doses, Bronchodilators & Mucus-Controlling Therapy — Complete Study Guide
+## Respiratory Therapy Course — RESC 2320 (Slides 39–88)
 
 ---
 
@@ -177,6 +177,36 @@ It is administered orally or by IV.
 
 ---
 
+## Topic 11: Mucus-Controlling Drug Therapy
+
+Mucus-controlling medications are used to reduce secretion accumulation, reduce risk of infections, and improve gas exchange.
+
+Diseases commonly associated with above normal mucus production or clearance include Cystic Fibrosis (CF), Bronchitis, Pneumonia, Asthma, Bronchiolitis, and Primary Ciliary Dyskinesia.
+
+There are three key mucus-controlling agents to know: Acetylcysteine (Mucomyst), Dornase Alfa (Pulmozyme), and Hypertonic Saline (Hyper-Sal).
+
+### Acetylcysteine (Mucomyst)
+
+Acetylcysteine breaks disulfide bonds in mucus. It can also be given for Tylenol overdoses.
+
+It is administered by inhalation via nebulization, or instilled directly into target lobes via bronchoscope.
+
+The hazards of Acetylcysteine include airway irritation and bronchospasm, airway obstruction from liquifying mucus, and nausea due to the sulfur smell.
+
+### Dornase Alfa (Pulmozyme)
+
+Dornase Alfa selectively lyses the DNA structure of mucus. It is indicated for CF mucus management, to reduce respiratory tract infections, and to improve pulmonary function.
+
+It is administered as a nebulized solution.
+
+There are special handling instructions for Dornase Alfa that you must remember: it is photosensitive, must be refrigerated at 36 to 46 degrees Fahrenheit, and cannot be mixed with other medications.
+
+### Hypertonic Saline (Hyper-Sal)
+
+Hypertonic Saline induces cough and mobilizes secretions. It is useful in obtaining sputum samples.
+
+---
+
 ## Key Terms and Mnemonics to Remember
 
 - **Solute**: drug being dissolved (mg)
@@ -199,3 +229,8 @@ It is administered orally or by IV.
 - **Red Zone**: < 60% personal best — bronchodilator + physician + 911
 - **Theophylline**: maintenance only; contraindicated for exacerbations; monitor for nausea, arrhythmias, seizures
 - **Caffeine Citrate (Cafcit)**: Apnea of Prematurity in premature infants
+- **Mucus-controlling indications**: reduce secretion accumulation, reduce risk of infections, improve gas exchange
+- **Diseases with abnormal mucus**: CF, Bronchitis, Pneumonia, Asthma, Bronchiolitis, Primary Ciliary Dyskinesia
+- **Acetylcysteine (Mucomyst)**: breaks disulfide bonds; also for Tylenol overdoses; hazards: bronchospasm, airway obstruction, nausea (sulfur smell)
+- **Dornase Alfa (Pulmozyme)**: lyses DNA structure of mucus; CF management; photosensitive, refrigerated 36–46°F, cannot mix with other meds
+- **Hypertonic Saline (Hyper-Sal)**: induces cough/mobilizes secretions; useful for sputum samples

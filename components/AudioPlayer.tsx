@@ -13,6 +13,7 @@ export default function AudioPlayer({
   const [playing, setPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
+  const [speed, setSpeed] = useState(1);
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -42,6 +43,17 @@ export default function AudioPlayer({
       audio.play();
     }
     setPlaying(!playing);
+  }
+
+  const speeds = [0.75, 1, 1.25, 1.5, 1.75, 2];
+
+  function cycleSpeed() {
+    const audio = audioRef.current;
+    if (!audio) return;
+    const idx = speeds.indexOf(speed);
+    const next = speeds[(idx + 1) % speeds.length];
+    audio.playbackRate = next;
+    setSpeed(next);
   }
 
   function seek(e: React.MouseEvent<HTMLDivElement>) {
@@ -99,6 +111,14 @@ export default function AudioPlayer({
             {duration ? fmt(duration) : "--:--"}
           </span>
         </div>
+
+        {/* Speed */}
+        <button
+          onClick={cycleSpeed}
+          className="shrink-0 rounded-lg bg-sand-100 px-2 py-1 text-xs font-semibold tabular-nums text-sand-600 transition-colors hover:bg-sand-200"
+        >
+          {speed}x
+        </button>
       </div>
     </div>
   );
