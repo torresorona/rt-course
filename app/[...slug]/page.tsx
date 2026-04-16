@@ -66,6 +66,7 @@ export default async function LessonPage({
     "pharmacology/lesson-1": "/audio/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a",
     "pharmacology/lesson-2": "/audio/Airway_Pharmacology_and_Respiratory_Math.m4a",
     "pharmacology/lesson-3": "/audio/Clinical_Guide_to_Respiratory_Pharmacology.m4a",
+    "pharmacology/lesson-4": "/audio/Pharmacology_for_Pain_Sedation_and_Emergencies.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

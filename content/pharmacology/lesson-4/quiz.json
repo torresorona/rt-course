@@ -1,0 +1,320 @@
+{
+  "title": "Pain Management, Vasopressors, Inotropes & Antiarrhythmic Agents Quiz",
+  "questions": [
+    {
+      "text": "What are examples of non-pharmacologic pain relief?",
+      "answers": [
+        { "text": "NSAIDs and opioids" },
+        { "text": "Re-positioning in bed and stabilization of fracture", "correct": true },
+        { "text": "Benzodiazepines and sedatives" },
+        { "text": "Corticosteroids and antihistamines" }
+      ]
+    },
+    {
+      "text": "What stress responses can pain cause?",
+      "answers": [
+        { "text": "Bradycardia and hypotension" },
+        { "text": "Tachycardia, elevated myocardial oxygen consumption, pulmonary dysfunction, hypercoagulability (thrombophilia)", "correct": true },
+        { "text": "Bronchodilation and decreased heart rate" },
+        { "text": "CNS depression and respiratory depression" }
+      ]
+    },
+    {
+      "text": "Analgesia provides absence of sensibility to pain without what?",
+      "answers": [
+        { "text": "Without reducing inflammation" },
+        { "text": "Without the loss of consciousness", "correct": true },
+        { "text": "Without any side effects" },
+        { "text": "Without the use of medication" }
+      ]
+    },
+    {
+      "text": "How does analgesia differ from anesthesia?",
+      "answers": [
+        { "text": "There is no difference" },
+        { "text": "Analgesia results in complete loss of physical sensation" },
+        { "text": "Anesthesia results in a complete loss of physical sensation", "correct": true },
+        { "text": "Analgesia is only delivered IV" }
+      ]
+    },
+    {
+      "text": "NSAIDs are the most common prescribed and what type of analgesic?",
+      "answers": [
+        { "text": "Most expensive" },
+        { "text": "Most cost effective", "correct": true },
+        { "text": "Most sedating" },
+        { "text": "Most potent" }
+      ]
+    },
+    {
+      "text": "What is the indication for NSAIDs?",
+      "answers": [
+        { "text": "Severe pain and sedation" },
+        { "text": "Anxiety and panic attacks" },
+        { "text": "Treat moderate pain", "correct": true },
+        { "text": "Cardiac arrest" }
+      ]
+    },
+    {
+      "text": "What is a key limitation of Tylenol (Acetaminophen) compared to NSAIDs?",
+      "answers": [
+        { "text": "It cannot be taken orally" },
+        { "text": "It does not address inflammation", "correct": true },
+        { "text": "It causes respiratory depression" },
+        { "text": "It requires IV administration" }
+      ]
+    },
+    {
+      "text": "What are the adverse actions of opioids/narcotics?",
+      "answers": [
+        { "text": "Tremors, palpitations, tachycardia" },
+        { "text": "Respiratory depression, hypotension, CNS depression", "correct": true },
+        { "text": "Nausea, arrhythmias, seizures" },
+        { "text": "Bronchospasm and airway obstruction" }
+      ]
+    },
+    {
+      "text": "Which opioid has lower respiratory depression?",
+      "answers": [
+        { "text": "Morphine" },
+        { "text": "Fentanyl" },
+        { "text": "Codeine", "correct": true },
+        { "text": "Hydromorphone" }
+      ]
+    },
+    {
+      "text": "What routes of administration are used for opioids/narcotics?",
+      "answers": [
+        { "text": "Inhalation only" },
+        { "text": "Transdermal, IM, IV, orally", "correct": true },
+        { "text": "Subcutaneous and intraosseous only" },
+        { "text": "Oral only" }
+      ]
+    },
+    {
+      "text": "What is the indication for sedation?",
+      "answers": [
+        { "text": "Treat moderate pain" },
+        { "text": "Treat anxiety and tension; must be used if delivering paralytic", "correct": true },
+        { "text": "Treat cardiac arrest" },
+        { "text": "Treat ventricular arrhythmias" }
+      ]
+    },
+    {
+      "text": "Etomidate (Amidate) is specifically used for what?",
+      "answers": [
+        { "text": "Chronic pain management" },
+        { "text": "Rapid sequence induction, conscious sedation, TBI patients", "correct": true },
+        { "text": "Treating ventricular fibrillation" },
+        { "text": "Treating anaphylaxis" }
+      ]
+    },
+    {
+      "text": "What are the indications for benzodiazepines?",
+      "answers": [
+        { "text": "Moderate pain and inflammation" },
+        { "text": "Cardiac arrest and bradycardia" },
+        { "text": "Anxiety, panic attacks, insomnia and seizures", "correct": true },
+        { "text": "Hypotension and shock" }
+      ]
+    },
+    {
+      "text": "Which benzodiazepine is the most commonly used?",
+      "answers": [
+        { "text": "Lorazepam (Ativan)" },
+        { "text": "Midazolam (Versed)", "correct": true },
+        { "text": "Diazepam (Valium)" },
+        { "text": "Alprazolam (Xanax)" }
+      ]
+    },
+    {
+      "text": "Propofol (Diprivan) is known as what nickname due to its effects?",
+      "answers": [
+        { "text": "Milk of magnesia" },
+        { "text": "Milk of amnesia", "correct": true },
+        { "text": "Milk of sedation" },
+        { "text": "Milk of analgesia" }
+      ]
+    },
+    {
+      "text": "What are the effects of Propofol (Diprivan)?",
+      "answers": [
+        { "text": "Increased LOC and memory retention" },
+        { "text": "Decreased LOC and lack of memory for events", "correct": true },
+        { "text": "Increased heart rate and blood pressure" },
+        { "text": "Bronchodilation and pain relief" }
+      ]
+    },
+    {
+      "text": "What is the indication for Adenosine?",
+      "answers": [
+        { "text": "Ventricular fibrillation" },
+        { "text": "Sinus bradycardia" },
+        { "text": "SVT that does not improve with vagal maneuvers (carotid massage, Valsalva)", "correct": true },
+        { "text": "Anaphylaxis" }
+      ]
+    },
+    {
+      "text": "What is the action of Adenosine?",
+      "answers": [
+        { "text": "Increases heart rate" },
+        { "text": "Decreases AV node conduction; slows impulse transmission", "correct": true },
+        { "text": "Stimulates adrenergic receptors" },
+        { "text": "Increases myocardial contractility" }
+      ]
+    },
+    {
+      "text": "What are the indications for Amiodarone?",
+      "answers": [
+        { "text": "SVT and sinus bradycardia" },
+        { "text": "A Fib, VFib, and ventricular tachyarrhythmias", "correct": true },
+        { "text": "Hypotension and shock" },
+        { "text": "Torsades de Pointe" }
+      ]
+    },
+    {
+      "text": "What is the action of Amiodarone?",
+      "answers": [
+        { "text": "Increases AV node conduction" },
+        { "text": "Slows conduction, and delays repolarization", "correct": true },
+        { "text": "Increases heart rate and contractility" },
+        { "text": "Produces vasoconstriction" }
+      ]
+    },
+    {
+      "text": "What are the indications for Atropine Sulfate?",
+      "answers": [
+        { "text": "A Fib and VFib" },
+        { "text": "SVT and ventricular tachycardia" },
+        { "text": "Sinus bradycardia; asystole; PEA; organophosphate poisoning", "correct": true },
+        { "text": "Hypotension with signs of shock" }
+      ]
+    },
+    {
+      "text": "What is the action of Atropine Sulfate?",
+      "answers": [
+        { "text": "Decrease AV node conduction" },
+        { "text": "Increase HR, and increase force of atrial contractions", "correct": true },
+        { "text": "Depress ventricular electrical activity" },
+        { "text": "Produce vasoconstriction" }
+      ]
+    },
+    {
+      "text": "Dopamine is indicated for hypotension with signs and symptoms of shock and as a second-line drug for what?",
+      "answers": [
+        { "text": "Ventricular fibrillation" },
+        { "text": "SVT" },
+        { "text": "Symptomatic bradycardia", "correct": true },
+        { "text": "Anaphylaxis" }
+      ]
+    },
+    {
+      "text": "What is the action of Dopamine?",
+      "answers": [
+        { "text": "Decreases AV node conduction" },
+        { "text": "Increases myocardial contractility, increases cardiac output, cerebral vasodilation, and peripheral arterial and venous vasoconstriction", "correct": true },
+        { "text": "Increases electrical stimulation threshold" },
+        { "text": "Prolongs conduction time" }
+      ]
+    },
+    {
+      "text": "Epinephrine is the 1st line drug therapy for what condition?",
+      "answers": [
+        { "text": "Sinus bradycardia" },
+        { "text": "SVT" },
+        { "text": "Anaphylaxis", "correct": true },
+        { "text": "Torsades de Pointe" }
+      ]
+    },
+    {
+      "text": "What is the action of Epinephrine?",
+      "answers": [
+        { "text": "Decreases AV node conduction and slows impulse transmission" },
+        { "text": "Stimulates adrenergic receptors; produces vasoconstriction, increases blood pressure, heart rate, and improves perfusion to the brain and heart", "correct": true },
+        { "text": "Depresses ventricular electrical activity" },
+        { "text": "Prolongs conduction time caused by hypomagnesemia" }
+      ]
+    },
+    {
+      "text": "What is the correct treatment sequence for anaphylaxis?",
+      "answers": [
+        { "text": "Fluids, corticosteroids, epinephrine, antihistamines, Trendelenburg" },
+        { "text": "Antihistamines, epinephrine, fluids, corticosteroids, Trendelenburg" },
+        { "text": "Epinephrine, antihistamines injection, corticosteroids injection, fluids, Trendelenburg", "correct": true },
+        { "text": "Corticosteroids, epinephrine, fluids, antihistamines, Trendelenburg" }
+      ]
+    },
+    {
+      "text": "Lidocaine is an alternative antiarrhythmic to what drug in cardiac arrest from VF/VT?",
+      "answers": [
+        { "text": "Adenosine" },
+        { "text": "Atropine" },
+        { "text": "Amiodarone", "correct": true },
+        { "text": "Dopamine" }
+      ]
+    },
+    {
+      "text": "What is the action of Lidocaine?",
+      "answers": [
+        { "text": "Stimulates adrenergic receptors" },
+        { "text": "Increases electrical stimulation threshold; depresses ventricular electrical activity", "correct": true },
+        { "text": "Increases myocardial contractility" },
+        { "text": "Decreases AV node conduction" }
+      ]
+    },
+    {
+      "text": "What is Magnesium Sulfate indicated for?",
+      "answers": [
+        { "text": "A Fib and VFib" },
+        { "text": "SVT and sinus bradycardia" },
+        { "text": "Management of Torsades de Pointe or hypomagnesemia", "correct": true },
+        { "text": "Anaphylaxis and severe hypotension" }
+      ]
+    },
+    {
+      "text": "What are the indications for Norepinephrine (Levophed)?",
+      "answers": [
+        { "text": "SVT and A Fib" },
+        { "text": "Vasogenic shock, septic shock, neurogenic shock", "correct": true },
+        { "text": "Sinus bradycardia and asystole" },
+        { "text": "Torsades de Pointe" }
+      ]
+    },
+    {
+      "text": "What is the action of Norepinephrine?",
+      "answers": [
+        { "text": "Decreases AV node conduction" },
+        { "text": "Depresses ventricular electrical activity" },
+        { "text": "Alpha-adrenergic stimulation; vasoconstriction — increases blood pressure; increases blood flow", "correct": true },
+        { "text": "Prolongs conduction time" }
+      ]
+    },
+    {
+      "text": "What is the indication for Oxygen as a cardiac medication?",
+      "answers": [
+        { "text": "Treat ventricular arrhythmias" },
+        { "text": "Decreased PaO2; provides all cellular energy and support for myocardial contraction", "correct": true },
+        { "text": "Treat SVT" },
+        { "text": "Management of hypomagnesemia" }
+      ]
+    },
+    {
+      "text": "What does Oxygen prevent at the cellular level?",
+      "answers": [
+        { "text": "Hypercoagulability" },
+        { "text": "Cellular and tissue hypoxia", "correct": true },
+        { "text": "Vasoconstriction" },
+        { "text": "Repolarization delay" }
+      ]
+    },
+    {
+      "text": "Sedation must be used if delivering what type of agent?",
+      "answers": [
+        { "text": "Bronchodilator" },
+        { "text": "NSAID" },
+        { "text": "Paralytic", "correct": true },
+        { "text": "Antihistamine" }
+      ]
+    }
+  ]
+}
