@@ -1,4 +1,5 @@
 import { compileMDX } from "next-mdx-remote/rsc";
+import remarkGfm from "remark-gfm";
 import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import { notFound } from "next/navigation";
@@ -8,7 +9,15 @@ import DataTable from "@/components/DataTable";
 import AudioPlayer from "@/components/AudioPlayer";
 import ReceptorTable from "@/components/ReceptorTable";
 
-const mdxComponents = { DataTable };
+function MdxTable(props: React.ComponentProps<"table">) {
+  return (
+    <div className="my-6 overflow-hidden rounded-xl border border-sand-200">
+      <table {...props} />
+    </div>
+  );
+}
+
+const mdxComponents = { DataTable, table: MdxTable };
 
 const views = [
   { id: "review", label: "Review" },
@@ -40,7 +49,7 @@ export default async function LessonPage({
   }>({
     source,
     components: mdxComponents,
-    options: { parseFrontmatter: true },
+    options: { parseFrontmatter: true, mdxOptions: { remarkPlugins: [remarkGfm] } },
   });
 
   // Read module.json for breadcrumb if it exists
