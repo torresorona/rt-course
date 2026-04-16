@@ -6,6 +6,7 @@ import {
   boolean,
   timestamp,
   uniqueIndex,
+  jsonb,
 } from "drizzle-orm/pg-core";
 
 export const modules = pgTable("modules", {
@@ -51,6 +52,10 @@ export const progress = pgTable(
       .notNull()
       .references(() => modules.slug, { onDelete: "cascade" }),
     quizScore: integer("quiz_score"),
+    quizResponses: jsonb("quiz_responses").$type<Record<string, number>>(),
+    quizResults: jsonb("quiz_results").$type<
+      { questionId: number; correct: boolean; correctAnswerId: number }[]
+    >(),
     completedAt: timestamp("completed_at"),
     updatedAt: timestamp("updated_at").notNull().defaultNow(),
   },

@@ -84,6 +84,8 @@ export async function POST(request: Request) {
       .update(progress)
       .set({
         quizScore: score,
+        quizResponses: responses,
+        quizResults: results,
         completedAt: new Date(),
         updatedAt: new Date(),
       })
@@ -93,6 +95,8 @@ export async function POST(request: Request) {
       userId,
       moduleSlug,
       quizScore: score,
+      quizResponses: responses,
+      quizResults: results,
       completedAt: new Date(),
     });
   }

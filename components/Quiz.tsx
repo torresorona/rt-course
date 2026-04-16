@@ -26,6 +26,10 @@ interface ScoreResult {
   results: { questionId: number; correct: boolean; correctAnswerId: number }[];
 }
 
+function storageKey(slug: string, suffix: string) {
+  return `quiz:${slug}:${suffix}`;
+}
+
 export default function Quiz({ slug }: { slug: string }) {
   const [quiz, setQuiz] = useState<QuizData | null>(null);
   const [responses, setResponses] = useState<Record<string, number>>({});
@@ -34,16 +38,65 @@ export default function Quiz({ slug }: { slug: string }) {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
+  // Load quiz data and saved progress on mount
   useEffect(() => {
-    fetch(`/api/quiz/${slug}`)
-      .then((res) => {
-        if (!res.ok) throw new Error("Failed to load quiz");
-        return res.json();
-      })
-      .then(setQuiz)
-      .catch((err) => setError(err.message))
-      .finally(() => setLoading(false));
+    async function load() {
+      try {
+        const [quizRes, progressRes] = await Promise.all([
+          fetch(`/api/quiz/${slug}`),
+          fetch(`/api/progress/${slug}`),
+        ]);
+
+        if (!quizRes.ok) throw new Error("Failed to load quiz");
+        setQuiz(await quizRes.json());
+
+        // Restore server-saved results if available
+        if (progressRes.ok) {
+          const saved = await progressRes.json();
+          if (saved.saved && saved.results) {
+            setResponses(saved.responses ?? {});
+            setResult({
+              score: saved.score,
+              correct: saved.results.filter((r: { correct: boolean }) => r.correct).length,
+              total: saved.results.length,
+              results: saved.results,
+            });
+            localStorage.removeItem(storageKey(slug, "responses"));
+            return;
+          }
+        }
+
+        // Fall back to localStorage for in-progress draft answers
+        try {
+          const draft = localStorage.getItem(storageKey(slug, "responses"));
+          if (draft) setResponses(JSON.parse(draft));
+        } catch {
+          // ignore corrupt storage
+        }
+      } catch (err) {
+        setError(err instanceof Error ? err.message : "Failed to load quiz");
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    load();
   }, [slug]);
+
+  // Persist draft responses to localStorage as user answers
+  useEffect(() => {
+    if (!result && Object.keys(responses).length > 0) {
+      localStorage.setItem(storageKey(slug, "responses"), JSON.stringify(responses));
+    }
+  }, [responses, result, slug]);
+
+  async function resetQuiz() {
+    setResponses({});
+    setResult(null);
+    localStorage.removeItem(storageKey(slug, "responses"));
+    // Clear server-saved results
+    fetch(`/api/progress/${slug}`, { method: "DELETE" }).catch(() => {});
+  }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -190,10 +243,7 @@ export default function Quiz({ slug }: { slug: string }) {
         </div>
 
         <button
-          onClick={() => {
-            setResult(null);
-            setResponses({});
-          }}
+          onClick={resetQuiz}
           className="mt-6 w-full rounded-xl bg-sand-900 px-5 py-3 text-sm font-semibold text-sand-50 transition-colors hover:bg-sand-800"
         >
           Try again
@@ -208,9 +258,20 @@ export default function Quiz({ slug }: { slug: string }) {
       {/* Header */}
       <div className="mb-6 flex items-center justify-between">
         <h3 className="text-lg font-semibold text-sand-900">{quiz.title}</h3>
-        <span className="rounded-full bg-sand-100 px-3 py-1 text-xs font-medium text-sand-600">
-          {answered} / {total}
-        </span>
+        <div className="flex items-center gap-3">
+          {answered > 0 && (
+            <button
+              type="button"
+              onClick={resetQuiz}
+              className="rounded-full px-3 py-1 text-xs font-medium text-sand-500 transition-colors hover:bg-sand-100 hover:text-sand-700"
+            >
+              Reset
+            </button>
+          )}
+          <span className="rounded-full bg-sand-100 px-3 py-1 text-xs font-medium text-sand-600">
+            {answered} / {total}
+          </span>
+        </div>
       </div>
 
       <form onSubmit={handleSubmit}>
