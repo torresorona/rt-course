@@ -1,0 +1,1805 @@
+{
+  "title": "Pharmacology Module Exam",
+  "questions": [
+    {
+      "text": "A drug's generic name is also known as its:",
+      "answers": [
+        {
+          "text": "Trade name"
+        },
+        {
+          "text": "Non-proprietary name",
+          "correct": true
+        },
+        {
+          "text": "Chemical formula"
+        },
+        {
+          "text": "Brand name"
+        }
+      ]
+    },
+    {
+      "text": "Before administering any medication, the first step is to:",
+      "answers": [
+        {
+          "text": "Verify the dosage"
+        },
+        {
+          "text": "Verify the treatment route"
+        },
+        {
+          "text": "Verify patient identity using full name and DOB",
+          "correct": true
+        },
+        {
+          "text": "Verify the treatment frequency"
+        }
+      ]
+    },
+    {
+      "text": "A patient is prescribed a dry powder inhaler but is found to be intubated. This scenario highlights the importance of verifying what?",
+      "answers": [
+        {
+          "text": "Patient identity"
+        },
+        {
+          "text": "Medication dosage"
+        },
+        {
+          "text": "Treatment route",
+          "correct": true
+        },
+        {
+          "text": "Treatment frequency"
+        }
+      ]
+    },
+    {
+      "text": "Which phase of drug action describes the mechanisms by which medications produce effects in the body?",
+      "answers": [
+        {
+          "text": "Administration"
+        },
+        {
+          "text": "Pharmacokinetics"
+        },
+        {
+          "text": "Pharmacodynamics",
+          "correct": true
+        },
+        {
+          "text": "Absorption"
+        }
+      ]
+    },
+    {
+      "text": "The oral route of administration has which disadvantage compared to inhalation?",
+      "answers": [
+        {
+          "text": "Faster onset of action"
+        },
+        {
+          "text": "Requires smaller doses"
+        },
+        {
+          "text": "Greater systemic side effects due to hepatic metabolism",
+          "correct": true
+        },
+        {
+          "text": "Bypasses GI absorption"
+        }
+      ]
+    },
+    {
+      "text": "Why does the inhalation route require smaller doses than the oral route?",
+      "answers": [
+        {
+          "text": "The drug is metabolized systemically first"
+        },
+        {
+          "text": "It delivers the drug directly to the target site, bypassing GI absorption",
+          "correct": true
+        },
+        {
+          "text": "The drug particles are larger"
+        },
+        {
+          "text": "Inhalation has a slower onset of action"
+        }
+      ]
+    },
+    {
+      "text": "A bolus injection is commonly used in which situations?",
+      "answers": [
+        {
+          "text": "Daily maintenance therapy"
+        },
+        {
+          "text": "Emergencies, pain management, and anesthesia induction",
+          "correct": true
+        },
+        {
+          "text": "Mild persistent asthma only"
+        },
+        {
+          "text": "Oral rehydration"
+        }
+      ]
+    },
+    {
+      "text": "Intraosseous (IO) administration is used when:",
+      "answers": [
+        {
+          "text": "The patient refuses oral medications"
+        },
+        {
+          "text": "IV access cannot be established or other routes are not available",
+          "correct": true
+        },
+        {
+          "text": "The patient needs daily maintenance therapy"
+        },
+        {
+          "text": "The drug must bypass the kidneys"
+        }
+      ]
+    },
+    {
+      "text": "Concerns associated with intraosseous (IO) administration include all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Necrosis"
+        },
+        {
+          "text": "Infection"
+        },
+        {
+          "text": "Osteomyelitis"
+        },
+        {
+          "text": "Bronchospasm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which letter in the NAVEL mnemonic represents Vasopressin?",
+      "answers": [
+        {
+          "text": "N"
+        },
+        {
+          "text": "A"
+        },
+        {
+          "text": "V",
+          "correct": true
+        },
+        {
+          "text": "L"
+        }
+      ]
+    },
+    {
+      "text": "Antagonistic medications do what to receptors?",
+      "answers": [
+        {
+          "text": "Stimulate them"
+        },
+        {
+          "text": "Block them",
+          "correct": true
+        },
+        {
+          "text": "Destroy them"
+        },
+        {
+          "text": "Duplicate them"
+        }
+      ]
+    },
+    {
+      "text": "In the Lock and Key Theory, the receptor is compared to a:",
+      "answers": [
+        {
+          "text": "Key"
+        },
+        {
+          "text": "Message"
+        },
+        {
+          "text": "Lock",
+          "correct": true
+        },
+        {
+          "text": "Neurotransmitter"
+        }
+      ]
+    },
+    {
+      "text": "Anti-adrenergic medications work by doing what to norepinephrine/epinephrine receptors?",
+      "answers": [
+        {
+          "text": "Stimulating them"
+        },
+        {
+          "text": "Blocking them",
+          "correct": true
+        },
+        {
+          "text": "Destroying them"
+        },
+        {
+          "text": "Increasing their sensitivity"
+        }
+      ]
+    },
+    {
+      "text": "Vasopressors are an example of medications that stimulate which receptor?",
+      "answers": [
+        {
+          "text": "Beta 2"
+        },
+        {
+          "text": "Muscarinic M1"
+        },
+        {
+          "text": "Alpha 1",
+          "correct": true
+        },
+        {
+          "text": "Beta 1"
+        }
+      ]
+    },
+    {
+      "text": "The 'lol' drugs (atenolol, metoprolol, labetalol) are examples of:",
+      "answers": [
+        {
+          "text": "Alpha adrenergic agonists"
+        },
+        {
+          "text": "Beta blockers (beta anti-adrenergic medications)",
+          "correct": true
+        },
+        {
+          "text": "Anticholinergic bronchodilators"
+        },
+        {
+          "text": "Alpha anti-adrenergic medications"
+        }
+      ]
+    },
+    {
+      "text": "Stimulation of Beta 1 receptors in the heart results in:",
+      "answers": [
+        {
+          "text": "Vasodilation and bronchodilation"
+        },
+        {
+          "text": "Increased HR and increased myocardial contractility",
+          "correct": true
+        },
+        {
+          "text": "Constriction of the airways"
+        },
+        {
+          "text": "Decreased blood pressure"
+        }
+      ]
+    },
+    {
+      "text": "Dobutamine is an example of a drug that stimulates which receptor?",
+      "answers": [
+        {
+          "text": "Alpha 1"
+        },
+        {
+          "text": "Beta 1",
+          "correct": true
+        },
+        {
+          "text": "Beta 2"
+        },
+        {
+          "text": "Muscarinic M3"
+        }
+      ]
+    },
+    {
+      "text": "Cholinergic medications stimulate receptors to respond to which neurotransmitter?",
+      "answers": [
+        {
+          "text": "Norepinephrine"
+        },
+        {
+          "text": "Epinephrine"
+        },
+        {
+          "text": "Acetylcholine",
+          "correct": true
+        },
+        {
+          "text": "Dopamine"
+        }
+      ]
+    },
+    {
+      "text": "Muscarinic receptors are located in the:",
+      "answers": [
+        {
+          "text": "Heart and kidneys"
+        },
+        {
+          "text": "Lungs, pancreas, and liver"
+        },
+        {
+          "text": "Airways",
+          "correct": true
+        },
+        {
+          "text": "Heart, lungs, and vasculature"
+        }
+      ]
+    },
+    {
+      "text": "According to the receptor number rule, receptors numbered 2 cause:",
+      "answers": [
+        {
+          "text": "Contraction"
+        },
+        {
+          "text": "Relaxation",
+          "correct": true
+        },
+        {
+          "text": "Inflammation"
+        },
+        {
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "A solution is defined as:",
+      "answers": [
+        {
+          "text": "The drug being dissolved"
+        },
+        {
+          "text": "The medium in which a substance is dissolved"
+        },
+        {
+          "text": "Solute dissolved in solvent",
+          "correct": true
+        },
+        {
+          "text": "The percentage of the drug by weight"
+        }
+      ]
+    },
+    {
+      "text": "What is the concentration of a medication listed as 1:200?",
+      "answers": [
+        {
+          "text": "0.2%"
+        },
+        {
+          "text": "0.5%",
+          "correct": true
+        },
+        {
+          "text": "2.0%"
+        },
+        {
+          "text": "5.0%"
+        }
+      ]
+    },
+    {
+      "text": "Using the drug calculation formula, what volume of a 0.5% solution delivers 5 mg of drug?",
+      "answers": [
+        {
+          "text": "0.5 mL"
+        },
+        {
+          "text": "1 mL",
+          "correct": true
+        },
+        {
+          "text": "5 mL"
+        },
+        {
+          "text": "10 mL"
+        }
+      ]
+    },
+    {
+      "text": "B2 receptors in the lungs are the primary source of control of:",
+      "answers": [
+        {
+          "text": "Heart rate"
+        },
+        {
+          "text": "Blood pressure"
+        },
+        {
+          "text": "Airway diameter",
+          "correct": true
+        },
+        {
+          "text": "Mucus production"
+        }
+      ]
+    },
+    {
+      "text": "Which class of medications is the most frequently administered class of respiratory medications?",
+      "answers": [
+        {
+          "text": "LABAs"
+        },
+        {
+          "text": "Anticholinergics"
+        },
+        {
+          "text": "Short-Acting B2 Agonists (SABAs)",
+          "correct": true
+        },
+        {
+          "text": "Corticosteroids"
+        }
+      ]
+    },
+    {
+      "text": "Albuterol can be used 15-30 minutes before exercise to prevent:",
+      "answers": [
+        {
+          "text": "Anaphylaxis"
+        },
+        {
+          "text": "Exercise-induced bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Exercise-induced hypertension"
+        },
+        {
+          "text": "Post-exercise fatigue"
+        }
+      ]
+    },
+    {
+      "text": "The (R) isomer of Albuterol is responsible for:",
+      "answers": [
+        {
+          "text": "Tremors and heart palpitations"
+        },
+        {
+          "text": "Relaxing bronchial smooth muscle",
+          "correct": true
+        },
+        {
+          "text": "Increasing blood pressure"
+        },
+        {
+          "text": "CNS depression"
+        }
+      ]
+    },
+    {
+      "text": "What are the common side effects of Albuterol?",
+      "answers": [
+        {
+          "text": "Respiratory depression, hypotension, CNS depression"
+        },
+        {
+          "text": "Tremors, palpitations, tachycardia, hypertension",
+          "correct": true
+        },
+        {
+          "text": "Nausea, arrhythmias, seizures"
+        },
+        {
+          "text": "Bronchospasm and airway obstruction"
+        }
+      ]
+    },
+    {
+      "text": "Racemic Epinephrine effects last:",
+      "answers": [
+        {
+          "text": "Less than 3 hours",
+          "correct": true
+        },
+        {
+          "text": "4-8 hours"
+        },
+        {
+          "text": "12 hours"
+        },
+        {
+          "text": "24 hours"
+        }
+      ]
+    },
+    {
+      "text": "Epinephrine lacks receptor specificity, which means:",
+      "answers": [
+        {
+          "text": "It only works on one receptor type"
+        },
+        {
+          "text": "It has a high prevalence of side effects",
+          "correct": true
+        },
+        {
+          "text": "It has no side effects"
+        },
+        {
+          "text": "It only works when inhaled"
+        }
+      ]
+    },
+    {
+      "text": "LABAs are indicated for maintenance treatment of moderate to severe asthma in patients greater than what age?",
+      "answers": [
+        {
+          "text": "2 years"
+        },
+        {
+          "text": "5 years",
+          "correct": true
+        },
+        {
+          "text": "12 years"
+        },
+        {
+          "text": "18 years"
+        }
+      ]
+    },
+    {
+      "text": "LABAs are commonly paired with which type of medication?",
+      "answers": [
+        {
+          "text": "Diuretics"
+        },
+        {
+          "text": "Opioids"
+        },
+        {
+          "text": "Anti-inflammatory agents/corticosteroids",
+          "correct": true
+        },
+        {
+          "text": "Xanthines"
+        }
+      ]
+    },
+    {
+      "text": "Anticholinergic bronchodilators are used secondary to or in conjunction with:",
+      "answers": [
+        {
+          "text": "Corticosteroids"
+        },
+        {
+          "text": "LABAs"
+        },
+        {
+          "text": "SABAs",
+          "correct": true
+        },
+        {
+          "text": "Xanthines"
+        }
+      ]
+    },
+    {
+      "text": "Ipratropium Bromide (Atrovent) is classified as a:",
+      "answers": [
+        {
+          "text": "Long-Acting Muscarinic Antagonist (LAMA)"
+        },
+        {
+          "text": "Short-Acting Muscarinic Antagonist (SAMA)",
+          "correct": true
+        },
+        {
+          "text": "Short-Acting Beta Agonist (SABA)"
+        },
+        {
+          "text": "Long-Acting Beta Agonist (LABA)"
+        }
+      ]
+    },
+    {
+      "text": "What does FEV1 measure?",
+      "answers": [
+        {
+          "text": "Maximum inspiratory flow"
+        },
+        {
+          "text": "How much air a person can exhale in the first second of a forced breath",
+          "correct": true
+        },
+        {
+          "text": "Total lung capacity"
+        },
+        {
+          "text": "Residual volume after maximum exhalation"
+        }
+      ]
+    },
+    {
+      "text": "Combivent and Duoneb combine a SABA with a SAMA. What is the duration of this combination?",
+      "answers": [
+        {
+          "text": "Less than 3 hours"
+        },
+        {
+          "text": "4-6 hours",
+          "correct": true
+        },
+        {
+          "text": "12 hours"
+        },
+        {
+          "text": "24 hours"
+        }
+      ]
+    },
+    {
+      "text": "When performing peak flow measurements, exhalation to residual volume is:",
+      "answers": [
+        {
+          "text": "Required for accurate results"
+        },
+        {
+          "text": "Unnecessary",
+          "correct": true
+        },
+        {
+          "text": "Only required for children"
+        },
+        {
+          "text": "Required when in the Red Zone"
+        }
+      ]
+    },
+    {
+      "text": "A PEF of 80%-100% of personal best falls in the:",
+      "answers": [
+        {
+          "text": "Green Zone \u2014 no action required",
+          "correct": true
+        },
+        {
+          "text": "Yellow Zone \u2014 bronchodilator plus possibly oral steroids"
+        },
+        {
+          "text": "Red Zone \u2014 call 9-1-1"
+        },
+        {
+          "text": "Orange Zone \u2014 contact physician"
+        }
+      ]
+    },
+    {
+      "text": "In the Yellow Zone (60%-80% PEF), the patient should:",
+      "answers": [
+        {
+          "text": "Take no action"
+        },
+        {
+          "text": "Self-administer bronchodilator plus possibly oral steroids",
+          "correct": true
+        },
+        {
+          "text": "Call 9-1-1 immediately"
+        },
+        {
+          "text": "Increase corticosteroid dose"
+        }
+      ]
+    },
+    {
+      "text": "Xanthines act like stimulants and can cause all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Increased cardiac muscle contractility"
+        },
+        {
+          "text": "Increased CNS alertness"
+        },
+        {
+          "text": "Diuresis"
+        },
+        {
+          "text": "Bronchospasm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Theophylline is used as maintenance therapy for mild, persistent asthma via what formulation?",
+      "answers": [
+        {
+          "text": "Immediate release tablets"
+        },
+        {
+          "text": "Sustained release",
+          "correct": true
+        },
+        {
+          "text": "Nebulized solution"
+        },
+        {
+          "text": "MDI"
+        }
+      ]
+    },
+    {
+      "text": "For COPD, GOLD Guidelines prefer which bronchodilators over Theophylline?",
+      "answers": [
+        {
+          "text": "SABAs and corticosteroids"
+        },
+        {
+          "text": "Anticholinergics and beta agonists",
+          "correct": true
+        },
+        {
+          "text": "Mucolytics and anti-leukotrienes"
+        },
+        {
+          "text": "NSAIDs and opioids"
+        }
+      ]
+    },
+    {
+      "text": "Caffeine Citrate (Cafcit) can be administered by which routes?",
+      "answers": [
+        {
+          "text": "Inhalation and topical"
+        },
+        {
+          "text": "Oral and IV",
+          "correct": true
+        },
+        {
+          "text": "IM and subcutaneous"
+        },
+        {
+          "text": "Nebulized and MDI"
+        }
+      ]
+    },
+    {
+      "text": "Diseases commonly associated with above normal mucus production include all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Cystic Fibrosis"
+        },
+        {
+          "text": "Bronchitis"
+        },
+        {
+          "text": "Asthma"
+        },
+        {
+          "text": "Cardiac arrhythmia",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Acetylcysteine (Mucomyst) can be administered via which routes?",
+      "answers": [
+        {
+          "text": "Oral and IV only"
+        },
+        {
+          "text": "Inhalation via nebulization and instilled directly via bronchoscope",
+          "correct": true
+        },
+        {
+          "text": "MDI and DPI only"
+        },
+        {
+          "text": "Subcutaneous injection only"
+        }
+      ]
+    },
+    {
+      "text": "The sulfur smell of Acetylcysteine (Mucomyst) can cause:",
+      "answers": [
+        {
+          "text": "Bronchodilation"
+        },
+        {
+          "text": "Nausea",
+          "correct": true
+        },
+        {
+          "text": "Tachycardia"
+        },
+        {
+          "text": "Hypertension"
+        }
+      ]
+    },
+    {
+      "text": "Dornase Alfa (Pulmozyme) must be stored at what temperature?",
+      "answers": [
+        {
+          "text": "Room temperature (68-77 F)"
+        },
+        {
+          "text": "Frozen (below 32 F)"
+        },
+        {
+          "text": "Refrigerated (36-46 F)",
+          "correct": true
+        },
+        {
+          "text": "Heated (98-100 F)"
+        }
+      ]
+    },
+    {
+      "text": "What distinguishes Dornase Alfa (Pulmozyme) from Acetylcysteine (Mucomyst) in their mechanism?",
+      "answers": [
+        {
+          "text": "Pulmozyme breaks disulfide bonds; Mucomyst lyses DNA"
+        },
+        {
+          "text": "Pulmozyme lyses DNA structure of mucus; Mucomyst breaks disulfide bonds",
+          "correct": true
+        },
+        {
+          "text": "Both break disulfide bonds"
+        },
+        {
+          "text": "Both lyse DNA structure"
+        }
+      ]
+    },
+    {
+      "text": "Hypertonic Saline is particularly useful for:",
+      "answers": [
+        {
+          "text": "Breaking disulfide bonds in mucus"
+        },
+        {
+          "text": "Obtaining sputum samples by inducing cough",
+          "correct": true
+        },
+        {
+          "text": "Treating Tylenol overdoses"
+        },
+        {
+          "text": "Reducing respiratory tract infections in CF"
+        }
+      ]
+    },
+    {
+      "text": "Corticosteroids are long lasting and most are given:",
+      "answers": [
+        {
+          "text": "Once daily"
+        },
+        {
+          "text": "BID (twice daily)",
+          "correct": true
+        },
+        {
+          "text": "QID (four times daily)"
+        },
+        {
+          "text": "Every 8 hours"
+        }
+      ]
+    },
+    {
+      "text": "Which corticosteroid side effect involves decreased efficacy of other medications?",
+      "answers": [
+        {
+          "text": "Candida Albicans"
+        },
+        {
+          "text": "Decreased efficacy of hypertensive and diabetic medications",
+          "correct": true
+        },
+        {
+          "text": "Osteoporosis"
+        },
+        {
+          "text": "Growth retardation"
+        }
+      ]
+    },
+    {
+      "text": "Aspergillus Niger is a type of:",
+      "answers": [
+        {
+          "text": "Bacterial infection"
+        },
+        {
+          "text": "Viral infection"
+        },
+        {
+          "text": "Fungal infection associated with corticosteroid use",
+          "correct": true
+        },
+        {
+          "text": "Parasitic infection"
+        }
+      ]
+    },
+    {
+      "text": "A holding chamber is used with inhaled corticosteroids to:",
+      "answers": [
+        {
+          "text": "Increase the dose delivered"
+        },
+        {
+          "text": "Reduce the risk of fungal infections",
+          "correct": true
+        },
+        {
+          "text": "Speed up onset of action"
+        },
+        {
+          "text": "Convert the MDI to a nebulizer"
+        }
+      ]
+    },
+    {
+      "text": "Symbicort MDI combines which two medications?",
+      "answers": [
+        {
+          "text": "Fluticasone + Salmeterol"
+        },
+        {
+          "text": "Mometasone + Formoterol"
+        },
+        {
+          "text": "Budesonide + Formoterol",
+          "correct": true
+        },
+        {
+          "text": "Beclomethasone + Salmeterol"
+        }
+      ]
+    },
+    {
+      "text": "Dulera MDI is a combination of:",
+      "answers": [
+        {
+          "text": "Fluticasone + Salmeterol"
+        },
+        {
+          "text": "Mometasone + Formoterol",
+          "correct": true
+        },
+        {
+          "text": "Budesonide + Formoterol"
+        },
+        {
+          "text": "Ciclesonide + Salmeterol"
+        }
+      ]
+    },
+    {
+      "text": "Inhaled corticosteroids are also prescribed if the patient is using their SABA more than:",
+      "answers": [
+        {
+          "text": "Once a month"
+        },
+        {
+          "text": "A few days per week",
+          "correct": true
+        },
+        {
+          "text": "Once daily"
+        },
+        {
+          "text": "Twice daily"
+        }
+      ]
+    },
+    {
+      "text": "Nonsteroidal anti-asthma agents are controller medications, meaning they are NOT used for:",
+      "answers": [
+        {
+          "text": "Prophylactic management"
+        },
+        {
+          "text": "Long-term treatment"
+        },
+        {
+          "text": "Acute exacerbations or symptom relief",
+          "correct": true
+        },
+        {
+          "text": "Mild persistent asthma"
+        }
+      ]
+    },
+    {
+      "text": "Intrinsic asthma triggers differ from extrinsic triggers in that they are:",
+      "answers": [
+        {
+          "text": "Caused by allergic hypersensitivity to antigens"
+        },
+        {
+          "text": "Non-allergic; internal factors within the body",
+          "correct": true
+        },
+        {
+          "text": "Always related to environmental pollutants"
+        },
+        {
+          "text": "Only present in children"
+        }
+      ]
+    },
+    {
+      "text": "The inflammatory trigger cascade results in activation of all the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Leukotrienes"
+        },
+        {
+          "text": "Histamine"
+        },
+        {
+          "text": "Prostaglandins"
+        },
+        {
+          "text": "Norepinephrine",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Cromolyn Sodium decreases severity and episodes in:",
+      "answers": [
+        {
+          "text": "Cardiac arrhythmias"
+        },
+        {
+          "text": "Asthma and COPD exacerbations",
+          "correct": true
+        },
+        {
+          "text": "Renal failure"
+        },
+        {
+          "text": "Anaphylaxis"
+        }
+      ]
+    },
+    {
+      "text": "Zafirlukast (Accolate) is indicated for patients of what age?",
+      "answers": [
+        {
+          "text": ">12 months"
+        },
+        {
+          "text": "5 years and older",
+          "correct": true
+        },
+        {
+          "text": "12 years and older"
+        },
+        {
+          "text": ">18 years"
+        }
+      ]
+    },
+    {
+      "text": "Omalizumab (Xolair) is administered via which route?",
+      "answers": [
+        {
+          "text": "Oral"
+        },
+        {
+          "text": "Inhalation"
+        },
+        {
+          "text": "Subcutaneous injection",
+          "correct": true
+        },
+        {
+          "text": "Intravenous"
+        }
+      ]
+    },
+    {
+      "text": "Roflumilast is administered by which route?",
+      "answers": [
+        {
+          "text": "Inhalation"
+        },
+        {
+          "text": "IV"
+        },
+        {
+          "text": "Oral",
+          "correct": true
+        },
+        {
+          "text": "Subcutaneous injection"
+        }
+      ]
+    },
+    {
+      "text": "By increasing cAMP, Roflumilast achieves what effect?",
+      "answers": [
+        {
+          "text": "Stimulates pro-inflammatory pathways"
+        },
+        {
+          "text": "Suppresses pro-inflammatory pathways",
+          "correct": true
+        },
+        {
+          "text": "Increases airway constriction"
+        },
+        {
+          "text": "Stimulates mucus production"
+        }
+      ]
+    },
+    {
+      "text": "When administering Pentamidine (Nebupent), providers must use what type of room?",
+      "answers": [
+        {
+          "text": "Positive pressure room"
+        },
+        {
+          "text": "Standard patient room"
+        },
+        {
+          "text": "Negative airflow room with HEPA filtration",
+          "correct": true
+        },
+        {
+          "text": "Operating room"
+        }
+      ]
+    },
+    {
+      "text": "Pentamidine (Nebupent) is administered using which specific nebulizer?",
+      "answers": [
+        {
+          "text": "Standard nebulizer"
+        },
+        {
+          "text": "SPAG-2"
+        },
+        {
+          "text": "Respirgard II nebulizer",
+          "correct": true
+        },
+        {
+          "text": "DPI / Diskhaler"
+        }
+      ]
+    },
+    {
+      "text": "Ribavirin (Virazole) exposure concerns for providers include effects on which systems?",
+      "answers": [
+        {
+          "text": "Cardiovascular and renal only"
+        },
+        {
+          "text": "GI, CNS, and hematologic",
+          "correct": true
+        },
+        {
+          "text": "Musculoskeletal and dermatologic"
+        },
+        {
+          "text": "Hepatic only"
+        }
+      ]
+    },
+    {
+      "text": "Tobramycin (Tobi) targets which specific organism?",
+      "answers": [
+        {
+          "text": "Streptococcus Pneumoniae"
+        },
+        {
+          "text": "Pseudomonas Aeruginosa",
+          "correct": true
+        },
+        {
+          "text": "Pneumocystis Carinii"
+        },
+        {
+          "text": "Respiratory Syncytial Virus"
+        }
+      ]
+    },
+    {
+      "text": "When should Tobramycin (Tobi) be administered relative to other medications?",
+      "answers": [
+        {
+          "text": "First medication of each therapy visit"
+        },
+        {
+          "text": "Last medication of each therapy visit",
+          "correct": true
+        },
+        {
+          "text": "Simultaneously with other nebulized medications"
+        },
+        {
+          "text": "Mixed with other medications"
+        }
+      ]
+    },
+    {
+      "text": "Teratogenic effects of Tobramycin (Tobi) refer to:",
+      "answers": [
+        {
+          "text": "Hearing loss"
+        },
+        {
+          "text": "Renal impairment"
+        },
+        {
+          "text": "Fetal abnormalities risk during pregnancy",
+          "correct": true
+        },
+        {
+          "text": "Liver damage"
+        }
+      ]
+    },
+    {
+      "text": "Aztreonam (Cayston) is not recommended for children younger than:",
+      "answers": [
+        {
+          "text": "2 years"
+        },
+        {
+          "text": "5 years"
+        },
+        {
+          "text": "7 years",
+          "correct": true
+        },
+        {
+          "text": "12 years"
+        }
+      ]
+    },
+    {
+      "text": "Zanamivir (Relenza) is delivered via what device?",
+      "answers": [
+        {
+          "text": "Standard nebulizer"
+        },
+        {
+          "text": "MDI"
+        },
+        {
+          "text": "DPI / Diskhaler",
+          "correct": true
+        },
+        {
+          "text": "SPAG-2"
+        }
+      ]
+    },
+    {
+      "text": "Macrolide antibiotics treat which type of bacteria?",
+      "answers": [
+        {
+          "text": "Gram- bacteria only"
+        },
+        {
+          "text": "Gram+ bacteria and limited Gram- bacteria",
+          "correct": true
+        },
+        {
+          "text": "Fungal infections"
+        },
+        {
+          "text": "Viral infections"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is an example of a macrolide antibiotic?",
+      "answers": [
+        {
+          "text": "Ciprofloxacin"
+        },
+        {
+          "text": "Azithromycin",
+          "correct": true
+        },
+        {
+          "text": "Levofloxacin"
+        },
+        {
+          "text": "Tobramycin"
+        }
+      ]
+    },
+    {
+      "text": "Allegra, Zyrtec, and Claritin are classified as what type of antihistamine?",
+      "answers": [
+        {
+          "text": "Sedating"
+        },
+        {
+          "text": "Non-sedating",
+          "correct": true
+        },
+        {
+          "text": "Anti-inflammatory"
+        },
+        {
+          "text": "Mucolytic"
+        }
+      ]
+    },
+    {
+      "text": "Antihistamines produce what effect on secretions?",
+      "answers": [
+        {
+          "text": "Increase mucus production"
+        },
+        {
+          "text": "Strong, long-acting drying effect",
+          "correct": true
+        },
+        {
+          "text": "Thin and mobilize secretions"
+        },
+        {
+          "text": "No effect on secretions"
+        }
+      ]
+    },
+    {
+      "text": "INOmax decreases the need for what life support intervention?",
+      "answers": [
+        {
+          "text": "Mechanical ventilation"
+        },
+        {
+          "text": "ECMO",
+          "correct": true
+        },
+        {
+          "text": "Chest tubes"
+        },
+        {
+          "text": "Dialysis"
+        }
+      ]
+    },
+    {
+      "text": "Off-label uses of Inhaled Nitric Oxide include all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "ARDS"
+        },
+        {
+          "text": "Post lung transplant perfusion"
+        },
+        {
+          "text": "Reducing pulmonary vascular resistance"
+        },
+        {
+          "text": "Treatment of systemic hypertension",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "INOmax is primarily delivered via which modality?",
+      "answers": [
+        {
+          "text": "MDI"
+        },
+        {
+          "text": "Inline mechanical ventilator life support",
+          "correct": true
+        },
+        {
+          "text": "Standard nebulizer"
+        },
+        {
+          "text": "DPI / Diskhaler"
+        }
+      ]
+    },
+    {
+      "text": "INOmax must be weaned slowly to prevent:",
+      "answers": [
+        {
+          "text": "Methemoglobinemia"
+        },
+        {
+          "text": "Rebound pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "Bronchospasm"
+        },
+        {
+          "text": "Cardiac arrest"
+        }
+      ]
+    },
+    {
+      "text": "Iloprost (Ventavis), Treprostinil (Tyvaso), and Epoprostenol (Flolan) are examples of:",
+      "answers": [
+        {
+          "text": "Corticosteroids"
+        },
+        {
+          "text": "Prostacyclins",
+          "correct": true
+        },
+        {
+          "text": "Xanthines"
+        },
+        {
+          "text": "Neuromuscular blocking agents"
+        }
+      ]
+    },
+    {
+      "text": "Neuromuscular blocking agents affect which type of muscle?",
+      "answers": [
+        {
+          "text": "Cardiac muscle"
+        },
+        {
+          "text": "Smooth muscle"
+        },
+        {
+          "text": "Skeletal muscle only",
+          "correct": true
+        },
+        {
+          "text": "All muscle types"
+        }
+      ]
+    },
+    {
+      "text": "NMBAs are indicated for all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Facilitate intubation"
+        },
+        {
+          "text": "Enhance ventilator synchrony"
+        },
+        {
+          "text": "Reduce O2 consumption"
+        },
+        {
+          "text": "Treat bronchospasm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Succinylcholine's paralytic effect persists for approximately:",
+      "answers": [
+        {
+          "text": "60-90 seconds"
+        },
+        {
+          "text": "5-10 minutes"
+        },
+        {
+          "text": "10-15 minutes",
+          "correct": true
+        },
+        {
+          "text": "30 minutes"
+        }
+      ]
+    },
+    {
+      "text": "Succinylcholine is ideal for patients requiring:",
+      "answers": [
+        {
+          "text": "Long-term ventilator paralysis"
+        },
+        {
+          "text": "Intubation",
+          "correct": true
+        },
+        {
+          "text": "Chronic pain relief"
+        },
+        {
+          "text": "Sedation without paralysis"
+        }
+      ]
+    },
+    {
+      "text": "Hyperkalemia from Succinylcholine occurs due to:",
+      "answers": [
+        {
+          "text": "Histamine release from mast cells"
+        },
+        {
+          "text": "Efflux of potassium from muscle cells",
+          "correct": true
+        },
+        {
+          "text": "Renal failure"
+        },
+        {
+          "text": "Hepatic metabolism"
+        }
+      ]
+    },
+    {
+      "text": "Non-depolarizing agents have an onset of greater than:",
+      "answers": [
+        {
+          "text": "30 seconds"
+        },
+        {
+          "text": "60-90 seconds"
+        },
+        {
+          "text": "5 minutes",
+          "correct": true
+        },
+        {
+          "text": "15 minutes"
+        }
+      ]
+    },
+    {
+      "text": "Adverse effects of non-depolarizing agents include histamine release from mast cells which triggers:",
+      "answers": [
+        {
+          "text": "Hypertension"
+        },
+        {
+          "text": "Hypotension",
+          "correct": true
+        },
+        {
+          "text": "Tachycardia only"
+        },
+        {
+          "text": "Bronchodilation"
+        }
+      ]
+    },
+    {
+      "text": "Paralysis of the diaphragm and intercostal muscles from NMBAs can result in:",
+      "answers": [
+        {
+          "text": "Hypertension"
+        },
+        {
+          "text": "Inadequate ventilation",
+          "correct": true
+        },
+        {
+          "text": "Bronchospasm"
+        },
+        {
+          "text": "Increased O2 consumption"
+        }
+      ]
+    },
+    {
+      "text": "Oliguria is defined as urine output:",
+      "answers": [
+        {
+          "text": "Greater than 60 mL/hr"
+        },
+        {
+          "text": "No urine output"
+        },
+        {
+          "text": "Less than 30 to 60 mL/hr",
+          "correct": true
+        },
+        {
+          "text": "30 to 60 mL/hr"
+        }
+      ]
+    },
+    {
+      "text": "Polyuria is defined as urine output:",
+      "answers": [
+        {
+          "text": "Less than 30 mL/hr"
+        },
+        {
+          "text": "No urine output"
+        },
+        {
+          "text": "30-60 mL/hr"
+        },
+        {
+          "text": "Greater than 60 mL/hr",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Diuretics are contraindicated in patients with:",
+      "answers": [
+        {
+          "text": "Hypertension"
+        },
+        {
+          "text": "Pulmonary edema"
+        },
+        {
+          "text": "Hypovolemia",
+          "correct": true
+        },
+        {
+          "text": "Congestive Heart Failure"
+        }
+      ]
+    },
+    {
+      "text": "Side effects of diuretics include:",
+      "answers": [
+        {
+          "text": "Hypervolemia and metabolic alkalosis"
+        },
+        {
+          "text": "Hypovolemia and acid-base abnormalities",
+          "correct": true
+        },
+        {
+          "text": "Bronchospasm and airway obstruction"
+        },
+        {
+          "text": "Tachycardia and hypertension"
+        }
+      ]
+    },
+    {
+      "text": "Which diuretic category includes Mannitol?",
+      "answers": [
+        {
+          "text": "Loop"
+        },
+        {
+          "text": "Thiazide"
+        },
+        {
+          "text": "Osmotic",
+          "correct": true
+        },
+        {
+          "text": "Potassium Sparing"
+        }
+      ]
+    },
+    {
+      "text": "Spironolactone belongs to which diuretic category?",
+      "answers": [
+        {
+          "text": "Loop"
+        },
+        {
+          "text": "Osmotic"
+        },
+        {
+          "text": "Carbonic Anhydrase Inhibitor"
+        },
+        {
+          "text": "Potassium Sparing",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Hypovolemia indications include all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Sinus tachycardia"
+        },
+        {
+          "text": "Decreased cardiac output and stroke volume"
+        },
+        {
+          "text": "Dizziness and extreme thirst"
+        },
+        {
+          "text": "Polyuria and low blood pressure",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Postural hypotension is verified by measuring blood pressure in which positions?",
+      "answers": [
+        {
+          "text": "Prone and standing"
+        },
+        {
+          "text": "Supine and sitting or standing",
+          "correct": true
+        },
+        {
+          "text": "Standing and running"
+        },
+        {
+          "text": "Left lateral decubitus and supine"
+        }
+      ]
+    },
+    {
+      "text": "Crystalloid solutions differ from colloid solutions because crystalloid molecules:",
+      "answers": [
+        {
+          "text": "Are too large to cross the semipermeable membrane"
+        },
+        {
+          "text": "Can cross the semipermeable membrane into cells and body tissues",
+          "correct": true
+        },
+        {
+          "text": "Remain only in the bloodstream"
+        },
+        {
+          "text": "Are only used for cardiac arrest"
+        }
+      ]
+    },
+    {
+      "text": "Hydroxyethyl Starch (HES) is classified as a:",
+      "answers": [
+        {
+          "text": "Crystalloid"
+        },
+        {
+          "text": "Colloid",
+          "correct": true
+        },
+        {
+          "text": "Vasopressor"
+        },
+        {
+          "text": "Diuretic"
+        }
+      ]
+    },
+    {
+      "text": "Pathological conditions that cause pain include all of the following EXCEPT:",
+      "answers": [
+        {
+          "text": "Preexisting diseases"
+        },
+        {
+          "text": "Surgical procedures"
+        },
+        {
+          "text": "Monitoring and therapeutic devices"
+        },
+        {
+          "text": "Normal vital signs",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

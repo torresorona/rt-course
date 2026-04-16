@@ -5,7 +5,8 @@
     { "slug": "pharmacology/lesson-1", "title": "Principles of Drug Actions", "description": "Slides 1–38: Patient verification, routes of administration, ADME, receptor pathways." },
     { "slug": "pharmacology/lesson-2", "title": "Calculating Drug Doses, Bronchodilators & Mucus-Controlling Therapy", "description": "Slides 39–88: Drug dose calculations, SABAs, LABAs, anticholinergics, peak flow monitoring, xanthines, and mucus-controlling drug therapy." },
     { "slug": "pharmacology/lesson-3", "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents", "description": "Slides 89–152: Corticosteroids, nonsteroidal anti-asthma agents, anti-infective agents, cold and cough agents, pulmonary vasodilators, neuromuscular blocking agents, diuretics, and fluid resuscitation." },
-    { "slug": "pharmacology/lesson-4", "title": "Pain Management, Vasopressors, Inotropes & Antiarrhythmic Agents", "description": "Slides 154–176: Pain management, analgesics, sedatives, benzodiazepines, vasopressors, inotropes, and antiarrhythmic agents." }
+    { "slug": "pharmacology/lesson-4", "title": "Pain Management, Vasopressors, Inotropes & Antiarrhythmic Agents", "description": "Slides 154–176: Pain management, analgesics, sedatives, benzodiazepines, vasopressors, inotropes, and antiarrhythmic agents." },
+    { "slug": "pharmacology/lesson-5", "title": "Module Exam", "description": "Comprehensive 100-question exam covering all Pharmacology module content from Lessons 1–4." }
   ],
   "resources": [
     {

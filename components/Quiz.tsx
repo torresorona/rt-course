@@ -193,9 +193,9 @@ export default function Quiz({ slug }: { slug: string }) {
         <div className="space-y-3">
           {quiz.questions.map((q) => {
             const r = result.results.find((r) => r.questionId === q.id);
-            const correctAnswerText = !r?.correct
-              ? q.answers.find((a) => a.id === r?.correctAnswerId)?.text
-              : null;
+            const correctAnswerText = q.answers.find(
+              (a) => a.id === r?.correctAnswerId
+            )?.text;
             const selectedText = q.answers.find(
               (a) => a.id === responses[String(q.id)]
             )?.text;
@@ -221,22 +221,22 @@ export default function Quiz({ slug }: { slug: string }) {
                   </span>
                   <p className="text-sm text-sand-800">{q.text}</p>
                 </div>
-                {!r?.correct && (
-                  <div className="mt-3 ml-9 space-y-1.5">
-                    {selectedText && (
-                      <p className="text-sm text-terracotta-600">
-                        <span className="font-medium">Your answer:</span>{" "}
-                        {selectedText}
-                      </p>
-                    )}
-                    {correctAnswerText && (
-                      <p className="text-sm text-sage-700">
-                        <span className="font-medium">Correct answer:</span>{" "}
-                        {correctAnswerText}
-                      </p>
-                    )}
-                  </div>
-                )}
+                <div className="mt-3 ml-9 space-y-1.5">
+                  {selectedText && (
+                    <p
+                      className={`text-sm ${r?.correct ? "text-sage-700" : "text-terracotta-600"}`}
+                    >
+                      <span className="font-medium">Your answer:</span>{" "}
+                      {selectedText}
+                    </p>
+                  )}
+                  {!r?.correct && correctAnswerText && (
+                    <p className="text-sm text-sage-700">
+                      <span className="font-medium">Correct answer:</span>{" "}
+                      {correctAnswerText}
+                    </p>
+                  )}
+                </div>
               </div>
             );
           })}
