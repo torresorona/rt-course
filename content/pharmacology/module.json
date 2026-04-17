@@ -20,6 +20,12 @@
       "description": "Interactive fill-in-the-blank study guide covering routes, receptors, bronchodilators, cardiac meds, and more.",
       "url": "/pharmacology-study-guide.html",
       "type": "study-guide"
+    },
+    {
+      "title": "Pharmacology Study Worksheet",
+      "description": "Printable 10-page worksheet with diagrams and blanks — covers routes, ADME, receptors, dose calculations, and all major drug classes.",
+      "url": "/pharmacology_worksheet_v2.html",
+      "type": "worksheet"
     }
   ],
   "audio": [
