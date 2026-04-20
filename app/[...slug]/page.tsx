@@ -8,6 +8,7 @@ import Quiz from "@/components/Quiz";
 import DataTable from "@/components/DataTable";
 import AudioPlayer from "@/components/AudioPlayer";
 import ReceptorTable from "@/components/ReceptorTable";
+import LabRanges from "@/components/LabRanges";
 
 function MdxTable(props: React.ComponentProps<"table">) {
   return (
@@ -71,7 +72,9 @@ export default async function LessonPage({
   const audioSrc = audioMap[slugPath] ?? null;
 
   // Check if this lesson has resources
-  const hasResources = slugPath === "pharmacology/lesson-1";
+  const hasResources =
+    slugPath === "pharmacology/lesson-1" ||
+    slugPath === "patient-assessment/lesson-1";
 
   return (
     <div>
@@ -143,6 +146,7 @@ export default async function LessonPage({
       {activeView === "resources" && (
         <div className="space-y-6">
           {slugPath === "pharmacology/lesson-1" && <ReceptorTable />}
+          {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
           {!hasResources && (
             <div className="rounded-2xl border border-dashed border-sand-300 p-8 text-center text-sand-500">
               No additional resources for this lesson yet.

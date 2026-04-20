@@ -1,0 +1,338 @@
+{
+  "title": "Patient History & Laboratory Values Quiz",
+  "questions": [
+    {
+      "text": "Which of the following is NOT one of the four components of the patient history?",
+      "answers": [
+        { "text": "Background Information" },
+        { "text": "Past Medical History" },
+        { "text": "Family Medical History" },
+        { "text": "Discharge Summary", "correct": true }
+      ]
+    },
+    {
+      "text": "What is the purpose of the Family Medical History?",
+      "answers": [
+        { "text": "Identify the patient's insurance coverage" },
+        { "text": "Learn the health status of blood relatives and screen for hereditary-linked diseases", "correct": true },
+        { "text": "Document prior hospital admissions" },
+        { "text": "Record the patient's current medications" }
+      ]
+    },
+    {
+      "text": "Which history category gathers information about possible asbestos, coal dust, or fume exposure?",
+      "answers": [
+        { "text": "Background Information" },
+        { "text": "Past Medical History" },
+        { "text": "Occupational / Environmental History", "correct": true },
+        { "text": "Family Medical History" }
+      ]
+    },
+    {
+      "text": "Which chart document is written by the admitting physician and provides the patient's baseline status?",
+      "answers": [
+        { "text": "Progress Note" },
+        { "text": "Physician Orders" },
+        { "text": "Admission Note", "correct": true },
+        { "text": "Clinical Note" }
+      ]
+    },
+    {
+      "text": "What is the primary purpose of a Progress Note?",
+      "answers": [
+        { "text": "Document the reason for admission" },
+        { "text": "List treatments the physician believes are needed" },
+        { "text": "Provide daily annotations detailing progress toward treatment goals", "correct": true },
+        { "text": "Authorize a DNR order" }
+      ]
+    },
+    {
+      "text": "For a patient with a DNR/DNI/CMO order, what three steps must be taken?",
+      "answers": [
+        { "text": "Verify the order in the chart, ensure the wristband is in place, and discuss with the care team", "correct": true },
+        { "text": "Cancel all medications, remove IV access, and discharge the patient" },
+        { "text": "Only verify the wristband" },
+        { "text": "Notify the family and proceed with intubation" }
+      ]
+    },
+    {
+      "text": "What are the four main categories of laboratory values covered in this lesson?",
+      "answers": [
+        { "text": "CBC, BMP, Microbiology, Coagulation", "correct": true },
+        { "text": "CBC, ABG, PFT, ECG" },
+        { "text": "Chemistry, Hematology, Microbiology, Radiology" },
+        { "text": "BMP, CMP, Gram stain, Pulse oximetry" }
+      ]
+    },
+    {
+      "text": "What is the normal range for total white blood cell count?",
+      "answers": [
+        { "text": "150 – 400" },
+        { "text": "4,000 – 11,000", "correct": true },
+        { "text": "12,000 – 20,000" },
+        { "text": "35,000 – 45,000" }
+      ]
+    },
+    {
+      "text": "Which WBC type is elevated with allergic reactions and is associated with asthma?",
+      "answers": [
+        { "text": "Neutrophils" },
+        { "text": "Eosinophils", "correct": true },
+        { "text": "Lymphocytes" },
+        { "text": "Monocytes" }
+      ]
+    },
+    {
+      "text": "Elevation of which WBC type is associated with tuberculosis?",
+      "answers": [
+        { "text": "Basophils" },
+        { "text": "Eosinophils" },
+        { "text": "Monocytes", "correct": true },
+        { "text": "Segmented neutrophils" }
+      ]
+    },
+    {
+      "text": "What differentiates band neutrophils from segmented neutrophils?",
+      "answers": [
+        { "text": "Bands are mature cells; segmented are immature" },
+        { "text": "Bands are immature cells that increase with bacterial infection; segmented are mature cells that decrease with bacterial infection", "correct": true },
+        { "text": "They are identical — just different names" },
+        { "text": "Bands come from lymph nodes; segmented come from bone marrow" }
+      ]
+    },
+    {
+      "text": "A WBC count of 18,000 would indicate what condition, and what intervention does it suggest?",
+      "answers": [
+        { "text": "Leukopenia — begin isolation precautions" },
+        { "text": "Leukocytosis — indication for the patient to be on antibiotics", "correct": true },
+        { "text": "Polycythemia — start phlebotomy" },
+        { "text": "Thrombocytosis — begin anticoagulation" }
+      ]
+    },
+    {
+      "text": "Leukopenia is a decrease in WBC that places the patient at greatest risk for what?",
+      "answers": [
+        { "text": "Bleeding" },
+        { "text": "Tissue hypoxia" },
+        { "text": "Infection due to immunosuppression", "correct": true },
+        { "text": "Kidney failure" }
+      ]
+    },
+    {
+      "text": "What is the normal range for red blood cell count?",
+      "answers": [
+        { "text": "150,000 – 400,000/mm³" },
+        { "text": "4 – 6 million/mm³", "correct": true },
+        { "text": "4,000 – 11,000/mm³" },
+        { "text": "1.34 – 15.5/mm³" }
+      ]
+    },
+    {
+      "text": "Why does polycythemia develop in a patient with chronic COPD or someone living at high altitude?",
+      "answers": [
+        { "text": "The kidneys excrete extra RBCs to raise hematocrit" },
+        { "text": "The body releases erythropoietin (EPO) in response to low tissue oxygen, stimulating bone marrow to make more RBCs", "correct": true },
+        { "text": "Decreased altitude reduces RBC breakdown" },
+        { "text": "Elevated CO₂ directly produces RBCs" }
+      ]
+    },
+    {
+      "text": "A major complication of polycythemia is:",
+      "answers": [
+        { "text": "Reduced oxygen-carrying capacity" },
+        { "text": "Increased blood viscosity", "correct": true },
+        { "text": "Decreased hemoglobin" },
+        { "text": "Thrombocytopenia" }
+      ]
+    },
+    {
+      "text": "How much oxygen does 1 gram of hemoglobin carry?",
+      "answers": [
+        { "text": "0.34 mL" },
+        { "text": "1.34 mL", "correct": true },
+        { "text": "13.4 mL" },
+        { "text": "100 mL" }
+      ]
+    },
+    {
+      "text": "What is the normal hemoglobin range for an adult male?",
+      "answers": [
+        { "text": "12.5 – 14.5 g/dL" },
+        { "text": "13.5 – 15.5 g/dL", "correct": true },
+        { "text": "7 – 20 g/dL" },
+        { "text": "42 – 52 g/dL" }
+      ]
+    },
+    {
+      "text": "Hematocrit primarily reflects which aspect of the patient's status?",
+      "answers": [
+        { "text": "Infection status" },
+        { "text": "Hydration status", "correct": true },
+        { "text": "Kidney function" },
+        { "text": "Clotting ability" }
+      ]
+    },
+    {
+      "text": "A platelet count of 120,000 indicates which condition?",
+      "answers": [
+        { "text": "Thrombocytosis — the patient is at risk of clotting" },
+        { "text": "Thrombocytopenia — the patient is likely to have bleeding problems", "correct": true },
+        { "text": "Leukocytosis" },
+        { "text": "Polycythemia" }
+      ]
+    },
+    {
+      "text": "Sodium's normal range and role:",
+      "answers": [
+        { "text": "3.5 – 5.0 mmol/L, primary intracellular cation" },
+        { "text": "135 – 145 mmol/L, primary extracellular cation", "correct": true },
+        { "text": "98 – 106 mEq/L, primary extracellular anion" },
+        { "text": "22 – 29 mEq/L, primary buffer" }
+      ]
+    },
+    {
+      "text": "Which electrolyte is the primary intracellular cation, critical for heart and kidney function and acid-base balance?",
+      "answers": [
+        { "text": "Sodium" },
+        { "text": "Potassium", "correct": true },
+        { "text": "Chloride" },
+        { "text": "Bicarbonate" }
+      ]
+    },
+    {
+      "text": "Hyperkalemia can be caused by which of the following?",
+      "answers": [
+        { "text": "Metabolic alkalosis" },
+        { "text": "Excessive excretion" },
+        { "text": "Metabolic acidosis or kidney failure", "correct": true },
+        { "text": "Drinking too much water" }
+      ]
+    },
+    {
+      "text": "Chloride's normal range and primary role is:",
+      "answers": [
+        { "text": "135 – 145 mmol/L, fluid balance" },
+        { "text": "98 – 106 mEq/L, maintaining acid-base balance", "correct": true },
+        { "text": "22 – 29 mEq/L, buffering" },
+        { "text": "7 – 20 mg/dL, renal function" }
+      ]
+    },
+    {
+      "text": "An increased Total CO₂ (TCO₂) is most commonly caused by:",
+      "answers": [
+        { "text": "Hyperventilation" },
+        { "text": "Metabolic acidosis" },
+        { "text": "Severe diarrhea" },
+        { "text": "Ventilatory failure", "correct": true }
+      ]
+    },
+    {
+      "text": "Normal fasting glucose range is:",
+      "answers": [
+        { "text": "40 – 60 mg/dL" },
+        { "text": "70 – 105 mg/dL", "correct": true },
+        { "text": "120 – 180 mg/dL" },
+        { "text": "200 – 300 mg/dL" }
+      ]
+    },
+    {
+      "text": "BUN and Creatinine are primarily used to assess which organ system?",
+      "answers": [
+        { "text": "Hepatic (liver)" },
+        { "text": "Renal (kidney)", "correct": true },
+        { "text": "Cardiac" },
+        { "text": "Pulmonary" }
+      ]
+    },
+    {
+      "text": "An elevated BUN suggests _____; a decreased BUN suggests _____.",
+      "answers": [
+        { "text": "Liver disease; kidney disease" },
+        { "text": "Kidney disease; liver disease or malnutrition", "correct": true },
+        { "text": "Dehydration; overhydration" },
+        { "text": "Diabetes; hypoglycemia" }
+      ]
+    },
+    {
+      "text": "The purpose of a Sputum Gram Stain is:",
+      "answers": [
+        { "text": "To measure the patient's hemoglobin level" },
+        { "text": "To determine the specific microorganism causing an infection and guide antibiotic choice", "correct": true },
+        { "text": "To assess the patient's coagulation status" },
+        { "text": "To measure the patient's oxygen level" }
+      ]
+    },
+    {
+      "text": "Which organisms are typically identified by a Gram POSITIVE sputum result?",
+      "answers": [
+        { "text": "Pseudomonas aeruginosa, Haemophilus influenzae, E. coli" },
+        { "text": "Staphylococcus, Streptococcus, Diplococcus, Pneumococcus", "correct": true },
+        { "text": "Mycobacterium tuberculosis only" },
+        { "text": "Candida and Aspergillus" }
+      ]
+    },
+    {
+      "text": "Gram NEGATIVE sputum results (Pseudomonas, H. influenzae, E. coli) are typically treated with:",
+      "answers": [
+        { "text": "Penicillins" },
+        { "text": "Streptomycin, Gentamycin, or Colimycin", "correct": true },
+        { "text": "Warfarin" },
+        { "text": "Corticosteroids" }
+      ]
+    },
+    {
+      "text": "Which test is a rapid and effective method for determining tuberculosis?",
+      "answers": [
+        { "text": "Sputum culture" },
+        { "text": "Gram stain alone" },
+        { "text": "Acid Fast", "correct": true },
+        { "text": "APTT" }
+      ]
+    },
+    {
+      "text": "How long does it typically take to get sputum culture results back?",
+      "answers": [
+        { "text": "Minutes" },
+        { "text": "2 – 4 hours" },
+        { "text": "24 – 48 hours", "correct": true },
+        { "text": "1 – 2 weeks" }
+      ]
+    },
+    {
+      "text": "Prothrombin Time (PT) is specifically indicated to monitor patients on which anticoagulant?",
+      "answers": [
+        { "text": "Heparin" },
+        { "text": "Warfarin (Coumadin)", "correct": true },
+        { "text": "Aspirin" },
+        { "text": "Clopidogrel" }
+      ]
+    },
+    {
+      "text": "Normal PT range is:",
+      "answers": [
+        { "text": "0.8 – 1.1 seconds" },
+        { "text": "12 – 15 seconds", "correct": true },
+        { "text": "23 – 32 seconds" },
+        { "text": "70 – 105 seconds" }
+      ]
+    },
+    {
+      "text": "An INR that is too high means:",
+      "answers": [
+        { "text": "The patient's blood clots very fast" },
+        { "text": "The patient may be in danger of bleeding out", "correct": true },
+        { "text": "The patient's potassium is elevated" },
+        { "text": "The patient is dehydrated" }
+      ]
+    },
+    {
+      "text": "APTT (normal 23 – 32 seconds) is indicated to monitor patients on which drug?",
+      "answers": [
+        { "text": "Warfarin" },
+        { "text": "Heparin", "correct": true },
+        { "text": "Aspirin" },
+        { "text": "Albuterol" }
+      ]
+    }
+  ]
+}

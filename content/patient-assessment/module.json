@@ -2,7 +2,9 @@
   "title": "Patient Assessment",
   "description": "Clinical assessment techniques for evaluating respiratory patients.",
   "order": 2,
-  "lessons": [],
+  "lessons": [
+    { "slug": "patient-assessment/lesson-1", "title": "Patient History & Laboratory Values", "description": "Patient history, chart review, and laboratory values — CBC, BMP, microbiology, and coagulation testing." }
+  ],
   "resources": [
     {
       "title": "JKO Portal Quick Link",
