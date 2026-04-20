@@ -12,22 +12,23 @@ interface ModuleInfo {
 
 function getModules(): ModuleInfo[] {
   const contentDir = join(process.cwd(), "content");
-  const dirs = readdirSync(contentDir, { withFileTypes: true })
-    .filter((d) => d.isDirectory())
-    .sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
+  const dirs = readdirSync(contentDir, { withFileTypes: true }).filter((d) =>
+    d.isDirectory(),
+  );
 
   const modules: ModuleInfo[] = [];
-  for (let i = 0; i < dirs.length; i++) {
-    const jsonPath = join(contentDir, dirs[i].name, "module.json");
+  for (const dir of dirs) {
+    const jsonPath = join(contentDir, dir.name, "module.json");
     if (!existsSync(jsonPath)) continue;
     const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
     modules.push({
-      slug: dirs[i].name,
-      title: data.title ?? dirs[i].name,
+      slug: dir.name,
+      title: data.title ?? dir.name,
       description: data.description,
-      order: i + 1,
+      order: typeof data.order === "number" ? data.order : Number.MAX_SAFE_INTEGER,
     });
   }
+  modules.sort((a, b) => b.order - a.order);
   return modules;
 }
 

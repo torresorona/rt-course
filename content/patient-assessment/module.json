@@ -1,0 +1,14 @@
+{
+  "title": "Patient Assessment",
+  "description": "Clinical assessment techniques for evaluating respiratory patients.",
+  "order": 2,
+  "lessons": [],
+  "resources": [
+    {
+      "title": "Patient Assessment VCLASS Page",
+      "description": "Official VCLASS course page for Patient Assessment on JKO.",
+      "url": "https://jkosgst.jten.mil/portal/directtool/a0e4baac-7d8a-4854-b274-863074943a9f/",
+      "type": "vclass"
+    }
+  ]
+}
