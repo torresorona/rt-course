@@ -12,5 +12,11 @@
       "url": "https://jkodirect.jten.mil/Atlas2/page/login/Login.jsf",
       "type": "jko"
     }
+  ],
+  "audio": [
+    {
+      "title": "Patient History & Laboratory Values",
+      "src": "/audio/Respiratory_Therapy_History_and_Lab_Values.m4a"
+    }
   ]
 }
