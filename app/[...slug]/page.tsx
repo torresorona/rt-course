@@ -10,6 +10,7 @@ import DataTable from "@/components/DataTable";
 import AudioPlayer from "@/components/AudioPlayer";
 import ReceptorTable from "@/components/ReceptorTable";
 import LabRanges from "@/components/LabRanges";
+import GCSScenarios from "@/components/GCSScenarios";
 
 function MdxTable(props: React.ComponentProps<"table">) {
   return (
@@ -71,13 +72,15 @@ export default async function LessonPage({
     "pharmacology/lesson-3": "/audio/Clinical_Guide_to_Respiratory_Pharmacology.m4a",
     "pharmacology/lesson-4": "/audio/Pharmacology_for_Pain_Sedation_and_Emergencies.m4a",
     "patient-assessment/lesson-1": "/audio/Respiratory_Therapy_History_and_Lab_Values.m4a",
+    "patient-assessment/lesson-2": "/audio/Clinical_Signs_in_Respiratory_Patient_Inspection.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 
   // Check if this lesson has resources
   const hasResources =
     slugPath === "pharmacology/lesson-1" ||
-    slugPath === "patient-assessment/lesson-1";
+    slugPath === "patient-assessment/lesson-1" ||
+    slugPath === "patient-assessment/lesson-2";
 
   return (
     <div>
@@ -150,6 +153,7 @@ export default async function LessonPage({
         <div className="space-y-6">
           {slugPath === "pharmacology/lesson-1" && <ReceptorTable />}
           {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
+          {slugPath === "patient-assessment/lesson-2" && <GCSScenarios />}
           {!hasResources && (
             <div className="rounded-2xl border border-dashed border-sand-300 p-8 text-center text-sand-500">
               No additional resources for this lesson yet.

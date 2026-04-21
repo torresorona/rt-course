@@ -1,0 +1,428 @@
+{
+  "title": "Patient Inspection Quiz",
+  "questions": [
+    {
+      "text": "Which of the following is NOT one of the core activities of patient inspection?",
+      "answers": [
+        { "text": "Communicating with the patient" },
+        { "text": "Keeping patient privacy and confidentiality" },
+        { "text": "Monitoring cardiopulmonary signs and symptoms" },
+        { "text": "Ordering laboratory tests independently", "correct": true }
+      ]
+    },
+    {
+      "text": "Which of the following is an example of nonverbal communication?",
+      "answers": [
+        { "text": "Asking the patient about their symptoms" },
+        { "text": "Facial expression", "correct": true },
+        { "text": "Reading back the medication list" },
+        { "text": "Documenting in the chart" }
+      ]
+    },
+    {
+      "text": "What is the distance range for social space?",
+      "answers": [
+        { "text": "0 – 18 inches" },
+        { "text": "18 inches – 4 feet" },
+        { "text": "4 – 12 feet", "correct": true },
+        { "text": "12 – 25 feet" }
+      ]
+    },
+    {
+      "text": "Personal space is primarily used to:",
+      "answers": [
+        { "text": "Perform the physical examination" },
+        { "text": "Garner sensitive patient information and allow the patient to be more comfortable sharing", "correct": true },
+        { "text": "Build the initial 'big picture' rapport" },
+        { "text": "Deliver emergency care" }
+      ]
+    },
+    {
+      "text": "What is the distance range for intimate space?",
+      "answers": [
+        { "text": "0 – 18 inches", "correct": true },
+        { "text": "18 inches – 4 feet" },
+        { "text": "4 – 12 feet" },
+        { "text": "6 – 20 feet" }
+      ]
+    },
+    {
+      "text": "Intimate space should only be entered:",
+      "answers": [
+        { "text": "Immediately upon entering the room" },
+        { "text": "After establishing rapport and asking for permission", "correct": true },
+        { "text": "Only with a chaperone present at all times" },
+        { "text": "Never, under any circumstances" }
+      ]
+    },
+    {
+      "text": "In the OLDCART framework, what does the 'A' stand for?",
+      "answers": [
+        { "text": "Age of the patient" },
+        { "text": "Anatomical site" },
+        { "text": "Associated manifestations", "correct": true },
+        { "text": "Acute onset" }
+      ]
+    },
+    {
+      "text": "In OLDCART, which letter corresponds to 'What makes the symptom better?'",
+      "answers": [
+        { "text": "O – Onset" },
+        { "text": "L – Location" },
+        { "text": "R – Relieving factors", "correct": true },
+        { "text": "T – Treatment" }
+      ]
+    },
+    {
+      "text": "The cough reflex is stimulated by receptors located in the:",
+      "answers": [
+        { "text": "Alveoli and terminal bronchioles" },
+        { "text": "Pharynx, larynx, and large bronchi", "correct": true },
+        { "text": "Diaphragm and intercostal muscles" },
+        { "text": "Pleural space and mediastinum" }
+      ]
+    },
+    {
+      "text": "Cough is described as which of the following in patients with pulmonary disease?",
+      "answers": [
+        { "text": "A rare symptom seen only in end-stage disease" },
+        { "text": "The most common symptom", "correct": true },
+        { "text": "Always a sign of infection" },
+        { "text": "Unrelated to pulmonary pathology" }
+      ]
+    },
+    {
+      "text": "What is the difference between sputum and phlegm?",
+      "answers": [
+        { "text": "They are the same thing" },
+        { "text": "Phlegm is expelled through coughing; sputum is not" },
+        { "text": "Phlegm comes from the lungs and tracheobronchial tree and is NOT contaminated by oral secretions; sputum is expelled via coughing or throat clearing and may include oral secretions", "correct": true },
+        { "text": "Sputum is always infectious; phlegm is never infectious" }
+      ]
+    },
+    {
+      "text": "White-gray, thick, mucoid sputum is associated with all of the following EXCEPT:",
+      "answers": [
+        { "text": "Emphysema" },
+        { "text": "Pulmonary tuberculosis" },
+        { "text": "Early chronic bronchitis" },
+        { "text": "Pulmonary edema", "correct": true }
+      ]
+    },
+    {
+      "text": "Purulent (green, rusty, or yellow) sputum typically indicates:",
+      "answers": [
+        { "text": "Pulmonary edema" },
+        { "text": "A healthy airway" },
+        { "text": "Infection — pneumonia caused by H. influenzae, streptococci, or staphylococci", "correct": true },
+        { "text": "Old blood from a smoker" }
+      ]
+    },
+    {
+      "text": "Frothy pink sputum is most commonly associated with:",
+      "answers": [
+        { "text": "Bronchogenic carcinoma" },
+        { "text": "Cystic fibrosis" },
+        { "text": "Pulmonary edema", "correct": true },
+        { "text": "Tuberculosis" }
+      ]
+    },
+    {
+      "text": "Blood-streaked sputum (hemoptysis) can indicate:",
+      "answers": [
+        { "text": "Bronchogenic carcinoma or tuberculosis", "correct": true },
+        { "text": "Healthy lungs" },
+        { "text": "Viral upper respiratory infection" },
+        { "text": "Allergic rhinitis" }
+      ]
+    },
+    {
+      "text": "Mucopurulent sputum can indicate:",
+      "answers": [
+        { "text": "Infection and cystic fibrosis", "correct": true },
+        { "text": "Asthma only" },
+        { "text": "Pulmonary edema" },
+        { "text": "Normal findings" }
+      ]
+    },
+    {
+      "text": "A patient reports extremely sticky sputum. This consistency is described as:",
+      "answers": [
+        { "text": "Frothy" },
+        { "text": "Viscous" },
+        { "text": "Tenacious", "correct": true },
+        { "text": "Thin" }
+      ]
+    },
+    {
+      "text": "Fetid (foul-smelling) sputum can indicate all of the following EXCEPT:",
+      "answers": [
+        { "text": "Lung abscess" },
+        { "text": "Aspiration" },
+        { "text": "Anaerobic infection" },
+        { "text": "Seasonal allergies", "correct": true }
+      ]
+    },
+    {
+      "text": "Bronchiectasis is best described as:",
+      "answers": [
+        { "text": "A single acute infection of the pleura" },
+        { "text": "Repeated lung infections/inflammation that dilates the bronchi and bronchioles", "correct": true },
+        { "text": "Collapse of an alveolar unit" },
+        { "text": "A tumor of the large airways" }
+      ]
+    },
+    {
+      "text": "Dyspnea is best defined as:",
+      "answers": [
+        { "text": "An objective measurement of respiratory rate" },
+        { "text": "A subjective experience of breathing discomfort — difficulty breathing as perceived by the patient", "correct": true },
+        { "text": "A type of abnormal breath sound heard on auscultation" },
+        { "text": "A diagnosis code for all lung diseases" }
+      ]
+    },
+    {
+      "text": "In the 'DEATH' ADL mnemonic, what does the 'T' stand for?",
+      "answers": [
+        { "text": "Transportation" },
+        { "text": "Treatment" },
+        { "text": "Transferring/toileting", "correct": true },
+        { "text": "Telemetry" }
+      ]
+    },
+    {
+      "text": "All of the following are common causes of dyspnea EXCEPT:",
+      "answers": [
+        { "text": "Asthma" },
+        { "text": "Pneumothorax" },
+        { "text": "Pulmonary emboli" },
+        { "text": "Bacterial conjunctivitis", "correct": true }
+      ]
+    },
+    {
+      "text": "The Modified Borg scale uses what numeric range?",
+      "answers": [
+        { "text": "0 – 4" },
+        { "text": "0 – 10", "correct": true },
+        { "text": "1 – 5" },
+        { "text": "1 – 12" }
+      ]
+    },
+    {
+      "text": "Which dyspnea scale uses a 0–4 range and is typically used in conjunction with questionnaires to quantify dyspnea during ADLs?",
+      "answers": [
+        { "text": "Modified Borg" },
+        { "text": "American Thoracic Society (ATS) SOB Scale", "correct": true },
+        { "text": "Dyspnea-12 Survey" },
+        { "text": "Wong-Baker Faces" }
+      ]
+    },
+    {
+      "text": "The Dyspnea-12 Survey is utilized for patients with:",
+      "answers": [
+        { "text": "COPD only" },
+        { "text": "Asthma", "correct": true },
+        { "text": "Pneumonia only" },
+        { "text": "Heart failure only" }
+      ]
+    },
+    {
+      "text": "Pleuritic chest pain is typically described as:",
+      "answers": [
+        { "text": "A dull, constant ache" },
+        { "text": "Sharp, stabbing pain normally felt during inspiration", "correct": true },
+        { "text": "A squeezing pressure radiating to the left arm" },
+        { "text": "Burning pain that worsens after meals" }
+      ]
+    },
+    {
+      "text": "Dull, constant chest ache most likely reflects which origin of pulmonary-induced pain?",
+      "answers": [
+        { "text": "Parietal pleura" },
+        { "text": "Chest wall (intercostal/pectoral muscles)", "correct": true },
+        { "text": "Pericardium" },
+        { "text": "Esophagus" }
+      ]
+    },
+    {
+      "text": "Peripheral (dependent) edema in right-heart failure is first seen in:",
+      "answers": [
+        { "text": "The face and eyelids" },
+        { "text": "The hands and wrists" },
+        { "text": "The lower areas of the body", "correct": true },
+        { "text": "The abdominal organs" }
+      ]
+    },
+    {
+      "text": "Bilateral peripheral edema most commonly suggests:",
+      "answers": [
+        { "text": "Deep vein thrombosis" },
+        { "text": "Pulmonary hypertension, heart failure, or venous insufficiency", "correct": true },
+        { "text": "Isolated venous obstruction" },
+        { "text": "Muscle strain" }
+      ]
+    },
+    {
+      "text": "Unilateral peripheral edema is normally caused by:",
+      "answers": [
+        { "text": "Chronic obstructive pulmonary disease" },
+        { "text": "Biventricular heart failure" },
+        { "text": "Venous obstruction or deep vein thrombosis (DVT)", "correct": true },
+        { "text": "Pulmonary hypertension" }
+      ]
+    },
+    {
+      "text": "Pedal edema is a manifestation of:",
+      "answers": [
+        { "text": "Acute appendicitis" },
+        { "text": "Chronic lung disease", "correct": true },
+        { "text": "Viral gastroenteritis" },
+        { "text": "Upper respiratory infection" }
+      ]
+    },
+    {
+      "text": "Pain should be compared to what reference point?",
+      "answers": [
+        { "text": "The pain experienced by an average adult" },
+        { "text": "The worst pain the patient has ever experienced in their life", "correct": true },
+        { "text": "A 5 on a 0–10 scale" },
+        { "text": "The patient's pain during their last hospitalization" }
+      ]
+    },
+    {
+      "text": "The Wong-Baker Faces scale is especially important for which population?",
+      "answers": [
+        { "text": "Patients who can't communicate clearly", "correct": true },
+        { "text": "Athletes with minor injuries" },
+        { "text": "Adults with acute MI" },
+        { "text": "Post-operative surgeons" }
+      ]
+    },
+    {
+      "text": "On the Wong-Baker Faces scale, what does a score of 0 represent?",
+      "answers": [
+        { "text": "Weeping in agony" },
+        { "text": "Smiling and pain free", "correct": true },
+        { "text": "Unconscious and unresponsive" },
+        { "text": "Moderate pain at rest" }
+      ]
+    },
+    {
+      "text": "Which level of consciousness describes a patient who is difficult to arouse and responds slowly?",
+      "answers": [
+        { "text": "Lethargic" },
+        { "text": "Obtunded", "correct": true },
+        { "text": "Stuporous" },
+        { "text": "Comatose" }
+      ]
+    },
+    {
+      "text": "A patient who responds only to vigorous or painful stimuli is best described as:",
+      "answers": [
+        { "text": "Confused" },
+        { "text": "Delirious" },
+        { "text": "Stuporous", "correct": true },
+        { "text": "Lethargic" }
+      ]
+    },
+    {
+      "text": "The Glasgow Coma Scale evaluates which THREE categories?",
+      "answers": [
+        { "text": "Eye opening, verbal response, motor response", "correct": true },
+        { "text": "Heart rate, respiratory rate, blood pressure" },
+        { "text": "Pupillary response, gag reflex, cough reflex" },
+        { "text": "Orientation, memory, executive function" }
+      ]
+    },
+    {
+      "text": "What point range is given to the eye-opening category of the GCS?",
+      "answers": [
+        { "text": "1 – 4", "correct": true },
+        { "text": "1 – 5" },
+        { "text": "1 – 6" },
+        { "text": "0 – 10" }
+      ]
+    },
+    {
+      "text": "What is the maximum point value for GCS motor response?",
+      "answers": [
+        { "text": "4 points" },
+        { "text": "5 points" },
+        { "text": "6 points", "correct": true },
+        { "text": "10 points" }
+      ]
+    },
+    {
+      "text": "A patient whose eyes are open and focused, who recognizes you and follows eye movements, receives what GCS eye-opening score?",
+      "answers": [
+        { "text": "E1" },
+        { "text": "E2" },
+        { "text": "E3" },
+        { "text": "E4", "correct": true }
+      ]
+    },
+    {
+      "text": "A patient who opens the eyes only when given painful stimuli receives what GCS eye-opening score?",
+      "answers": [
+        { "text": "E4" },
+        { "text": "E3" },
+        { "text": "E2", "correct": true },
+        { "text": "E1" }
+      ]
+    },
+    {
+      "text": "Which GCS verbal score applies to a patient who can talk and speak coherently but is not entirely oriented to person, place, time, and event?",
+      "answers": [
+        { "text": "V5 — Oriented" },
+        { "text": "V4 — Confused", "correct": true },
+        { "text": "V3 — Inappropriate words" },
+        { "text": "V2 — Incomprehensible words" }
+      ]
+    },
+    {
+      "text": "A patient making unintelligible words or sounds would score what on the GCS verbal component?",
+      "answers": [
+        { "text": "V1" },
+        { "text": "V2", "correct": true },
+        { "text": "V3" },
+        { "text": "V4" }
+      ]
+    },
+    {
+      "text": "Decorticate posturing is classified as what GCS motor response score?",
+      "answers": [
+        { "text": "M2 — Extension" },
+        { "text": "M3 — Flexion", "correct": true },
+        { "text": "M4 — Withdraws" },
+        { "text": "M5 — Localizes" }
+      ]
+    },
+    {
+      "text": "Decerebrate posturing is classified as what GCS motor response score?",
+      "answers": [
+        { "text": "M1 — None" },
+        { "text": "M2 — Extension", "correct": true },
+        { "text": "M3 — Flexion" },
+        { "text": "M4 — Withdraws" }
+      ]
+    },
+    {
+      "text": "Which description best matches DECORTICATE posturing?",
+      "answers": [
+        { "text": "Body is abnormally extended, with arms and legs extended and rigid" },
+        { "text": "Body curls into a protective posture by flexing the arms into the chest", "correct": true },
+        { "text": "Patient follows simple motor commands" },
+        { "text": "Patient pulls away from painful stimulus" }
+      ]
+    },
+    {
+      "text": "Which description best matches DECEREBRATE posturing?",
+      "answers": [
+        { "text": "Arms flexed toward the chest" },
+        { "text": "Patient localizes to painful stimulus" },
+        { "text": "Body is abnormally extended; arms and legs may be extended and very rigid or difficult to move", "correct": true },
+        { "text": "No motor response" }
+      ]
+    }
+  ]
+}
