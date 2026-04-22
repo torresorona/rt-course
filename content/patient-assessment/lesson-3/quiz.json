@@ -1,0 +1,716 @@
+{
+  "title": "Vital Signs, Physical Examination & Palpation Quiz",
+  "questions": [
+    {
+      "text": "A patient with bluish discoloration (cyanosis) most likely has:",
+      "answers": [
+        { "text": "Anemia" },
+        { "text": "Hypoxemia", "correct": true },
+        { "text": "High bilirubin" },
+        { "text": "Inflammation" }
+      ]
+    },
+    {
+      "text": "Erythema (redness) is most commonly associated with:",
+      "answers": [
+        { "text": "Shock" },
+        { "text": "Liver problems" },
+        { "text": "Infection or inflammation", "correct": true },
+        { "text": "Hypoxemia" }
+      ]
+    },
+    {
+      "text": "An ashen (grey, dusky) appearance suggests:",
+      "answers": [
+        { "text": "Anemia or shock", "correct": true },
+        { "text": "Pneumonia" },
+        { "text": "Liver disease" },
+        { "text": "Inflammation" }
+      ]
+    },
+    {
+      "text": "Jaundice (yellow discoloration) is most commonly caused by:",
+      "answers": [
+        { "text": "Hypoxemia" },
+        { "text": "Shock" },
+        { "text": "High bilirubin and liver problems", "correct": true },
+        { "text": "Inflammation" }
+      ]
+    },
+    {
+      "text": "The normal ORAL temperature range is:",
+      "answers": [
+        { "text": "96.7° – 98.5° F" },
+        { "text": "97.0° – 99.5° F", "correct": true },
+        { "text": "98.7° – 100.5° F" },
+        { "text": "95.0° – 97.5° F" }
+      ]
+    },
+    {
+      "text": "The normal RECTAL/EAR temperature range is:",
+      "answers": [
+        { "text": "96.7° – 98.5° F" },
+        { "text": "97.0° – 99.5° F" },
+        { "text": "98.7° – 100.5° F", "correct": true },
+        { "text": "99.5° – 101.5° F" }
+      ]
+    },
+    {
+      "text": "A fever that varies less than a degree within 24 hours is called:",
+      "answers": [
+        { "text": "Remittent" },
+        { "text": "Intermittent" },
+        { "text": "Sustained", "correct": true },
+        { "text": "Relapsing" }
+      ]
+    },
+    {
+      "text": "A fever elevation with wide variations is best described as:",
+      "answers": [
+        { "text": "Sustained" },
+        { "text": "Remittent", "correct": true },
+        { "text": "Intermittent" },
+        { "text": "Continuous" }
+      ]
+    },
+    {
+      "text": "A fever that elevates but returns to normal and subnormal levels is:",
+      "answers": [
+        { "text": "Sustained" },
+        { "text": "Remittent" },
+        { "text": "Intermittent", "correct": true },
+        { "text": "Recurrent" }
+      ]
+    },
+    {
+      "text": "The most common cause of fever is:",
+      "answers": [
+        { "text": "Dehydration" },
+        { "text": "Infection", "correct": true },
+        { "text": "Drug reaction" },
+        { "text": "Protein breakdown" }
+      ]
+    },
+    {
+      "text": "A pulse of 110 bpm in an adult is best described as:",
+      "answers": [
+        { "text": "Normal" },
+        { "text": "Bradycardia" },
+        { "text": "Tachycardia", "correct": true },
+        { "text": "Pulsus paradoxus" }
+      ]
+    },
+    {
+      "text": "The normal systolic pressure range is:",
+      "answers": [
+        { "text": "60 – 90 mmHg" },
+        { "text": "90 – 140 mmHg", "correct": true },
+        { "text": "120 – 160 mmHg" },
+        { "text": "140 – 180 mmHg" }
+      ]
+    },
+    {
+      "text": "The normal diastolic pressure range is:",
+      "answers": [
+        { "text": "40 – 60 mmHg" },
+        { "text": "60 – 90 mmHg", "correct": true },
+        { "text": "90 – 120 mmHg" },
+        { "text": "100 – 140 mmHg" }
+      ]
+    },
+    {
+      "text": "Systolic pressure reflects which event?",
+      "answers": [
+        { "text": "Force during ventricular relaxation" },
+        { "text": "Peak force during contraction of the left ventricle", "correct": true },
+        { "text": "Pressure in the pulmonary circulation" },
+        { "text": "Central venous pressure" }
+      ]
+    },
+    {
+      "text": "Hypotension typically indicates:",
+      "answers": [
+        { "text": "Cardiac stress" },
+        { "text": "Poor perfusion — hypovolemia, CHF", "correct": true },
+        { "text": "Hypoxemia alone" },
+        { "text": "Hypertension" }
+      ]
+    },
+    {
+      "text": "Hypertension is associated with:",
+      "answers": [
+        { "text": "Hypovolemia" },
+        { "text": "Cardiac stress and hypoxemia", "correct": true },
+        { "text": "Shock" },
+        { "text": "Sepsis" }
+      ]
+    },
+    {
+      "text": "Which is a correct way to count a respiratory rate?",
+      "answers": [
+        { "text": "30 seconds × 2", "correct": true },
+        { "text": "45 seconds × 2" },
+        { "text": "10 seconds × 6" },
+        { "text": "5 seconds × 12" }
+      ]
+    },
+    {
+      "text": "The normal resting adult respiratory rate is:",
+      "answers": [
+        { "text": "8 – 12 bpm" },
+        { "text": "12 – 18 bpm", "correct": true },
+        { "text": "18 – 24 bpm" },
+        { "text": "20 – 30 bpm" }
+      ]
+    },
+    {
+      "text": "Eupnea is defined as:",
+      "answers": [
+        { "text": "Labored breathing at rest" },
+        { "text": "Complete absence of breathing" },
+        { "text": "Normal respiratory rate, rhythm, and depth", "correct": true },
+        { "text": "Increased rate and depth" }
+      ]
+    },
+    {
+      "text": "A respiratory rate of 24 bpm in an adult is best described as:",
+      "answers": [
+        { "text": "Eupnea" },
+        { "text": "Bradypnea" },
+        { "text": "Tachypnea", "correct": true },
+        { "text": "Apnea" }
+      ]
+    },
+    {
+      "text": "Common causes of bradypnea include:",
+      "answers": [
+        { "text": "Hypoxia, fever, pain" },
+        { "text": "Sleep, drugs, alcohol", "correct": true },
+        { "text": "Metabolic acidosis" },
+        { "text": "Cardiac tamponade" }
+      ]
+    },
+    {
+      "text": "Which pattern is the complete absence of breathing?",
+      "answers": [
+        { "text": "Bradypnea" },
+        { "text": "Hypopnea" },
+        { "text": "Apnea", "correct": true },
+        { "text": "Apneustic" }
+      ]
+    },
+    {
+      "text": "Hyperpnea is best defined as:",
+      "answers": [
+        { "text": "Labored, rapid, high-volume breathing caused by metabolic acidosis" },
+        { "text": "Increased rate and depth of breathing, typically caused by metabolic disorders", "correct": true },
+        { "text": "Breathing that is difficult unless lying flat" },
+        { "text": "Completely irregular breathing with apneic pauses" }
+      ]
+    },
+    {
+      "text": "Kussmaul's breathing is most commonly seen with:",
+      "answers": [
+        { "text": "Early pneumonia" },
+        { "text": "Late stages of severe metabolic acidosis", "correct": true },
+        { "text": "Increased intracranial pressure" },
+        { "text": "Left heart failure" }
+      ]
+    },
+    {
+      "text": "Cheyne-Stokes respirations are best described as:",
+      "answers": [
+        { "text": "Prolonged inspiration followed by short expiration" },
+        { "text": "Irregular breathing with long apneic pauses but equal depth" },
+        { "text": "Gradually increasing then decreasing in depth and rate with periods of apnea", "correct": true },
+        { "text": "Labored breathing with increased rate and volume" }
+      ]
+    },
+    {
+      "text": "All of the following are listed causes of Cheyne-Stokes respirations EXCEPT:",
+      "answers": [
+        { "text": "Traumatic brain injury" },
+        { "text": "Carbon dioxide poisoning" },
+        { "text": "First-time high-altitude sickness" },
+        { "text": "Cardiac tamponade", "correct": true }
+      ]
+    },
+    {
+      "text": "Cheyne-Stokes breathing can occur as a normal side effect of which medication?",
+      "answers": [
+        { "text": "Albuterol" },
+        { "text": "IV morphine administration", "correct": true },
+        { "text": "Furosemide" },
+        { "text": "Aspirin" }
+      ]
+    },
+    {
+      "text": "Biot's respirations are characterized by:",
+      "answers": [
+        { "text": "Gradually increasing and decreasing depth with apnea" },
+        { "text": "Irregular breathing with long periods of apnea; each breath has the same depth", "correct": true },
+        { "text": "Prolonged inspiration with short expiration" },
+        { "text": "Steady deep breaths at a rapid rate" }
+      ]
+    },
+    {
+      "text": "A cause of Biot's respirations is:",
+      "answers": [
+        { "text": "Upper pontine damage" },
+        { "text": "Severe metabolic acidosis" },
+        { "text": "Increased intracranial pressure or damage to the medulla oblongata", "correct": true },
+        { "text": "Cardiac tamponade" }
+      ]
+    },
+    {
+      "text": "Ataxic breathing most commonly indicates:",
+      "answers": [
+        { "text": "A stable, recoverable condition" },
+        { "text": "Damage to the medulla oblongata and a very poor prognosis", "correct": true },
+        { "text": "Mild dehydration" },
+        { "text": "Normal sleep pattern" }
+      ]
+    },
+    {
+      "text": "As ataxic breathing deteriorates, it begins to merge with:",
+      "answers": [
+        { "text": "Kussmaul's respirations" },
+        { "text": "Agonal respirations", "correct": true },
+        { "text": "Cheyne-Stokes respirations" },
+        { "text": "Eupnea" }
+      ]
+    },
+    {
+      "text": "Apneustic breathing is caused by damage to the:",
+      "answers": [
+        { "text": "Medulla oblongata" },
+        { "text": "Upper part of the pons", "correct": true },
+        { "text": "Cerebellum" },
+        { "text": "Hypothalamus" }
+      ]
+    },
+    {
+      "text": "Apneustic breathing is characterized by:",
+      "answers": [
+        { "text": "Short rapid inspirations and long expirations" },
+        { "text": "Prolonged gasping inspiration followed by extremely short, insufficient expiration", "correct": true },
+        { "text": "Completely irregular breathing" },
+        { "text": "Deep, rapid, labored breathing" }
+      ]
+    },
+    {
+      "text": "Orthopnea is most strongly associated with:",
+      "answers": [
+        { "text": "Pneumothorax on one side" },
+        { "text": "Left heart failure", "correct": true },
+        { "text": "Cardiac tamponade" },
+        { "text": "Metabolic acidosis" }
+      ]
+    },
+    {
+      "text": "Difficulty breathing unless lying flat, relieved by a recumbent position, is:",
+      "answers": [
+        { "text": "Orthopnea" },
+        { "text": "Platypnea", "correct": true },
+        { "text": "Trepopnea" },
+        { "text": "Apneustic breathing" }
+      ]
+    },
+    {
+      "text": "Trepopnea is:",
+      "answers": [
+        { "text": "Difficulty breathing on one side but not when the patient turns to the other side", "correct": true },
+        { "text": "Difficulty breathing unless sitting up" },
+        { "text": "Sudden nocturnal dyspnea relieved by sitting up" },
+        { "text": "Breathing worsened by lying flat" }
+      ]
+    },
+    {
+      "text": "Paroxysmal Nocturnal Dyspnea (PND) is caused by:",
+      "answers": [
+        { "text": "Inhalation of foreign material" },
+        { "text": "Gradual transfer of fluid in the lower extremities to the lungs when lying flat", "correct": true },
+        { "text": "Pleural effusion on one side" },
+        { "text": "Severe metabolic acidosis" }
+      ]
+    },
+    {
+      "text": "Paroxysmal Nocturnal Dyspnea is relieved when the patient:",
+      "answers": [
+        { "text": "Lies flat on the back" },
+        { "text": "Assumes an upright position", "correct": true },
+        { "text": "Holds their breath" },
+        { "text": "Rolls to the affected side" }
+      ]
+    },
+    {
+      "text": "Pursed-lip breathing is most commonly a finding in:",
+      "answers": [
+        { "text": "Asthma" },
+        { "text": "COPD", "correct": true },
+        { "text": "Pneumothorax" },
+        { "text": "Pulmonary embolism" }
+      ]
+    },
+    {
+      "text": "Which of the following does PERRLA stand for?",
+      "answers": [
+        { "text": "Pupils Equal, Round, Reactive to Light and Accommodation", "correct": true },
+        { "text": "Pulse, Effort, Rhythm, Rate, Level of Arousal" },
+        { "text": "Perfusion, Edema, Respirations, Response, Level, Alertness" },
+        { "text": "Pressure, Elevation, Redness, Range, Lines, Anatomy" }
+      ]
+    },
+    {
+      "text": "Normal pupillary reflexes require which cranial nerves to be intact?",
+      "answers": [
+        { "text": "V and VII" },
+        { "text": "II and III", "correct": true },
+        { "text": "III and X" },
+        { "text": "VII and VIII" }
+      ]
+    },
+    {
+      "text": "Inspection of the neck helps identify all of the following EXCEPT:",
+      "answers": [
+        { "text": "Tracheal deviation" },
+        { "text": "Jugular venous pressure" },
+        { "text": "Accessory muscle use" },
+        { "text": "Digital clubbing", "correct": true }
+      ]
+    },
+    {
+      "text": "In a normal chest, the anteroposterior (A-P) diameter is:",
+      "answers": [
+        { "text": "Greater than the transverse diameter" },
+        { "text": "Less than the transverse diameter", "correct": true },
+        { "text": "Equal to the transverse diameter" },
+        { "text": "Not measurable" }
+      ]
+    },
+    {
+      "text": "An increased A-P diameter (barrel chest) is a classic sign of:",
+      "answers": [
+        { "text": "Pulmonary embolism" },
+        { "text": "COPD", "correct": true },
+        { "text": "Left heart failure" },
+        { "text": "Pneumonia" }
+      ]
+    },
+    {
+      "text": "Pectus excavatum is defined as:",
+      "answers": [
+        { "text": "Anterior protrusion of the sternum" },
+        { "text": "Depression of part or all of the sternum", "correct": true },
+        { "text": "Lateral curvature of the spine" },
+        { "text": "Anteroposterior curvature of the spine" }
+      ]
+    },
+    {
+      "text": "Pectus carinatum is defined as:",
+      "answers": [
+        { "text": "Depression of the sternum" },
+        { "text": "Anterior protrusion of the sternum", "correct": true },
+        { "text": "Lateral curvature of the spine" },
+        { "text": "Digital clubbing of the sternum" }
+      ]
+    },
+    {
+      "text": "Scoliosis is a:",
+      "answers": [
+        { "text": "Anteroposterior curvature of the spine" },
+        { "text": "Lateral curvature of the spine", "correct": true },
+        { "text": "Combination of A-P and lateral curvature" },
+        { "text": "Depression of the sternum" }
+      ]
+    },
+    {
+      "text": "Kyphosis is a:",
+      "answers": [
+        { "text": "Lateral curvature of the spine" },
+        { "text": "Anteroposterior curvature of the spine", "correct": true },
+        { "text": "Increased A-P diameter of the chest" },
+        { "text": "Protrusion of the sternum" }
+      ]
+    },
+    {
+      "text": "Kyphoscoliosis is:",
+      "answers": [
+        { "text": "Kyphosis alone" },
+        { "text": "Scoliosis alone" },
+        { "text": "A combination of kyphosis and scoliosis", "correct": true },
+        { "text": "A form of pectus deformity" }
+      ]
+    },
+    {
+      "text": "Digital clubbing is caused by:",
+      "answers": [
+        { "text": "Acute bacterial infection" },
+        { "text": "Chronic hypoxemia", "correct": true },
+        { "text": "Right heart failure alone" },
+        { "text": "Electrolyte imbalance" }
+      ]
+    },
+    {
+      "text": "Digital clubbing is present when:",
+      "answers": [
+        { "text": "The nail bed turns blue" },
+        { "text": "The angle of the nail bed and skin increases", "correct": true },
+        { "text": "The finger pads become pale" },
+        { "text": "Capillary refill is > 3 seconds" }
+      ]
+    },
+    {
+      "text": "Palpation is best defined as:",
+      "answers": [
+        { "text": "Listening for internal sounds with a stethoscope" },
+        { "text": "Use of the hands to feel for body movement, lumps, masses, and skin characteristics", "correct": true },
+        { "text": "Visually inspecting the chest wall" },
+        { "text": "Tapping the chest to elicit sound" }
+      ]
+    },
+    {
+      "text": "During chest palpation, you assess all of the following EXCEPT:",
+      "answers": [
+        { "text": "Asymmetrical chest movements" },
+        { "text": "Thoracic expansion" },
+        { "text": "Vocal fremitus" },
+        { "text": "Breath sounds over the lung fields", "correct": true }
+      ]
+    },
+    {
+      "text": "Vocal fremitus is:",
+      "answers": [
+        { "text": "Vibrations created by the vocal cords transmitted down the tracheobronchial tree to the chest wall", "correct": true },
+        { "text": "The sound of airflow through collapsed alveoli" },
+        { "text": "A crackling sensation from subcutaneous air" },
+        { "text": "The feeling of a pulse against the chest wall" }
+      ]
+    },
+    {
+      "text": "Tactile fremitus is:",
+      "answers": [
+        { "text": "The act of measuring BP by touch alone" },
+        { "text": "When vibrations are felt on the chest wall as the patient talks", "correct": true },
+        { "text": "A palpable cardiac murmur" },
+        { "text": "Chest wall pain with deep inspiration" }
+      ]
+    },
+    {
+      "text": "A pulse that is difficult to depress with the fingertips is best described as:",
+      "answers": [
+        { "text": "Weak" },
+        { "text": "Absent" },
+        { "text": "Bounding", "correct": true },
+        { "text": "Normal" }
+      ]
+    },
+    {
+      "text": "A pulse described as 'beat beat pause · beat beat pause' in a continuous pattern is:",
+      "answers": [
+        { "text": "Regular" },
+        { "text": "Regularly irregular", "correct": true },
+        { "text": "Irregularly irregular" },
+        { "text": "Absent" }
+      ]
+    },
+    {
+      "text": "A pulse with no discernible pattern at all is:",
+      "answers": [
+        { "text": "Regular" },
+        { "text": "Regularly irregular" },
+        { "text": "Irregularly irregular", "correct": true },
+        { "text": "Bounding" }
+      ]
+    },
+    {
+      "text": "Pulsus paradoxus is defined as:",
+      "answers": [
+        { "text": "A systolic pressure drop of more than 10 mmHg during inhalation at rest", "correct": true },
+        { "text": "A diastolic rise of more than 20 mmHg with exhalation" },
+        { "text": "A pulse that disappears with deep breathing" },
+        { "text": "An abnormally fast pulse with fever" }
+      ]
+    },
+    {
+      "text": "Pulsus paradoxus is caused by all of the following EXCEPT:",
+      "answers": [
+        { "text": "Severe air trapping" },
+        { "text": "Cardiac tamponade" },
+        { "text": "Status asthmaticus" },
+        { "text": "Dehydration", "correct": true }
+      ]
+    },
+    {
+      "text": "When palpating a pulse, which fingers should be used?",
+      "answers": [
+        { "text": "Thumb and index finger" },
+        { "text": "Pads of the index and middle fingers", "correct": true },
+        { "text": "Ring and pinky fingers" },
+        { "text": "Entire palm of the hand" }
+      ]
+    },
+    {
+      "text": "The most commonly used site for pulse palpation is the:",
+      "answers": [
+        { "text": "Carotid artery" },
+        { "text": "Brachial artery" },
+        { "text": "Radial artery", "correct": true },
+        { "text": "Femoral artery" }
+      ]
+    },
+    {
+      "text": "The posterior tibial pulse is located:",
+      "answers": [
+        { "text": "Groove between the first and second toes" },
+        { "text": "Posterior and inferior to the medial malleolus", "correct": true },
+        { "text": "Posterior knee" },
+        { "text": "Lateral to the larynx" }
+      ]
+    },
+    {
+      "text": "The dorsalis pedis pulse is found in the:",
+      "answers": [
+        { "text": "Groove between the first and second toes, slightly medial on the dorsum of the foot", "correct": true },
+        { "text": "Posterior knee" },
+        { "text": "Lateral ankle behind the lateral malleolus" },
+        { "text": "Heel of the foot" }
+      ]
+    },
+    {
+      "text": "The popliteal pulse is located:",
+      "answers": [
+        { "text": "Anterior knee" },
+        { "text": "Posterior knee", "correct": true },
+        { "text": "Lateral thigh" },
+        { "text": "Dorsum of the foot" }
+      ]
+    },
+    {
+      "text": "The femoral pulse is palpated:",
+      "answers": [
+        { "text": "Between the pubic symphysis and anterior superior iliac spine", "correct": true },
+        { "text": "At the popliteal fossa" },
+        { "text": "Directly over the ASIS" },
+        { "text": "Over the obturator foramen" }
+      ]
+    },
+    {
+      "text": "The temporal pulse is located:",
+      "answers": [
+        { "text": "Behind the ear" },
+        { "text": "Temple, directly in front of the ear", "correct": true },
+        { "text": "Over the occipital bone" },
+        { "text": "Over the mastoid process" }
+      ]
+    },
+    {
+      "text": "To palpate the trachea for deviation, you should:",
+      "answers": [
+        { "text": "Compress the carotid artery" },
+        { "text": "Press the thumb against the thyroid cartilage" },
+        { "text": "Depress the index finger into the suprasternal notch", "correct": true },
+        { "text": "Palpate the sternal angle" }
+      ]
+    },
+    {
+      "text": "Before taking a blood pressure, the patient should be seated for at least:",
+      "answers": [
+        { "text": "30 seconds" },
+        { "text": "2 minutes" },
+        { "text": "5 minutes", "correct": true },
+        { "text": "15 minutes" }
+      ]
+    },
+    {
+      "text": "Proper positioning for a blood pressure measurement includes:",
+      "answers": [
+        { "text": "Arm hanging freely below heart level" },
+        { "text": "Arm resting on a table with the midpoint of the upper arm at heart level", "correct": true },
+        { "text": "Arm held above the head" },
+        { "text": "Patient standing with arm at the side" }
+      ]
+    },
+    {
+      "text": "During a blood pressure measurement, the patient's legs should be:",
+      "answers": [
+        { "text": "Crossed at the ankles" },
+        { "text": "Crossed at the knees" },
+        { "text": "Uncrossed", "correct": true },
+        { "text": "Elevated above the heart" }
+      ]
+    },
+    {
+      "text": "The bladder in a BP cuff should encircle what portion of the arm?",
+      "answers": [
+        { "text": "40%" },
+        { "text": "60%" },
+        { "text": "80%", "correct": true },
+        { "text": "100%" }
+      ]
+    },
+    {
+      "text": "Using a BP cuff that is either too large or too small most commonly results in:",
+      "answers": [
+        { "text": "False LOW measurements" },
+        { "text": "False HIGH measurements", "correct": true },
+        { "text": "A pulseless measurement" },
+        { "text": "No effect on the reading" }
+      ]
+    },
+    {
+      "text": "The BP cuff should be placed:",
+      "answers": [
+        { "text": "At the wrist" },
+        { "text": "Just above the elbow only" },
+        { "text": "Mid-way between the shoulder and the elbow, with markings centered over the brachial artery", "correct": true },
+        { "text": "Over the radial pulse" }
+      ]
+    },
+    {
+      "text": "When taking a BP, the cuff should first be inflated to what pressure before continuing until the pulse is no longer felt?",
+      "answers": [
+        { "text": "40 mmHg" },
+        { "text": "70 mmHg", "correct": true },
+        { "text": "120 mmHg" },
+        { "text": "180 mmHg" }
+      ]
+    },
+    {
+      "text": "While auscultating a BP, the FIRST sound heard represents the:",
+      "answers": [
+        { "text": "Diastolic value" },
+        { "text": "Mean arterial pressure" },
+        { "text": "Systolic value", "correct": true },
+        { "text": "Pulse pressure" }
+      ]
+    },
+    {
+      "text": "The diastolic value is noted when:",
+      "answers": [
+        { "text": "The first sound is heard" },
+        { "text": "The last sound or change in sound is heard", "correct": true },
+        { "text": "The cuff is completely deflated" },
+        { "text": "The pulse first reappears" }
+      ]
+    },
+    {
+      "text": "If a BP reading is uncertain, how long should you wait before reattempting?",
+      "answers": [
+        { "text": "At least 10 seconds with the cuff still partially inflated" },
+        { "text": "At least 30 seconds with the cuff fully deflated", "correct": true },
+        { "text": "At least 5 minutes with the cuff still inflated" },
+        { "text": "Immediately, without deflating" }
+      ]
+    },
+    {
+      "text": "A BP cuff should NOT remain inflated for longer than:",
+      "answers": [
+        { "text": "10 seconds" },
+        { "text": "20 seconds", "correct": true },
+        { "text": "60 seconds" },
+        { "text": "3 minutes" }
+      ]
+    }
+  ]
+}
