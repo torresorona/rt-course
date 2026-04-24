@@ -5,7 +5,8 @@
   "lessons": [
     { "slug": "patient-assessment/lesson-1", "title": "Patient History & Laboratory Values", "description": "Patient history, chart review, and laboratory values — CBC, BMP, microbiology, and coagulation testing." },
     { "slug": "patient-assessment/lesson-2", "title": "Patient Inspection", "description": "Communication, privacy zones, cardiopulmonary signs & symptoms (OLDCART, cough, sputum, dyspnea, chest pain, edema), pain scales, LOC, and the Glasgow Coma Scale." },
-    { "slug": "patient-assessment/lesson-3", "title": "Vital Signs, Physical Examination & Palpation", "description": "General clinical presentation (color), vital signs, breathing rates & patterns, head-to-toe physical exam, and palpation of the chest, pulse sites, trachea, and blood pressure." }
+    { "slug": "patient-assessment/lesson-3", "title": "Vital Signs, Physical Examination & Palpation", "description": "General clinical presentation (color), vital signs, breathing rates & patterns, head-to-toe physical exam, and palpation of the chest, pulse sites, trachea, and blood pressure." },
+    { "slug": "patient-assessment/lesson-4", "title": "Percussion, Auscultation & Pulse Oximetry", "description": "Chest percussion technique and sounds; lung, voice, and heart auscultation; adventitious breath sounds; and pulse oximetry principles, indications, and procedure." }
   ],
   "resources": [
     {
@@ -27,6 +28,10 @@
     {
       "title": "Identifying Critical Respiratory and Vital Signs",
       "src": "/audio/Identifying_Critical_Respiratory_and_Vital_Signs.m4a"
+    },
+    {
+      "title": "Acoustic Physics of Respiratory Assessment",
+      "src": "/audio/Acoustic_Physics_of_Respiratory_Assessment.m4a"
     }
   ]
 }

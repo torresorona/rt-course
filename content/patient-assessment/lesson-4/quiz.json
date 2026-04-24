@@ -1,0 +1,689 @@
+{
+  "title": "Percussion, Auscultation & Pulse Oximetry Quiz",
+  "questions": [
+    {
+      "text": "Percussion is defined as:",
+      "answers": [
+        { "text": "Listening for sounds with a stethoscope" },
+        { "text": "The act of tapping on a surface to evaluate the underlying structures", "correct": true },
+        { "text": "Using the hands to feel for lumps and masses" },
+        { "text": "Observing chest rise and fall" }
+      ]
+    },
+    {
+      "text": "During chest percussion, the stationary finger should be placed:",
+      "answers": [
+        { "text": "Perpendicular to the ribs with the palm flat on the chest" },
+        { "text": "Parallel to the ribs, with the palm and other fingers held off the chest", "correct": true },
+        { "text": "Diagonally over the sternum" },
+        { "text": "Over the manubrium only" }
+      ]
+    },
+    {
+      "text": "Which finger of the non-dominant hand is placed against the chest during percussion?",
+      "answers": [
+        { "text": "Index finger" },
+        { "text": "Middle finger", "correct": true },
+        { "text": "Thumb" },
+        { "text": "Ring finger" }
+      ]
+    },
+    {
+      "text": "The striking motion during chest percussion should be generated at the:",
+      "answers": [
+        { "text": "Shoulder" },
+        { "text": "Elbow" },
+        { "text": "Wrist", "correct": true },
+        { "text": "Knuckle" }
+      ]
+    },
+    {
+      "text": "For the clearest percussion note, the two fingers should be in contact for:",
+      "answers": [
+        { "text": "Several seconds" },
+        { "text": "Only an instant", "correct": true },
+        { "text": "The length of one full breath" },
+        { "text": "Until the vibration stops" }
+      ]
+    },
+    {
+      "text": "A resonant percussion note is associated with:",
+      "answers": [
+        { "text": "Atelectasis" },
+        { "text": "Normal air-filled lung", "correct": true },
+        { "text": "Pleural effusion" },
+        { "text": "Pneumothorax" }
+      ]
+    },
+    {
+      "text": "A flat percussion note is described as soft, high-pitched, and of short duration — it is associated with:",
+      "answers": [
+        { "text": "Emphysema" },
+        { "text": "Atelectasis", "correct": true },
+        { "text": "Gastric bubble" },
+        { "text": "Normal lung" }
+      ]
+    },
+    {
+      "text": "A dull percussion note is characterized by:",
+      "answers": [
+        { "text": "Very loud, low pitch, long duration" },
+        { "text": "Medium intensity, pitch, and duration", "correct": true },
+        { "text": "Drum-like and high-pitched" },
+        { "text": "Soft, high-pitched, and short" }
+      ]
+    },
+    {
+      "text": "A dull percussion note is heard over all of the following EXCEPT:",
+      "answers": [
+        { "text": "Heart" },
+        { "text": "Liver" },
+        { "text": "Pneumonia" },
+        { "text": "Emphysematous lung", "correct": true }
+      ]
+    },
+    {
+      "text": "A hyperresonant percussion note suggests:",
+      "answers": [
+        { "text": "Pleural effusion" },
+        { "text": "Atelectasis" },
+        { "text": "Emphysematous lung or pneumothorax", "correct": true },
+        { "text": "Air-filled stomach" }
+      ]
+    },
+    {
+      "text": "A tympanic percussion note is best described as:",
+      "answers": [
+        { "text": "Medium intensity, pitch, and duration" },
+        { "text": "Soft, high-pitched, and short" },
+        { "text": "Loud and drum-like, with a high pitch", "correct": true },
+        { "text": "Dull and long in duration" }
+      ]
+    },
+    {
+      "text": "A tympanic sound is most commonly heard over a:",
+      "answers": [
+        { "text": "Consolidated lung" },
+        { "text": "Pleural effusion" },
+        { "text": "Gastric bubble / air-filled stomach", "correct": true },
+        { "text": "Liver" }
+      ]
+    },
+    {
+      "text": "Which percussion sound is described as very loud, lower in pitch, and longer in duration than a resonant note?",
+      "answers": [
+        { "text": "Flat" },
+        { "text": "Dull" },
+        { "text": "Hyperresonant", "correct": true },
+        { "text": "Tympanic" }
+      ]
+    },
+    {
+      "text": "Auscultation is defined as:",
+      "answers": [
+        { "text": "Visual inspection of the chest" },
+        { "text": "The process of listening to sounds in the body", "correct": true },
+        { "text": "Tapping on a surface to evaluate underlying structures" },
+        { "text": "Palpating the chest for fremitus" }
+      ]
+    },
+    {
+      "text": "Which is the most commonly used physical assessment technique of the respiratory and cardiovascular system?",
+      "answers": [
+        { "text": "Palpation" },
+        { "text": "Percussion" },
+        { "text": "Lung auscultation", "correct": true },
+        { "text": "Inspection" }
+      ]
+    },
+    {
+      "text": "When performing lung auscultation, the patient should be:",
+      "answers": [
+        { "text": "Lying supine with the head flat" },
+        { "text": "Sitting upright, breathing a little deeper through an open mouth", "correct": true },
+        { "text": "Lying on the left lateral side" },
+        { "text": "Standing and breath-holding" }
+      ]
+    },
+    {
+      "text": "Why should stethoscope tubing not touch anything during auscultation?",
+      "answers": [
+        { "text": "It sterilizes the equipment" },
+        { "text": "It produces extraneous noises", "correct": true },
+        { "text": "It prevents electrical shock" },
+        { "text": "It keeps the diaphragm warm" }
+      ]
+    },
+    {
+      "text": "Which is NOT part of analyzing breath sounds?",
+      "answers": [
+        { "text": "Identifying the breath sound" },
+        { "text": "Identifying when during the respiratory cycle it is heard" },
+        { "text": "Measuring the patient's blood pressure", "correct": true },
+        { "text": "Determining if the sound changes with coughing" }
+      ]
+    },
+    {
+      "text": "Vesicular breath sounds are heard over:",
+      "answers": [
+        { "text": "The trachea only" },
+        { "text": "The mainstem bronchus only" },
+        { "text": "Most of the lung fields", "correct": true },
+        { "text": "The apex of the heart" }
+      ]
+    },
+    {
+      "text": "Bronchovesicular breath sounds are heard over:",
+      "answers": [
+        { "text": "The trachea only" },
+        { "text": "The mainstem bronchus", "correct": true },
+        { "text": "The lung bases only" },
+        { "text": "The left lateral fields" }
+      ]
+    },
+    {
+      "text": "Bronchial or tracheal breath sounds are heard:",
+      "answers": [
+        { "text": "Over most of the lung fields" },
+        { "text": "Only over the trachea", "correct": true },
+        { "text": "At the mid-clavicular apex" },
+        { "text": "Only during expiration" }
+      ]
+    },
+    {
+      "text": "Adventitious breath sounds are best defined as:",
+      "answers": [
+        { "text": "Normal airflow sounds over healthy lung" },
+        { "text": "Added, irregular sounds produced within a normal sound", "correct": true },
+        { "text": "Sounds produced by the heart valves" },
+        { "text": "Sounds produced by vocal cord vibration" }
+      ]
+    },
+    {
+      "text": "When auscultating coarse rales, the most appropriate recommendation is:",
+      "answers": [
+        { "text": "Suctioning", "correct": true },
+        { "text": "Chest physical therapy" },
+        { "text": "IPPB and diuretics" },
+        { "text": "No intervention needed" }
+      ]
+    },
+    {
+      "text": "When auscultating medium rales, the most appropriate recommendation is:",
+      "answers": [
+        { "text": "Suctioning" },
+        { "text": "Chest physical therapy", "correct": true },
+        { "text": "IPPB and diuretics" },
+        { "text": "Bronchodilator therapy only" }
+      ]
+    },
+    {
+      "text": "When fine rales are auscultated, the recommended interventions include:",
+      "answers": [
+        { "text": "Suctioning only" },
+        { "text": "Chest physical therapy only" },
+        { "text": "IPPB, heart drugs, diuretics, and oxygen", "correct": true },
+        { "text": "Positive pressure ventilation only" }
+      ]
+    },
+    {
+      "text": "Unilateral (localized) wheezing most likely suggests:",
+      "answers": [
+        { "text": "Congestive heart failure" },
+        { "text": "Tumors or foreign body aspiration", "correct": true },
+        { "text": "Generalized bronchospasm" },
+        { "text": "Pulmonary fibrosis" }
+      ]
+    },
+    {
+      "text": "Cardiac asthma is defined as:",
+      "answers": [
+        { "text": "Asthma triggered by cardiac medications" },
+        { "text": "Wheezing and dyspnea in patients with heart failure (CHF) in the absence of asthma or COPD", "correct": true },
+        { "text": "A reactive airway disease of childhood" },
+        { "text": "Bronchospasm caused by exercise" }
+      ]
+    },
+    {
+      "text": "Cardiac asthma is caused by:",
+      "answers": [
+        { "text": "Bronchial inflammation" },
+        { "text": "Foreign body aspiration" },
+        { "text": "Vascular congestion and perivascular edema from fluid overload", "correct": true },
+        { "text": "Airway hyperresponsiveness" }
+      ]
+    },
+    {
+      "text": "Why do voice sounds through a normal air-filled lung sound muffled and unclear?",
+      "answers": [
+        { "text": "Because the diaphragm dampens the sound" },
+        { "text": "Because sound vibrations travel poorly through air", "correct": true },
+        { "text": "Because the alveoli absorb all sound" },
+        { "text": "Because of reflection from the ribs" }
+      ]
+    },
+    {
+      "text": "Vocal resonance is increased when sound travels through a:",
+      "answers": [
+        { "text": "Larger air-filled lung" },
+        { "text": "Solid or liquid", "correct": true },
+        { "text": "Pneumothorax" },
+        { "text": "Thicker chest wall" }
+      ]
+    },
+    {
+      "text": "Egophony is defined as:",
+      "answers": [
+        { "text": "A low-pitched rumbling heard in pneumothorax" },
+        { "text": "Abnormally enhanced vocal resonance with a high-pitched, nasal quality", "correct": true },
+        { "text": "An absence of voice transmission" },
+        { "text": "Soft, clear voice heard over normal lung" }
+      ]
+    },
+    {
+      "text": "To test for egophony, the patient repeats:",
+      "answers": [
+        { "text": "'99'" },
+        { "text": "'One, two, three'" },
+        { "text": "'E'", "correct": true },
+        { "text": "'Ah'" }
+      ]
+    },
+    {
+      "text": "Egophony exists when the patient's 'E' is heard through the stethoscope as:",
+      "answers": [
+        { "text": "A clear, unchanged 'E'" },
+        { "text": "A nasal-sounding 'A'", "correct": true },
+        { "text": "A whispered 'E'" },
+        { "text": "Silence" }
+      ]
+    },
+    {
+      "text": "Egophony indicates:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Consolidation, pleural effusion, or abscess", "correct": true },
+        { "text": "Normal lung" },
+        { "text": "Asthma" }
+      ]
+    },
+    {
+      "text": "Bronchophony is best defined as:",
+      "answers": [
+        { "text": "Muffled voice transmission through air-filled lung" },
+        { "text": "Abnormally loud and clear transmission of voice sounds through an area of increased density", "correct": true },
+        { "text": "Silent voice transmission over a pneumothorax" },
+        { "text": "A whispered voice heard faintly through the chest wall" }
+      ]
+    },
+    {
+      "text": "To test for bronchophony, the patient repeats:",
+      "answers": [
+        { "text": "'E'" },
+        { "text": "'99'", "correct": true },
+        { "text": "'One, two, three' in a whisper" },
+        { "text": "'Ah'" }
+      ]
+    },
+    {
+      "text": "Whispered pectoriloquy is compared to bronchophony as being:",
+      "answers": [
+        { "text": "Less sensitive" },
+        { "text": "Equally sensitive" },
+        { "text": "More sensitive", "correct": true },
+        { "text": "Not useful" }
+      ]
+    },
+    {
+      "text": "To assess for whispered pectoriloquy, the patient is asked to whisper:",
+      "answers": [
+        { "text": "'E'" },
+        { "text": "'99'" },
+        { "text": "'One, two, three'", "correct": true },
+        { "text": "The alphabet" }
+      ]
+    },
+    {
+      "text": "If whispered words are heard loudly and distinctly through the chest wall, you should suspect:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Consolidation of lung tissue", "correct": true },
+        { "text": "Normal aerated lung" },
+        { "text": "Emphysema" }
+      ]
+    },
+    {
+      "text": "Normal heart sounds are caused by:",
+      "answers": [
+        { "text": "Turbulent flow through narrowed arteries" },
+        { "text": "Closure of the valves", "correct": true },
+        { "text": "Opening of the valves" },
+        { "text": "Contraction of the atria only" }
+      ]
+    },
+    {
+      "text": "The aortic region is auscultated at:",
+      "answers": [
+        { "text": "The 2nd – 3rd intercostal spaces at the right sternal border", "correct": true },
+        { "text": "The 2nd – 3rd intercostal spaces at the left sternal border" },
+        { "text": "The apex in the mid-clavicular line" },
+        { "text": "The 5th intercostal space, right sternal border" }
+      ]
+    },
+    {
+      "text": "The pulmonic region is auscultated at:",
+      "answers": [
+        { "text": "The 2nd – 3rd intercostal spaces at the right sternal border" },
+        { "text": "The 2nd – 3rd intercostal spaces at the left sternal border", "correct": true },
+        { "text": "The 3rd – 6th intercostal spaces at the left sternal border" },
+        { "text": "The mid-clavicular line at the apex" }
+      ]
+    },
+    {
+      "text": "The tricuspid region is auscultated at:",
+      "answers": [
+        { "text": "The 2nd – 3rd intercostal spaces at the right sternal border" },
+        { "text": "The 3rd, 4th, 5th, and 6th intercostal spaces at the left sternal border", "correct": true },
+        { "text": "Near the apex in the mid-clavicular line" },
+        { "text": "The manubriosternal junction" }
+      ]
+    },
+    {
+      "text": "The mitral region is auscultated near the apex of the heart at:",
+      "answers": [
+        { "text": "The 2nd – 3rd intercostal spaces, right sternal border" },
+        { "text": "The 5th – 6th intercostal spaces in the mid-clavicular line", "correct": true },
+        { "text": "The 3rd – 6th intercostal spaces, left sternal border" },
+        { "text": "The suprasternal notch" }
+      ]
+    },
+    {
+      "text": "S1 corresponds to:",
+      "answers": [
+        { "text": "Closure of the aortic and pulmonic valves" },
+        { "text": "Closure of the atrioventricular (mitral and tricuspid) valves", "correct": true },
+        { "text": "Rapid ventricular filling" },
+        { "text": "A stiff ventricle" }
+      ]
+    },
+    {
+      "text": "S1 occurs at:",
+      "answers": [
+        { "text": "The end of systole" },
+        { "text": "The beginning of ventricular contraction", "correct": true },
+        { "text": "Mid-diastole" },
+        { "text": "Atrial contraction only" }
+      ]
+    },
+    {
+      "text": "S2 corresponds to:",
+      "answers": [
+        { "text": "Closure of the mitral and tricuspid valves" },
+        { "text": "Closure of the aortic and pulmonic valves", "correct": true },
+        { "text": "Rapid ventricular filling" },
+        { "text": "Blood regurgitation through an ASD" }
+      ]
+    },
+    {
+      "text": "S2 occurs when:",
+      "answers": [
+        { "text": "Systole begins" },
+        { "text": "Systole ends", "correct": true },
+        { "text": "Atria fill" },
+        { "text": "Ventricles stiffen" }
+      ]
+    },
+    {
+      "text": "S3 and S4 are both best heard at:",
+      "answers": [
+        { "text": "The right sternal border, 2nd intercostal space" },
+        { "text": "The left 5th intercostal space, mid-clavicular line", "correct": true },
+        { "text": "The suprasternal notch" },
+        { "text": "The right 4th intercostal space" }
+      ]
+    },
+    {
+      "text": "S3 results from:",
+      "answers": [
+        { "text": "A stiff ventricle" },
+        { "text": "Rapid ventricular filling", "correct": true },
+        { "text": "Valvular regurgitation" },
+        { "text": "Atrial contraction against a closed valve" }
+      ]
+    },
+    {
+      "text": "An S3 heart sound may suggest:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Congestive heart failure", "correct": true },
+        { "text": "Atelectasis" },
+        { "text": "Pleural effusion" }
+      ]
+    },
+    {
+      "text": "S4 is most often caused by:",
+      "answers": [
+        { "text": "Rapid ventricular filling" },
+        { "text": "A stiff ventricle, as in hypertension or after a myocardial infarction", "correct": true },
+        { "text": "Patent ductus arteriosus" },
+        { "text": "Atrial septal defect" }
+      ]
+    },
+    {
+      "text": "Murmurs are best described as:",
+      "answers": [
+        { "text": "The normal closure of valves" },
+        { "text": "Extra sounds heard in conjunction with S1 and S2", "correct": true },
+        { "text": "A palpable thrill" },
+        { "text": "An audible friction rub" }
+      ]
+    },
+    {
+      "text": "Murmurs are caused by:",
+      "answers": [
+        { "text": "Rapid ventricular filling" },
+        { "text": "Blood regurgitating into the chamber it came from, or blood pushed through an abnormal opening", "correct": true },
+        { "text": "Closure of the semilunar valves" },
+        { "text": "Stretching of the pericardium" }
+      ]
+    },
+    {
+      "text": "Which of the following abnormal openings is associated with murmurs?",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Atrial septal defect (ASD) or patent ductus arteriosus (PDA)", "correct": true },
+        { "text": "Pleural effusion" },
+        { "text": "Emphysema" }
+      ]
+    },
+    {
+      "text": "A primary indication for pulse oximetry is:",
+      "answers": [
+        { "text": "Directly measuring arterial pH" },
+        { "text": "Monitoring adequacy of arterial oxyhemoglobin saturation", "correct": true },
+        { "text": "Quantifying PaCO₂" },
+        { "text": "Assessing tidal volume" }
+      ]
+    },
+    {
+      "text": "Pulse oximetry can be used to:",
+      "answers": [
+        { "text": "Replace an ABG in all clinical scenarios" },
+        { "text": "Quantify the patient's response to therapeutic interventions and diagnostic procedures", "correct": true },
+        { "text": "Diagnose metabolic alkalosis" },
+        { "text": "Directly measure hemoglobin concentration" }
+      ]
+    },
+    {
+      "text": "Regarding pulse oximetry, which statement is correct?",
+      "answers": [
+        { "text": "It has many absolute contraindications" },
+        { "text": "No significant contraindications are noted; an ABG may be more properly warranted for additional information", "correct": true },
+        { "text": "It is contraindicated in all ICU patients" },
+        { "text": "It cannot be used on the ear" }
+      ]
+    },
+    {
+      "text": "Precautions when using pulse oximetry include:",
+      "answers": [
+        { "text": "Risk of hemolysis" },
+        { "text": "False-negatives or false-positives", "correct": true },
+        { "text": "Radiation exposure" },
+        { "text": "Bleeding at the site" }
+      ]
+    },
+    {
+      "text": "SpO₂ and SaO₂ differ in that:",
+      "answers": [
+        { "text": "They are the same thing with two names" },
+        { "text": "SpO₂ refers to pulse oximetry; SaO₂ is measured with hemoximetry", "correct": true },
+        { "text": "SaO₂ is measured by the oximeter only" },
+        { "text": "SpO₂ is measured invasively and SaO₂ noninvasively" }
+      ]
+    },
+    {
+      "text": "Pulse oximetry measures blood Hgb saturations using:",
+      "answers": [
+        { "text": "Mass spectrometry" },
+        { "text": "Spectrophotometry", "correct": true },
+        { "text": "Capnography" },
+        { "text": "Gas chromatography" }
+      ]
+    },
+    {
+      "text": "Pulse oximetry operates using the:",
+      "answers": [
+        { "text": "Bernoulli principle" },
+        { "text": "Lambert-Beer law", "correct": true },
+        { "text": "Starling equation" },
+        { "text": "Henderson-Hasselbalch equation" }
+      ]
+    },
+    {
+      "text": "The Lambert-Beer law describes:",
+      "answers": [
+        { "text": "How blood pressure changes with vessel diameter" },
+        { "text": "Light absorbed and transmitted by a substance to identify its presence and determine its concentration", "correct": true },
+        { "text": "How pressure is distributed in a closed system" },
+        { "text": "How temperature affects gas solubility" }
+      ]
+    },
+    {
+      "text": "Pulse oximetry uses two wavelengths of light — specifically:",
+      "answers": [
+        { "text": "Blue and green" },
+        { "text": "Red and infrared", "correct": true },
+        { "text": "Ultraviolet and red" },
+        { "text": "Green and yellow" }
+      ]
+    },
+    {
+      "text": "Pulse oximetry measures transmission through:",
+      "answers": [
+        { "text": "The forearm muscle only" },
+        { "text": "Living tissue such as a finger or earlobe", "correct": true },
+        { "text": "Bone only" },
+        { "text": "Hair follicles" }
+      ]
+    },
+    {
+      "text": "In a pulse oximetry sensor, the photodetector:",
+      "answers": [
+        { "text": "Emits the red and infrared beams" },
+        { "text": "Measures the light on the opposite side from the emitter", "correct": true },
+        { "text": "Generates heat to warm tissue" },
+        { "text": "Pulses electricity through the finger" }
+      ]
+    },
+    {
+      "text": "In a pulse oximetry signal, the BASELINE represents:",
+      "answers": [
+        { "text": "Pulse component caused by intermittent arterial flow" },
+        { "text": "Stable absorbance of the tissue bed", "correct": true },
+        { "text": "Cardiac output" },
+        { "text": "Venous return" }
+      ]
+    },
+    {
+      "text": "In a pulse oximetry signal, the PEAK represents:",
+      "answers": [
+        { "text": "Stable absorbance of the tissue bed" },
+        { "text": "The pulse component caused by intermittent arterial flow through the tissues", "correct": true },
+        { "text": "Venous blood absorbance" },
+        { "text": "Skin pigment contribution" }
+      ]
+    },
+    {
+      "text": "When performing pulse oximetry, you should:",
+      "answers": [
+        { "text": "Apply firm pressure to occlude the artery" },
+        { "text": "Place the sensor on the selected site and observe the waveform if available", "correct": true },
+        { "text": "Warm the site to 40°C before placement" },
+        { "text": "Keep the probe in place for no more than 10 seconds" }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT specifically listed as documentation required for a pulse oximetry measurement?",
+      "answers": [
+        { "text": "Date and time" },
+        { "text": "Patient position" },
+        { "text": "Probe type and site placement" },
+        { "text": "Patient's weight", "correct": true }
+      ]
+    },
+    {
+      "text": "Which inspired gas parameter must be documented when recording pulse oximetry?",
+      "answers": [
+        { "text": "PaCO₂" },
+        { "text": "FiO₂ being provided to the patient", "correct": true },
+        { "text": "Peak inspiratory pressure" },
+        { "text": "Tidal volume" }
+      ]
+    },
+    {
+      "text": "Which combination correctly pairs a lung percussion sound with its cause?",
+      "answers": [
+        { "text": "Hyperresonant — atelectasis" },
+        { "text": "Dull — emphysema" },
+        { "text": "Flat — atelectasis", "correct": true },
+        { "text": "Resonant — pleural effusion" }
+      ]
+    },
+    {
+      "text": "A pneumothorax would be expected to produce which percussion note?",
+      "answers": [
+        { "text": "Flat" },
+        { "text": "Dull" },
+        { "text": "Hyperresonant", "correct": true },
+        { "text": "Resonant" }
+      ]
+    },
+    {
+      "text": "Pleural effusion would be expected to produce which percussion note?",
+      "answers": [
+        { "text": "Hyperresonant" },
+        { "text": "Dull", "correct": true },
+        { "text": "Tympanic" },
+        { "text": "Resonant" }
+      ]
+    },
+    {
+      "text": "Which voice auscultation test is the MOST SENSITIVE for detecting consolidation?",
+      "answers": [
+        { "text": "Egophony" },
+        { "text": "Bronchophony" },
+        { "text": "Whispered pectoriloquy", "correct": true },
+        { "text": "Tactile fremitus" }
+      ]
+    },
+    {
+      "text": "Which pair correctly matches the valve set with its heart sound?",
+      "answers": [
+        { "text": "Aortic + pulmonic close → S1" },
+        { "text": "Mitral + tricuspid close → S2" },
+        { "text": "Mitral + tricuspid close → S1", "correct": true },
+        { "text": "Aortic + tricuspid close → S2" }
+      ]
+    }
+  ]
+}

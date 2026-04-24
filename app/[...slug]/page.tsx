@@ -74,6 +74,7 @@ export default async function LessonPage({
     "patient-assessment/lesson-1": "/audio/Respiratory_Therapy_History_and_Lab_Values.m4a",
     "patient-assessment/lesson-2": "/audio/Clinical_Signs_in_Respiratory_Patient_Inspection.m4a",
     "patient-assessment/lesson-3": "/audio/Identifying_Critical_Respiratory_and_Vital_Signs.m4a",
+    "patient-assessment/lesson-4": "/audio/Acoustic_Physics_of_Respiratory_Assessment.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 
