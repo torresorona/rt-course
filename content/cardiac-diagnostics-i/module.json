@@ -1,0 +1,38 @@
+{
+  "title": "Cardiac Diagnostics I",
+  "description": "ECG fundamentals: 12-lead acquisition, paper measurements, waveform interpretation, and lead anatomy.",
+  "order": 3,
+  "lessons": [
+    {
+      "slug": "cardiac-diagnostics-i/lesson-1",
+      "title": "12-Lead ECG & Rhythm Strip",
+      "description": "Objective 1.1.1 — Electrode placement, ECG paper measurements, waveform components (P, QRS, T, U), intervals, segments, and the 12 leads with their anatomic views."
+    }
+  ],
+  "audio": [
+    {
+      "title": "How to Read a 12-Lead ECG",
+      "src": "/audio/How_to_read_a_12-lead_ECG.m4a"
+    }
+  ],
+  "resources": [
+    {
+      "title": "12-Lead ECG Placement (video)",
+      "description": "Step-by-step demonstration of correct limb and chest electrode placement.",
+      "url": "https://youtu.be/xIZQRjkwV9Q?si=Ckm5CFJaNLelhQSG",
+      "type": "video"
+    },
+    {
+      "title": "ECG Interpretation Basics (video)",
+      "description": "Walkthrough of waveforms, intervals, and segments.",
+      "url": "https://youtu.be/BKJfB9KyQxc",
+      "type": "video"
+    },
+    {
+      "title": "12-Lead ECG Lead Views (video)",
+      "description": "How each of the 12 leads views the heart in the frontal and horizontal planes.",
+      "url": "https://www.youtube.com/watch?v=CNN30YHsJw0",
+      "type": "video"
+    }
+  ]
+}

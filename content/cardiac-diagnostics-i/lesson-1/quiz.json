@@ -1,0 +1,176 @@
+{
+  "title": "12-Lead ECG & Rhythm Strip Quiz",
+  "questions": [
+    {
+      "text": "How many electrodes are used to acquire a standard 12-lead ECG?",
+      "answers": [
+        { "text": "8 (4 limb + 4 chest)" },
+        { "text": "10 (4 limb + 6 chest)", "correct": true },
+        { "text": "12 (one for each lead)" },
+        { "text": "6 (chest only)" }
+      ]
+    },
+    {
+      "text": "Which limb electrode functions as the ground?",
+      "answers": [
+        { "text": "Right arm (RA)" },
+        { "text": "Left arm (LA)" },
+        { "text": "Left leg (LL)" },
+        { "text": "Right leg (RL)", "correct": true }
+      ]
+    },
+    {
+      "text": "Where is the V1 chest electrode placed?",
+      "answers": [
+        { "text": "4th intercostal space, just to the right of the sternum", "correct": true },
+        { "text": "4th intercostal space, just to the left of the sternum" },
+        { "text": "5th intercostal space, midclavicular line" },
+        { "text": "5th intercostal space, mid-axillary line" }
+      ]
+    },
+    {
+      "text": "Where is the V4 chest electrode placed?",
+      "answers": [
+        { "text": "4th intercostal space, left of the sternum" },
+        { "text": "5th intercostal space, midclavicular line", "correct": true },
+        { "text": "5th intercostal space, anterior axillary line" },
+        { "text": "Halfway between V2 and V3" }
+      ]
+    },
+    {
+      "text": "Where is the V6 chest electrode placed?",
+      "answers": [
+        { "text": "5th intercostal space, midclavicular line" },
+        { "text": "5th intercostal space, anterior axillary line" },
+        { "text": "5th intercostal space, mid-axillary line", "correct": true },
+        { "text": "4th intercostal space, mid-axillary line" }
+      ]
+    },
+    {
+      "text": "On standard ECG paper, what does one small (1 mm) horizontal block represent?",
+      "answers": [
+        { "text": "0.04 seconds", "correct": true },
+        { "text": "0.20 seconds" },
+        { "text": "0.10 mV" },
+        { "text": "0.5 mV" }
+      ]
+    },
+    {
+      "text": "On standard ECG paper, what does one large (5 mm) vertical block represent?",
+      "answers": [
+        { "text": "0.04 seconds" },
+        { "text": "0.20 seconds" },
+        { "text": "0.1 mV" },
+        { "text": "0.5 mV", "correct": true }
+      ]
+    },
+    {
+      "text": "If a wave of depolarization moves perpendicular to the positive electrode, the recorded waveform will be:",
+      "answers": [
+        { "text": "Upright" },
+        { "text": "Inverted" },
+        { "text": "Biphasic", "correct": true },
+        { "text": "Flat (no deflection)" }
+      ]
+    },
+    {
+      "text": "The P wave represents:",
+      "answers": [
+        { "text": "Ventricular depolarization" },
+        { "text": "Atrial depolarization", "correct": true },
+        { "text": "Ventricular repolarization" },
+        { "text": "Repolarization of the Purkinje fibers" }
+      ]
+    },
+    {
+      "text": "What is the upper limit of normal QRS duration?",
+      "answers": [
+        { "text": "0.04 seconds" },
+        { "text": "0.11 seconds", "correct": true },
+        { "text": "0.20 seconds" },
+        { "text": "0.40 seconds" }
+      ]
+    },
+    {
+      "text": "The normal PR interval ranges from:",
+      "answers": [
+        { "text": "0.04 – 0.10 seconds" },
+        { "text": "0.12 – 0.20 seconds", "correct": true },
+        { "text": "0.20 – 0.40 seconds" },
+        { "text": "0.40 – 0.60 seconds" }
+      ]
+    },
+    {
+      "text": "Tall, peaked T waves are commonly seen in which electrolyte abnormality?",
+      "answers": [
+        { "text": "Hypokalemia" },
+        { "text": "Hyperkalemia", "correct": true },
+        { "text": "Hypocalcemia" },
+        { "text": "Hypomagnesemia" }
+      ]
+    },
+    {
+      "text": "ST segment elevation in the shape of a \"frowny face\" is most often associated with:",
+      "answers": [
+        { "text": "A benign finding" },
+        { "text": "Myocardial ischemia without injury" },
+        { "text": "An acute injury pattern such as myocardial infarction or pericarditis", "correct": true },
+        { "text": "Hypokalemia" }
+      ]
+    },
+    {
+      "text": "Which lead is most commonly used for routine cardiac monitoring because its electrode orientation most closely follows the normal pathway of current flow in the heart?",
+      "answers": [
+        { "text": "Lead I" },
+        { "text": "Lead II", "correct": true },
+        { "text": "Lead aVR" },
+        { "text": "V1" }
+      ]
+    },
+    {
+      "text": "Which leads view the inferior wall of the left ventricle?",
+      "answers": [
+        { "text": "I, aVL, V5, V6" },
+        { "text": "V1 and V2" },
+        { "text": "II, III, and aVF", "correct": true },
+        { "text": "V3 and V4" }
+      ]
+    },
+    {
+      "text": "Which leads view the septal wall of the heart?",
+      "answers": [
+        { "text": "V1 and V2", "correct": true },
+        { "text": "V3 and V4" },
+        { "text": "V5 and V6" },
+        { "text": "II and III" }
+      ]
+    },
+    {
+      "text": "Which lead normally generates an inverted complex because it views the heart from the right shoulder (toward the base)?",
+      "answers": [
+        { "text": "Lead II" },
+        { "text": "aVL" },
+        { "text": "aVF" },
+        { "text": "aVR", "correct": true }
+      ]
+    },
+    {
+      "text": "A QT interval is generally considered prolonged when it exceeds approximately what fraction of the R-R interval?",
+      "answers": [
+        { "text": "25%" },
+        { "text": "50%", "correct": true },
+        { "text": "75%" },
+        { "text": "100%" }
+      ]
+    },
+    {
+      "text": "While reviewing a tracing, you see what appears to be ventricular fibrillation, but the patient is awake, talking, and has a strong pulse. The most likely cause is:",
+      "answers": [
+        { "text": "True ventricular fibrillation — defibrillate immediately" },
+        { "text": "Artifact — assess the patient and the leads before intervening", "correct": true },
+        { "text": "A short PR interval" },
+        { "text": "Hyperkalemia" }
+      ]
+    }
+  ]
+}
