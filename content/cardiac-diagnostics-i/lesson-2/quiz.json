@@ -1,0 +1,230 @@
+{
+  "title": "ECG Interpretation: Axis, Ischemia, Hypertrophy & Rhythm Quiz",
+  "questions": [
+    {
+      "text": "The mean QRS axis represents:",
+      "answers": [
+        { "text": "The total duration of ventricular depolarization" },
+        { "text": "The average direction of depolarization that spreads through the ventricles", "correct": true },
+        { "text": "The average heart rate over a 6-second window" },
+        { "text": "The angle of the heart within the chest cavity" }
+      ]
+    },
+    {
+      "text": "How many degrees separate each lead in the hexaxial reference system?",
+      "answers": [
+        { "text": "15°" },
+        { "text": "30°", "correct": true },
+        { "text": "45°" },
+        { "text": "60°" }
+      ]
+    },
+    {
+      "text": "What is the normal mean QRS axis range?",
+      "answers": [
+        { "text": "−1° to −90°" },
+        { "text": "0° to +90°", "correct": true },
+        { "text": "+90° to ±180°" },
+        { "text": "−91° to −179°" }
+      ]
+    },
+    {
+      "text": "Left axis deviation is defined by which range?",
+      "answers": [
+        { "text": "0° to +90°" },
+        { "text": "−1° to −90°", "correct": true },
+        { "text": "+90° to ±180°" },
+        { "text": "−91° to −179°" }
+      ]
+    },
+    {
+      "text": "Using the quick-look method, lead I is positive and lead aVF is negative. The axis is:",
+      "answers": [
+        { "text": "Normal" },
+        { "text": "Left axis deviation", "correct": true },
+        { "text": "Right axis deviation" },
+        { "text": "Extreme right axis deviation" }
+      ]
+    },
+    {
+      "text": "Which of the following is most likely to cause RIGHT axis deviation?",
+      "answers": [
+        { "text": "Pregnancy" },
+        { "text": "High diaphragm" },
+        { "text": "Pulmonary embolism", "correct": true },
+        { "text": "Left ventricular hypertrophy" }
+      ]
+    },
+    {
+      "text": "Which of the following is most likely to cause LEFT axis deviation?",
+      "answers": [
+        { "text": "Emphysema" },
+        { "text": "COPD" },
+        { "text": "Left ventricular hypertrophy", "correct": true },
+        { "text": "Dextrocardia" }
+      ]
+    },
+    {
+      "text": "Leads II, III, and aVF examine tissue supplied by which coronary artery?",
+      "answers": [
+        { "text": "Left anterior descending (LAD)" },
+        { "text": "Right coronary artery (RCA)", "correct": true },
+        { "text": "Left circumflex" },
+        { "text": "Left main" }
+      ]
+    },
+    {
+      "text": "ST segment elevation is defined as elevation equal to or greater than 1 mm above the isoelectric line at a point how far to the right of the J point, in 3 or more consecutive leads?",
+      "answers": [
+        { "text": "0.02 seconds" },
+        { "text": "0.04 seconds", "correct": true },
+        { "text": "0.08 seconds" },
+        { "text": "0.12 seconds" }
+      ]
+    },
+    {
+      "text": "In the hyperacute phase of a STEMI, the ECG most characteristically shows:",
+      "answers": [
+        { "text": "Down-sloping ST elevation with deep Q waves" },
+        { "text": "A T wave measuring more than 50% of the preceding R wave", "correct": true },
+        { "text": "ST depression with T wave inversion" },
+        { "text": "A normal-appearing tracing" }
+      ]
+    },
+    {
+      "text": "The first ECG sign that myocardial tissue death has occurred (fully evolved STEMI) is:",
+      "answers": [
+        { "text": "Tall, peaked T waves" },
+        { "text": "Up-sloping ST elevation with a tall T wave" },
+        { "text": "Deep, abnormal Q waves with down-sloping ST elevation and T wave inversion", "correct": true },
+        { "text": "ST depression in the inferior leads" }
+      ]
+    },
+    {
+      "text": "How is NSTEMI diagnosed when the ECG shows no ST elevation?",
+      "answers": [
+        { "text": "By the presence of axis deviation alone" },
+        { "text": "By signs and symptoms, history, and cardiac biomarker results", "correct": true },
+        { "text": "By a prolonged QT interval" },
+        { "text": "By a wide QRS complex" }
+      ]
+    },
+    {
+      "text": "Significant ST depression in leads V2 and V3 is defined as a depression of more than:",
+      "answers": [
+        { "text": "0.1 mm" },
+        { "text": "0.5 mm", "correct": true },
+        { "text": "1.0 mm" },
+        { "text": "2.0 mm" }
+      ]
+    },
+    {
+      "text": "Which leads view the SEPTAL wall of the left ventricle?",
+      "answers": [
+        { "text": "V1 and V2", "correct": true },
+        { "text": "V3 and V4" },
+        { "text": "V5 and V6" },
+        { "text": "II, III, and aVF" }
+      ]
+    },
+    {
+      "text": "Which leads view the INFERIOR wall of the left ventricle?",
+      "answers": [
+        { "text": "I, aVL, V5, V6" },
+        { "text": "V1 and V2" },
+        { "text": "II, III, and aVF", "correct": true },
+        { "text": "V7, V8, V9" }
+      ]
+    },
+    {
+      "text": "Posterior wall infarction requires additional chest leads placed further left and toward the back. These leads are:",
+      "answers": [
+        { "text": "V3R, V4R, V5R" },
+        { "text": "V7, V8, V9", "correct": true },
+        { "text": "V1, V2, V3" },
+        { "text": "aVR, aVL, aVF" }
+      ]
+    },
+    {
+      "text": "The clinical triad of right ventricular infarction is:",
+      "answers": [
+        { "text": "Hypertension, peripheral edema, crackles" },
+        { "text": "Hypotension, jugular venous distention, clear breath sounds", "correct": true },
+        { "text": "Tachycardia, fever, chest pain" },
+        { "text": "Bradycardia, hypoxia, wheezing" }
+      ]
+    },
+    {
+      "text": "Right atrial enlargement most characteristically produces:",
+      "answers": [
+        { "text": "A widened, notched P wave > 0.11 seconds" },
+        { "text": "An abnormally tall initial part of the P wave; biphasic P in V1", "correct": true },
+        { "text": "A peaked T wave" },
+        { "text": "A prolonged QT interval" }
+      ]
+    },
+    {
+      "text": "Left atrial enlargement is recognized by:",
+      "answers": [
+        { "text": "A tall initial portion of the P wave" },
+        { "text": "A widened latter portion of the P wave > 0.11 seconds, often notched in I, II, aVL, V4–V6", "correct": true },
+        { "text": "An inverted P wave in lead II" },
+        { "text": "Absent P waves" }
+      ]
+    },
+    {
+      "text": "What is the voltage criterion for suspecting LVH?",
+      "answers": [
+        { "text": "S wave in V1 + R wave in V5 ≥ 35 mV", "correct": true },
+        { "text": "R wave in V1 ≥ 7 mm" },
+        { "text": "QRS duration > 0.12 seconds" },
+        { "text": "T wave amplitude > 5 mm in V5" }
+      ]
+    },
+    {
+      "text": "One of the earliest and most reliable ECG findings of right ventricular hypertrophy is:",
+      "answers": [
+        { "text": "Left axis deviation" },
+        { "text": "Right axis deviation", "correct": true },
+        { "text": "ST elevation in V1" },
+        { "text": "A prolonged PR interval" }
+      ]
+    },
+    {
+      "text": "Sodium imbalances (hypernatremia or hyponatremia) typically cause which ECG change?",
+      "answers": [
+        { "text": "Wide QRS complexes" },
+        { "text": "Prolonged QT interval" },
+        { "text": "ST depression" },
+        { "text": "No significant ECG changes", "correct": true }
+      ]
+    },
+    {
+      "text": "Hyperkalemia most characteristically produces which ECG findings?",
+      "answers": [
+        { "text": "Wide QRS complexes and prolonged PR intervals", "correct": true },
+        { "text": "ST depression and U waves" },
+        { "text": "Long, flat ST segments and prolonged QT" },
+        { "text": "Tall, narrow QRS complexes with short PR intervals" }
+      ]
+    },
+    {
+      "text": "Hypocalcemia most characteristically produces which ECG findings?",
+      "answers": [
+        { "text": "Wide QRS complexes" },
+        { "text": "Long, flat ST segments and prolonged QT interval", "correct": true },
+        { "text": "Peaked T waves" },
+        { "text": "Shortened PR interval" }
+      ]
+    },
+    {
+      "text": "Using the small box method on a regular rhythm, you count 20 small boxes between R-R. The ventricular rate is:",
+      "answers": [
+        { "text": "60 bpm" },
+        { "text": "75 bpm", "correct": true },
+        { "text": "100 bpm" },
+        { "text": "150 bpm" }
+      ]
+    }
+  ]
+}

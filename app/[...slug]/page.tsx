@@ -76,6 +76,7 @@ export default async function LessonPage({
     "patient-assessment/lesson-3": "/audio/Identifying_Critical_Respiratory_and_Vital_Signs.m4a",
     "patient-assessment/lesson-4": "/audio/Acoustic_Physics_of_Respiratory_Assessment.m4a",
     "cardiac-diagnostics-i/lesson-1": "/audio/How_to_read_a_12-lead_ECG.m4a",
+    "cardiac-diagnostics-i/lesson-2": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

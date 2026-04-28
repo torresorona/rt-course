@@ -7,12 +7,21 @@
       "slug": "cardiac-diagnostics-i/lesson-1",
       "title": "12-Lead ECG & Rhythm Strip",
       "description": "Objective 1.1.1 — Electrode placement, ECG paper measurements, waveform components (P, QRS, T, U), intervals, segments, and the 12 leads with their anatomic views."
+    },
+    {
+      "slug": "cardiac-diagnostics-i/lesson-2",
+      "title": "ECG Interpretation: Axis, Ischemia, Hypertrophy & Rhythm",
+      "description": "Objective 1.1.2 — Mean QRS axis & axis deviation, ischemia/injury/infarction patterns by wall, chamber enlargement (RAE/LAE/LVH/RVH), electrolyte effects on the ECG, and the 5-step rhythm strip method."
     }
   ],
   "audio": [
     {
       "title": "How to Read a 12-Lead ECG",
       "src": "/audio/How_to_read_a_12-lead_ECG.m4a"
+    },
+    {
+      "title": "The Five-Step ECG Interpretation Method",
+      "src": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a"
     }
   ],
   "resources": [
