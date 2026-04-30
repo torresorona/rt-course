@@ -1,0 +1,320 @@
+{
+  "title": "Ventricular Rhythms, AV Blocks & Conduction Defects Quiz",
+  "questions": [
+    {
+      "text": "The ventricles are described as the heart's:",
+      "answers": [
+        { "text": "Most efficient pacemaker" },
+        { "text": "Least efficient pacemaker", "correct": true },
+        { "text": "Primary pacemaker" },
+        { "text": "Backup atrial pacemaker" }
+      ]
+    },
+    {
+      "text": "Ventricular rhythms are recognized by which two ECG hallmarks?",
+      "answers": [
+        { "text": "Upright P waves and narrow QRS complexes" },
+        { "text": "Saw-tooth flutter waves and narrow QRS" },
+        { "text": "Retrograde or missing P waves and wide, bizarre QRS > 0.12 s", "correct": true },
+        { "text": "Tall, peaked T waves and a normal QRS" }
+      ]
+    },
+    {
+      "text": "What is the typical QRS duration of a PVC?",
+      "answers": [
+        { "text": "≤ 0.08 s" },
+        { "text": "≤ 0.11 s" },
+        { "text": "≥ 0.12 s, wide and bizarre", "correct": true },
+        { "text": "Always exactly 0.12 s" }
+      ]
+    },
+    {
+      "text": "PVCs that arise from the same anatomic site and look identical in the same lead are called:",
+      "answers": [
+        { "text": "Multiform / multifocal" },
+        { "text": "Uniform / unifocal", "correct": true },
+        { "text": "Interpolated" },
+        { "text": "Couplets" }
+      ]
+    },
+    {
+      "text": "A PVC that occurs between two normally conducted QRS complexes without disrupting the cardiac cycle is called:",
+      "answers": [
+        { "text": "Multiform PVC" },
+        { "text": "Compensatory PVC" },
+        { "text": "Interpolated PVC", "correct": true },
+        { "text": "Bigeminy" }
+      ]
+    },
+    {
+      "text": "Every third beat is a premature beat. This pattern is called:",
+      "answers": [
+        { "text": "Bigeminy" },
+        { "text": "Trigeminy", "correct": true },
+        { "text": "Quadrigeminy" },
+        { "text": "Run / burst" }
+      ]
+    },
+    {
+      "text": "What is the rate range for an idioventricular rhythm (IVR)?",
+      "answers": [
+        { "text": "20 – 40 bpm", "correct": true },
+        { "text": "41 – 100 bpm" },
+        { "text": "60 – 100 bpm" },
+        { "text": "101 – 250 bpm" }
+      ]
+    },
+    {
+      "text": "Three or more ventricular escape beats in a row at 41–100 bpm is called:",
+      "answers": [
+        { "text": "Idioventricular rhythm (IVR)" },
+        { "text": "Accelerated idioventricular rhythm (AIVR)", "correct": true },
+        { "text": "Ventricular tachycardia" },
+        { "text": "Junctional escape rhythm" }
+      ]
+    },
+    {
+      "text": "Ventricular tachycardia is defined as:",
+      "answers": [
+        { "text": "1 PVC at any rate" },
+        { "text": "≥ 3 PVCs in a row at a rate > 100 bpm", "correct": true },
+        { "text": "Polymorphic QRS at 60–100 bpm" },
+        { "text": "Any wide QRS rhythm" }
+      ]
+    },
+    {
+      "text": "Sustained VT is defined as VT that persists for more than:",
+      "answers": [
+        { "text": "10 seconds" },
+        { "text": "20 seconds" },
+        { "text": "30 seconds", "correct": true },
+        { "text": "60 seconds" }
+      ]
+    },
+    {
+      "text": "VT in which the QRS complexes are all the same shape and amplitude is called:",
+      "answers": [
+        { "text": "Polymorphic VT" },
+        { "text": "Monomorphic VT", "correct": true },
+        { "text": "Torsades de Pointes" },
+        { "text": "Fine VT" }
+      ]
+    },
+    {
+      "text": "Torsades de Pointes is characteristically associated with:",
+      "answers": [
+        { "text": "A short PR interval" },
+        { "text": "A long QT interval (> 0.45 – 0.50 s)", "correct": true },
+        { "text": "Hyperkalemia only" },
+        { "text": "A delta wave" }
+      ]
+    },
+    {
+      "text": "Coarse V-fib is distinguished from fine V-fib by:",
+      "answers": [
+        { "text": "Wave amplitude — coarse ≥ 3 mm, fine < 3 mm", "correct": true },
+        { "text": "Heart rate above versus below 200 bpm" },
+        { "text": "Presence of P waves in coarse V-fib" },
+        { "text": "QRS width in fine V-fib" }
+      ]
+    },
+    {
+      "text": "Which of the following is a defining feature of V-fib?",
+      "answers": [
+        { "text": "Regular wide QRS at 150 bpm" },
+        { "text": "Saw-tooth waves at 300 bpm" },
+        { "text": "Chaotic, irregularly irregular deflections with no organized depolarization and no pulse", "correct": true },
+        { "text": "Inverted P waves before each QRS" }
+      ]
+    },
+    {
+      "text": "First-line treatment for stable but symptomatic V-Tach is:",
+      "answers": [
+        { "text": "Defibrillation" },
+        { "text": "Synchronized cardioversion" },
+        { "text": "Antiarrhythmic such as amiodarone", "correct": true },
+        { "text": "Adenosine" }
+      ]
+    },
+    {
+      "text": "First-line treatment for pulseless V-Tach and V-Fib is:",
+      "answers": [
+        { "text": "Adenosine and oxygen" },
+        { "text": "CPR and defibrillation", "correct": true },
+        { "text": "Synchronized cardioversion only" },
+        { "text": "Vagal maneuvers" }
+      ]
+    },
+    {
+      "text": "Asystole is defined by:",
+      "answers": [
+        { "text": "Total absence of ventricular electrical activity, no pulse, no cardiac output", "correct": true },
+        { "text": "A flat QRS at 30 bpm" },
+        { "text": "Inverted T waves with no P" },
+        { "text": "Polymorphic QRS at variable rates" }
+      ]
+    },
+    {
+      "text": "Treatment for asystole includes all of the following EXCEPT:",
+      "answers": [
+        { "text": "CPR" },
+        { "text": "Supplemental oxygen" },
+        { "text": "Vasopressors such as epinephrine" },
+        { "text": "Defibrillation", "correct": true }
+      ]
+    },
+    {
+      "text": "An atrial-only rhythm with no ventricular activity (atrial activity present, no QRS) is called:",
+      "answers": [
+        { "text": "Junctional escape rhythm" },
+        { "text": "P-wave asystole", "correct": true },
+        { "text": "AIVR" },
+        { "text": "Sinus arrest" }
+      ]
+    },
+    {
+      "text": "First-degree AV block is best defined by:",
+      "answers": [
+        { "text": "Progressive PR lengthening with a dropped beat" },
+        { "text": "Some P waves not followed by a QRS, but PR is constant when conducted" },
+        { "text": "PR interval prolonged (> 0.20 s) but constant; every P conducts to a QRS", "correct": true },
+        { "text": "Complete dissociation between P waves and QRSs" }
+      ]
+    },
+    {
+      "text": "Progressive PR-interval lengthening followed by a dropped QRS is the hallmark of:",
+      "answers": [
+        { "text": "First-degree AV block" },
+        { "text": "Second-degree AV block, Type I (Mobitz I / Wenckebach)", "correct": true },
+        { "text": "Second-degree AV block, Type II (Mobitz II)" },
+        { "text": "Third-degree AV block" }
+      ]
+    },
+    {
+      "text": "In Mobitz II second-degree AV block, the PR interval of conducted beats is:",
+      "answers": [
+        { "text": "Progressively longer until a beat drops" },
+        { "text": "Within normal range or slightly prolonged but constant", "correct": true },
+        { "text": "Always > 0.30 s" },
+        { "text": "Variable with no relationship to QRS" }
+      ]
+    },
+    {
+      "text": "Mobitz II second-degree AV block reflects a conduction problem located:",
+      "answers": [
+        { "text": "Above the AV node" },
+        { "text": "At the SA node" },
+        { "text": "Below the AV node, within the His–Purkinje system", "correct": true },
+        { "text": "In the right atrium" }
+      ]
+    },
+    {
+      "text": "In a 2:1 AV block, classification (Type I vs Type II) is based primarily on:",
+      "answers": [
+        { "text": "Atrial rate" },
+        { "text": "QRS width — narrow ≤ 0.11 s suggests Type I, wide > 0.11 s suggests Type II", "correct": true },
+        { "text": "P-wave amplitude" },
+        { "text": "QT interval" }
+      ]
+    },
+    {
+      "text": "Third-degree (complete) AV block is recognized by:",
+      "answers": [
+        { "text": "Constant prolonged PR interval > 0.20 s" },
+        { "text": "Progressive PR lengthening with dropped beats" },
+        { "text": "Atria and ventricles beating independently with no relationship between P waves and QRS complexes", "correct": true },
+        { "text": "A delta wave with a wide QRS" }
+      ]
+    },
+    {
+      "text": "Per the Block Jingle, which finding indicates a Wenckebach (Type I) block?",
+      "answers": [
+        { "text": "If R is far from P" },
+        { "text": "If longer, longer, longer, drop", "correct": true },
+        { "text": "If some P's don't get through" },
+        { "text": "If P's and Q's don't agree" }
+      ]
+    },
+    {
+      "text": "Per the Block Jingle, what indicates a third-degree AV block?",
+      "answers": [
+        { "text": "If R is far from P" },
+        { "text": "If longer, longer, longer, drop" },
+        { "text": "If some P's don't get through" },
+        { "text": "If P's and Q's don't agree", "correct": true }
+      ]
+    },
+    {
+      "text": "A complete bundle branch block is defined by a QRS duration of:",
+      "answers": [
+        { "text": "≤ 0.08 s" },
+        { "text": "0.10 – 0.12 s" },
+        { "text": "> 0.12 s", "correct": true },
+        { "text": "≥ 0.20 s" }
+      ]
+    },
+    {
+      "text": "An incomplete bundle branch block is defined by a QRS duration of:",
+      "answers": [
+        { "text": "≤ 0.08 s" },
+        { "text": "0.10 – 0.12 s", "correct": true },
+        { "text": "> 0.12 s" },
+        { "text": "≥ 0.20 s" }
+      ]
+    },
+    {
+      "text": "An rSR′ pattern (\"rabbit ears\") is the classic finding of:",
+      "answers": [
+        { "text": "Hyperkalemia" },
+        { "text": "Bundle branch block", "correct": true },
+        { "text": "Sinus arrest" },
+        { "text": "Wolff-Parkinson-White" }
+      ]
+    },
+    {
+      "text": "Right bundle branch block (RBBB) on a 12-lead ECG typically shows:",
+      "answers": [
+        { "text": "An rSR′ (M-shaped) pattern in V1 with a wide S in V6, often with right axis deviation", "correct": true },
+        { "text": "A W-shaped QRS in V1 and an M-shaped QRS in V6" },
+        { "text": "Saw-tooth waves with a narrow QRS" },
+        { "text": "A delta wave with a short PR interval" }
+      ]
+    },
+    {
+      "text": "Per the WiLLiaM MaRRoW shortcut, which morphology fits LBBB?",
+      "answers": [
+        { "text": "M in V1, W in V6" },
+        { "text": "W in V1, M in V6", "correct": true },
+        { "text": "Saw-tooth in both V1 and V6" },
+        { "text": "Identical narrow QRS in both" }
+      ]
+    },
+    {
+      "text": "Left bundle branch block (LBBB) characteristically produces which pattern in V1 and V2?",
+      "answers": [
+        { "text": "Tall R waves" },
+        { "text": "Negative QRS complexes with small R waves and deep S waves", "correct": true },
+        { "text": "Saw-tooth waves" },
+        { "text": "Delta waves" }
+      ]
+    },
+    {
+      "text": "Pacing spikes appearing immediately before each QRS complex on a temporary paced rhythm represent:",
+      "answers": [
+        { "text": "Artifact" },
+        { "text": "Electrical capture by the pacemaker", "correct": true },
+        { "text": "Bundle branch block" },
+        { "text": "Atrial flutter waves" }
+      ]
+    },
+    {
+      "text": "Polymorphic VT with a twisting pattern around the baseline and a long QT interval is most likely:",
+      "answers": [
+        { "text": "Monomorphic VT" },
+        { "text": "Atrial flutter with variable conduction" },
+        { "text": "Torsades de Pointes", "correct": true },
+        { "text": "Fine V-fib" }
+      ]
+    }
+  ]
+}

@@ -79,6 +79,7 @@ export default async function LessonPage({
     "cardiac-diagnostics-i/lesson-1": "/audio/How_to_read_a_12-lead_ECG.m4a",
     "cardiac-diagnostics-i/lesson-2": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a",
     "cardiac-diagnostics-i/lesson-3": "/audio/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a",
+    "cardiac-diagnostics-i/lesson-4": "/audio/Ventricular_Rhythms_and_Conduction_Blocks.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

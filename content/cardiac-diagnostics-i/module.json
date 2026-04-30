@@ -17,6 +17,11 @@
       "slug": "cardiac-diagnostics-i/lesson-3",
       "title": "Sinus, Atrial & Junctional Rhythms",
       "description": "Objective 1.1.3 — Recognize sinus rhythms (NSR, brady, tachy, arrhythmia, arrest), atrial rhythms (PAC, MAR/MAT, SVT, WPW, A-flutter, A-fib), and junctional rhythms (PJC, escape, accelerated, tachycardia)."
+    },
+    {
+      "slug": "cardiac-diagnostics-i/lesson-4",
+      "title": "Ventricular Rhythms, AV Blocks & Conduction Defects",
+      "description": "Objective 1.1.4 — Recognize ventricular rhythms (PVC, IVR, V-tach incl. torsades, V-fib, asystole), AV blocks (1st, 2nd Type I/II, 2:1, 3rd), bundle branch blocks (RBBB, LBBB), and paced rhythms."
     }
   ],
   "audio": [
@@ -31,6 +36,10 @@
     {
       "title": "Sinus, Atrial, and Junctional Heart Rhythms",
       "src": "/audio/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a"
+    },
+    {
+      "title": "Ventricular Rhythms and Conduction Blocks",
+      "src": "/audio/Ventricular_Rhythms_and_Conduction_Blocks.m4a"
     }
   ],
   "resources": [
