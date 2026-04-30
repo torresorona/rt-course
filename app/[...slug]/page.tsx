@@ -11,6 +11,7 @@ import AudioPlayer from "@/components/AudioPlayer";
 import ReceptorTable from "@/components/ReceptorTable";
 import LabRanges from "@/components/LabRanges";
 import GCSScenarios from "@/components/GCSScenarios";
+import YouTube from "@/components/YouTube";
 
 function MdxTable(props: React.ComponentProps<"table">) {
   return (
@@ -20,7 +21,7 @@ function MdxTable(props: React.ComponentProps<"table">) {
   );
 }
 
-const mdxComponents = { DataTable, table: MdxTable };
+const mdxComponents = { DataTable, YouTube, table: MdxTable };
 
 const views = [
   { id: "review", label: "Review" },
@@ -77,6 +78,7 @@ export default async function LessonPage({
     "patient-assessment/lesson-4": "/audio/Acoustic_Physics_of_Respiratory_Assessment.m4a",
     "cardiac-diagnostics-i/lesson-1": "/audio/How_to_read_a_12-lead_ECG.m4a",
     "cardiac-diagnostics-i/lesson-2": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a",
+    "cardiac-diagnostics-i/lesson-3": "/audio/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

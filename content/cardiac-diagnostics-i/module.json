@@ -12,6 +12,11 @@
       "slug": "cardiac-diagnostics-i/lesson-2",
       "title": "ECG Interpretation: Axis, Ischemia, Hypertrophy & Rhythm",
       "description": "Objective 1.1.2 — Mean QRS axis & axis deviation, ischemia/injury/infarction patterns by wall, chamber enlargement (RAE/LAE/LVH/RVH), electrolyte effects on the ECG, and the 5-step rhythm strip method."
+    },
+    {
+      "slug": "cardiac-diagnostics-i/lesson-3",
+      "title": "Sinus, Atrial & Junctional Rhythms",
+      "description": "Objective 1.1.3 — Recognize sinus rhythms (NSR, brady, tachy, arrhythmia, arrest), atrial rhythms (PAC, MAR/MAT, SVT, WPW, A-flutter, A-fib), and junctional rhythms (PJC, escape, accelerated, tachycardia)."
     }
   ],
   "audio": [
@@ -22,6 +27,10 @@
     {
       "title": "The Five-Step ECG Interpretation Method",
       "src": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a"
+    },
+    {
+      "title": "Sinus, Atrial, and Junctional Heart Rhythms",
+      "src": "/audio/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a"
     }
   ],
   "resources": [

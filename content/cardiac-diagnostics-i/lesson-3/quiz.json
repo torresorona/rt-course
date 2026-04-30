@@ -1,0 +1,320 @@
+{
+  "title": "Sinus, Atrial & Junctional Rhythms Quiz",
+  "questions": [
+    {
+      "text": "On a rhythm strip, the R-R interval varies by more than 4 small boxes. The rhythm is:",
+      "answers": [
+        { "text": "Regular" },
+        { "text": "Irregular", "correct": true },
+        { "text": "Sinus" },
+        { "text": "Junctional" }
+      ]
+    },
+    {
+      "text": "Which of the following is the intrinsic rate of the AV junction?",
+      "answers": [
+        { "text": "20 – 40 bpm" },
+        { "text": "40 – 60 bpm", "correct": true },
+        { "text": "60 – 100 bpm" },
+        { "text": "100 – 180 bpm" }
+      ]
+    },
+    {
+      "text": "ECG hallmarks of a sinus-origin rhythm include all of the following EXCEPT:",
+      "answers": [
+        { "text": "Positive P wave before each QRS" },
+        { "text": "P waves that look alike" },
+        { "text": "Consistent PR intervals" },
+        { "text": "Inverted P waves in leads II, III, and aVF", "correct": true }
+      ]
+    },
+    {
+      "text": "What is the rate range for Normal Sinus Rhythm?",
+      "answers": [
+        { "text": "40 – 60 bpm" },
+        { "text": "60 – 100 bpm", "correct": true },
+        { "text": "101 – 180 bpm" },
+        { "text": "150 – 250 bpm" }
+      ]
+    },
+    {
+      "text": "Sinus bradycardia is best defined as a sinus rhythm with a rate of:",
+      "answers": [
+        { "text": "Less than 60 bpm", "correct": true },
+        { "text": "60 – 100 bpm" },
+        { "text": "Greater than 100 bpm" },
+        { "text": "Greater than 180 bpm" }
+      ]
+    },
+    {
+      "text": "Which of the following is the LEAST likely cause of sinus bradycardia in a healthy adult?",
+      "answers": [
+        { "text": "Sleep" },
+        { "text": "Endurance athletic training" },
+        { "text": "Resting state in a person under 25" },
+        { "text": "Fever", "correct": true }
+      ]
+    },
+    {
+      "text": "A patient has a regular sinus rhythm with a rate of 130 bpm that began gradually during exercise. The most likely diagnosis is:",
+      "answers": [
+        { "text": "Sinus tachycardia", "correct": true },
+        { "text": "Supraventricular tachycardia" },
+        { "text": "Atrial flutter" },
+        { "text": "Atrial fibrillation" }
+      ]
+    },
+    {
+      "text": "In respiratory sinus arrhythmia, the heart rate:",
+      "answers": [
+        { "text": "Decreases with inspiration and increases with expiration" },
+        { "text": "Increases gradually with inspiration and decreases with expiration", "correct": true },
+        { "text": "Does not vary with the respiratory cycle" },
+        { "text": "Becomes irregularly irregular" }
+      ]
+    },
+    {
+      "text": "On a rhythm strip you see a pause where the next expected PQRST never appears, and the pause length is NOT a multiple of the underlying P-P interval. This is most consistent with:",
+      "answers": [
+        { "text": "Sinus arrhythmia" },
+        { "text": "Sinus arrest / pause", "correct": true },
+        { "text": "Atrial fibrillation" },
+        { "text": "Premature atrial complex" }
+      ]
+    },
+    {
+      "text": "Which condition is a known cause of sinus arrest / pause?",
+      "answers": [
+        { "text": "Pregnancy" },
+        { "text": "Pain" },
+        { "text": "Myocardial infarction", "correct": true },
+        { "text": "Caffeine intake" }
+      ]
+    },
+    {
+      "text": "A premature P wave that differs in shape from sinus P waves and interrupts the underlying rhythm is characteristic of:",
+      "answers": [
+        { "text": "PAC (premature atrial complex)", "correct": true },
+        { "text": "PJC (premature junctional complex)" },
+        { "text": "Sinus tachycardia" },
+        { "text": "Atrial flutter" }
+      ]
+    },
+    {
+      "text": "Three or more premature beats in a row is called:",
+      "answers": [
+        { "text": "Couplet" },
+        { "text": "Bigeminy" },
+        { "text": "Trigeminy" },
+        { "text": "Run or burst", "correct": true }
+      ]
+    },
+    {
+      "text": "Every other beat is a premature beat. This pattern is called:",
+      "answers": [
+        { "text": "Bigeminy", "correct": true },
+        { "text": "Trigeminy" },
+        { "text": "Quadrigeminy" },
+        { "text": "Couplet" }
+      ]
+    },
+    {
+      "text": "Multiformed Atrial Rhythm (MAR) requires at least how many different P-wave configurations?",
+      "answers": [
+        { "text": "1" },
+        { "text": "2" },
+        { "text": "3", "correct": true },
+        { "text": "4" }
+      ]
+    },
+    {
+      "text": "Multiformed Atrial Tachycardia (MAT) is most classically associated with which condition?",
+      "answers": [
+        { "text": "Athletic training" },
+        { "text": "Severe COPD", "correct": true },
+        { "text": "Hyperkalemia" },
+        { "text": "Pregnancy" }
+      ]
+    },
+    {
+      "text": "What is the rate range for Supraventricular Tachycardia (SVT)?",
+      "answers": [
+        { "text": "60 – 100 bpm" },
+        { "text": "101 – 150 bpm" },
+        { "text": "150 – 250 bpm", "correct": true },
+        { "text": "250 – 450 bpm" }
+      ]
+    },
+    {
+      "text": "The term 'paroxysmal' is used to describe a rhythm that:",
+      "answers": [
+        { "text": "Begins or ends suddenly", "correct": true },
+        { "text": "Is always regular" },
+        { "text": "Originates from the AV junction" },
+        { "text": "Causes bradycardia" }
+      ]
+    },
+    {
+      "text": "Of the three SVT mechanisms, which involves an impulse traveling through an ectopic accessory pathway and causing pre-excitation of the ventricles?",
+      "answers": [
+        { "text": "AT (Atrial Tachycardia)" },
+        { "text": "AVNRT (AV Nodal Reciprocating Tachycardia)" },
+        { "text": "AVRT (AV Re-entrant Tachycardia)", "correct": true },
+        { "text": "Atrial flutter" }
+      ]
+    },
+    {
+      "text": "The classic ECG triad of Wolff-Parkinson-White (WPW) syndrome is:",
+      "answers": [
+        { "text": "Saw-tooth waves, irregular rhythm, narrow QRS" },
+        { "text": "Delta wave, short PR interval, widened QRS", "correct": true },
+        { "text": "Inverted P, no PR interval, narrow QRS" },
+        { "text": "Tall peaked T, prolonged QT, wide QRS" }
+      ]
+    },
+    {
+      "text": "Saw-toothed 'flutter waves' on the baseline are the ECG hallmark of:",
+      "answers": [
+        { "text": "Atrial fibrillation" },
+        { "text": "Atrial flutter", "correct": true },
+        { "text": "Sinus arrhythmia" },
+        { "text": "Junctional tachycardia" }
+      ]
+    },
+    {
+      "text": "What is the typical atrial rate in atrial flutter?",
+      "answers": [
+        { "text": "60 – 100 bpm" },
+        { "text": "150 – 250 bpm" },
+        { "text": "250 – 450 bpm (typically 300)", "correct": true },
+        { "text": "400 – 600 bpm" }
+      ]
+    },
+    {
+      "text": "An 'irregularly irregular' ventricular rhythm with a fibrillatory baseline and no identifiable P waves is most consistent with:",
+      "answers": [
+        { "text": "Atrial flutter" },
+        { "text": "Atrial fibrillation", "correct": true },
+        { "text": "Sinus arrhythmia" },
+        { "text": "MAT" }
+      ]
+    },
+    {
+      "text": "Atrial fibrillation increases the risk of which of the following due to pooling of blood in the atria?",
+      "answers": [
+        { "text": "Pulmonary embolism only" },
+        { "text": "Stroke from embolic clots", "correct": true },
+        { "text": "Sinus arrest" },
+        { "text": "Hyperkalemia" }
+      ]
+    },
+    {
+      "text": "Atrial fibrillation is considered 'controlled' when the ventricular rate is:",
+      "answers": [
+        { "text": "Less than 60 bpm" },
+        { "text": "Less than 100 bpm", "correct": true },
+        { "text": "Less than 150 bpm" },
+        { "text": "Less than 200 bpm" }
+      ]
+    },
+    {
+      "text": "The first-line drug for treating narrow-complex SVT is:",
+      "answers": [
+        { "text": "Digitalis" },
+        { "text": "Adenosine", "correct": true },
+        { "text": "Beta-agonists" },
+        { "text": "Atropine" }
+      ]
+    },
+    {
+      "text": "Anticoagulation is indicated in atrial fibrillation that has been present for at least:",
+      "answers": [
+        { "text": "12 hours" },
+        { "text": "24 hours" },
+        { "text": "48 hours", "correct": true },
+        { "text": "72 hours" }
+      ]
+    },
+    {
+      "text": "When the AV junction paces the heart and a P wave is visible, it is most often:",
+      "answers": [
+        { "text": "Upright in leads II, III, and aVF" },
+        { "text": "Inverted in leads II, III, and aVF", "correct": true },
+        { "text": "Biphasic in V1" },
+        { "text": "Notched in lead I" }
+      ]
+    },
+    {
+      "text": "When a P wave precedes the QRS in a junctional beat, the PR interval is typically:",
+      "answers": [
+        { "text": "0.12 – 0.20 seconds" },
+        { "text": "≤ 0.12 seconds", "correct": true },
+        { "text": "> 0.20 seconds" },
+        { "text": "Always 0.16 seconds" }
+      ]
+    },
+    {
+      "text": "What distinguishes a junctional escape beat from a premature junctional complex (PJC)?",
+      "answers": [
+        { "text": "An escape beat occurs LATE (after the next expected sinus beat); a PJC occurs EARLY", "correct": true },
+        { "text": "An escape beat has a wide QRS; a PJC has a narrow QRS" },
+        { "text": "An escape beat has an upright P wave; a PJC has an inverted P wave" },
+        { "text": "An escape beat originates in the ventricles; a PJC originates in the atria" }
+      ]
+    },
+    {
+      "text": "What is the rate range for a junctional escape rhythm?",
+      "answers": [
+        { "text": "20 – 40 bpm" },
+        { "text": "40 – 60 bpm", "correct": true },
+        { "text": "61 – 100 bpm" },
+        { "text": "101 – 180 bpm" }
+      ]
+    },
+    {
+      "text": "What is the rate range for an accelerated junctional rhythm?",
+      "answers": [
+        { "text": "40 – 60 bpm" },
+        { "text": "61 – 100 bpm", "correct": true },
+        { "text": "101 – 180 bpm" },
+        { "text": "150 – 250 bpm" }
+      ]
+    },
+    {
+      "text": "Junctional tachycardia is defined by a junctional rhythm with a rate of:",
+      "answers": [
+        { "text": "40 – 60 bpm" },
+        { "text": "61 – 100 bpm" },
+        { "text": "101 – 180 bpm", "correct": true },
+        { "text": "Greater than 250 bpm" }
+      ]
+    },
+    {
+      "text": "Which medication or condition is a common cause of junctional escape rhythm?",
+      "answers": [
+        { "text": "Caffeine" },
+        { "text": "Beta-blockers", "correct": true },
+        { "text": "Pregnancy" },
+        { "text": "Fever" }
+      ]
+    },
+    {
+      "text": "The recommended first-line intervention for a slow junctional rhythm causing dizziness or syncope is:",
+      "answers": [
+        { "text": "Synchronized cardioversion" },
+        { "text": "Adenosine" },
+        { "text": "Transcutaneous (temporary) pacing", "correct": true },
+        { "text": "Anticoagulation" }
+      ]
+    },
+    {
+      "text": "Which finding most strongly distinguishes Wolff-Parkinson-White from a typical SVT?",
+      "answers": [
+        { "text": "A rate above 150 bpm" },
+        { "text": "Regular rhythm" },
+        { "text": "A delta wave with a widened QRS", "correct": true },
+        { "text": "Inverted P waves in lead II" }
+      ]
+    }
+  ]
+}
