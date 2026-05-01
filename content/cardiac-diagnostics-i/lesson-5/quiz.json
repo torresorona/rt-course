@@ -1,0 +1,185 @@
+{
+  "title": "Exercise Stress Testing & Ambulatory Monitoring Quiz",
+  "questions": [
+    {
+      "text": "What is the most frequent indication for an exercise stress test?",
+      "answers": [
+        { "text": "Diagnosis of pulmonary embolism" },
+        { "text": "Estimating tidal volume" },
+        { "text": "Establishing the diagnosis of Coronary Artery Disease (CAD)", "correct": true },
+        { "text": "Screening for asthma" }
+      ]
+    },
+    {
+      "text": "Which of the following is an ABSOLUTE contraindication to exercise stress testing?",
+      "answers": [
+        { "text": "Acute MI within 2 days", "correct": true },
+        { "text": "Stable angina at rest" },
+        { "text": "Mild hypertension at rest" },
+        { "text": "Long-standing left bundle branch block" }
+      ]
+    },
+    {
+      "text": "What is the optimal duration for continuous progressive exercise during a diagnostic stress test?",
+      "answers": [
+        { "text": "1 – 3 minutes" },
+        { "text": "4 – 6 minutes" },
+        { "text": "8 – 12 minutes", "correct": true },
+        { "text": "20 – 30 minutes" }
+      ]
+    },
+    {
+      "text": "The standard Bruce protocol uses what stage length?",
+      "answers": [
+        { "text": "1-minute stages" },
+        { "text": "2-minute stages" },
+        { "text": "3-minute stages", "correct": true },
+        { "text": "5-minute stages" }
+      ]
+    },
+    {
+      "text": "The Naughton and Weber protocols use 1 to 2 minute stages with 1 MET increments. They are most appropriate for:",
+      "answers": [
+        { "text": "Healthy adults seeking a fitness baseline" },
+        { "text": "Patients with limited exercise tolerance, such as compensated CHF", "correct": true },
+        { "text": "Patients undergoing pulmonary function testing" },
+        { "text": "Patients with active myocardial infarction" }
+      ]
+    },
+    {
+      "text": "Functional capacity can be overestimated by as much as 20% during a treadmill test if:",
+      "answers": [
+        { "text": "The patient runs instead of walks" },
+        { "text": "The patient grasps the handrails for support", "correct": true },
+        { "text": "The patient does not warm up" },
+        { "text": "The treadmill grade exceeds 10%" }
+      ]
+    },
+    {
+      "text": "ST segment depression at rest of how much makes the exercise ECG less specific and indicates myocardial imaging should be considered?",
+      "answers": [
+        { "text": "0.05 mV" },
+        { "text": "0.1 mV (1 mm) or greater", "correct": true },
+        { "text": "0.5 mV" },
+        { "text": "1.0 mV" }
+      ]
+    },
+    {
+      "text": "Which statement about exercise-induced ST-segment depression is TRUE?",
+      "answers": [
+        { "text": "It localizes the site of ischemia" },
+        { "text": "It identifies which coronary artery is involved" },
+        { "text": "It does NOT localize the site of ischemia or identify the involved artery", "correct": true },
+        { "text": "It is always benign" }
+      ]
+    },
+    {
+      "text": "Exercise-induced ST-segment elevation of 1 mm or more occurs MOST frequently in patients with:",
+      "answers": [
+        { "text": "Pericarditis" },
+        { "text": "Anterior MI", "correct": true },
+        { "text": "Right bundle branch block" },
+        { "text": "Pulmonary embolism" }
+      ]
+    },
+    {
+      "text": "What is the normal peak systolic blood pressure response to maximal exercise?",
+      "answers": [
+        { "text": "100 – 120 mmHg" },
+        { "text": "120 – 140 mmHg" },
+        { "text": "160 – 200 mmHg", "correct": true },
+        { "text": "220 – 260 mmHg" }
+      ]
+    },
+    {
+      "text": "Which of the following is an ABNORMAL blood pressure response to exercise?",
+      "answers": [
+        { "text": "Systolic BP rising progressively from 130 to 180 mmHg" },
+        { "text": "Failure to increase systolic BP beyond 120 mmHg", "correct": true },
+        { "text": "Slight increase in pulse pressure" },
+        { "text": "Diastolic BP staying roughly unchanged" }
+      ]
+    },
+    {
+      "text": "A stress test is considered non-diagnostic if the patient is unable to reach approximately what percentage of age-predicted maximum heart rate?",
+      "answers": [
+        { "text": "50 – 60%" },
+        { "text": "70 – 75%" },
+        { "text": "85 – 90%", "correct": true },
+        { "text": "100%" }
+      ]
+    },
+    {
+      "text": "In an upright cool-down position, what 1-minute heart rate recovery value is considered abnormal?",
+      "answers": [
+        { "text": "≤ 5 bpm" },
+        { "text": "≤ 12 bpm", "correct": true },
+        { "text": "≤ 25 bpm" },
+        { "text": "≤ 40 bpm" }
+      ]
+    },
+    {
+      "text": "Which of the following is a reason to TERMINATE an exercise stress test?",
+      "answers": [
+        { "text": "Patient sweating mildly" },
+        { "text": "Drop in systolic BP > 10 mmHg from baseline", "correct": true },
+        { "text": "Heart rate reaching 70% of predicted maximum" },
+        { "text": "Patient asking to slow down briefly" }
+      ]
+    },
+    {
+      "text": "Sustained ventricular tachycardia during a stress test is:",
+      "answers": [
+        { "text": "An expected normal finding" },
+        { "text": "A reason to terminate the test", "correct": true },
+        { "text": "Only concerning if rate > 250 bpm" },
+        { "text": "Treated with continued exercise" }
+      ]
+    },
+    {
+      "text": "What emergency equipment must always be readily available during exercise stress testing?",
+      "answers": [
+        { "text": "Bronchodilator nebulizer only" },
+        { "text": "A crash cart and defibrillator", "correct": true },
+        { "text": "An oxygen tank only" },
+        { "text": "An ABG kit only" }
+      ]
+    },
+    {
+      "text": "What is the typical recording duration of a Holter monitor?",
+      "answers": [
+        { "text": "Up to 1 hour" },
+        { "text": "24 – 72 hours", "correct": true },
+        { "text": "7 – 14 days" },
+        { "text": "Up to 30 days" }
+      ]
+    },
+    {
+      "text": "An event monitor is typically worn for up to:",
+      "answers": [
+        { "text": "24 hours" },
+        { "text": "7 days" },
+        { "text": "30 days", "correct": true },
+        { "text": "1 year" }
+      ]
+    },
+    {
+      "text": "Which patient instruction is correct for both Holter and event monitor wear?",
+      "answers": [
+        { "text": "Take a daily shower while wearing the monitor" },
+        { "text": "Pull on the electrode leads if they feel loose" },
+        { "text": "Go about normal daily activities, but do NOT get the monitor wet (sweat is the only exception)", "correct": true },
+        { "text": "Open and inspect the recorder daily" }
+      ]
+    },
+    {
+      "text": "A clear advantage of an event monitor over a 24–72 hour Holter for documenting INFREQUENT symptoms is that the event monitor:",
+      "answers": [
+        { "text": "Provides higher quality recordings" },
+        { "text": "Records continuously for many more days, capturing rare events", "correct": true },
+        { "text": "Requires no electrodes" },
+        { "text": "Eliminates the need for skin prep" }
+      ]
+    }
+  ]
+}

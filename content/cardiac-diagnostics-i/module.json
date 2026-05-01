@@ -22,6 +22,11 @@
       "slug": "cardiac-diagnostics-i/lesson-4",
       "title": "Ventricular Rhythms, AV Blocks & Conduction Defects",
       "description": "Objective 1.1.4 — Recognize ventricular rhythms (PVC, IVR, V-tach incl. torsades, V-fib, asystole), AV blocks (1st, 2nd Type I/II, 2:1, 3rd), bundle branch blocks (RBBB, LBBB), and paced rhythms."
+    },
+    {
+      "slug": "cardiac-diagnostics-i/lesson-5",
+      "title": "Exercise Stress Testing & Ambulatory Monitoring",
+      "description": "Objective 1.1.5 — Perform an exercise stress test (GXT) using Bruce, Modified Bruce, Naughton, or Weber protocols; recognize ECG/non-ECG findings and termination criteria; perform Holter and event monitor application with patient education."
     }
   ],
   "audio": [
@@ -40,6 +45,10 @@
     {
       "title": "Ventricular Rhythms and Conduction Blocks",
       "src": "/audio/Ventricular_Rhythms_and_Conduction_Blocks.m4a"
+    },
+    {
+      "title": "Why Your Resting Heart Lies",
+      "src": "/audio/Why_Your_Resting_Heart_Lies.m4a"
     }
   ],
   "resources": [
