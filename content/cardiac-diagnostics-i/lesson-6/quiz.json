@@ -1,0 +1,455 @@
+{
+  "title": "Cardiac Diagnostics I — Final Exam (50 Questions)",
+  "questions": [
+    {
+      "text": "When interpreting a rhythm strip, which sequence of steps is correct?",
+      "answers": [
+        { "text": "P waves → PR interval → QRS → rate → rhythm" },
+        { "text": "Rate → rhythm → P waves → PR interval → QRS complex", "correct": true },
+        { "text": "QRS → P waves → PR interval → rate → rhythm" },
+        { "text": "Rhythm → rate → QRS → PR interval → P waves" }
+      ]
+    },
+    {
+      "text": "A pacing site that fires at 50 bpm is most consistent with which intrinsic pacemaker?",
+      "answers": [
+        { "text": "SA node" },
+        { "text": "AV junction", "correct": true },
+        { "text": "Purkinje fibers" },
+        { "text": "Ventricular myocardium below Purkinje" }
+      ]
+    },
+    {
+      "text": "A QRS complex is considered WIDE when it measures:",
+      "answers": [
+        { "text": "Less than 0.04 seconds" },
+        { "text": "Less than 0.11 seconds" },
+        { "text": "More than 0.11 seconds", "correct": true },
+        { "text": "More than 0.20 seconds" }
+      ]
+    },
+    {
+      "text": "Which of the following PR-interval durations would be considered NORMAL?",
+      "answers": [
+        { "text": "0.08 seconds" },
+        { "text": "0.10 seconds" },
+        { "text": "0.16 seconds", "correct": true },
+        { "text": "0.24 seconds" }
+      ]
+    },
+    {
+      "text": "On standard ECG paper, one small (1 mm) horizontal box represents how much time?",
+      "answers": [
+        { "text": "0.02 seconds" },
+        { "text": "0.04 seconds", "correct": true },
+        { "text": "0.10 seconds" },
+        { "text": "0.20 seconds" }
+      ]
+    },
+    {
+      "text": "On a normal ECG, which event is recorded by the P wave?",
+      "answers": [
+        { "text": "Repolarization of the ventricles" },
+        { "text": "Depolarization of the atria", "correct": true },
+        { "text": "Conduction through the bundle of His" },
+        { "text": "Repolarization of the Purkinje fibers" }
+      ]
+    },
+    {
+      "text": "Ventricular depolarization is recorded as which part of the ECG?",
+      "answers": [
+        { "text": "P wave" },
+        { "text": "PR segment" },
+        { "text": "QRS complex", "correct": true },
+        { "text": "T wave" }
+      ]
+    },
+    {
+      "text": "The T wave on a normal ECG corresponds to:",
+      "answers": [
+        { "text": "Atrial depolarization" },
+        { "text": "Atrial repolarization" },
+        { "text": "Ventricular depolarization" },
+        { "text": "Ventricular repolarization", "correct": true }
+      ]
+    },
+    {
+      "text": "Which segment represents the early phase of ventricular repolarization?",
+      "answers": [
+        { "text": "PR segment" },
+        { "text": "ST segment", "correct": true },
+        { "text": "QT interval" },
+        { "text": "TP segment" }
+      ]
+    },
+    {
+      "text": "The point at which the QRS complex transitions into the ST segment is called the:",
+      "answers": [
+        { "text": "P prime" },
+        { "text": "J point", "correct": true },
+        { "text": "U point" },
+        { "text": "Notch" }
+      ]
+    },
+    {
+      "text": "Tall, sharply peaked T waves on an ECG are most strongly associated with which electrolyte abnormality?",
+      "answers": [
+        { "text": "Hypokalemia" },
+        { "text": "Hyperkalemia", "correct": true },
+        { "text": "Hypocalcemia" },
+        { "text": "Hypomagnesemia" }
+      ]
+    },
+    {
+      "text": "Depression of the ST segment on an ECG is most commonly associated with:",
+      "answers": [
+        { "text": "Pericarditis" },
+        { "text": "Ventricular hypertrophy" },
+        { "text": "Myocardial ischemia", "correct": true },
+        { "text": "Atrial flutter" }
+      ]
+    },
+    {
+      "text": "ST-segment elevation on an ECG most strongly suggests:",
+      "answers": [
+        { "text": "Atrial fibrillation" },
+        { "text": "Ischemia without injury" },
+        { "text": "Myocardial injury or infarction", "correct": true },
+        { "text": "Bundle branch block" }
+      ]
+    },
+    {
+      "text": "The V1 chest electrode is positioned at the:",
+      "answers": [
+        { "text": "5th intercostal space, midclavicular line" },
+        { "text": "4th intercostal space, just to the right of the sternum", "correct": true },
+        { "text": "4th intercostal space, just to the left of the sternum" },
+        { "text": "5th intercostal space, mid-axillary line" }
+      ]
+    },
+    {
+      "text": "The V6 chest electrode is placed at the:",
+      "answers": [
+        { "text": "4th intercostal space, right of the sternum" },
+        { "text": "5th intercostal space, midclavicular line" },
+        { "text": "5th intercostal space, anterior axillary line" },
+        { "text": "5th intercostal space, mid-axillary line", "correct": true }
+      ]
+    },
+    {
+      "text": "How many electrodes are placed on the patient's body to acquire a standard 12-lead ECG?",
+      "answers": [
+        { "text": "6" },
+        { "text": "8" },
+        { "text": "10", "correct": true },
+        { "text": "12" }
+      ]
+    },
+    {
+      "text": "Which limb electrode functions as the ground?",
+      "answers": [
+        { "text": "Right arm" },
+        { "text": "Left arm" },
+        { "text": "Left leg" },
+        { "text": "Right leg", "correct": true }
+      ]
+    },
+    {
+      "text": "Which group below contains the BIPOLAR leads?",
+      "answers": [
+        { "text": "I, II, III", "correct": true },
+        { "text": "aVR, aVL, aVF" },
+        { "text": "V1, V2, V3" },
+        { "text": "V4, V5, V6" }
+      ]
+    },
+    {
+      "text": "Which set of leads provides a view of the SEPTAL wall of the heart?",
+      "answers": [
+        { "text": "V1 and V2", "correct": true },
+        { "text": "V3 and V4" },
+        { "text": "V5 and V6" },
+        { "text": "II, III, and aVF" }
+      ]
+    },
+    {
+      "text": "The INFERIOR wall of the left ventricle is best viewed by which leads?",
+      "answers": [
+        { "text": "I, aVL, V5, V6" },
+        { "text": "V1 and V2" },
+        { "text": "II, III, and aVF", "correct": true },
+        { "text": "V7, V8, V9" }
+      ]
+    },
+    {
+      "text": "Which combination of leads views the LATERAL wall of the left ventricle?",
+      "answers": [
+        { "text": "II, III, aVF" },
+        { "text": "V1 and V2" },
+        { "text": "V3 and V4" },
+        { "text": "I, aVL, V5, V6", "correct": true }
+      ]
+    },
+    {
+      "text": "An inferior wall MI is most likely caused by occlusion of which artery?",
+      "answers": [
+        { "text": "Left anterior descending (LAD)" },
+        { "text": "Left circumflex" },
+        { "text": "Right coronary artery", "correct": true },
+        { "text": "Left main" }
+      ]
+    },
+    {
+      "text": "Lateral wall MI is most often associated with a blockage in which artery?",
+      "answers": [
+        { "text": "Right coronary artery" },
+        { "text": "Left anterior descending (LAD)" },
+        { "text": "Left circumflex artery", "correct": true },
+        { "text": "Posterior descending artery" }
+      ]
+    },
+    {
+      "text": "ECG changes consistent with a septal or anterior wall MI suggest blockage in which artery?",
+      "answers": [
+        { "text": "Right coronary artery" },
+        { "text": "Left circumflex artery" },
+        { "text": "Left anterior descending (LAD)", "correct": true },
+        { "text": "Right ventricular marginal branch" }
+      ]
+    },
+    {
+      "text": "A regular rhythm at 52 bpm with upright P waves before each QRS, a PR of 0.16 s, and a QRS of 0.08 s is best described as:",
+      "answers": [
+        { "text": "Normal sinus rhythm" },
+        { "text": "Sinus bradycardia", "correct": true },
+        { "text": "Junctional escape rhythm" },
+        { "text": "First-degree AV block" }
+      ]
+    },
+    {
+      "text": "A regular rhythm at 130 bpm with upright sinus P waves, a PR of 0.14 s, and a narrow QRS that began gradually during exercise is consistent with:",
+      "answers": [
+        { "text": "Supraventricular tachycardia" },
+        { "text": "Atrial flutter" },
+        { "text": "Sinus tachycardia", "correct": true },
+        { "text": "Multiformed atrial tachycardia" }
+      ]
+    },
+    {
+      "text": "A rhythm with normal sinus P waves and a constant PR of 0.16 s but R-R variation of more than 0.16 seconds is best described as:",
+      "answers": [
+        { "text": "Atrial fibrillation" },
+        { "text": "Sinus arrhythmia", "correct": true },
+        { "text": "Multiformed atrial rhythm" },
+        { "text": "Sinus arrest" }
+      ]
+    },
+    {
+      "text": "Saw-toothed flutter waves at an atrial rate near 300 bpm with a regular ventricular rhythm best describe:",
+      "answers": [
+        { "text": "Atrial fibrillation" },
+        { "text": "Atrial flutter", "correct": true },
+        { "text": "Multiformed atrial tachycardia" },
+        { "text": "Sinus tachycardia" }
+      ]
+    },
+    {
+      "text": "An irregularly irregular ventricular rhythm with a wavy fibrillatory baseline and no identifiable P waves is most consistent with:",
+      "answers": [
+        { "text": "Atrial flutter" },
+        { "text": "Atrial fibrillation", "correct": true },
+        { "text": "Sinus arrhythmia" },
+        { "text": "Junctional tachycardia" }
+      ]
+    },
+    {
+      "text": "A regular tachycardia at 200 bpm with a narrow QRS, P waves often hidden in the preceding T wave, and a PR difficult to measure is most consistent with:",
+      "answers": [
+        { "text": "Sinus tachycardia" },
+        { "text": "Multiformed atrial tachycardia" },
+        { "text": "Supraventricular tachycardia", "correct": true },
+        { "text": "Atrial flutter with 1:1 conduction" }
+      ]
+    },
+    {
+      "text": "A 12-lead ECG shows a slurred upstroke at the start of the QRS complex (delta wave) with a short PR interval. The most likely diagnosis is:",
+      "answers": [
+        { "text": "Right bundle branch block" },
+        { "text": "Wolff-Parkinson-White syndrome", "correct": true },
+        { "text": "First-degree AV block" },
+        { "text": "Premature atrial complex" }
+      ]
+    },
+    {
+      "text": "A premature beat that interrupts the underlying sinus rhythm with an upright P wave that is shaped DIFFERENTLY from sinus P waves and a usually narrow QRS describes:",
+      "answers": [
+        { "text": "Premature ventricular complex (PVC)" },
+        { "text": "Premature junctional complex (PJC)" },
+        { "text": "Premature atrial complex (PAC)", "correct": true },
+        { "text": "Atrial flutter" }
+      ]
+    },
+    {
+      "text": "If a P wave is visible during a junctional rhythm, it is most often:",
+      "answers": [
+        { "text": "Tall and upright in lead II" },
+        { "text": "Inverted in leads II, III, and aVF", "correct": true },
+        { "text": "Notched in V5 and V6" },
+        { "text": "Always biphasic in V1" }
+      ]
+    },
+    {
+      "text": "A junctional escape rhythm typically falls within which rate range?",
+      "answers": [
+        { "text": "20 – 40 bpm" },
+        { "text": "40 – 60 bpm", "correct": true },
+        { "text": "61 – 100 bpm" },
+        { "text": "101 – 180 bpm" }
+      ]
+    },
+    {
+      "text": "A regular rhythm with inverted P waves in lead II, a PR of 0.10 s, and a narrow QRS at 140 bpm is most consistent with:",
+      "answers": [
+        { "text": "Accelerated junctional rhythm" },
+        { "text": "Junctional tachycardia", "correct": true },
+        { "text": "Sinus tachycardia" },
+        { "text": "Supraventricular tachycardia" }
+      ]
+    },
+    {
+      "text": "A premature, wide-and-bizarre QRS without a preceding P wave that interrupts an underlying sinus rhythm is best described as a:",
+      "answers": [
+        { "text": "Premature atrial complex (PAC)" },
+        { "text": "Premature junctional complex (PJC)" },
+        { "text": "Premature ventricular complex (PVC)", "correct": true },
+        { "text": "Junctional escape beat" }
+      ]
+    },
+    {
+      "text": "Three or more ventricular escape beats in a row at a rate of 30 bpm is best described as:",
+      "answers": [
+        { "text": "Junctional escape rhythm" },
+        { "text": "Idioventricular rhythm", "correct": true },
+        { "text": "Accelerated idioventricular rhythm" },
+        { "text": "Ventricular tachycardia" }
+      ]
+    },
+    {
+      "text": "Ventricular tachycardia is best defined by which set of criteria?",
+      "answers": [
+        { "text": "1 PVC at any rate" },
+        { "text": "≥ 3 consecutive PVCs at a rate > 100 bpm", "correct": true },
+        { "text": "Saw-tooth QRS at 60 – 100 bpm" },
+        { "text": "Wide QRS with retrograde P waves at any rate" }
+      ]
+    },
+    {
+      "text": "A polymorphic ventricular tachycardia that occurs in the setting of a long QT interval and shows a twisting morphology around the baseline is called:",
+      "answers": [
+        { "text": "Monomorphic VT" },
+        { "text": "Accelerated idioventricular rhythm" },
+        { "text": "Torsades de Pointes", "correct": true },
+        { "text": "Ventricular flutter" }
+      ]
+    },
+    {
+      "text": "A chaotic ECG pattern with no discernible rate, rhythm, P waves, PR interval, or QRS — and no pulse — best describes:",
+      "answers": [
+        { "text": "Asystole" },
+        { "text": "Ventricular fibrillation", "correct": true },
+        { "text": "Polymorphic ventricular tachycardia" },
+        { "text": "Atrial fibrillation" }
+      ]
+    },
+    {
+      "text": "An ECG that shows essentially a flat line with no QRS complexes, no P waves, and no measurable rate is consistent with:",
+      "answers": [
+        { "text": "Fine ventricular fibrillation" },
+        { "text": "Asystole", "correct": true },
+        { "text": "Sinus arrest with P-wave activity" },
+        { "text": "Idioventricular rhythm at 20 bpm" }
+      ]
+    },
+    {
+      "text": "A regular rhythm at 75 bpm with a P wave before every QRS but a PR interval of 0.28 s (constant) is most consistent with:",
+      "answers": [
+        { "text": "Normal sinus rhythm" },
+        { "text": "First-degree AV block", "correct": true },
+        { "text": "Second-degree AV block, Type I" },
+        { "text": "Third-degree AV block" }
+      ]
+    },
+    {
+      "text": "A rhythm in which the PR interval lengthens with each beat until a QRS is dropped, and then the cycle repeats, is:",
+      "answers": [
+        { "text": "First-degree AV block" },
+        { "text": "Second-degree AV block, Type I (Wenckebach)", "correct": true },
+        { "text": "Second-degree AV block, Type II (Mobitz II)" },
+        { "text": "Third-degree AV block" }
+      ]
+    },
+    {
+      "text": "An ECG shows P waves marching out at one regular rate and QRS complexes marching out at a different, slower regular rate, with no consistent relationship between them. The diagnosis is:",
+      "answers": [
+        { "text": "First-degree AV block" },
+        { "text": "Second-degree AV block, Type II" },
+        { "text": "Third-degree AV block", "correct": true },
+        { "text": "Junctional escape rhythm" }
+      ]
+    },
+    {
+      "text": "An rSR' (\"rabbit ears\") pattern in lead V1 with a wide QRS is most consistent with:",
+      "answers": [
+        { "text": "Left bundle branch block" },
+        { "text": "Right bundle branch block", "correct": true },
+        { "text": "Wolff-Parkinson-White syndrome" },
+        { "text": "Polymorphic VT" }
+      ]
+    },
+    {
+      "text": "A small, sharp vertical line preceding each QRS complex on the rhythm strip indicates:",
+      "answers": [
+        { "text": "Artifact from a loose electrode" },
+        { "text": "A delta wave" },
+        { "text": "Pacing spikes from a temporary pacemaker", "correct": true },
+        { "text": "U waves" }
+      ]
+    },
+    {
+      "text": "What is the optimal duration of continuous progressive exercise during a Graded Exercise Test (GXT)?",
+      "answers": [
+        { "text": "1 – 3 minutes" },
+        { "text": "4 – 6 minutes" },
+        { "text": "8 – 12 minutes", "correct": true },
+        { "text": "20 – 30 minutes" }
+      ]
+    },
+    {
+      "text": "The MOST frequent indication for performing an exercise stress test is:",
+      "answers": [
+        { "text": "Diagnosing valvular stenosis" },
+        { "text": "Establishing the diagnosis of coronary artery disease (CAD)", "correct": true },
+        { "text": "Estimating tidal volume" },
+        { "text": "Routine pre-employment screening" }
+      ]
+    },
+    {
+      "text": "The Bruce protocol uses 3-minute stages and is most commonly utilized by which group?",
+      "answers": [
+        { "text": "Patients with limited exercise tolerance" },
+        { "text": "Patients with compensated congestive heart failure" },
+        { "text": "Healthy individuals", "correct": true },
+        { "text": "Patients within 24 hours of a myocardial infarction" }
+      ]
+    },
+    {
+      "text": "A Holter monitor records continuously for what time period?",
+      "answers": [
+        { "text": "Up to 6 hours" },
+        { "text": "24 – 72 hours", "correct": true },
+        { "text": "5 – 7 days" },
+        { "text": "Up to 30 days" }
+      ]
+    }
+  ]
+}
