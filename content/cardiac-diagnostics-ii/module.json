@@ -7,12 +7,21 @@
       "slug": "cardiac-diagnostics-ii/lesson-1",
       "title": "Echocardiography",
       "description": "Objective 1.1.1 — Physics of ultrasound, 2-D views (parasternal, apical, subcostal, suprasternal), M-Mode, Doppler and color flow imaging, contrast studies, stress echocardiography, and transesophageal echocardiogram (TEE)."
+    },
+    {
+      "slug": "cardiac-diagnostics-ii/lesson-2",
+      "title": "Cardiac Catheterization & Electrical Therapies",
+      "description": "Objectives 2.1 / 3.1 — Cardiac catheterization procedure and equipment, coronary angiography, EPS and cardiac mapping, PCI (balloon angioplasty, stents, atherectomy, ablation), radionuclide studies, synchronized cardioversion, and pacemaker/ICD interrogation."
     }
   ],
   "audio": [
     {
       "title": "How Sound Waves Map the Heart",
       "src": "/audio/How_Sound_Waves_Map_the_Heart.m4a"
+    },
+    {
+      "title": "Fixing the Heart's Plumbing and Wiring",
+      "src": "/audio/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a"
     }
   ],
   "resources": [

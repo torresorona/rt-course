@@ -1,0 +1,239 @@
+{
+  "title": "Cardiac Catheterization & Electrical Therapies Quiz",
+  "questions": [
+    {
+      "text": "The most common indication for cardiac catheterization is:",
+      "answers": [
+        { "text": "Evaluation of valvular disease" },
+        { "text": "Identification and assessment of coronary artery disease (CAD)", "correct": true },
+        { "text": "Measurement of cardiac output" },
+        { "text": "Evaluation of pericardial effusion" }
+      ]
+    },
+    {
+      "text": "The most common artery used for access during cardiac catheterization is the:",
+      "answers": [
+        { "text": "Radial artery" },
+        { "text": "Brachial artery" },
+        { "text": "Femoral artery", "correct": true },
+        { "text": "Subclavian artery" }
+      ]
+    },
+    {
+      "text": "In the Judkins technique, the femoral artery is punctured how far below the inguinal ligament?",
+      "answers": [
+        { "text": "Directly at the inguinal ligament" },
+        { "text": "1–3 cm (one or two fingers)", "correct": true },
+        { "text": "4–5 cm (three to four fingers)" },
+        { "text": "5–7 cm" }
+      ]
+    },
+    {
+      "text": "Which imaging modality provides real-time radiographic visualization during cardiac catheterization?",
+      "answers": [
+        { "text": "CT scan" },
+        { "text": "MRI" },
+        { "text": "Fluoroscopy", "correct": true },
+        { "text": "Ultrasound" }
+      ]
+    },
+    {
+      "text": "Compared to femoral access, radial artery access for cardiac catheterization:",
+      "answers": [
+        { "text": "Allows use of larger catheters" },
+        { "text": "Has a longer recovery period" },
+        { "text": "Reduces total recovery time but limits catheter size", "correct": true },
+        { "text": "Is preferred for pigtail catheter placement" }
+      ]
+    },
+    {
+      "text": "The Judkins Left (JL) catheter is specifically shaped to access the:",
+      "answers": [
+        { "text": "Right coronary artery" },
+        { "text": "Left coronary artery", "correct": true },
+        { "text": "Left ventricle" },
+        { "text": "Pulmonary artery" }
+      ]
+    },
+    {
+      "text": "Which catheter is designed to allow larger volumes of contrast and is typically placed in the left ventricle?",
+      "answers": [
+        { "text": "Judkins Right (JR)" },
+        { "text": "Judkins Left (JL)" },
+        { "text": "Pigtail", "correct": true },
+        { "text": "Swan-Ganz" }
+      ]
+    },
+    {
+      "text": "Which statement about absolute contraindications to coronary angiography is correct?",
+      "answers": [
+        { "text": "Active bleeding is an absolute contraindication" },
+        { "text": "Elevated INR is an absolute contraindication" },
+        { "text": "There are no absolute contraindications", "correct": true },
+        { "text": "Fever is an absolute contraindication" }
+      ]
+    },
+    {
+      "text": "Contrast agents used in cardiac angiography typically contain which element that may cause allergic reactions?",
+      "answers": [
+        { "text": "Barium" },
+        { "text": "Gadolinium" },
+        { "text": "Iodine", "correct": true },
+        { "text": "Technetium" }
+      ]
+    },
+    {
+      "text": "Conscious sedation for cardiac catheterization typically includes:",
+      "answers": [
+        { "text": "Morphine and lorazepam" },
+        { "text": "Fentanyl and midazolam (Versed)", "correct": true },
+        { "text": "Propofol and ketamine" },
+        { "text": "Diazepam and meperidine" }
+      ]
+    },
+    {
+      "text": "Invasive electrophysiology studies (EPS) are performed by:",
+      "answers": [
+        { "text": "An interventional cardiologist" },
+        { "text": "A cardiac surgeon" },
+        { "text": "An electrophysiologist", "correct": true },
+        { "text": "A radiologist" }
+      ]
+    },
+    {
+      "text": "Cardiac mapping is most useful for identifying all of the following EXCEPT:",
+      "answers": [
+        { "text": "Foci causing SVT" },
+        { "text": "Wolff-Parkinson-White syndrome" },
+        { "text": "Scar tissue" },
+        { "text": "Coronary artery stenosis", "correct": true }
+      ]
+    },
+    {
+      "text": "Balloon angioplasty relieves coronary artery obstruction by:",
+      "answers": [
+        { "text": "Removing the atherosclerotic plaque" },
+        { "text": "Grinding and dissolving the plaque" },
+        { "text": "Stretching and tearing the plaque and vessel wall, displacing it to the sides", "correct": true },
+        { "text": "Delivering heat energy to destroy the plaque" }
+      ]
+    },
+    {
+      "text": "Stents are used in approximately what percentage of PCI procedures worldwide?",
+      "answers": [
+        { "text": "50%" },
+        { "text": "70%" },
+        { "text": "90%", "correct": true },
+        { "text": "99%" }
+      ]
+    },
+    {
+      "text": "The rotablator rotational atherectomy system is primarily used to:",
+      "answers": [
+        { "text": "Deploy a coronary stent" },
+        { "text": "Remove (grind) obstructing atherosclerotic plaque", "correct": true },
+        { "text": "Deliver ablative radiofrequency energy" },
+        { "text": "Measure coronary blood flow" }
+      ]
+    },
+    {
+      "text": "Radiofrequency (RF) ablation destroys targeted myocardial tissue by:",
+      "answers": [
+        { "text": "Freezing the tissue" },
+        { "text": "Generating heat through the catheter tip", "correct": true },
+        { "text": "Delivering high-voltage defibrillation shocks" },
+        { "text": "Injecting a sclerosing agent" }
+      ]
+    },
+    {
+      "text": "The most commonly used isotope in radionuclide cardiac imaging is:",
+      "answers": [
+        { "text": "Thallium-201" },
+        { "text": "Technetium-99 (99mTc)", "correct": true },
+        { "text": "Iodine-131" },
+        { "text": "Gallium-67" }
+      ]
+    },
+    {
+      "text": "In radionuclide ventriculography, data recording is synchronized with which part of the ECG?",
+      "answers": [
+        { "text": "P wave" },
+        { "text": "QRS complex" },
+        { "text": "R wave", "correct": true },
+        { "text": "T wave" }
+      ]
+    },
+    {
+      "text": "In synchronized cardioversion, the shock is timed to be delivered:",
+      "answers": [
+        { "text": "During the T wave" },
+        { "text": "On the R wave of the QRS complex", "correct": true },
+        { "text": "During the P wave" },
+        { "text": "Randomly during the cardiac cycle" }
+      ]
+    },
+    {
+      "text": "Which rhythm is treated with UNSYNCHRONIZED shocks (defibrillation) rather than synchronized cardioversion?",
+      "answers": [
+        { "text": "Atrial fibrillation" },
+        { "text": "Atrial flutter" },
+        { "text": "Ventricular tachycardia with a pulse" },
+        { "text": "Pulseless ventricular tachycardia", "correct": true }
+      ]
+    },
+    {
+      "text": "If sense markers appear on the T wave instead of the R wave during setup for cardioversion, you should:",
+      "answers": [
+        { "text": "Proceed with cardioversion immediately" },
+        { "text": "Switch to defibrillation mode" },
+        { "text": "Adjust the ECG size or select another lead", "correct": true },
+        { "text": "Increase the energy level" }
+      ]
+    },
+    {
+      "text": "The primary indication for a permanent pacemaker is:",
+      "answers": [
+        { "text": "Prevention of sudden death from VT/VF" },
+        { "text": "Treatment of atrial fibrillation" },
+        { "text": "Relief or prevention of symptomatic bradycardia", "correct": true },
+        { "text": "Conversion of reentrant tachycardias" }
+      ]
+    },
+    {
+      "text": "Why are bipolar pacemaker leads preferred over unipolar leads?",
+      "answers": [
+        { "text": "They are easier to implant" },
+        { "text": "They deliver higher energy output" },
+        { "text": "They have better sensing, leading to better detection", "correct": true },
+        { "text": "They are less likely to be displaced" }
+      ]
+    },
+    {
+      "text": "Pacemaker oversensing can result in:",
+      "answers": [
+        { "text": "Failure to pace when needed" },
+        { "text": "Inappropriate pacing or shock delivery when no abnormal rhythm exists", "correct": true },
+        { "text": "Decreased battery life only" },
+        { "text": "Lead fracture" }
+      ]
+    },
+    {
+      "text": "During pacemaker interrogation, what is the normal lead impedance range?",
+      "answers": [
+        { "text": "100–299 Ω" },
+        { "text": "300–1,000 Ω", "correct": true },
+        { "text": "1,001–2,000 Ω" },
+        { "text": "Greater than 2,000 Ω" }
+      ]
+    },
+    {
+      "text": "For a pacemaker, the pacing output should be set at:",
+      "answers": [
+        { "text": "Equal to the pacing threshold" },
+        { "text": "Twice the pacing threshold for voltage; three times threshold for pulse duration", "correct": true },
+        { "text": "Half the pacing threshold for voltage" },
+        { "text": "Three times the pacing threshold for voltage; twice for pulse duration" }
+      ]
+    }
+  ]
+}
