@@ -1,0 +1,38 @@
+{
+  "title": "Cardiac Diagnostics II",
+  "description": "Advanced cardiac imaging and monitoring: echocardiography (TTE and TEE), Doppler, stress echo, and hemodynamic assessment.",
+  "order": 4,
+  "lessons": [
+    {
+      "slug": "cardiac-diagnostics-ii/lesson-1",
+      "title": "Echocardiography",
+      "description": "Objective 1.1.1 — Physics of ultrasound, 2-D views (parasternal, apical, subcostal, suprasternal), M-Mode, Doppler and color flow imaging, contrast studies, stress echocardiography, and transesophageal echocardiogram (TEE)."
+    }
+  ],
+  "audio": [
+    {
+      "title": "How Sound Waves Map the Heart",
+      "src": "/audio/How_Sound_Waves_Map_the_Heart.m4a"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Color Flow Doppler Echocardiography (video)",
+      "description": "Demonstration of color flow Doppler imaging and the BART color convention.",
+      "url": "https://www.youtube.com/watch?v=2XR6etAY_-w",
+      "type": "video"
+    },
+    {
+      "title": "Bubble Study / Contrast Echocardiography (video)",
+      "description": "Agitated saline injection used to identify intracardiac shunts and patent foramen ovale.",
+      "url": "https://www.youtube.com/watch?v=sYM1HYFpyXA",
+      "type": "video"
+    },
+    {
+      "title": "Stress Echocardiography (video)",
+      "description": "Overview of exercise and pharmacologic stress echocardiography for evaluating myocardial ischemia.",
+      "url": "https://youtu.be/2rthBw0ZwQM?si=PuxrzCtCLvlyM5vz",
+      "type": "video"
+    }
+  ]
+}

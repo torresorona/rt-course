@@ -1,0 +1,221 @@
+{
+  "title": "Echocardiography Quiz",
+  "questions": [
+    {
+      "text": "What is the minimum sound frequency required for ultrasound?",
+      "answers": [
+        { "text": "2,000 Hz" },
+        { "text": "10,000 Hz" },
+        { "text": "20,000 Hz", "correct": true },
+        { "text": "100,000 Hz" }
+      ]
+    },
+    {
+      "text": "Which term describes the bending of sound from a straight path as it passes from one medium to another?",
+      "answers": [
+        { "text": "Reflection" },
+        { "text": "Refraction", "correct": true },
+        { "text": "Interference" },
+        { "text": "Diffraction" }
+      ]
+    },
+    {
+      "text": "For maximum reflection of an ultrasound beam, the angle of the interface to the transducer should be closest to:",
+      "answers": [
+        { "text": "0°" },
+        { "text": "45°" },
+        { "text": "90°", "correct": true },
+        { "text": "180°" }
+      ]
+    },
+    {
+      "text": "Which structure in the transducer emits and receives the ultrasound waves?",
+      "answers": [
+        { "text": "Doppler crystals" },
+        { "text": "Piezoelectric elements", "correct": true },
+        { "text": "Magnetostrictive coils" },
+        { "text": "Photovoltaic cells" }
+      ]
+    },
+    {
+      "text": "Which two are the primary methods of echocardiography?",
+      "answers": [
+        { "text": "M-Mode and Doppler" },
+        { "text": "TTE and TEE", "correct": true },
+        { "text": "Stress Echo and Contrast Echo" },
+        { "text": "2-D and 3-D Echo" }
+      ]
+    },
+    {
+      "text": "A standard echocardiographic examination begins in which transducer position?",
+      "answers": [
+        { "text": "Apical" },
+        { "text": "Subcostal" },
+        { "text": "Suprasternal" },
+        { "text": "Parasternal", "correct": true }
+      ]
+    },
+    {
+      "text": "For parasternal and apical echocardiographic views, the patient should be positioned in:",
+      "answers": [
+        { "text": "Supine" },
+        { "text": "Right lateral decubitus" },
+        { "text": "Left lateral decubitus", "correct": true },
+        { "text": "Semi-Fowler's" }
+      ]
+    },
+    {
+      "text": "For subcostal and suprasternal notch views, the patient should be positioned in:",
+      "answers": [
+        { "text": "Left lateral decubitus" },
+        { "text": "Supine", "correct": true },
+        { "text": "Prone" },
+        { "text": "Trendelenburg" }
+      ]
+    },
+    {
+      "text": "The parasternal short axis view at the basal level showing the open mitral valve leaflets is commonly called:",
+      "answers": [
+        { "text": "Bull's Eye" },
+        { "text": "Fish Lips", "correct": true },
+        { "text": "Donut Sign" },
+        { "text": "Snowman View" }
+      ]
+    },
+    {
+      "text": "What is the starting landmark used to obtain apical echocardiographic views?",
+      "answers": [
+        { "text": "The 4th intercostal space at the left sternal border" },
+        { "text": "The suprasternal notch" },
+        { "text": "The point of maximal impulse (PMI)", "correct": true },
+        { "text": "The xiphoid process" }
+      ]
+    },
+    {
+      "text": "The apical four-chamber view is most valuable for assessing:",
+      "answers": [
+        { "text": "Aortic valve regurgitation" },
+        { "text": "The relative sizes of the ventricles", "correct": true },
+        { "text": "The inferior vena cava" },
+        { "text": "The descending thoracic aorta" }
+      ]
+    },
+    {
+      "text": "All three apical views are considered essential for analysis of:",
+      "answers": [
+        { "text": "Valvular stenosis gradients" },
+        { "text": "Intracardiac shunts" },
+        { "text": "Regional myocardial contractility", "correct": true },
+        { "text": "Pericardial effusion" }
+      ]
+    },
+    {
+      "text": "The subcostal position is most useful in patients with:",
+      "answers": [
+        { "text": "Obesity and a large chest wall" },
+        { "text": "COPD or emphysema with hyperinflated lungs", "correct": true },
+        { "text": "Scoliosis and chest wall deformity" },
+        { "text": "Atrial fibrillation" }
+      ]
+    },
+    {
+      "text": "The primary use of the suprasternal echocardiographic view is to examine:",
+      "answers": [
+        { "text": "The mitral valve" },
+        { "text": "The right ventricle" },
+        { "text": "The great vessels", "correct": true },
+        { "text": "The left ventricular apex" }
+      ]
+    },
+    {
+      "text": "In M-Mode echocardiography, the vertical axis represents:",
+      "answers": [
+        { "text": "Time" },
+        { "text": "Velocity" },
+        { "text": "Distance (depth)", "correct": true },
+        { "text": "Pressure" }
+      ]
+    },
+    {
+      "text": "According to the BART color convention in color flow Doppler imaging, blue represents:",
+      "answers": [
+        { "text": "Flow toward the transducer" },
+        { "text": "Turbulent flow" },
+        { "text": "Flow away from the transducer", "correct": true },
+        { "text": "Laminar flow" }
+      ]
+    },
+    {
+      "text": "In color flow Doppler imaging, which color indicates turbulent flow?",
+      "answers": [
+        { "text": "Red" },
+        { "text": "Blue" },
+        { "text": "Yellow" },
+        { "text": "Green", "correct": true }
+      ]
+    },
+    {
+      "text": "A contrast (bubble) study uses agitated saline to primarily identify:",
+      "answers": [
+        { "text": "Ventricular hypertrophy" },
+        { "text": "Coronary artery stenosis" },
+        { "text": "Intracardiac shunts", "correct": true },
+        { "text": "Pericardial effusion" }
+      ]
+    },
+    {
+      "text": "During a bubble study, bubbles that appear in the LEFT atrium shortly after entering the right atrium indicate:",
+      "answers": [
+        { "text": "A normal finding — no shunt present" },
+        { "text": "An atrial septal defect or patent foramen ovale", "correct": true },
+        { "text": "A ventricular septal defect" },
+        { "text": "Tricuspid regurgitation" }
+      ]
+    },
+    {
+      "text": "The most common indication for stress echocardiography is evaluation of:",
+      "answers": [
+        { "text": "Valvular regurgitation severity" },
+        { "text": "Intracardiac masses" },
+        { "text": "Myocardial ischemia or coronary artery disease", "correct": true },
+        { "text": "Congenital heart defects" }
+      ]
+    },
+    {
+      "text": "Which pharmacologic agent is most commonly used for pharmacologic stress echocardiography?",
+      "answers": [
+        { "text": "Adenosine" },
+        { "text": "Dobutamine", "correct": true },
+        { "text": "Atropine" },
+        { "text": "Digoxin" }
+      ]
+    },
+    {
+      "text": "During a TEE procedure, the patient should be positioned in:",
+      "answers": [
+        { "text": "Supine with the head of bed elevated 30°" },
+        { "text": "Right lateral decubitus" },
+        { "text": "Left lateral decubitus", "correct": true },
+        { "text": "Prone" }
+      ]
+    },
+    {
+      "text": "The primary indication for TEE is:",
+      "answers": [
+        { "text": "Evaluation of the great vessels" },
+        { "text": "Identification of source of embolism (from atrial fibrillation)", "correct": true },
+        { "text": "Measurement of right ventricular ejection fraction" },
+        { "text": "Assessment of stress-induced wall motion abnormalities" }
+      ]
+    },
+    {
+      "text": "Which of the following is the most serious structural complication of TEE?",
+      "answers": [
+        { "text": "Tracheal intubation" },
+        { "text": "Esophageal perforation", "correct": true },
+        { "text": "Aspiration pneumonia" },
+        { "text": "Elevated methemoglobin" }
+      ]
+    }
+  ]
+}
