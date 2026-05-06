@@ -83,6 +83,7 @@ export default async function LessonPage({
     "cardiac-diagnostics-i/lesson-5": "/audio/Why_Your_Resting_Heart_Lies.m4a",
     "cardiac-diagnostics-ii/lesson-1": "/audio/How_Sound_Waves_Map_the_Heart.m4a",
     "cardiac-diagnostics-ii/lesson-2": "/audio/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a",
+    "cardiac-diagnostics-ii/lesson-3": "/audio/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

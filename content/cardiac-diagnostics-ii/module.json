@@ -12,6 +12,11 @@
       "slug": "cardiac-diagnostics-ii/lesson-2",
       "title": "Cardiac Catheterization & Electrical Therapies",
       "description": "Objectives 2.1 / 3.1 — Cardiac catheterization procedure and equipment, coronary angiography, EPS and cardiac mapping, PCI (balloon angioplasty, stents, atherectomy, ablation), radionuclide studies, synchronized cardioversion, and pacemaker/ICD interrogation."
+    },
+    {
+      "slug": "cardiac-diagnostics-ii/lesson-3",
+      "title": "Cardiopulmonary Rehabilitation, Tilt-Table Testing & Hemodynamic Monitoring",
+      "description": "Objectives 4.1 / 5.1 / 6.1 — VO2 max, cardiac rehab phases (I–III), tilt-table testing for syncope, hemodynamic catheters (A-line, CVP, Swan-Ganz), pressure measurements (MAP, CVP, PAP, PCWP), cardiac output, cardiac index, SVR, and PVR."
     }
   ],
   "audio": [
@@ -22,6 +27,10 @@
     {
       "title": "Fixing the Heart's Plumbing and Wiring",
       "src": "/audio/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a"
+    },
+    {
+      "title": "Cardiac Rehab and Hemodynamic Monitoring",
+      "src": "/audio/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a"
     }
   ],
   "resources": [

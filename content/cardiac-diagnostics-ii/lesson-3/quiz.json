@@ -1,0 +1,266 @@
+{
+  "title": "Cardiopulmonary Rehabilitation, Tilt-Table Testing & Hemodynamic Monitoring Quiz",
+  "questions": [
+    {
+      "text": "Cardiac rehabilitation exercise training was introduced after which decade?",
+      "answers": [
+        { "text": "1930s" },
+        { "text": "1940s" },
+        { "text": "1950s", "correct": true },
+        { "text": "1970s" }
+      ]
+    },
+    {
+      "text": "Patients who exercise as part of cardiac rehabilitation experience approximately what reduction in mortality and recurrent MIs?",
+      "answers": [
+        { "text": "5%" },
+        { "text": "15%", "correct": true },
+        { "text": "25%" },
+        { "text": "35%" }
+      ]
+    },
+    {
+      "text": "VO2 max is the maximal amount of oxygen an individual can transport during exercise before being limited by:",
+      "answers": [
+        { "text": "Hypertension and tachycardia" },
+        { "text": "Fatigue or dyspnea", "correct": true },
+        { "text": "Hypoxia and cyanosis" },
+        { "text": "Chest pain and diaphoresis" }
+      ]
+    },
+    {
+      "text": "VO2 is directly related to which two hemodynamic values?",
+      "answers": [
+        { "text": "Heart rate and blood pressure" },
+        { "text": "CVP and PAP" },
+        { "text": "Cardiac output (Q) and stroke volume (SV)", "correct": true },
+        { "text": "MAP and SVR" }
+      ]
+    },
+    {
+      "text": "During cardiac rehabilitation, increasing VO2 submaximal results in:",
+      "answers": [
+        { "text": "Increased resting heart rate" },
+        { "text": "Decreased dyspnea and fatigue during everyday activities", "correct": true },
+        { "text": "Increased blood pressure at rest" },
+        { "text": "Reduced stroke volume" }
+      ]
+    },
+    {
+      "text": "Phase I of cardiac rehabilitation is best described as:",
+      "answers": [
+        { "text": "Physician-supervised outpatient exercise with ECG monitoring" },
+        { "text": "Non-ECG monitored maintenance at a health club or gym" },
+        { "text": "Inpatient program started soon after the acute cardiac event, usually by physical therapy", "correct": true },
+        { "text": "Home-based exercise without supervision" }
+      ]
+    },
+    {
+      "text": "Phase II of cardiac rehabilitation typically involves exercising how often, for how long?",
+      "answers": [
+        { "text": "Daily for 1–2 weeks" },
+        { "text": "Twice weekly for 6 months" },
+        { "text": "Three times weekly for 3–4 months with ECG monitoring", "correct": true },
+        { "text": "Once weekly for 6 months" }
+      ]
+    },
+    {
+      "text": "Phase III of cardiac rehabilitation is characterized by:",
+      "answers": [
+        { "text": "Inpatient physical therapy" },
+        { "text": "Physician-supervised outpatient exercise" },
+        { "text": "Non-ECG monitored maintenance, usually at health clubs or gyms", "correct": true },
+        { "text": "Daily ECG monitoring at a cardiology clinic" }
+      ]
+    },
+    {
+      "text": "The primary purpose of tilt-table testing is to identify patients who have a vasodepressor or cardio-inhibitory response as a cause of:",
+      "answers": [
+        { "text": "Hypertension" },
+        { "text": "Atrial fibrillation" },
+        { "text": "Syncope", "correct": true },
+        { "text": "Cardiac tamponade" }
+      ]
+    },
+    {
+      "text": "During a tilt-table test, the table is tilted upright to a maximum of how many degrees, for how long?",
+      "answers": [
+        { "text": "30–45 degrees for 10–15 minutes" },
+        { "text": "45–60 degrees for 15–20 minutes" },
+        { "text": "60–80 degrees for 20–45 minutes", "correct": true },
+        { "text": "80–90 degrees for 45–60 minutes" }
+      ]
+    },
+    {
+      "text": "If a patient has no reaction during tilt-table testing, which drug may be administered to provoke syncope?",
+      "answers": [
+        { "text": "Dobutamine" },
+        { "text": "Atropine" },
+        { "text": "Isoproterenol", "correct": true },
+        { "text": "Adenosine" }
+      ]
+    },
+    {
+      "text": "The three common indwelling catheters used for hemodynamic monitoring are:",
+      "answers": [
+        { "text": "Swan-Ganz, PICC, and tunneled catheter" },
+        { "text": "A-line, CVP catheter, and PAP (Swan-Ganz) catheter", "correct": true },
+        { "text": "A-line, endotracheal tube, and CVP catheter" },
+        { "text": "PAP catheter, Foley catheter, and A-line" }
+      ]
+    },
+    {
+      "text": "Arterial lines are most commonly placed in which arteries?",
+      "answers": [
+        { "text": "Brachial or subclavian" },
+        { "text": "Radial or femoral", "correct": true },
+        { "text": "Jugular or carotid" },
+        { "text": "Pulmonary or coronary" }
+      ]
+    },
+    {
+      "text": "CVP catheter access typically begins in which vessels?",
+      "answers": [
+        { "text": "Radial or femoral artery" },
+        { "text": "Pulmonary artery or aorta" },
+        { "text": "Jugular vein or subclavian vein", "correct": true },
+        { "text": "Brachial vein or saphenous vein" }
+      ]
+    },
+    {
+      "text": "The tip of a CVP catheter is located in the:",
+      "answers": [
+        { "text": "Superior vena cava" },
+        { "text": "Right ventricle" },
+        { "text": "Right atrium", "correct": true },
+        { "text": "Pulmonary artery" }
+      ]
+    },
+    {
+      "text": "A PICC line differs from a tunneled catheter in that it is placed:",
+      "answers": [
+        { "text": "Entirely under the skin in the chest" },
+        { "text": "Surgically through the neck" },
+        { "text": "In a vein in the arm", "correct": true },
+        { "text": "Directly into the pulmonary artery" }
+      ]
+    },
+    {
+      "text": "On a Swan-Ganz catheter, the BLUE port is used to measure:",
+      "answers": [
+        { "text": "PAP (Pulmonary Arterial Pressure)" },
+        { "text": "PCWP (Pulmonary Capillary Wedge Pressure)" },
+        { "text": "CVP / RAP (Central Venous Pressure / Right Atrial Pressure)", "correct": true },
+        { "text": "Cardiac output via thermodilution" }
+      ]
+    },
+    {
+      "text": "On a Swan-Ganz catheter, the RED port is used to measure:",
+      "answers": [
+        { "text": "CVP / RAP" },
+        { "text": "PAP" },
+        { "text": "PCWP", "correct": true },
+        { "text": "MAP" }
+      ]
+    },
+    {
+      "text": "PCWP is clinically valuable primarily for differentiating between:",
+      "answers": [
+        { "text": "Left and right heart failure" },
+        { "text": "Cardiogenic and non-cardiogenic pulmonary edema", "correct": true },
+        { "text": "Systemic and pulmonary hypertension" },
+        { "text": "Atrial and ventricular arrhythmias" }
+      ]
+    },
+    {
+      "text": "The device that converts catheter-measured pressures into interpretable numbers on the monitor is the:",
+      "answers": [
+        { "text": "Thermodilution module" },
+        { "text": "Strain-gauge pressure transducer", "correct": true },
+        { "text": "Pulse oximeter" },
+        { "text": "Doppler flow sensor" }
+      ]
+    },
+    {
+      "text": "The normal range for mean arterial pressure (MAP) is:",
+      "answers": [
+        { "text": "60–80 mmHg" },
+        { "text": "80–100 mmHg", "correct": true },
+        { "text": "100–120 mmHg" },
+        { "text": "120–140 mmHg" }
+      ]
+    },
+    {
+      "text": "Hypertension is defined as an arterial BP greater than:",
+      "answers": [
+        { "text": "120/80 mmHg" },
+        { "text": "130/85 mmHg" },
+        { "text": "140/90 mmHg", "correct": true },
+        { "text": "160/100 mmHg" }
+      ]
+    },
+    {
+      "text": "Hypotension (MAP < 80 mmHg) can be caused by all of the following EXCEPT:",
+      "answers": [
+        { "text": "Pump failure (CHF)" },
+        { "text": "Hemorrhage" },
+        { "text": "Hypovolemia" },
+        { "text": "Fluid overload", "correct": true }
+      ]
+    },
+    {
+      "text": "The formula for Cardiac Output (CO) is:",
+      "answers": [
+        { "text": "CO = HR ÷ SV" },
+        { "text": "CO = SV × HR", "correct": true },
+        { "text": "CO = MAP × CVP" },
+        { "text": "CO = CI × BSA" }
+      ]
+    },
+    {
+      "text": "In the thermodilution method for measuring CO, what solution is injected through the Swan-Ganz catheter?",
+      "answers": [
+        { "text": "10 mL of heparinized blood" },
+        { "text": "10 mL of contrast dye" },
+        { "text": "10 mL of dextrose (D5W) or saline", "correct": true },
+        { "text": "10 mL of sodium bicarbonate" }
+      ]
+    },
+    {
+      "text": "Cardiac Index (CI) is calculated as:",
+      "answers": [
+        { "text": "CI = CO × BSA" },
+        { "text": "CI = CO ÷ BSA", "correct": true },
+        { "text": "CI = HR × SV ÷ BSA" },
+        { "text": "CI = MAP ÷ CO" }
+      ]
+    },
+    {
+      "text": "The correction factor of 80 in the SVR and PVR formulas is used to convert mmHg into:",
+      "answers": [
+        { "text": "L/min" },
+        { "text": "mL/beat" },
+        { "text": "dynes·sec/cm⁵", "correct": true },
+        { "text": "mmHg/L" }
+      ]
+    },
+    {
+      "text": "The formula for Systemic Vascular Resistance (SVR) is:",
+      "answers": [
+        { "text": "SVR = [(MAP − PCWP) ÷ CO] × 80" },
+        { "text": "SVR = [(mean PAP − PCWP) ÷ CO] × 80" },
+        { "text": "SVR = [(MAP − CVP) ÷ CO] × 80", "correct": true },
+        { "text": "SVR = [(CVP − MAP) ÷ CO] × 80" }
+      ]
+    },
+    {
+      "text": "The formula for Pulmonary Vascular Resistance (PVR) is:",
+      "answers": [
+        { "text": "PVR = [(MAP − CVP) ÷ CO] × 80" },
+        { "text": "PVR = [(mean PAP − PCWP) ÷ CO] × 80", "correct": true },
+        { "text": "PVR = [(PCWP − PAP) ÷ CO] × 80" },
+        { "text": "PVR = [(MAP − PCWP) ÷ CI] × 80" }
+      ]
+    }
+  ]
+}
