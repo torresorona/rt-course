@@ -1,0 +1,455 @@
+{
+  "title": "Cardiac Diagnostics II — Final Exam (50 Questions)",
+  "questions": [
+    {
+      "text": "Ultrasound reflection is best defined as:",
+      "answers": [
+        { "text": "The bending of sound waves as they pass through different media" },
+        { "text": "The absorption of sound energy by dense tissue" },
+        { "text": "The bouncing back of ultrasound waves when they hit a tissue boundary", "correct": true },
+        { "text": "The conversion of electrical energy into sound waves" }
+      ]
+    },
+    {
+      "text": "Ultrasound refraction is best defined as:",
+      "answers": [
+        { "text": "The bouncing back of sound waves at a tissue interface" },
+        { "text": "The change in direction or bending of sound waves as they pass through media with varying densities", "correct": true },
+        { "text": "The loss of sound energy due to tissue absorption" },
+        { "text": "The amplification of sound waves by the piezoelectric crystal" }
+      ]
+    },
+    {
+      "text": "The component inside an echocardiography transducer that converts electrical energy into sound waves (and vice versa) is the:",
+      "answers": [
+        { "text": "Strain-gauge sensor" },
+        { "text": "Doppler crystal" },
+        { "text": "Piezoelectric crystal", "correct": true },
+        { "text": "Thermodilution element" }
+      ]
+    },
+    {
+      "text": "For the parasternal echocardiographic window, the patient is positioned in:",
+      "answers": [
+        { "text": "Supine" },
+        { "text": "Right lateral decubitus" },
+        { "text": "Prone" },
+        { "text": "Left lateral decubitus", "correct": true }
+      ]
+    },
+    {
+      "text": "The apical echocardiographic window (Point of Maximal Impulse) uses which patient position?",
+      "answers": [
+        { "text": "Supine only" },
+        { "text": "Left lateral decubitus or sitting upright", "correct": true },
+        { "text": "Right lateral decubitus" },
+        { "text": "Prone with head elevated" }
+      ]
+    },
+    {
+      "text": "Which transducer position requires the patient to be supine and primarily identifies the aortic arch and great vessels?",
+      "answers": [
+        { "text": "Parasternal" },
+        { "text": "Apical" },
+        { "text": "Subcostal" },
+        { "text": "Suprasternal", "correct": true }
+      ]
+    },
+    {
+      "text": "The subcostal echocardiographic window is performed with the patient in the supine position and is best suited for visualizing the:",
+      "answers": [
+        { "text": "Left ventricle outflow tract and aortic valve" },
+        { "text": "Aortic arch and brachiocephalic artery" },
+        { "text": "Inferior vena cava, right atrium, and left atrium", "correct": true },
+        { "text": "Parasternal long axis of the left ventricle" }
+      ]
+    },
+    {
+      "text": "The structures most commonly identified from the parasternal echocardiographic window include:",
+      "answers": [
+        { "text": "IVC, RA, and LA" },
+        { "text": "Aortic arch and great vessels" },
+        { "text": "LV, RV, aortic valve, and mitral valve", "correct": true },
+        { "text": "LA, LV, and pulmonary veins" }
+      ]
+    },
+    {
+      "text": "During a transesophageal echocardiogram (TEE), the patient is positioned:",
+      "answers": [
+        { "text": "Supine with the head of the bed elevated 30°" },
+        { "text": "Right lateral decubitus with knees bent" },
+        { "text": "Left lateral decubitus", "correct": true },
+        { "text": "Sitting upright at 90°" }
+      ]
+    },
+    {
+      "text": "TEE requires which of the following preparations?",
+      "answers": [
+        { "text": "Full anticoagulation and a Foley catheter" },
+        { "text": "Sedation, topical anesthetic, and NPO (fasting)", "correct": true },
+        { "text": "Contrast dye injection and a urinary catheter" },
+        { "text": "Endotracheal intubation and general anesthesia" }
+      ]
+    },
+    {
+      "text": "M-mode echocardiography displays cardiac motion in a one-dimensional format. In this display, what does the horizontal axis represent?",
+      "answers": [
+        { "text": "Depth" },
+        { "text": "Velocity" },
+        { "text": "Amplitude" },
+        { "text": "Time", "correct": true }
+      ]
+    },
+    {
+      "text": "The BART mnemonic in color Doppler echocardiography stands for:",
+      "answers": [
+        { "text": "Blue Anterior, Red Toward" },
+        { "text": "Blue Away, Red Toward", "correct": true },
+        { "text": "Blue Atrial, Red Tricuspid" },
+        { "text": "Blue Away, Red Turbulent" }
+      ]
+    },
+    {
+      "text": "In color Doppler imaging, a GREEN color mosaic most commonly indicates:",
+      "answers": [
+        { "text": "Normal laminar flow toward the transducer" },
+        { "text": "Normal laminar flow away from the transducer" },
+        { "text": "Turbulent or high-velocity flow", "correct": true },
+        { "text": "Reversed or retrograde flow" }
+      ]
+    },
+    {
+      "text": "A contrast (bubble) study using agitated saline is performed primarily to identify:",
+      "answers": [
+        { "text": "Coronary artery stenosis" },
+        { "text": "Pulmonary embolism" },
+        { "text": "Intracardiac shunts", "correct": true },
+        { "text": "Pericardial effusion" }
+      ]
+    },
+    {
+      "text": "During a bubble study, if bubbles appear in the LEFT atrium shortly after injection into the RIGHT atrium, this finding is most consistent with:",
+      "answers": [
+        { "text": "Patent ductus arteriosus" },
+        { "text": "Ventricular septal defect" },
+        { "text": "Atrial septal defect (ASD)", "correct": true },
+        { "text": "Pulmonary arteriovenous malformation" }
+      ]
+    },
+    {
+      "text": "Stress echocardiography is primarily indicated to:",
+      "answers": [
+        { "text": "Measure pulmonary capillary wedge pressure non-invasively" },
+        { "text": "Diagnose coronary artery disease and assess myocardial ischemia", "correct": true },
+        { "text": "Quantify ejection fraction at rest only" },
+        { "text": "Evaluate esophageal anatomy before TEE" }
+      ]
+    },
+    {
+      "text": "In patients who cannot exercise, pharmacologic stress echocardiography is most commonly performed using:",
+      "answers": [
+        { "text": "Adenosine" },
+        { "text": "Isoproterenol" },
+        { "text": "Atropine" },
+        { "text": "Dobutamine", "correct": true }
+      ]
+    },
+    {
+      "text": "The primary vascular access site for cardiac catheterization is the:",
+      "answers": [
+        { "text": "Radial artery" },
+        { "text": "Brachial vein" },
+        { "text": "Femoral artery", "correct": true },
+        { "text": "Subclavian artery" }
+      ]
+    },
+    {
+      "text": "During cardiac catheterization, the femoral artery is identified by its relationship to which anatomic landmark?",
+      "answers": [
+        { "text": "Anterior superior iliac spine" },
+        { "text": "Inguinal ligament", "correct": true },
+        { "text": "Pubic symphysis" },
+        { "text": "Greater trochanter of the femur" }
+      ]
+    },
+    {
+      "text": "The radial artery is preferred as an alternative access site for cardiac catheterization because it:",
+      "answers": [
+        { "text": "Provides access to the right coronary artery only" },
+        { "text": "Eliminates the need for a guidewire" },
+        { "text": "Allows for a shorter recovery time", "correct": true },
+        { "text": "Requires no contrast dye" }
+      ]
+    },
+    {
+      "text": "During cardiac catheterization, the guidewire is left in place throughout the procedure in order to:",
+      "answers": [
+        { "text": "Measure intracoronary pressure continuously" },
+        { "text": "Allow for rapid catheter exchange", "correct": true },
+        { "text": "Prevent arterial spasm at the access site" },
+        { "text": "Deliver contrast dye directly into the coronary arteries" }
+      ]
+    },
+    {
+      "text": "Coronary angiography visualizes the coronary arteries by injecting:",
+      "answers": [
+        { "text": "Agitated saline" },
+        { "text": "Radionuclide isotope" },
+        { "text": "Radiopaque contrast dye", "correct": true },
+        { "text": "Cold saline for thermodilution" }
+      ]
+    },
+    {
+      "text": "The standard size range for common cardiac catheters is:",
+      "answers": [
+        { "text": "1–2 French" },
+        { "text": "3–4 French" },
+        { "text": "5–6 French", "correct": true },
+        { "text": "8–10 French" }
+      ]
+    },
+    {
+      "text": "The Pigtail catheter is used during cardiac catheterization primarily to image which chamber?",
+      "answers": [
+        { "text": "Right atrium" },
+        { "text": "Right ventricle" },
+        { "text": "Left atrium" },
+        { "text": "Left ventricle", "correct": true }
+      ]
+    },
+    {
+      "text": "Electrophysiology study (EPS) is best described as:",
+      "answers": [
+        { "text": "A non-invasive imaging technique using radionuclide isotopes" },
+        { "text": "A diagnostic tool that stimulates or measures cardiac electrical activity", "correct": true },
+        { "text": "A therapeutic procedure that uses balloon inflation to open coronary arteries" },
+        { "text": "A method of recording cardiac pressures via a Swan-Ganz catheter" }
+      ]
+    },
+    {
+      "text": "Cardiac mapping records electrical potentials from the heart in order to assess:",
+      "answers": [
+        { "text": "Ventricular wall motion and ejection fraction" },
+        { "text": "Blood flow velocity through the coronary arteries" },
+        { "text": "Activation times and electrical amplitude", "correct": true },
+        { "text": "Pulmonary capillary wedge pressure" }
+      ]
+    },
+    {
+      "text": "Radionuclide studies (blood pool imaging) use a radioactive isotope to measure:",
+      "answers": [
+        { "text": "Coronary artery anatomy and stenosis severity" },
+        { "text": "Cardiac electrical conduction pathways" },
+        { "text": "Ejection fraction and blood pooling in the heart chambers", "correct": true },
+        { "text": "Pulmonary vascular resistance" }
+      ]
+    },
+    {
+      "text": "Which of the following is identified as the MOST COMMON therapeutic cardiac catheterization intervention?",
+      "answers": [
+        { "text": "Balloon angioplasty" },
+        { "text": "Cardiac stent placement", "correct": true },
+        { "text": "Ablation" },
+        { "text": "Atherectomy" }
+      ]
+    },
+    {
+      "text": "Synchronized cardioversion differs from defibrillation in that it:",
+      "answers": [
+        { "text": "Delivers an unsynchronized shock at maximum energy" },
+        { "text": "Is used only for pulseless ventricular fibrillation" },
+        { "text": "Delivers a shock timed to the R wave of the QRS complex", "correct": true },
+        { "text": "Requires no electrode placement on the chest" }
+      ]
+    },
+    {
+      "text": "Synchronized cardioversion is the appropriate treatment for which of the following?",
+      "answers": [
+        { "text": "Pulseless ventricular tachycardia" },
+        { "text": "Ventricular fibrillation" },
+        { "text": "Supraventricular tachycardia (SVT) with a pulse", "correct": true },
+        { "text": "Asystole" }
+      ]
+    },
+    {
+      "text": "Defibrillation delivers an UNSYNCHRONIZED shock and is indicated for:",
+      "answers": [
+        { "text": "Symptomatic sinus bradycardia" },
+        { "text": "Supraventricular tachycardia" },
+        { "text": "Atrial fibrillation with stable vital signs" },
+        { "text": "Ventricular fibrillation and pulseless ventricular tachycardia", "correct": true }
+      ]
+    },
+    {
+      "text": "Compared to unipolar pacemaker leads, bipolar leads typically provide:",
+      "answers": [
+        { "text": "Higher voltage shocks to restore sinus rhythm" },
+        { "text": "Better sensing and pacing", "correct": true },
+        { "text": "Longer battery life at the expense of sensing" },
+        { "text": "Reduced capture threshold but inferior sensing" }
+      ]
+    },
+    {
+      "text": "Permanent pacemakers are primarily implanted to treat:",
+      "answers": [
+        { "text": "Ventricular fibrillation" },
+        { "text": "Supraventricular tachycardia" },
+        { "text": "Symptomatic bradycardia", "correct": true },
+        { "text": "Atrial fibrillation with rapid ventricular response" }
+      ]
+    },
+    {
+      "text": "VO2 max is most clinically valuable in cardiac rehabilitation because it indicates:",
+      "answers": [
+        { "text": "The patient's resting oxygen saturation" },
+        { "text": "Cardiac output and pump capacity", "correct": true },
+        { "text": "The optimal dose of dobutamine for stress testing" },
+        { "text": "The degree of coronary artery stenosis" }
+      ]
+    },
+    {
+      "text": "The tilt-table test is primarily used to identify patients with syncope caused by:",
+      "answers": [
+        { "text": "Hypertrophic obstructive cardiomyopathy" },
+        { "text": "Atrial fibrillation" },
+        { "text": "Vasodepressor response or orthostatic hypertension", "correct": true },
+        { "text": "Coronary artery disease" }
+      ]
+    },
+    {
+      "text": "During a tilt-table test, if the patient has no reaction at baseline, which drug may be administered to provoke a vasodepressor response?",
+      "answers": [
+        { "text": "Dobutamine" },
+        { "text": "Adenosine" },
+        { "text": "Atropine" },
+        { "text": "Isoproterenol", "correct": true }
+      ]
+    },
+    {
+      "text": "The three standard indwelling catheters used for hemodynamic monitoring are:",
+      "answers": [
+        { "text": "A-line, endotracheal tube, and Foley catheter" },
+        { "text": "Arterial line, CVP catheter, and pulmonary artery pressure catheter", "correct": true },
+        { "text": "Swan-Ganz, PICC, and tunneled catheter" },
+        { "text": "CVP catheter, urinary catheter, and arterial line" }
+      ]
+    },
+    {
+      "text": "The tip of a central venous pressure (CVP) catheter is positioned in the:",
+      "answers": [
+        { "text": "Superior vena cava" },
+        { "text": "Right ventricle" },
+        { "text": "Right atrium", "correct": true },
+        { "text": "Pulmonary artery" }
+      ]
+    },
+    {
+      "text": "The tip of a pulmonary artery pressure (Swan-Ganz) catheter is positioned in the:",
+      "answers": [
+        { "text": "Right atrium" },
+        { "text": "Right ventricle" },
+        { "text": "Pulmonary artery", "correct": true },
+        { "text": "Aorta" }
+      ]
+    },
+    {
+      "text": "The device that converts catheter-measured intravascular pressures into interpretable numbers on the monitor is the:",
+      "answers": [
+        { "text": "Thermodilution module" },
+        { "text": "Pulse oximeter" },
+        { "text": "Doppler flow probe" },
+        { "text": "Strain-gauge pressure transducer", "correct": true }
+      ]
+    },
+    {
+      "text": "In a patient with fluid overload, hemodynamic monitoring values (CVP, PAP, PCWP) would be expected to:",
+      "answers": [
+        { "text": "Decrease" },
+        { "text": "Remain unchanged" },
+        { "text": "Increase", "correct": true },
+        { "text": "Show no consistent pattern" }
+      ]
+    },
+    {
+      "text": "The normal range for mean arterial pressure (MAP) is:",
+      "answers": [
+        { "text": "60–80 mmHg" },
+        { "text": "80–100 mmHg", "correct": true },
+        { "text": "100–120 mmHg" },
+        { "text": "120–140 mmHg" }
+      ]
+    },
+    {
+      "text": "What is the normal range for central venous pressure (CVP)?",
+      "answers": [
+        { "text": "0–2 mmHg" },
+        { "text": "2–6 mmHg", "correct": true },
+        { "text": "8–12 mmHg" },
+        { "text": "15–20 mmHg" }
+      ]
+    },
+    {
+      "text": "What is the normal pulmonary capillary wedge pressure (PCWP)?",
+      "answers": [
+        { "text": "2–6 mmHg" },
+        { "text": "5–10 mmHg", "correct": true },
+        { "text": "15–20 mmHg" },
+        { "text": "25–30 mmHg" }
+      ]
+    },
+    {
+      "text": "The normal range for cardiac output (CO) in an adult at rest is:",
+      "answers": [
+        { "text": "1–3 L/min" },
+        { "text": "4–8 L/min", "correct": true },
+        { "text": "10–12 L/min" },
+        { "text": "15–20 L/min" }
+      ]
+    },
+    {
+      "text": "The normal range for cardiac index (CI) is:",
+      "answers": [
+        { "text": "1.0–2.0 L/min/m²" },
+        { "text": "2.5–4.0 L/min/m²", "correct": true },
+        { "text": "5.0–7.0 L/min/m²" },
+        { "text": "8.0–10.0 L/min/m²" }
+      ]
+    },
+    {
+      "text": "PCWP is clinically most valuable for differentiating between:",
+      "answers": [
+        { "text": "Left and right bundle branch block" },
+        { "text": "Cardiogenic and non-cardiogenic pulmonary edema", "correct": true },
+        { "text": "Systemic and pulmonary hypertension" },
+        { "text": "Atrial and ventricular arrhythmias" }
+      ]
+    },
+    {
+      "text": "When measuring PCWP with a Swan-Ganz catheter, the balloon must be inflated. After completing the measurement, the balloon should be:",
+      "answers": [
+        { "text": "Left inflated to maintain a continuous wedge reading" },
+        { "text": "Deflated immediately after the measurement is obtained", "correct": true },
+        { "text": "Inflated at half pressure to reduce artifact" },
+        { "text": "Inflated only during systole" }
+      ]
+    },
+    {
+      "text": "In the thermodilution method for measuring cardiac output, what is injected through the proximal port of the Swan-Ganz catheter?",
+      "answers": [
+        { "text": "10 mL of heparinized blood" },
+        { "text": "10 mL of contrast dye" },
+        { "text": "10 mL of cold saline or D5W", "correct": true },
+        { "text": "10 mL of sodium bicarbonate" }
+      ]
+    },
+    {
+      "text": "The formula for systemic vascular resistance (SVR) is SVR = [(MAP − CVP) ÷ CO] × 80. The factor of 80 is used to convert mmHg into:",
+      "answers": [
+        { "text": "L/min" },
+        { "text": "mL/beat" },
+        { "text": "dynes·sec/cm⁵", "correct": true },
+        { "text": "mmHg/L" }
+      ]
+    }
+  ]
+}
