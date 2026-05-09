@@ -1,0 +1,32 @@
+{
+  "title": "Pulmonary Diagnostics II",
+  "description": "Arterial and capillary blood gas sampling, acid-base and gas exchange, ABG analyzers, and pulmonary imaging (chest x-ray, CT, MRI, ultrasound, V/Q, PET).",
+  "order": 5,
+  "lessons": [
+    {
+      "slug": "pulmonary-diagnostics-ii/lesson-1",
+      "title": "Arterial & Capillary Blood Gas Sampling",
+      "description": "Objective 1.1.1 — ABG indications, contraindications, hazards, and sample sites; equipment selection; Modified Allen test; radial, brachial, and femoral puncture; indwelling arterial lines (A-lines) including dampening and transducer position; and capillary blood gas procedure."
+    }
+  ],
+  "audio": [
+    {
+      "title": "The Physics of Arterial Blood Gas Sampling",
+      "src": "/audio/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Arterial Line Insertion (video)",
+      "description": "Demonstration of an indwelling arterial line (A-line) insertion procedure.",
+      "url": "https://www.youtube.com/watch?v=gE-QNwEHARY",
+      "type": "video"
+    },
+    {
+      "title": "Drawing Blood from an Arterial Line (video)",
+      "description": "Three-way stopcock sampling technique for drawing arterial blood from an A-line. Start at 3:17.",
+      "url": "https://www.youtube.com/watch?v=5Mk0Hp8kuqo",
+      "type": "video"
+    }
+  ]
+}

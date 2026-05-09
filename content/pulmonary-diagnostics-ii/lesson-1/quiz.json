@@ -1,0 +1,275 @@
+{
+  "title": "Arterial & Capillary Blood Gas Sampling Quiz",
+  "questions": [
+    {
+      "text": "Which three values are measured DIRECTLY from an arterial blood gas?",
+      "answers": [
+        { "text": "pH, PaCO₂, PaO₂", "correct": true },
+        { "text": "pH, HCO₃⁻, SaO₂" },
+        { "text": "PaO₂, SaO₂, Hgb" },
+        { "text": "Anion gap, base excess, lactate" }
+      ]
+    },
+    {
+      "text": "Which of the following is a contraindication to arterial puncture?",
+      "answers": [
+        { "text": "Positive Modified Allen test" },
+        { "text": "Negative Modified Allen test", "correct": true },
+        { "text": "Patient receiving supplemental oxygen" },
+        { "text": "Patient on a ventilator" }
+      ]
+    },
+    {
+      "text": "An ABG hazard that can result in loss of consciousness is:",
+      "answers": [
+        { "text": "Arteriospasm" },
+        { "text": "Hematoma" },
+        { "text": "Vasovagal reaction", "correct": true },
+        { "text": "Air emboli" }
+      ]
+    },
+    {
+      "text": "Which artery is the preferred sampling site in a newborn during the first 24–48 hours of life?",
+      "answers": [
+        { "text": "Radial artery" },
+        { "text": "Femoral artery" },
+        { "text": "Umbilical artery", "correct": true },
+        { "text": "Superficial temporal artery" }
+      ]
+    },
+    {
+      "text": "Which artery is used as a scalp sampling site in infants?",
+      "answers": [
+        { "text": "Brachial artery" },
+        { "text": "Superficial temporal artery", "correct": true },
+        { "text": "Carotid artery" },
+        { "text": "Occipital artery" }
+      ]
+    },
+    {
+      "text": "Which is the preferred anticoagulant for ABG sampling?",
+      "answers": [
+        { "text": "Sodium citrate" },
+        { "text": "EDTA" },
+        { "text": "Lithium heparin", "correct": true },
+        { "text": "Warfarin" }
+      ]
+    },
+    {
+      "text": "Why are glass syringes no longer the standard for ABG collection?",
+      "answers": [
+        { "text": "Glass is too expensive to manufacture" },
+        { "text": "Plastic syringes are now the standard despite being more permeable to room air, which can skew PaO₂ if bubbles are present", "correct": true },
+        { "text": "Glass cannot hold heparin" },
+        { "text": "Glass syringes overestimate pH" }
+      ]
+    },
+    {
+      "text": "What is the purpose of placing an ABG sample on ice?",
+      "answers": [
+        { "text": "To increase clotting" },
+        { "text": "To slow metabolic activity and preserve the sample", "correct": true },
+        { "text": "To improve PaO₂ readings" },
+        { "text": "To help mix the heparin" }
+      ]
+    },
+    {
+      "text": "What is the vessel of choice for arterial puncture in adults?",
+      "answers": [
+        { "text": "Brachial artery" },
+        { "text": "Femoral artery" },
+        { "text": "Radial artery", "correct": true },
+        { "text": "Dorsalis pedis" }
+      ]
+    },
+    {
+      "text": "The Modified Allen test specifically assesses adequacy of which arterial circulation?",
+      "answers": [
+        { "text": "Radial" },
+        { "text": "Brachial" },
+        { "text": "Ulnar", "correct": true },
+        { "text": "Femoral" }
+      ]
+    },
+    {
+      "text": "After releasing the ulnar artery during the Modified Allen test, the hand should flush within:",
+      "answers": [
+        { "text": "1–3 seconds" },
+        { "text": "5–10 seconds", "correct": true },
+        { "text": "20–30 seconds" },
+        { "text": "More than 1 minute" }
+      ]
+    },
+    {
+      "text": "When performing a radial ABG, the wrist should be extended approximately:",
+      "answers": [
+        { "text": "10°" },
+        { "text": "30°", "correct": true },
+        { "text": "60°" },
+        { "text": "90°" }
+      ]
+    },
+    {
+      "text": "The needle is inserted for a radial ABG at which angle and orientation?",
+      "answers": [
+        { "text": "90°, bevel down" },
+        { "text": "30–45°, bevel up", "correct": true },
+        { "text": "10–15°, bevel down" },
+        { "text": "60–75°, bevel up" }
+      ]
+    },
+    {
+      "text": "How long should pressure be applied to the puncture site of a patient on anticoagulant therapy or with a bleeding disorder?",
+      "answers": [
+        { "text": "1–2 minutes" },
+        { "text": "3–5 minutes" },
+        { "text": "10–15 minutes", "correct": true },
+        { "text": "30 minutes" }
+      ]
+    },
+    {
+      "text": "After obtaining an ABG sample, the syringe should be mixed by:",
+      "answers": [
+        { "text": "Vigorous shaking for 30 seconds" },
+        { "text": "Inversion and rotation", "correct": true },
+        { "text": "Centrifugation" },
+        { "text": "Tapping firmly against a hard surface" }
+      ]
+    },
+    {
+      "text": "The most serious unique hazard of brachial artery puncture is:",
+      "answers": [
+        { "text": "Air embolism" },
+        { "text": "Median nerve damage", "correct": true },
+        { "text": "Pulmonary embolism" },
+        { "text": "Loss of consciousness" }
+      ]
+    },
+    {
+      "text": "When is femoral arterial puncture indicated?",
+      "answers": [
+        { "text": "Routine ABG collection in stable patients" },
+        { "text": "Pediatric outpatient clinic visits" },
+        { "text": "Emergencies — hypotensive patient with poor peripheral pulses", "correct": true },
+        { "text": "Patients with peripheral vascular disease of the leg" }
+      ]
+    },
+    {
+      "text": "Which is a major hazard specific to femoral artery puncture?",
+      "answers": [
+        { "text": "Median nerve damage" },
+        { "text": "Hidden bleeding due to the vessel's deep, inconspicuous location and almost nonexistent collateral circulation", "correct": true },
+        { "text": "Loss of radial pulse" },
+        { "text": "Excessive vasoconstriction in the foot" }
+      ]
+    },
+    {
+      "text": "Which is an indication for an indwelling arterial line (A-line)?",
+      "answers": [
+        { "text": "A single one-time arterial blood gas" },
+        { "text": "Frequent arterial blood gas measurements and continuous blood pressure monitoring", "correct": true },
+        { "text": "Management of peripheral IV access" },
+        { "text": "Administering vesicant chemotherapy" }
+      ]
+    },
+    {
+      "text": "Which is a contraindication to placing an A-line?",
+      "answers": [
+        { "text": "Positive Modified Allen test" },
+        { "text": "Coagulopathy or bleeding disorder", "correct": true },
+        { "text": "Patient on supplemental oxygen" },
+        { "text": "Patient on mechanical ventilation" }
+      ]
+    },
+    {
+      "text": "Which of the following can cause a dampened arterial line waveform?",
+      "answers": [
+        { "text": "Properly leveled transducer" },
+        { "text": "Clot in the catheter, catheter tip against the vessel wall, or air bubbles/clot in the transducer", "correct": true },
+        { "text": "Excessive patient movement" },
+        { "text": "High mean arterial pressure" }
+      ]
+    },
+    {
+      "text": "If the transducer for an arterial line is positioned BELOW the level of the heart, the pressure reading will:",
+      "answers": [
+        { "text": "Read lower than actual" },
+        { "text": "Read the same as actual" },
+        { "text": "Read higher than actual", "correct": true },
+        { "text": "Display a flat line" }
+      ]
+    },
+    {
+      "text": "If the transducer for an arterial line is positioned ABOVE the level of the heart, the pressure reading will:",
+      "answers": [
+        { "text": "Read higher than actual" },
+        { "text": "Read lower than actual", "correct": true },
+        { "text": "Display arrhythmias" },
+        { "text": "Be unaffected" }
+      ]
+    },
+    {
+      "text": "Blood is sampled from an A-line through which device?",
+      "answers": [
+        { "text": "An IV pump" },
+        { "text": "A three-way stopcock", "correct": true },
+        { "text": "A venipuncture needle" },
+        { "text": "A heparin lock" }
+      ]
+    },
+    {
+      "text": "A capillary blood gas can reliably estimate which of the following?",
+      "answers": [
+        { "text": "Arterial PO₂ only" },
+        { "text": "Arterial pH and PCO₂", "correct": true },
+        { "text": "Arterial SaO₂" },
+        { "text": "Cardiac output" }
+      ]
+    },
+    {
+      "text": "Why is capillary PO₂ of little clinical value?",
+      "answers": [
+        { "text": "It overestimates oxygenation in newborns by exactly 10 mmHg" },
+        { "text": "It is unreliable for estimating arterial oxygenation", "correct": true },
+        { "text": "It is impossible to obtain in pediatric patients" },
+        { "text": "It is always normal regardless of the patient's condition" }
+      ]
+    },
+    {
+      "text": "A capillary blood gas should NOT be performed on a patient who is:",
+      "answers": [
+        { "text": "A pediatric outpatient at a follow-up visit" },
+        { "text": "Less than 24 hours old", "correct": true },
+        { "text": "A 6-month-old infant" },
+        { "text": "A toddler with mild bronchiolitis" }
+      ]
+    },
+    {
+      "text": "Which item from the capillary blood gas kit is used (with a magnet) to mix the sample inside the capillary tube?",
+      "answers": [
+        { "text": "Lancet" },
+        { "text": "Metal flea (small metal stirrer bar)", "correct": true },
+        { "text": "Wax sealant" },
+        { "text": "Pre-heparinized cap" }
+      ]
+    },
+    {
+      "text": "What is the most common site for a capillary blood gas sample?",
+      "answers": [
+        { "text": "The fingertip" },
+        { "text": "The earlobe" },
+        { "text": "The heel — lateral aspect of the plantar surface", "correct": true },
+        { "text": "The big toe" }
+      ]
+    },
+    {
+      "text": "Squeezing the puncture site during a capillary blood gas results in:",
+      "answers": [
+        { "text": "A more accurate sample" },
+        { "text": "Faster sample collection with no impact on accuracy" },
+        { "text": "Venous and lymphatic contamination of the sample", "correct": true },
+        { "text": "Hemolysis only, with no contamination" }
+      ]
+    }
+  ]
+}
