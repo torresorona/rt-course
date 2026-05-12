@@ -1,0 +1,540 @@
+---
+title: "Evaluating Oxygenation, Blood Gas Analyzers & QA/QC"
+description: "Objective 1.3.1 — Hypoxemia vs. hypoxia; PaO₂ ranges and the age-adjusted rule of thumb; arterial oxygen content (CaO₂); the alveolar air equation and A–a gradient; blood-gas electrodes (SANZ, Severinghaus, Clark); co-oximetry and the four hemoglobin species; point-of-care testing (i-STAT); regulatory agencies (CLIA, CAP, TJC, CLIP, CMS, NCCLS); calibration (1-, 2-, 3-point); and Levey-Jennings / Westgard quality-control rules."
+order: 3
+---
+
+# Evaluating Oxygenation, Blood Gas Analyzers & QA/QC
+
+> **Objective 1.3.1** — Distinguish hypoxemia from hypoxia and stage PaO₂ severity (with age adjustment); calculate **CaO₂** and the **A–a gradient** using the alveolar air equation; describe the **SANZ, Severinghaus, and Clark** electrodes and lab procedures for ABG analysis; explain **co-oximetry** and the four common hemoglobin species; apply **point-of-care testing** (POCT / i-STAT); and follow regulatory, calibration, and quality-control protocols (CLIA · CAP · Levey-Jennings · Westgard rules).
+
+---
+
+# Evaluating Oxygenation
+
+| Term | Definition |
+|------|-----------|
+| **Hypoxemia** | Abnormally **low level of O₂ in the blood** |
+| **Hypoxia** | **Deficient amount of O₂ reaching the tissues** — global or local |
+
+---
+
+# Assess for Hypoxemia — PaO₂ Ranges
+
+> Normal PaO₂ ranges for patients **less than 60 years old**, breathing **21% O₂ at sea level**.
+
+| PaO₂ (mmHg) | Interpretation |
+|-------------|---------------|
+| **80 – 100** | **Normal** |
+| **60 – 79** | **Mild hypoxemia** |
+| **45 – 59** | **Moderate hypoxemia** |
+| **&lt; 45** | **Severe hypoxemia** |
+
+## Age Adjustment — Patients Over 60
+
+> **Rule of thumb:** for patients over 60, **subtract additional years from 80**.
+
+**Example:** 66-year-old patient → 80 − 6 = **74 mmHg PaO₂** is the expected normal.
+
+---
+
+# Assess for Hypoxia
+
+Hypoxia is evaluated using two main calculations:
+
+| Calculation | Abbreviation | Tells You |
+|-------------|--------------|-----------|
+| **Arterial oxygen content** | **CaO₂** | Total O₂ delivered to the tissues |
+| **Arterial O₂ tension gradient** | **P(A–a)O₂** | Difference between alveolar and arterial PO₂ |
+
+---
+
+# Arterial Oxygen Content (CaO₂)
+
+The **best measurement of oxygen delivered to the tissues** — and the **best index of oxygen transport**. CaO₂ estimates **O₂ carried by hemoglobin** plus **O₂ dissolved in plasma**.
+
+> **CaO₂ = (Hb × 1.34 × SaO₂) + (PaO₂ × 0.003)**
+>
+> First term = **O₂ in the RBC** · Second term = **O₂ in plasma**
+
+| Component | Meaning |
+|-----------|---------|
+| **Hb × 1.34** | Each gram of Hb carries **1.34 mL O₂** when fully saturated |
+| **× SaO₂** | Multiply by saturation (decimal) |
+| **PaO₂ × 0.003** | Dissolved O₂ in plasma (Henry's law constant) |
+
+**Normal value: 17 – 20 vol % (mL/dL)**
+
+## Worked Example
+
+> **Calculate the CaO₂** for a patient with: SaO₂ 98%, PaO₂ 90 torr, Hb 14 g/dL.
+
+```
+CaO₂ = (14 × 1.34 × 0.98) + (90 × 0.003)
+     = (18.388) + (0.27)
+     ≈ 18.66 vol % (mL/dL)
+```
+
+> Within the normal range of **17–20 vol %**.
+
+---
+
+# A–a Gradient (A–aDO₂, P(A–a)O₂)
+
+The A–a gradient measures the **difference (gradient) between alveolar and arterial PO₂**.
+
+> Best done **after the patient has been on 100% O₂ for 20 minutes or more**.
+
+> **A–aDO₂ = PAO₂ − PaO₂**
+
+| A–a Gradient on 100% O₂ | Interpretation |
+|------------------------|----------------|
+| **25 – 65 torr** | **Normal** |
+| **66 – 300 torr** | **V/Q mismatch** |
+| **> 300 torr** | **Shunting** |
+
+---
+
+# Alveolar Air Equation — PAO₂
+
+Calculates the **partial pressure of O₂ in the alveoli**.
+
+> **PAO₂ = (P_B − P_H₂O) × FiO₂ − (PaCO₂ ÷ 0.8)**
+
+| Constant | Normal Value |
+|----------|-------------|
+| **P_H₂O** (water vapor pressure) | **47 torr** |
+| **R** (respiratory exchange ratio) | **0.8** |
+
+Normal value **varies directly** with the patient's **FiO₂** and **barometric pressure (P_B)**.
+
+## Worked Example
+
+> **Calculate the PAO₂** for a patient on **50% O₂** with **PaCO₂ 40 torr** and **P_B 747 torr**.
+
+```
+PAO₂ = (747 − 47) × 0.50 − (40 ÷ 0.8)
+     = (700)(0.50) − 50
+     = 350 − 50
+     = 300 torr
+```
+
+## A–a Gradient Worked Example
+
+> **What would the A–a gradient be** for the patient above if the **PaO₂ was 80 torr**?
+
+```
+A–aDO₂ = PAO₂ − PaO₂
+       = 300 − 80
+       = 220 torr   →  V/Q mismatch range
+```
+
+---
+
+# Blood Gas Analyzers — Electrode Functional Operation
+
+## Electrode Terminology
+
+| Term | Meaning |
+|------|---------|
+| **Anode** | **Positive pole** (Ag/AgCl) |
+| **Cathode** | **Negative pole** (Platinum) |
+| **Oxidation** | A **loss of electrons** by a particle |
+| **Reduction** | A **gain of electrons** by a particle |
+
+## The Three ABG Electrodes
+
+| Electrode | Measures |
+|-----------|---------|
+| **SANZ electrode** | **pH** |
+| **Severinghaus electrode** | **PCO₂** |
+| **Clark electrode** | **PO₂** |
+
+> **Mnemonic:** "**S**ome **S**enior **C**linicians" — **S**ANZ → pH, **S**everinghaus → PCO₂, **C**lark → PO₂.
+
+---
+
+# Laboratory Procedures for ABG Analysis
+
+1. **Obtain the sample**.
+2. **Ensure all air bubbles are removed** from the syringe.
+3. **Mix the sample thoroughly**.
+4. **Introduce sample into the analyzer**.
+5. As the sample runs through the analyzer, **watch for air bubbles or clots**.
+6. **Print, record, and report results** in accordance with local policy.
+7. **Check results for errors:**
+   - If inaccurate → **run sample through another analyzer** to compare results.
+   - If another analyzer is not available → **place sample on ice**.
+   - **Run a control through the analyzer** to check for accuracy.
+8. **Temperature correction** — results CAN be corrected if patient temperature is **other than 37 °C (98.6 °F)**.
+
+---
+
+# Co-oximeter
+
+## Spectrophotometry — How It Works
+
+| Root | Meaning |
+|------|---------|
+| **Spectro-** | spectrum |
+| **-photo-** | light |
+| **-metry** | measurement |
+
+**Light is transmitted at specific wavelengths** through the blood and **received by a photodetector** on the opposite side.
+
+## Light Transmission Behavior
+
+When light hits blood it can be:
+
+- **Absorbed** (optical density)
+- **Pass through** (inverse to light absorbed)
+- **Reflected** (backscatter oximetry)
+
+## Lambert-Beer Law
+
+> The **Lambert-Beer law** determines hemoglobin **saturation** and **concentration**.
+
+Each form of hemoglobin has its own unique **absorption / transmission spectrum (isobestic points)**.
+
+> **Isobestic points** — used to determine **hemoglobin concentration** regardless of its saturation.
+
+## Co-Oximetry — 8 Wavelengths, Multiple Hemoglobin Species
+
+Co-oximetry uses **eight light wavelengths** to differentiate between various hemoglobin species:
+
+| Species | Description |
+|---------|-------------|
+| **Hb** | Deoxygenated |
+| **HbO₂** | Oxygenated |
+| **MetHb** | Methemoglobin (Fe³⁺) |
+| **HbCO** | Carboxyhemoglobin |
+| **SHb** | Sulfhemoglobin |
+
+---
+
+# SaO₂, Total Hemoglobin, and Functional vs. Fractional
+
+**SaO₂** is the **percentage of hemoglobin bound with oxygen**.
+
+**Total Hemoglobin (tHb, g/dL)** is comprised of **functional and fractional SaO₂**:
+
+| Component | Meaning |
+|-----------|---------|
+| **Functional SaO₂** | The **SpO₂ equivalent** — Hb bound to oxygen, typically taken from a pulse-ox reading |
+| **Fractional SaO₂** | The **deoxygenated Hb species** (all other forms of Hb) |
+
+## Normal Total Hemoglobin Values
+
+| Patient | Normal tHb (g/dL) |
+|---------|-------------------|
+| **Adult male** | **13.5 – 18.0** |
+| **Adult female** | **12.0 – 16.0** |
+| **Newborn** | **14.0 – 24.0** |
+
+---
+
+# Carboxyhemoglobin (HbCO) and Methemoglobin (MetHb)
+
+## Carboxyhemoglobin — HbCO
+
+- Caused by **smoke inhalation / CO exposure**
+- **Normal range: 1.5 – 9.0 % of tHb**
+
+## Methemoglobin — MetHb
+
+- **Normal: 1 % or less**
+- **Methemoglobinemia** = abnormal blood state where MetHb is **> 1%**
+
+| Cause | Setting |
+|-------|---------|
+| **iNO** (inhaled nitric oxide) | ICU |
+| **Hurricane topical anesthetic** | Bronchoscopy |
+| **Nitroglycerin** | — |
+
+> **Treatment of methemoglobinemia: METHYLENE BLUE.**
+
+---
+
+# Point-of-Care Testing (POCT)
+
+**Definition:** Laboratory testing performed **outside the central laboratory** (at the patient's bedside).
+
+> Classified as **"Moderately Complex"** according to **CLIA**.
+
+## Benefits of POCT
+
+- **Shortened turnaround time**
+- **More timely intervention**
+- Correlates results with **patient status at the bedside**
+- **Reduced errors** related to handling, labeling, and reporting
+- **Small sample size** — only **2–3 drops of blood**
+
+## POCT Equipment — Handheld Analyzer
+
+- **Cartridge port**
+- **Numerical keypad**
+- **50-patient** sample storage
+- **IR transmitter**
+- **Battery powered**
+- **Printer**
+- **Calibration card**
+- **Cartridges**
+
+## i-STAT Procedure
+
+### Obtaining the Sample
+
+1. **Collect blood specimen.**
+2. **Syringe with anticoagulant** → test within **5 minutes**.
+3. **Capillary tubes** → test within **3 minutes**.
+4. **Gently mix** sample in syringes or collection tubes.
+5. Practice sample-handling precautions per organizational policy.
+
+### Analyzing the Specimen
+
+1. **Fill the cartridge** via the sample well using **slow, steady pressure** — **2–3 drops**.
+2. **Close the cartridge**, press on the tab until it **snaps**.
+
+---
+
+# Quality Assurance (QA)
+
+**Quality assurance** — a systematic process designed to:
+
+- **Monitor**
+- **Document**
+- **Regulate the accuracy and reliability** of laboratory measurements
+
+## Regulatory and Accreditation Agencies
+
+| Acronym | Agency |
+|---------|--------|
+| **CLIA** | Clinical Laboratory Improvement Act / Amendments |
+| **CAP** | College of American Pathologists |
+| **TJC** | The Joint Commission |
+| **CLIP** | Clinical Laboratory Improvement Program — **military version of CLIA** |
+| **CMS** | Centers for Medicare & Medicaid Services |
+| **NCCLS** | National Committee of Clinical Laboratory Standards |
+| **Local OIs** | Local operating instructions |
+
+## Preventive Maintenance
+
+- **Clean blood spills** with appropriate cleaning solution to eliminate contamination hazard
+- **Replace waste bottles**
+- **Check supply levels** and replace if necessary:
+  - Wash and cleaning solutions
+  - Calibration **buffer solutions**
+  - **Calibration gas tank pressure (CO₂)**
+
+> Always wear **gloves and eye protection**.
+
+## Non-Scheduled Maintenance — Replace as Required
+
+- Electrodes
+- Electrode solution
+- Electrode membrane
+- Pump tubing
+- Clean dust filters — replace as needed
+
+---
+
+# Calibration
+
+**Calibration** — equipment is **adjusted/corrected to match the control standards**. Performed on electrodes **before analyzing samples** to establish the accuracy of results.
+
+> **Calibration standards** = specific blood gas values used to set the machine to read **linearly over the expected range** of results.
+
+## Calibration Levels
+
+| Level | What It Does | When |
+|-------|--------------|------|
+| **1-point** | Calibrates pH, pCO₂, pO₂ to **one point** | **Before every blood sample** is run · **automatically every 30 minutes** · manually after maintenance |
+| **2-point** | Calibrates electrodes at **two points (low and high)** | **Controls every 8 hours** · manually after maintenance |
+| **3-point** | Checks the machine for **linearity** | **Every 6 months** |
+
+---
+
+# Quality Control (QC)
+
+**Quality Control** — a test performed to determine the **accuracy and precision** of a device against a known standard.
+
+| Term | Meaning |
+|------|---------|
+| **Accuracy** | How closely the measured results reflect the **actual value** |
+| **Precision** | An **index of dispersion** of repeated measurements |
+
+## Internal Quality Control (Analyzer Controls)
+
+- **Controls** = samples with **known values** run to ensure the analyzer is operating correctly.
+- Assures the **reliability of blood-sample values**.
+- Values should be within the **manufacturer's standard deviation**.
+
+| Setting | Frequency |
+|---------|-----------|
+| **24/7 lab (respiratory therapy)** | **Once every 8 hours** |
+| **Pulmonary lab (8-hour shift)** | **Once before the start** of the normal duty day |
+
+## Control Statistics
+
+Control results are **maintained in statistical databases** and evaluated to detect changes in analyzer performance.
+
+---
+
+# Levey-Jennings Charts & Westgard Rules
+
+## Levey-Jennings Chart
+
+A **graphic representation of each control run on each electrode**, plotted around the mean with ±1, ±2, ±3 standard-deviation lines.
+
+## Westgard Rules
+
+> Specific criteria and actions to be taken **based on the results of quality control samples**.
+
+| Result Status | Action |
+|---------------|--------|
+| **In control** | **No action required** |
+| **Random error** | **Monitor closely** |
+| **Out of control** | **Must perform corrective action** |
+
+### Random Error
+
+- **One measurement outside of 2 SD** → **monitor closely**.
+
+### "Out of Control" — Perform Corrective Action
+
+| Westgard Rule | Trigger |
+|---------------|---------|
+| **Rule of 2's** | **Two consecutive measurements outside 2 SD** |
+| **Rule of 3** | **One measurement outside 3 SD** |
+| **Rule of four 1's** | **Four consecutive measurements outside 1 SD** |
+| **Rule of 10's** | **10 consecutive control measurements fall on one side of the mean** |
+
+---
+
+# External Quality Control (Proficiency Testing)
+
+A system that **compares the accuracy of results from a lab with results obtained from other labs**.
+
+- Identical **blind (unknown) samples** are sent from an outside agency (**CAP**) to participating labs.
+- Samples are **analyzed and returned** to the sending agency.
+- Results are **compared to the known values** and to results from other labs.
+
+---
+
+# College of American Pathologists (CAP)
+
+Outside agency introduced in the **late 1940s**.
+
+## CAP's Purpose
+
+- **Perform impartial and fair inspections**
+- **Assess the state of the art** in all clinical laboratory practice
+- **Promote laboratory improvement** through peer comparison
+- **Satisfy regulatory requirements** of credentialing agencies
+- **Grant accreditation**
+
+## CAP Accreditation Requirements
+
+- **Quality management program**
+- **Laboratory safety plan**
+- **Document control plan**
+- **Competency assessment program**
+- **Laboratory director oversight documentation**
+- Specifies requirements for a **lab information system**
+- **Standardizes the operation** of all laboratories
+
+> **CAP inspections are every TWO YEARS.**
+
+## CAP External Quality Control
+
+Systematically compares accuracy of results obtained from multiple laboratories:
+
+- Identical **blind samples** sent from CAP.
+- **Consists of 5 – 10 control samples**.
+- **Limits and standard deviations are only known to CAP**.
+- Samples analyzed and returned to CAP.
+- Results compared to known values and to other labs.
+
+---
+
+# Quick Reference
+
+## Hypoxemia Stages (under 60 y/o, RA, sea level)
+
+> **80–100 Normal · 60–79 Mild · 45–59 Moderate · &lt;45 Severe**
+
+## Age-Adjusted PaO₂
+
+> **Over 60 → 80 minus (years over 60)**. A 70-year-old: 80 − 10 = **70 mmHg** expected.
+
+## CaO₂ Formula
+
+> **CaO₂ = (Hb × 1.34 × SaO₂) + (PaO₂ × 0.003)** — normal **17–20 vol %**.
+
+## Alveolar Air Equation
+
+> **PAO₂ = (P_B − 47) × FiO₂ − (PaCO₂ / 0.8)**.
+
+## A–a Gradient on 100% O₂
+
+> **25–65 normal · 66–300 V/Q mismatch · >300 shunt**.
+
+## Three Electrodes
+
+> **SANZ → pH · Severinghaus → PCO₂ · Clark → PO₂**.
+
+## Anode vs. Cathode
+
+> **Anode = positive (Ag/AgCl) · Cathode = negative (platinum)**.
+> **Oxidation = LOSE electrons · Reduction = GAIN electrons** (OIL RIG).
+
+## Hb Species (Co-oximetry)
+
+> **Hb · HbO₂ · MetHb (Fe³⁺) · HbCO · SHb** — differentiated by **8 wavelengths** via the **Lambert-Beer law**.
+
+## Hb-Carrying Capacity
+
+> **1.34 mL O₂ per gram of Hb.**
+
+## Normal tHb
+
+> **Male 13.5–18 · Female 12–16 · Newborn 14–24 g/dL**.
+
+## HbCO and MetHb
+
+> **HbCO normal 1.5–9.0%** of tHb (smoke / CO).
+> **MetHb normal ≤1%**; >1% = methemoglobinemia. Causes: **iNO, Hurricane spray, nitroglycerin**. **Treatment: methylene blue**.
+
+## POCT
+
+> **Outside the central lab** · CLIA "**moderately complex**" · **2–3 drops** · syringe sample tested **&lt;5 min**, capillary **&lt;3 min**.
+
+## Calibration Cadence
+
+| Level | Frequency |
+|-------|-----------|
+| **1-point** | Before every sample · auto every **30 min** |
+| **2-point** | **Every 8 hours** |
+| **3-point** | **Every 6 months** (linearity) |
+
+## Accuracy vs. Precision
+
+> **Accuracy** = closeness to **true value** · **Precision** = **dispersion** of repeated values.
+
+## Westgard Cheat Sheet
+
+| Rule | Trigger | Action |
+|------|---------|--------|
+| **1 measurement >2 SD** | Random error | **Monitor closely** |
+| **2 consecutive >2 SD** | Rule of 2's | **Corrective action** |
+| **1 measurement >3 SD** | Rule of 3 | **Corrective action** |
+| **4 consecutive >1 SD** | Rule of four 1's | **Corrective action** |
+| **10 consecutive on one side of mean** | Rule of 10's | **Corrective action** |
+
+## CAP At-A-Glance
+
+> **Established late 1940s · grants accreditation · inspections every 2 years · external proficiency = 5–10 blind samples sent to labs**.
+
+## Regulatory Alphabet Soup
+
+> **CLIA · CAP · TJC · CLIP (military CLIA) · CMS · NCCLS**.

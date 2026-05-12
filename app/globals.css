@@ -85,7 +85,7 @@ body {
   background: var(--color-sand-50);
 }
 
-.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+.prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *, pre code)) {
   background: var(--color-sand-100);
   padding: 0.15em 0.4em;
   border-radius: 0.25rem;
@@ -95,4 +95,23 @@ body {
 .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::before,
 .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *))::after {
   content: none;
+}
+
+.prose pre {
+  background: var(--color-sand-900);
+  color: var(--color-sand-50);
+  padding: 1rem 1.25rem;
+  border-radius: 0.75rem;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.prose pre code,
+.prose pre code:where(*) {
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  font-weight: 400 !important;
+  color: inherit !important;
 }

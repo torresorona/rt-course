@@ -1,0 +1,275 @@
+{
+  "title": "Evaluating Oxygenation, Blood Gas Analyzers & QA/QC Quiz",
+  "questions": [
+    {
+      "text": "Which of the following best defines hypoxemia?",
+      "answers": [
+        { "text": "Deficient O₂ reaching the tissues" },
+        { "text": "Abnormally low level of O₂ in the blood", "correct": true },
+        { "text": "Elevated PaCO₂ in arterial blood" },
+        { "text": "An abnormal blood pH" }
+      ]
+    },
+    {
+      "text": "For a patient less than 60 years old breathing room air at sea level, the NORMAL PaO₂ range is:",
+      "answers": [
+        { "text": "60 – 79 mmHg" },
+        { "text": "80 – 100 mmHg", "correct": true },
+        { "text": "45 – 59 mmHg" },
+        { "text": "100 – 120 mmHg" }
+      ]
+    },
+    {
+      "text": "Severe hypoxemia is defined as PaO₂:",
+      "answers": [
+        { "text": "Less than 80 mmHg" },
+        { "text": "Less than 60 mmHg" },
+        { "text": "Less than 45 mmHg", "correct": true },
+        { "text": "Less than 30 mmHg" }
+      ]
+    },
+    {
+      "text": "Using the over-60 age-adjustment rule, what is the expected normal PaO₂ for a 72-year-old patient?",
+      "answers": [
+        { "text": "80 mmHg" },
+        { "text": "78 mmHg" },
+        { "text": "68 mmHg", "correct": true },
+        { "text": "60 mmHg" }
+      ]
+    },
+    {
+      "text": "What is the formula for arterial oxygen content (CaO₂)?",
+      "answers": [
+        { "text": "(Hb × 1.34 × SaO₂) + (PaO₂ × 0.003)", "correct": true },
+        { "text": "(Hb × 0.003) + (PaO₂ × 1.34)" },
+        { "text": "(PaO₂ − PaCO₂) × FiO₂" },
+        { "text": "(PB − 47) × FiO₂ − (PaCO₂ / 0.8)" }
+      ]
+    },
+    {
+      "text": "What is the normal range for CaO₂?",
+      "answers": [
+        { "text": "5 – 10 vol % (mL/dL)" },
+        { "text": "12 – 16 vol % (mL/dL)" },
+        { "text": "17 – 20 vol % (mL/dL)", "correct": true },
+        { "text": "25 – 30 vol % (mL/dL)" }
+      ]
+    },
+    {
+      "text": "Calculate CaO₂ for a patient with SaO₂ 98%, PaO₂ 90 torr, Hb 14 g/dL.",
+      "answers": [
+        { "text": "Approximately 12.5 vol %" },
+        { "text": "Approximately 18.66 vol %", "correct": true },
+        { "text": "Approximately 22 vol %" },
+        { "text": "Approximately 9 vol %" }
+      ]
+    },
+    {
+      "text": "On 100% O₂, an A–a gradient between 66 and 300 torr most likely indicates:",
+      "answers": [
+        { "text": "Normal gas exchange" },
+        { "text": "V/Q mismatch", "correct": true },
+        { "text": "Pure shunting" },
+        { "text": "Respiratory alkalosis" }
+      ]
+    },
+    {
+      "text": "An A–a gradient greater than 300 torr on 100% O₂ most likely indicates:",
+      "answers": [
+        { "text": "Normal gas exchange" },
+        { "text": "V/Q mismatch" },
+        { "text": "Shunting", "correct": true },
+        { "text": "Methemoglobinemia" }
+      ]
+    },
+    {
+      "text": "What is the alveolar air equation?",
+      "answers": [
+        { "text": "PAO₂ = PaO₂ − PaCO₂" },
+        { "text": "PAO₂ = (P_B − 47) × FiO₂ − (PaCO₂ / 0.8)", "correct": true },
+        { "text": "PAO₂ = (Hb × 1.34) + 0.003" },
+        { "text": "PAO₂ = SaO₂ × FiO₂" }
+      ]
+    },
+    {
+      "text": "Calculate PAO₂ for a patient on 50% O₂ with PaCO₂ 40 torr and P_B 747 torr.",
+      "answers": [
+        { "text": "200 torr" },
+        { "text": "250 torr" },
+        { "text": "300 torr", "correct": true },
+        { "text": "400 torr" }
+      ]
+    },
+    {
+      "text": "Which electrode measures pH?",
+      "answers": [
+        { "text": "Clark electrode" },
+        { "text": "Severinghaus electrode" },
+        { "text": "SANZ electrode", "correct": true },
+        { "text": "Lambert electrode" }
+      ]
+    },
+    {
+      "text": "Which electrode measures PCO₂?",
+      "answers": [
+        { "text": "SANZ electrode" },
+        { "text": "Severinghaus electrode", "correct": true },
+        { "text": "Clark electrode" },
+        { "text": "Westgard electrode" }
+      ]
+    },
+    {
+      "text": "Which electrode measures PO₂?",
+      "answers": [
+        { "text": "SANZ electrode" },
+        { "text": "Clark electrode", "correct": true },
+        { "text": "Severinghaus electrode" },
+        { "text": "Beer electrode" }
+      ]
+    },
+    {
+      "text": "Which physical law is used by a co-oximeter to determine hemoglobin saturation and concentration?",
+      "answers": [
+        { "text": "Boyle's law" },
+        { "text": "Henry's law" },
+        { "text": "Lambert-Beer law", "correct": true },
+        { "text": "Bernoulli's law" }
+      ]
+    },
+    {
+      "text": "Isobestic points are used to determine:",
+      "answers": [
+        { "text": "Arterial PCO₂" },
+        { "text": "Hemoglobin concentration regardless of saturation", "correct": true },
+        { "text": "Plasma osmolality" },
+        { "text": "Body temperature" }
+      ]
+    },
+    {
+      "text": "How many wavelengths of light does a co-oximeter use to differentiate hemoglobin species?",
+      "answers": [
+        { "text": "2" },
+        { "text": "4" },
+        { "text": "8", "correct": true },
+        { "text": "16" }
+      ]
+    },
+    {
+      "text": "Which hemoglobin species results from carbon monoxide / smoke inhalation?",
+      "answers": [
+        { "text": "MetHb" },
+        { "text": "HbO₂" },
+        { "text": "HbCO (carboxyhemoglobin)", "correct": true },
+        { "text": "SHb" }
+      ]
+    },
+    {
+      "text": "Methemoglobinemia is defined as a MetHb level greater than:",
+      "answers": [
+        { "text": "0.1%" },
+        { "text": "1%", "correct": true },
+        { "text": "5%" },
+        { "text": "15%" }
+      ]
+    },
+    {
+      "text": "Which agent is the treatment for methemoglobinemia?",
+      "answers": [
+        { "text": "Sodium bicarbonate" },
+        { "text": "Methylene blue", "correct": true },
+        { "text": "Activated charcoal" },
+        { "text": "Hydroxocobalamin" }
+      ]
+    },
+    {
+      "text": "The normal total hemoglobin (tHb) range for a NEWBORN is:",
+      "answers": [
+        { "text": "5 – 10 g/dL" },
+        { "text": "10 – 14 g/dL" },
+        { "text": "14 – 24 g/dL", "correct": true },
+        { "text": "25 – 32 g/dL" }
+      ]
+    },
+    {
+      "text": "Point-of-care testing (POCT) is best defined as:",
+      "answers": [
+        { "text": "All testing performed in the central lab" },
+        { "text": "Laboratory testing performed outside of the central laboratory (at the patient's bedside)", "correct": true },
+        { "text": "Pulmonary function testing only" },
+        { "text": "Capillary blood gas testing in pediatrics only" }
+      ]
+    },
+    {
+      "text": "POCT is classified by CLIA as:",
+      "answers": [
+        { "text": "Waived testing" },
+        { "text": "Moderately complex", "correct": true },
+        { "text": "Highly complex" },
+        { "text": "Restricted research" }
+      ]
+    },
+    {
+      "text": "After collecting a blood specimen in a SYRINGE with anticoagulant for the i-STAT, the sample must be tested within:",
+      "answers": [
+        { "text": "30 seconds" },
+        { "text": "5 minutes", "correct": true },
+        { "text": "30 minutes" },
+        { "text": "1 hour" }
+      ]
+    },
+    {
+      "text": "Which agency is the MILITARY equivalent of CLIA?",
+      "answers": [
+        { "text": "CAP" },
+        { "text": "TJC" },
+        { "text": "CLIP", "correct": true },
+        { "text": "NCCLS" }
+      ]
+    },
+    {
+      "text": "1-point calibration of an ABG analyzer is performed:",
+      "answers": [
+        { "text": "Every 6 months" },
+        { "text": "Every 8 hours" },
+        { "text": "Before every blood sample is run, and automatically every 30 minutes", "correct": true },
+        { "text": "Once per year" }
+      ]
+    },
+    {
+      "text": "How often is 2-point calibration (controls) performed?",
+      "answers": [
+        { "text": "Every 30 minutes" },
+        { "text": "Every 8 hours", "correct": true },
+        { "text": "Every 6 months" },
+        { "text": "Once per shift only" }
+      ]
+    },
+    {
+      "text": "How often is 3-point calibration (linearity check) performed?",
+      "answers": [
+        { "text": "Every 30 minutes" },
+        { "text": "Every 8 hours" },
+        { "text": "Every 6 months", "correct": true },
+        { "text": "Every 5 years" }
+      ]
+    },
+    {
+      "text": "Which best defines accuracy?",
+      "answers": [
+        { "text": "An index of dispersion of repeated measurements" },
+        { "text": "How closely the measured results reflect the actual value", "correct": true },
+        { "text": "The number of samples per shift" },
+        { "text": "The variation across analyzers" }
+      ]
+    },
+    {
+      "text": "Per the Westgard rules, ONE measurement outside of 2 SD is classified as:",
+      "answers": [
+        { "text": "In control — no action" },
+        { "text": "Random error — monitor closely", "correct": true },
+        { "text": "Out of control — corrective action" },
+        { "text": "Equipment failure — replace electrode" }
+      ]
+    }
+  ]
+}

@@ -12,6 +12,11 @@
       "slug": "pulmonary-diagnostics-ii/lesson-2",
       "title": "Acid–Base Homeostasis",
       "description": "Objective 1.2.1 — pH and [H⁺] chemistry; pH homeostasis via lungs, kidneys, and blood buffers; CO₂ production, transport, and excretion; energy metabolism and the respiratory quotient (RQ); the oxyhemoglobin dissociation curve and its modifiers (pH, temperature, 2,3-DPG, Bohr/Haldane effects); and step-by-step ABG interpretation using ROME."
+    },
+    {
+      "slug": "pulmonary-diagnostics-ii/lesson-3",
+      "title": "Evaluating Oxygenation, Blood Gas Analyzers & QA/QC",
+      "description": "Objective 1.3.1 — Hypoxemia vs. hypoxia and PaO₂ staging (with age adjustment); arterial oxygen content (CaO₂); the alveolar air equation and A–a gradient; SANZ/Severinghaus/Clark electrodes; co-oximetry and the four hemoglobin species (HbO₂, HbCO, MetHb, SHb); point-of-care testing (i-STAT); regulatory agencies (CLIA, CAP, TJC, CLIP, CMS, NCCLS); calibration (1-, 2-, 3-point); and Levey-Jennings / Westgard quality-control rules."
     }
   ],
   "audio": [
@@ -22,6 +27,10 @@
     {
       "title": "The Invisible Tightrope of Blood pH",
       "src": "/audio/The_Invisible_Tightrope_of_Blood_pH.m4a"
+    },
+    {
+      "title": "The Invisible Math of Clinical Oxygenation",
+      "src": "/audio/The_Invisible_Math_of_Clinical_Oxygenation.m4a"
     }
   ],
   "resources": [
