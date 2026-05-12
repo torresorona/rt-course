@@ -7,12 +7,21 @@
       "slug": "pulmonary-diagnostics-ii/lesson-1",
       "title": "Arterial & Capillary Blood Gas Sampling",
       "description": "Objective 1.1.1 — ABG indications, contraindications, hazards, and sample sites; equipment selection; Modified Allen test; radial, brachial, and femoral puncture; indwelling arterial lines (A-lines) including dampening and transducer position; and capillary blood gas procedure."
+    },
+    {
+      "slug": "pulmonary-diagnostics-ii/lesson-2",
+      "title": "Acid–Base Homeostasis",
+      "description": "Objective 1.2.1 — pH and [H⁺] chemistry; pH homeostasis via lungs, kidneys, and blood buffers; CO₂ production, transport, and excretion; energy metabolism and the respiratory quotient (RQ); the oxyhemoglobin dissociation curve and its modifiers (pH, temperature, 2,3-DPG, Bohr/Haldane effects); and step-by-step ABG interpretation using ROME."
     }
   ],
   "audio": [
     {
       "title": "The Physics of Arterial Blood Gas Sampling",
       "src": "/audio/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a"
+    },
+    {
+      "title": "The Invisible Tightrope of Blood pH",
+      "src": "/audio/The_Invisible_Tightrope_of_Blood_pH.m4a"
     }
   ],
   "resources": [
@@ -26,6 +35,12 @@
       "title": "Drawing Blood from an Arterial Line (video)",
       "description": "Three-way stopcock sampling technique for drawing arterial blood from an A-line. Start at 3:17.",
       "url": "https://www.youtube.com/watch?v=5Mk0Hp8kuqo",
+      "type": "video"
+    },
+    {
+      "title": "Acid–Base Homeostasis Review (video)",
+      "description": "Companion video for Lesson 2 covering the chemistry of pH, the hydrolysis equation, and the lung/kidney/buffer regulation of acid–base balance.",
+      "url": "https://www.youtube.com/watch?v=VzEEs00v-JU",
       "type": "video"
     }
   ]

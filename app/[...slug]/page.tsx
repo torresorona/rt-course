@@ -85,6 +85,7 @@ export default async function LessonPage({
     "cardiac-diagnostics-ii/lesson-2": "/audio/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a",
     "cardiac-diagnostics-ii/lesson-3": "/audio/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a",
     "pulmonary-diagnostics-ii/lesson-1": "/audio/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a",
+    "pulmonary-diagnostics-ii/lesson-2": "/audio/The_Invisible_Tightrope_of_Blood_pH.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

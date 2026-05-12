@@ -1,0 +1,410 @@
+{
+  "title": "Acid–Base Homeostasis Quiz",
+  "questions": [
+    {
+      "text": "What is the normal arterial pH range?",
+      "answers": [
+        { "text": "7.25 – 7.35" },
+        { "text": "7.35 – 7.45", "correct": true },
+        { "text": "7.45 – 7.55" },
+        { "text": "7.00 – 7.40" }
+      ]
+    },
+    {
+      "text": "Which best describes the relationship between pH and [H⁺]?",
+      "answers": [
+        { "text": "Linear and direct — they rise and fall together" },
+        { "text": "Inverse — pH is the negative log of free [H⁺]", "correct": true },
+        { "text": "Unrelated — pH measures HCO₃⁻ instead" },
+        { "text": "Exponentially proportional" }
+      ]
+    },
+    {
+      "text": "By definition, an acid is a substance that:",
+      "answers": [
+        { "text": "Accepts a hydrogen ion" },
+        { "text": "Donates / releases a hydrogen ion", "correct": true },
+        { "text": "Has a pH greater than 7.45" },
+        { "text": "Buffers strong bases only" }
+      ]
+    },
+    {
+      "text": "A blood pH greater than 7.45 is described as:",
+      "answers": [
+        { "text": "Acidotic" },
+        { "text": "Acidemic" },
+        { "text": "Alkalotic / alkalemic", "correct": true },
+        { "text": "Neutral" }
+      ]
+    },
+    {
+      "text": "Which three systems work together to maintain blood pH?",
+      "answers": [
+        { "text": "Lungs, liver, and pancreas" },
+        { "text": "Lungs, kidneys, and blood buffers", "correct": true },
+        { "text": "Heart, lungs, and adrenal glands" },
+        { "text": "Brain, lungs, and bone marrow" }
+      ]
+    },
+    {
+      "text": "The primary role of blood buffers is to:",
+      "answers": [
+        { "text": "Generate strong acids quickly" },
+        { "text": "Replace bicarbonate produced by the kidneys" },
+        { "text": "Prevent large changes in pH when the blood is exposed to acid–base abnormalities", "correct": true },
+        { "text": "Increase oxygen-carrying capacity of hemoglobin" }
+      ]
+    },
+    {
+      "text": "Which factor determines the QUANTITY of CO₂ produced and entering the blood?",
+      "answers": [
+        { "text": "Alveolar ventilation" },
+        { "text": "Metabolic rate", "correct": true },
+        { "text": "Renal HCO₃⁻ excretion" },
+        { "text": "Hemoglobin concentration" }
+      ]
+    },
+    {
+      "text": "Which factor determines the quantity of CO₂ ELIMINATED from the blood?",
+      "answers": [
+        { "text": "Metabolic rate" },
+        { "text": "Cardiac output" },
+        { "text": "Lung function (alveolar ventilation)", "correct": true },
+        { "text": "Liver enzyme activity" }
+      ]
+    },
+    {
+      "text": "Compared to fat metabolism, carbohydrate metabolism produces:",
+      "answers": [
+        { "text": "Less CO₂" },
+        { "text": "More CO₂", "correct": true },
+        { "text": "The same amount of CO₂" },
+        { "text": "No CO₂ at all" }
+      ]
+    },
+    {
+      "text": "The cellular organelle known as the cell's 'powerhouse,' where the Krebs cycle generates ATP, is the:",
+      "answers": [
+        { "text": "Nucleus" },
+        { "text": "Ribosome" },
+        { "text": "Mitochondria", "correct": true },
+        { "text": "Endoplasmic reticulum" }
+      ]
+    },
+    {
+      "text": "The body's PREFERRED source of short-term energy is:",
+      "answers": [
+        { "text": "Lipids / fat" },
+        { "text": "Carbohydrate", "correct": true },
+        { "text": "Protein" },
+        { "text": "Water" }
+      ]
+    },
+    {
+      "text": "Carbohydrate is stored in the liver and muscle primarily as:",
+      "answers": [
+        { "text": "ATP" },
+        { "text": "Lactic acid" },
+        { "text": "Glycogen", "correct": true },
+        { "text": "Glucose-6-phosphate" }
+      ]
+    },
+    {
+      "text": "Which macronutrient is used primarily for growth and repair?",
+      "answers": [
+        { "text": "Carbohydrate" },
+        { "text": "Lipid / fat" },
+        { "text": "Protein", "correct": true },
+        { "text": "Vitamins" }
+      ]
+    },
+    {
+      "text": "Which macronutrient provides long-term energy and contains the most energy per gram?",
+      "answers": [
+        { "text": "Carbohydrate" },
+        { "text": "Lipid / fat", "correct": true },
+        { "text": "Protein" },
+        { "text": "Fiber" }
+      ]
+    },
+    {
+      "text": "What is the O₂ : CO₂ ratio for CARBOHYDRATE metabolism?",
+      "answers": [
+        { "text": "1 : 0.7" },
+        { "text": "1 : 0.8" },
+        { "text": "1 : 1.0", "correct": true },
+        { "text": "1 : 1.5" }
+      ]
+    },
+    {
+      "text": "What is the O₂ : CO₂ ratio for LIPID / FAT metabolism?",
+      "answers": [
+        { "text": "1 : 1.0" },
+        { "text": "1 : 0.8" },
+        { "text": "1 : 0.7", "correct": true },
+        { "text": "1 : 0.5" }
+      ]
+    },
+    {
+      "text": "What is the O₂ : CO₂ ratio for PROTEIN metabolism?",
+      "answers": [
+        { "text": "1 : 1.0" },
+        { "text": "1 : 0.8", "correct": true },
+        { "text": "1 : 0.7" },
+        { "text": "1 : 0.6" }
+      ]
+    },
+    {
+      "text": "The respiratory quotient (RQ) is defined as:",
+      "answers": [
+        { "text": "V̇O₂ / V̇CO₂" },
+        { "text": "V̇CO₂ / V̇O₂", "correct": true },
+        { "text": "PaCO₂ / PaO₂" },
+        { "text": "HCO₃⁻ / PaCO₂" }
+      ]
+    },
+    {
+      "text": "An RQ greater than 1.0 most likely suggests:",
+      "answers": [
+        { "text": "Underfeeding and use of ketones as fuel" },
+        { "text": "Excessive carbohydrate or calorie provision that increases CO₂ production and may cause difficulty weaning from mechanical ventilation", "correct": true },
+        { "text": "Severe metabolic acidosis" },
+        { "text": "Normal lipid metabolism" }
+      ]
+    },
+    {
+      "text": "An RQ less than 0.7 most likely suggests:",
+      "answers": [
+        { "text": "Excessive carbohydrate intake" },
+        { "text": "Underfeeding and use of ketones as a fuel source", "correct": true },
+        { "text": "Acute respiratory alkalosis" },
+        { "text": "Increased protein metabolism" }
+      ]
+    },
+    {
+      "text": "Which pulmonary disorder is NOT specifically listed in the lesson as being affected by nutrition?",
+      "answers": [
+        { "text": "Asthma" },
+        { "text": "COPD / emphysema" },
+        { "text": "Cystic fibrosis" },
+        { "text": "Pleural effusion", "correct": true }
+      ]
+    },
+    {
+      "text": "An increase in alveolar ventilation will cause PaCO₂ to:",
+      "answers": [
+        { "text": "Increase" },
+        { "text": "Decrease", "correct": true },
+        { "text": "Stay the same" },
+        { "text": "Become unmeasurable" }
+      ]
+    },
+    {
+      "text": "What is the normal arterial PCO₂?",
+      "answers": [
+        { "text": "20 mmHg" },
+        { "text": "30 mmHg" },
+        { "text": "40 mmHg", "correct": true },
+        { "text": "60 mmHg" }
+      ]
+    },
+    {
+      "text": "Which form of CO₂ accounts for approximately 80% of CO₂ transport from tissues to the lungs?",
+      "answers": [
+        { "text": "Dissolved CO₂" },
+        { "text": "Carbonic acid (H₂CO₃)" },
+        { "text": "Bicarbonate (HCO₃⁻)", "correct": true },
+        { "text": "Carbamino compounds" }
+      ]
+    },
+    {
+      "text": "Approximately what percentage of oxygen is bound to hemoglobin in arterial blood?",
+      "answers": [
+        { "text": "23%" },
+        { "text": "70%" },
+        { "text": "98.5%", "correct": true },
+        { "text": "100%" }
+      ]
+    },
+    {
+      "text": "Approximately what percentage of CO₂ is carried bound to hemoglobin (carbamino compounds)?",
+      "answers": [
+        { "text": "7%" },
+        { "text": "23%", "correct": true },
+        { "text": "70%" },
+        { "text": "98.5%" }
+      ]
+    },
+    {
+      "text": "The major intracellular blood buffer is:",
+      "answers": [
+        { "text": "Plasma albumin" },
+        { "text": "Hemoglobin inside the RBC", "correct": true },
+        { "text": "Phosphate in the cytosol" },
+        { "text": "Lipid bilayer of the cell membrane" }
+      ]
+    },
+    {
+      "text": "A LOW pH (acidosis) shifts the oxyhemoglobin curve to the RIGHT. This means hemoglobin's affinity for O₂:",
+      "answers": [
+        { "text": "Increases — Hb holds onto O₂" },
+        { "text": "Decreases — Hb gives up O₂ more easily", "correct": true },
+        { "text": "Is unchanged" },
+        { "text": "Drops to zero" }
+      ]
+    },
+    {
+      "text": "An INCREASE in body temperature shifts the oxyhemoglobin curve in which direction and with what effect on Hb affinity?",
+      "answers": [
+        { "text": "Left — affinity increases" },
+        { "text": "Right — affinity decreases", "correct": true },
+        { "text": "Left — affinity decreases" },
+        { "text": "Right — affinity increases" }
+      ]
+    },
+    {
+      "text": "HIGH levels of 2,3-DPG in red blood cells:",
+      "answers": [
+        { "text": "Shift the curve LEFT and increase Hb affinity for O₂" },
+        { "text": "Shift the curve RIGHT and decrease Hb affinity for O₂, promoting O₂ unloading at the tissues", "correct": true },
+        { "text": "Have no effect on Hb affinity" },
+        { "text": "Lower the PaCO₂ directly" }
+      ]
+    },
+    {
+      "text": "Which effect describes how O₂ binding influences hemoglobin's ability to carry CO₂?",
+      "answers": [
+        { "text": "Bohr effect" },
+        { "text": "Haldane effect", "correct": true },
+        { "text": "Donnan effect" },
+        { "text": "Starling effect" }
+      ]
+    },
+    {
+      "text": "Which effect describes how CO₂, H⁺, and temperature influence hemoglobin's affinity for O₂?",
+      "answers": [
+        { "text": "Haldane effect" },
+        { "text": "Bohr effect", "correct": true },
+        { "text": "Henry's law" },
+        { "text": "Boyle's law" }
+      ]
+    },
+    {
+      "text": "Which term describes the abnormal STATE OF THE BLOOD when pH is below normal?",
+      "answers": [
+        { "text": "Acidosis" },
+        { "text": "Acidemia", "correct": true },
+        { "text": "Alkalemia" },
+        { "text": "Alkalosis" }
+      ]
+    },
+    {
+      "text": "In the ROME mnemonic, the 'O' stands for and reminds you that:",
+      "answers": [
+        { "text": "Oxygen — PaO₂ moves with pH" },
+        { "text": "Opposite — PaCO₂ moves OPPOSITE to pH (respiratory disorders)", "correct": true },
+        { "text": "Origin — bicarbonate originates from the kidneys" },
+        { "text": "Onset — acute disorders only" }
+      ]
+    },
+    {
+      "text": "In the ROME mnemonic, the 'E' stands for and reminds you that:",
+      "answers": [
+        { "text": "Excess — base excess is metabolic" },
+        { "text": "Equal — HCO₃⁻ moves in the SAME (equal) direction as pH (metabolic disorders)", "correct": true },
+        { "text": "Elevation — pH is always elevated" },
+        { "text": "Exhalation — only exhaled gases matter" }
+      ]
+    },
+    {
+      "text": "What is the normal HCO₃⁻ range?",
+      "answers": [
+        { "text": "12 – 18 mEq/L" },
+        { "text": "18 – 22 mEq/L" },
+        { "text": "22 – 26 mEq/L", "correct": true },
+        { "text": "30 – 36 mEq/L" }
+      ]
+    },
+    {
+      "text": "An ABG shows pH 7.25, PaCO₂ 60 mmHg, HCO₃⁻ 24 mEq/L. The acid–base disturbance is:",
+      "answers": [
+        { "text": "Respiratory alkalosis" },
+        { "text": "Respiratory acidosis (acute / uncompensated)", "correct": true },
+        { "text": "Metabolic acidosis" },
+        { "text": "Metabolic alkalosis" }
+      ]
+    },
+    {
+      "text": "An ABG shows pH 7.52, PaCO₂ 28 mmHg, HCO₃⁻ 24 mEq/L. The acid–base disturbance is:",
+      "answers": [
+        { "text": "Respiratory acidosis" },
+        { "text": "Respiratory alkalosis (acute / uncompensated)", "correct": true },
+        { "text": "Metabolic acidosis" },
+        { "text": "Metabolic alkalosis" }
+      ]
+    },
+    {
+      "text": "An ABG shows pH 7.28, PaCO₂ 38 mmHg, HCO₃⁻ 14 mEq/L. The acid–base disturbance is:",
+      "answers": [
+        { "text": "Respiratory acidosis" },
+        { "text": "Respiratory alkalosis" },
+        { "text": "Metabolic acidosis (acute / uncompensated)", "correct": true },
+        { "text": "Metabolic alkalosis" }
+      ]
+    },
+    {
+      "text": "An ABG shows pH 7.50, PaCO₂ 40 mmHg, HCO₃⁻ 32 mEq/L. The acid–base disturbance is:",
+      "answers": [
+        { "text": "Respiratory acidosis" },
+        { "text": "Respiratory alkalosis" },
+        { "text": "Metabolic acidosis" },
+        { "text": "Metabolic alkalosis (acute / uncompensated)", "correct": true }
+      ]
+    },
+    {
+      "text": "Which of the following is a typical cause of RESPIRATORY ACIDOSIS?",
+      "answers": [
+        { "text": "Acute asthma attack" },
+        { "text": "Drug or sedation overdose causing hypoventilation", "correct": true },
+        { "text": "Diabetic ketoacidosis" },
+        { "text": "Severe vomiting" }
+      ]
+    },
+    {
+      "text": "Which of the following is a typical cause of RESPIRATORY ALKALOSIS?",
+      "answers": [
+        { "text": "COPD exacerbation" },
+        { "text": "Drug overdose" },
+        { "text": "Pulmonary embolism causing hyperventilation", "correct": true },
+        { "text": "Diarrhea" }
+      ]
+    },
+    {
+      "text": "Which of the following is a typical cause of METABOLIC ACIDOSIS?",
+      "answers": [
+        { "text": "Severe vomiting" },
+        { "text": "Diuretic therapy" },
+        { "text": "Salicylate (aspirin) poisoning", "correct": true },
+        { "text": "Excess HCO₃⁻ administration" }
+      ]
+    },
+    {
+      "text": "Which of the following is a typical cause of METABOLIC ALKALOSIS?",
+      "answers": [
+        { "text": "Diarrhea" },
+        { "text": "Renal failure" },
+        { "text": "Severe vomiting and N-G tube suctioning", "correct": true },
+        { "text": "COPD" }
+      ]
+    },
+    {
+      "text": "Hypoxemia and hypoxia differ in that:",
+      "answers": [
+        { "text": "Hypoxemia is low oxygen in the BLOOD, while hypoxia is deficient oxygen reaching the TISSUES (global or local)", "correct": true },
+        { "text": "Hypoxemia and hypoxia mean the same thing" },
+        { "text": "Hypoxia is always reversible; hypoxemia is not" },
+        { "text": "Hypoxemia only occurs in pediatric patients" }
+      ]
+    }
+  ]
+}
