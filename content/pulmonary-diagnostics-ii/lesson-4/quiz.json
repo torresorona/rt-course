@@ -1,0 +1,140 @@
+{
+  "title": "Radiographic Imaging & Chest X-ray Interpretation Quiz",
+  "questions": [
+    {
+      "text": "Which of the following best describes the beam path and utility of a standard PA chest radiograph?",
+      "answers": [
+        { "text": "X-rays travel from anterior to posterior, causing artificial magnification of the heart shadow" },
+        { "text": "X-rays travel from posterior to anterior, minimizing artificial magnification of the heart silhouette", "correct": true },
+        { "text": "X-rays enter laterally to assess small pneumothoraces" },
+        { "text": "X-rays are directed subglottically to evaluate upper airway obstruction" }
+      ]
+    },
+    {
+      "text": "An AP chest radiograph is commonly used in the ICU for bedridden patients. How does this projection affect the appearance of the heart?",
+      "answers": [
+        { "text": "It artificially magnifies the heart shadow because the heart is further from the image receptor", "correct": true },
+        { "text": "It causes the heart shadow to appear smaller than its true anatomical size" },
+        { "text": "It has no effect on the cardiac silhouette compared to a PA projection" },
+        { "text": "It shifts the heart entirely into the right hemithorax" }
+      ]
+    },
+    {
+      "text": "Which radiographic projection is the most valuable for detecting a small pleural effusion?",
+      "answers": [
+        { "text": "AP projection" },
+        { "text": "Lateral neck projection" },
+        { "text": "Lateral decubitus position", "correct": true },
+        { "text": "Lordotic view" }
+      ]
+    },
+    {
+      "text": "A lateral neck radiograph of a child with upper airway obstruction reveals the classic 'thumb sign'. This finding is indicative of:",
+      "answers": [
+        { "text": "Croup (laryngotracheobronchitis)" },
+        { "text": "Epiglottitis", "correct": true },
+        { "text": "Subglottic stenosis" },
+        { "text": "Tracheomalacia" }
+      ]
+    },
+    {
+      "text": "The 'steeple sign' seen on an upper airway radiograph represents subglottic narrowing characteristic of:",
+      "answers": [
+        { "text": "Croup", "correct": true },
+        { "text": "Epiglottitis" },
+        { "text": "Foreign body aspiration" },
+        { "text": "Pleural effusion" }
+      ]
+    },
+    {
+      "text": "When assessing the technical quality of a chest X-ray for proper penetration, which landmark should be verified?",
+      "answers": [
+        { "text": "The liver shadow should be entirely radiolucent" },
+        { "text": "The thoracic vertebrae should be just visible behind the heart shadow", "correct": true },
+        { "text": "The lung parenchyma should appear completely black without any visible blood vessels" },
+        { "text": "The intercostal spaces must be completely obliterated" }
+      ]
+    },
+    {
+      "text": "To verify that a chest radiograph was taken with adequate inspiration, how many ribs should be visible above the diaphragm?",
+      "answers": [
+        { "text": "3 – 4 anterior ribs" },
+        { "text": "5 – 6 anterior ribs or 8 – 10 posterior ribs", "correct": true },
+        { "text": "10 – 12 anterior ribs" },
+        { "text": "Only the posterior floating ribs" }
+      ]
+    },
+    {
+      "text": "On a normal chest radiograph, the right hemidiaphragm sits slightly higher than the left at the level of the sixth anterior rib. What anatomical structure accounts for this?",
+      "answers": [
+        { "text": "The stomach" },
+        { "text": "The spleen" },
+        { "text": "The liver", "correct": true },
+        { "text": "The right kidney" }
+      ]
+    },
+    {
+      "text": "Blunting or obliteration of the costophrenic angles on a chest X-ray is a classic finding indicative of:",
+      "answers": [
+        { "text": "Subcutaneous emphysema" },
+        { "text": "Pleural effusion", "correct": true },
+        { "text": "Pneumothorax" },
+        { "text": "Acute bronchospasm" }
+      ]
+    },
+    {
+      "text": "What is the normal expected cardiothoracic (C/T) ratio on a standard PA chest radiograph?",
+      "answers": [
+        { "text": "Less than 30%" },
+        { "text": "Less than 50%", "correct": true },
+        { "text": "Greater than 60%" },
+        { "text": "Approximately 75%" }
+      ]
+    },
+    {
+      "text": "Where should the tip of a properly positioned Endotracheal Tube (ETT) be located on a chest radiograph?",
+      "answers": [
+        { "text": "At the level of the vocal cords" },
+        { "text": "Directly inside the right mainstem bronchus" },
+        { "text": "2 – 5 cm above the carina", "correct": true },
+        { "text": "Just below the left hemidiaphragm" }
+      ]
+    },
+    {
+      "text": "When verifying the placement of a Central Venous Catheter (CVC) on an X-ray, the catheter tip should reside in the:",
+      "answers": [
+        { "text": "Right ventricle apex" },
+        { "text": "Lower portion of the superior vena cava, proximal to the right atrium", "correct": true },
+        { "text": "Right lower lung field" },
+        { "text": "Subclavian artery" }
+      ]
+    },
+    {
+      "text": "Where should the tip of a properly positioned Pulmonary Artery (Swan-Ganz) catheter appear on a chest radiograph?",
+      "answers": [
+        { "text": "Right lower lung field", "correct": true },
+        { "text": "Left atrium" },
+        { "text": "Aortic arch" },
+        { "text": "Stomach" }
+      ]
+    },
+    {
+      "text": "To prevent subcutaneous air leaks, what specific placement criteria applies to a chest tube seen on an X-ray?",
+      "answers": [
+        { "text": "The tube must cross the midline into the contralateral hemithorax" },
+        { "text": "The break in the radiopaque line must be fully inside the pleural space", "correct": true },
+        { "text": "The tip must terminate inside the superior vena cava" },
+        { "text": "The drainage eyelets must remain external to the chest wall" }
+      ]
+    },
+    {
+      "text": "A nasogastric (NG) or feeding tube is confirmed to be in optimal position when its radiopaque tip is seen:",
+      "answers": [
+        { "text": "In the mid-esophagus" },
+        { "text": "In the stomach 2 – 6 cm below the diaphragm", "correct": true },
+        { "text": "In the left lower lobe bronchus" },
+        { "text": "Directly above the carina" }
+      ]
+    }
+  ]
+}

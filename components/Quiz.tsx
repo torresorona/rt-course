@@ -256,9 +256,18 @@ export default function Quiz({ slug }: { slug: string }) {
   return (
     <div className="not-prose my-10">
       {/* Header */}
-      <div className="mb-6 flex items-center justify-between">
-        <h3 className="text-lg font-semibold text-sand-900">{quiz.title}</h3>
-        <div className="flex items-center gap-3">
+      <div className="mb-6 flex items-start justify-between">
+        <div>
+          <h3 className="text-lg font-semibold text-sand-900">{quiz.title}</h3>
+          <a
+            href={`/api/quizlet/${slug}`}
+            className="mt-2 inline-flex items-center gap-1.5 rounded-full border border-sand-200 bg-white px-3 py-1.5 text-xs font-semibold text-sand-700 transition-all hover:border-sand-300 hover:bg-sand-50 hover:text-terracotta-600 hover:shadow-2xs"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="7 10 12 15 17 10" /><line x1="12" y1="15" x2="12" y2="3" /></svg>
+            Download for Quizlet
+          </a>
+        </div>
+        <div className="flex items-center gap-3 mt-0.5">
           {answered > 0 && (
             <button
               type="button"
