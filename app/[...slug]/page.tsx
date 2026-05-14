@@ -88,6 +88,7 @@ export default async function LessonPage({
     "pulmonary-diagnostics-ii/lesson-2": "/audio/The_Invisible_Tightrope_of_Blood_pH.m4a",
     "pulmonary-diagnostics-ii/lesson-3": "/audio/The_Invisible_Math_of_Clinical_Oxygenation.m4a",
     "pulmonary-diagnostics-ii/lesson-4": "/audio/The_Physics_of_Clinical_Chest_X-Rays.m4a",
+    "pulmonary-diagnostics-ii/lesson-5": "/audio/How_doctors_read_shadows_on_lung_scans.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

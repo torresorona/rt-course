@@ -316,7 +316,7 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 5. Optionally create `quiz.json` in each lesson directory
 6. Optionally create `notebooklm-source.md` for audio generation
 7. Add audio file mapping to `audioMap` in `app/[...slug]/page.tsx` if audio exists
-8. Run `npm run db:seed` to populate the database
+8. Run `npm run db:seed` to populate the database (validates quiz JSON syntax and loads questions)
 
 ### Adding a New Lesson to an Existing Module
 
@@ -325,7 +325,7 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 3. Add `quiz.json` if needed
 4. Update `content/<module-slug>/module.json` to include the new lesson in the `lessons` array
 5. Update `audioMap` in `app/[...slug]/page.tsx` if adding audio
-6. Run `npm run db:seed`
+6. Run `npm run db:seed` (validates quiz JSON syntax and loads questions into DB)
 
 ### Adding a New Interactive Resource Component
 

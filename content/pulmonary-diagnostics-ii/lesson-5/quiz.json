@@ -1,0 +1,185 @@
+{
+  "title": "Abnormal Chest X-ray & Advanced Imaging Interpretation Quiz",
+  "questions": [
+    {
+      "text": "Which of the following chest X-ray findings is most characteristic of advanced COPD?",
+      "answers": [
+        { "text": "Batwing perihilar infiltrates" },
+        { "text": "Hyperlucent lung fields with flattened diaphragms", "correct": true },
+        { "text": "Kerley B lines at the lung bases" },
+        { "text": "Air bronchogram within a consolidated lobe" }
+      ]
+    },
+    {
+      "text": "The radiographic term 'air bronchogram' describes:",
+      "answers": [
+        { "text": "Collapsed bronchi displaced toward the mediastinum" },
+        { "text": "Air-filled bronchi visible as dark branching lines against opaque consolidated lung", "correct": true },
+        { "text": "Dilated, thick-walled bronchi that fail to taper" },
+        { "text": "Fluid-filled bronchi seen on a lateral decubitus view" }
+      ]
+    },
+    {
+      "text": "A key radiographic sign that helps differentiate atelectasis from consolidation is:",
+      "answers": [
+        { "text": "Air bronchogram" },
+        { "text": "Blunting of the costophrenic angle" },
+        { "text": "Displacement of fissures toward the collapsed lung", "correct": true },
+        { "text": "Hyperlucency of the affected hemithorax" }
+      ]
+    },
+    {
+      "text": "Blunting of the costophrenic angle on an upright chest X-ray is most suggestive of:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Pleural effusion", "correct": true },
+        { "text": "Pulmonary edema" },
+        { "text": "Flail chest" }
+      ]
+    },
+    {
+      "text": "Which of the following radiographic findings is pathognomonic for a pneumothorax?",
+      "answers": [
+        { "text": "Butterfly-shaped perihilar infiltrates" },
+        { "text": "A visible visceral pleural line with absent peripheral vascular markings", "correct": true },
+        { "text": "Wedge-shaped opacity with the base against the pleura" },
+        { "text": "Bilateral ground glass opacities" }
+      ]
+    },
+    {
+      "text": "In a tension pneumothorax, tracheal deviation is expected to be:",
+      "answers": [
+        { "text": "Toward the affected side" },
+        { "text": "Away from the affected side", "correct": true },
+        { "text": "Posteriorly" },
+        { "text": "There is no tracheal deviation in tension pneumothorax" }
+      ]
+    },
+    {
+      "text": "Kerley B lines on a chest X-ray are most associated with:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "COPD" },
+        { "text": "Left heart failure / pulmonary edema", "correct": true },
+        { "text": "Epiglottitis" }
+      ]
+    },
+    {
+      "text": "The 'batwing' or 'butterfly' distribution of infiltrates on chest X-ray is classic for:",
+      "answers": [
+        { "text": "Lobar pneumonia" },
+        { "text": "Pulmonary edema", "correct": true },
+        { "text": "Atelectasis" },
+        { "text": "Pulmonary embolism" }
+      ]
+    },
+    {
+      "text": "Which of the following best describes the radiographic appearance of ARDS?",
+      "answers": [
+        { "text": "Unilateral consolidation with air bronchogram" },
+        { "text": "Bilateral diffuse ground glass and fluffy opacities", "correct": true },
+        { "text": "Solitary pulmonary nodule with cavitation" },
+        { "text": "Visceral pleural line with absent vascular markings" }
+      ]
+    },
+    {
+      "text": "A wedge-shaped pleural-based opacity on chest X-ray (Hampton hump) is most suggestive of:",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Pulmonary infarction from embolism", "correct": true },
+        { "text": "Pleural effusion" },
+        { "text": "Flail chest" }
+      ]
+    },
+    {
+      "text": "The 'thumb sign' on a lateral neck radiograph is characteristic of:",
+      "answers": [
+        { "text": "Croup" },
+        { "text": "Epiglottitis", "correct": true },
+        { "text": "Foreign body aspiration" },
+        { "text": "Retropharyngeal abscess" }
+      ]
+    },
+    {
+      "text": "The 'steeple sign' on a lateral neck radiograph is characteristic of:",
+      "answers": [
+        { "text": "Croup (laryngotracheobronchitis)", "correct": true },
+        { "text": "Epiglottitis" },
+        { "text": "Pleural effusion" },
+        { "text": "ARDS" }
+      ]
+    },
+    {
+      "text": "Which patient population is at highest risk for foreign body aspiration?",
+      "answers": [
+        { "text": "Infants under 6 months" },
+        { "text": "Children between 1 and 3 years old", "correct": true },
+        { "text": "Adolescents between 13 and 15 years old" },
+        { "text": "Adults over 65 years old" }
+      ]
+    },
+    {
+      "text": "Paradoxical chest wall movement (inward during inspiration) is the hallmark clinical finding of:",
+      "answers": [
+        { "text": "Tension pneumothorax" },
+        { "text": "Flail chest", "correct": true },
+        { "text": "ARDS" },
+        { "text": "Pulmonary embolism" }
+      ]
+    },
+    {
+      "text": "Which advanced imaging modality is considered the gold standard for diagnosing pulmonary embolism?",
+      "answers": [
+        { "text": "CT pulmonary angiography (CTPA)", "correct": true },
+        { "text": "Ventilation-perfusion (V/Q) scan" },
+        { "text": "MRI of the chest" },
+        { "text": "PET/CT" }
+      ]
+    },
+    {
+      "text": "A V/Q scan reveals normal ventilation but absent perfusion in a segmental distribution. This mismatched pattern most likely indicates:",
+      "answers": [
+        { "text": "Pneumonia" },
+        { "text": "Pulmonary embolism", "correct": true },
+        { "text": "COPD" },
+        { "text": "Atelectasis" }
+      ]
+    },
+    {
+      "text": "Which of the following is a key safety consideration for mechanically ventilated patients undergoing an MRI?",
+      "answers": [
+        { "text": "MRI-safe intravenous contrast must be used" },
+        { "text": "A fluidic (gas-powered) ventilator should be used instead of an electronic one", "correct": true },
+        { "text": "The patient must be paralyzed for the duration of the scan" },
+        { "text": "All metal equipment is safe as long as it is titanium" }
+      ]
+    },
+    {
+      "text": "Which gas cylinders should be used inside an MRI suite?",
+      "answers": [
+        { "text": "Standard steel oxygen cylinders" },
+        { "text": "Aluminum cylinders", "correct": true },
+        { "text": "Copper-lined cylinders" },
+        { "text": "Lead-shielded cylinders" }
+      ]
+    },
+    {
+      "text": "The 'tram track' or 'signet ring' sign on CT imaging is diagnostic of:",
+      "answers": [
+        { "text": "Bronchiectasis", "correct": true },
+        { "text": "Pulmonary embolism" },
+        { "text": "Interstitial pulmonary fibrosis" },
+        { "text": "Pulmonary nodule" }
+      ]
+    },
+    {
+      "text": "A patient with sudden-onset dyspnea, tachycardia, and hemoptysis has a normal chest X-ray. What is the most appropriate next imaging step?",
+      "answers": [
+        { "text": "Repeat chest X-ray in 24 hours" },
+        { "text": "CT pulmonary angiography or V/Q scan", "correct": true },
+        { "text": "Lateral neck radiograph" },
+        { "text": "PET scan" }
+      ]
+    }
+  ]
+}
