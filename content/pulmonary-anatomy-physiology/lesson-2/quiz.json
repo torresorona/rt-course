@@ -1,0 +1,230 @@
+{
+  "title": "Gas Exchange Quiz",
+  "questions": [
+    {
+      "text": "What temperature scale must be used in all gas law calculations?",
+      "answers": [
+        { "text": "Fahrenheit", "correct": false },
+        { "text": "Celsius", "correct": false },
+        { "text": "Kelvin", "correct": true },
+        { "text": "Rankine", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the molar volume of a gas at STPD?",
+      "answers": [
+        { "text": "22.4 L", "correct": true },
+        { "text": "24.45 L", "correct": false },
+        { "text": "27.11 L", "correct": false },
+        { "text": "11.2 L", "correct": false }
+      ]
+    },
+    {
+      "text": "Convert 98.6°F to Celsius.",
+      "answers": [
+        { "text": "35.0°C", "correct": false },
+        { "text": "37.0°C", "correct": true },
+        { "text": "39.0°C", "correct": false },
+        { "text": "36.5°C", "correct": false }
+      ]
+    },
+    {
+      "text": "According to Poiseuille's Law, halving the radius of a tube increases the required driving pressure by what factor?",
+      "answers": [
+        { "text": "2×", "correct": false },
+        { "text": "4×", "correct": false },
+        { "text": "8×", "correct": false },
+        { "text": "16×", "correct": true }
+      ]
+    },
+    {
+      "text": "Which type of gas flow requires more driving pressure?",
+      "answers": [
+        { "text": "Laminar flow", "correct": false },
+        { "text": "Turbulent flow", "correct": true },
+        { "text": "Bulk flow", "correct": false },
+        { "text": "Diffusive flow", "correct": false }
+      ]
+    },
+    {
+      "text": "Which principle states that a gas exerts pressure equally in all directions within a container?",
+      "answers": [
+        { "text": "Boyle's Principle", "correct": false },
+        { "text": "Pascal's Principle", "correct": true },
+        { "text": "Archimedes' Principle", "correct": false },
+        { "text": "Dalton's Principle", "correct": false }
+      ]
+    },
+    {
+      "text": "1 mmHg is equal to how many Torr?",
+      "answers": [
+        { "text": "0.5 Torr", "correct": false },
+        { "text": "1 Torr", "correct": true },
+        { "text": "7.6 Torr", "correct": false },
+        { "text": "760 Torr", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the density of oxygen gas at STPD?",
+      "answers": [
+        { "text": "1.25 g/L", "correct": false },
+        { "text": "1.29 g/L", "correct": false },
+        { "text": "1.43 g/L", "correct": true },
+        { "text": "0.18 g/L", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the percentage of oxygen in atmospheric air?",
+      "answers": [
+        { "text": "78%", "correct": false },
+        { "text": "0.9%", "correct": false },
+        { "text": "21%", "correct": true },
+        { "text": "0.1%", "correct": false }
+      ]
+    },
+    {
+      "text": "Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain equal numbers of:",
+      "answers": [
+        { "text": "Atoms", "correct": false },
+        { "text": "Molecules", "correct": true },
+        { "text": "Electrons", "correct": false },
+        { "text": "Protons", "correct": false }
+      ]
+    },
+    {
+      "text": "Boyle's Law describes the relationship between pressure and volume at constant temperature. What is the mathematical expression?",
+      "answers": [
+        { "text": "P₁/T₁ = P₂/T₂", "correct": false },
+        { "text": "V₁/T₁ = V₂/T₂", "correct": false },
+        { "text": "P₁V₁ = P₂V₂", "correct": true },
+        { "text": "PV = nRT", "correct": false }
+      ]
+    },
+    {
+      "text": "Charles' Law states that volume is directly proportional to temperature at constant pressure. Which clinical conversion uses this law?",
+      "answers": [
+        { "text": "L/min to mL/min", "correct": false },
+        { "text": "ATPS to BTPS", "correct": true },
+        { "text": "mmHg to cmH₂O", "correct": false },
+        { "text": "STPD to ATPS", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the value of the universal gas constant R?",
+      "answers": [
+        { "text": "0.0821 L·atm/mol·K", "correct": true },
+        { "text": "8.314 L·atm/mol·K", "correct": false },
+        { "text": "0.0821 mL·atm/mol·K", "correct": false },
+        { "text": "0.821 L·atm/mol·K", "correct": false }
+      ]
+    },
+    {
+      "text": "Gay-Lussac's Law describes the relationship between pressure and:",
+      "answers": [
+        { "text": "Volume at constant temperature", "correct": false },
+        { "text": "Temperature at constant volume", "correct": true },
+        { "text": "Number of moles at constant pressure", "correct": false },
+        { "text": "Volume at constant pressure", "correct": false }
+      ]
+    },
+    {
+      "text": "What percentage of oxygen is transported as oxyhemoglobin?",
+      "answers": [
+        { "text": "70%", "correct": false },
+        { "text": "90%", "correct": false },
+        { "text": "98.5%", "correct": true },
+        { "text": "1.5%", "correct": false }
+      ]
+    },
+    {
+      "text": "How many oxygen molecules can a single hemoglobin molecule carry?",
+      "answers": [
+        { "text": "2", "correct": false },
+        { "text": "4", "correct": true },
+        { "text": "6", "correct": false },
+        { "text": "8", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the most common form of carbon dioxide transport in the blood?",
+      "answers": [
+        { "text": "Dissolved CO₂ in plasma", "correct": false },
+        { "text": "Carbaminohemoglobin", "correct": false },
+        { "text": "Bicarbonate (HCO₃⁻)", "correct": true },
+        { "text": "Carbonic acid", "correct": false }
+      ]
+    },
+    {
+      "text": "Why do red blood cells not consume the oxygen they carry?",
+      "answers": [
+        { "text": "They have no nucleus", "correct": false },
+        { "text": "They have no mitochondria", "correct": true },
+        { "text": "They are biconcave discs", "correct": false },
+        { "text": "They contain hemoglobin", "correct": false }
+      ]
+    },
+    {
+      "text": "How much greater is carbon monoxide's affinity for hemoglobin compared to oxygen?",
+      "answers": [
+        { "text": "20×", "correct": false },
+        { "text": "100×", "correct": false },
+        { "text": "200×", "correct": true },
+        { "text": "500×", "correct": false }
+      ]
+    },
+    {
+      "text": "According to Graham's Law, the rate of diffusion is proportional to:",
+      "answers": [
+        { "text": "The molecular weight", "correct": false },
+        { "text": "The square of the molecular weight", "correct": false },
+        { "text": "1/√(molecular weight)", "correct": true },
+        { "text": "√(molecular weight)", "correct": false }
+      ]
+    },
+    {
+      "text": "Dalton's Law states that the total pressure of a gas mixture equals:",
+      "answers": [
+        { "text": "The product of all partial pressures", "correct": false },
+        { "text": "The sum of all partial pressures", "correct": true },
+        { "text": "The average of all partial pressures", "correct": false },
+        { "text": "The difference between the highest and lowest partial pressure", "correct": false }
+      ]
+    },
+    {
+      "text": "The solubility coefficient of CO₂ in plasma at 37°C is approximately:",
+      "answers": [
+        { "text": "0.023 mL/dL", "correct": false },
+        { "text": "0.510 mL/dL", "correct": true },
+        { "text": "0.100 mL/dL", "correct": false },
+        { "text": "1.000 mL/dL", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the normal alveolar PO₂?",
+      "answers": [
+        { "text": "40 mmHg", "correct": false },
+        { "text": "60 mmHg", "correct": false },
+        { "text": "80 mmHg", "correct": false },
+        { "text": "100 mmHg", "correct": true }
+      ]
+    },
+    {
+      "text": "Which type of hypoxia is caused by low hemoglobin in the blood?",
+      "answers": [
+        { "text": "Hypoxic hypoxia", "correct": false },
+        { "text": "Anemic hypoxia", "correct": true },
+        { "text": "Ischemic hypoxia", "correct": false },
+        { "text": "Histotoxic hypoxia", "correct": false }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT one of the four factors affecting the rate of gas exchange?",
+      "answers": [
+        { "text": "Partial pressure difference", "correct": false },
+        { "text": "Surface area", "correct": false },
+        { "text": "Hemoglobin concentration", "correct": true },
+        { "text": "Diffusion distance", "correct": false }
+      ]
+    }
+  ]
+}

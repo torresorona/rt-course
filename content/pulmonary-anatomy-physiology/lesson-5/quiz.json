@@ -1,0 +1,455 @@
+{
+  "title": "Pulmonary Anatomy & Physiology Module Exam",
+  "questions": [
+    {
+      "text": "Which of the following structures is part of the upper respiratory system?",
+      "answers": [
+        { "text": "Trachea" },
+        { "text": "Pharynx", "correct": true },
+        { "text": "Bronchi" },
+        { "text": "Alveoli" }
+      ]
+    },
+    {
+      "text": "Gas exchange occurs in which functional division of the respiratory system?",
+      "answers": [
+        { "text": "Conducting zone" },
+        { "text": "Respiratory zone", "correct": true },
+        { "text": "Upper respiratory tract" },
+        { "text": "Tracheobronchial tree" }
+      ]
+    },
+    {
+      "text": "What is the primary type of airway epithelium?",
+      "answers": [
+        { "text": "Simple squamous epithelium" },
+        { "text": "Stratified squamous epithelium" },
+        { "text": "Pseudostratified ciliated columnar epithelium", "correct": true },
+        { "text": "Simple cuboidal epithelium" }
+      ]
+    },
+    {
+      "text": "What is the function of the gel layer in the mucociliary escalator?",
+      "answers": [
+        { "text": "Allows cilia to move freely" },
+        { "text": "Traps inhaled particles", "correct": true },
+        { "text": "Secretes surfactant" },
+        { "text": "Provides nutrients to epithelial cells" }
+      ]
+    },
+    {
+      "text": "The nasal cavity functions to:",
+      "answers": [
+        { "text": "Produce mucus for digestion" },
+        { "text": "Warm, moisten, and filter inhaled air", "correct": true },
+        { "text": "Exchange gases between blood and air" },
+        { "text": "Produce sound for speech" }
+      ]
+    },
+    {
+      "text": "Which part of the pharynx is lined with PCCE and connects to the middle ear via the Eustachian tube?",
+      "answers": [
+        { "text": "Oropharynx" },
+        { "text": "Laryngopharynx" },
+        { "text": "Nasopharynx", "correct": true },
+        { "text": "Hypopharynx" }
+      ]
+    },
+    {
+      "text": "The oropharynx and laryngopharynx are lined with which type of epithelium?",
+      "answers": [
+        { "text": "PCCE" },
+        { "text": "Simple squamous" },
+        { "text": "Non-keratinized stratified squamous epithelium", "correct": true },
+        { "text": "Simple cuboidal" }
+      ]
+    },
+    {
+      "text": "How many cartilages make up the larynx?",
+      "answers": [
+        { "text": "6" },
+        { "text": "9", "correct": true },
+        { "text": "12" },
+        { "text": "16" }
+      ]
+    },
+    {
+      "text": "Which laryngeal cartilage is a complete ring and serves as a landmark for emergency tracheotomy?",
+      "answers": [
+        { "text": "Thyroid cartilage" },
+        { "text": "Epiglottis" },
+        { "text": "Cricoid cartilage", "correct": true },
+        { "text": "Arytenoid cartilage" }
+      ]
+    },
+    {
+      "text": "The Vallecula is clinically important as:",
+      "answers": [
+        { "text": "The point of gas exchange" },
+        { "text": "A key landmark for intubation", "correct": true },
+        { "text": "The site of surfactant production" },
+        { "text": "The location of the carina" }
+      ]
+    },
+    {
+      "text": "How many C-shaped cartilaginous rings does the trachea contain?",
+      "answers": [
+        { "text": "5-10" },
+        { "text": "16-20", "correct": true },
+        { "text": "25-30" },
+        { "text": "30-35" }
+      ]
+    },
+    {
+      "text": "Stimulation of the carina triggers what response?",
+      "answers": [
+        { "text": "Bronchodilation" },
+        { "text": "Reflex cough", "correct": true },
+        { "text": "Increased heart rate" },
+        { "text": "Mucus secretion" }
+      ]
+    },
+    {
+      "text": "Which mainstem bronchus is wider, shorter, and more vertical?",
+      "answers": [
+        { "text": "Left mainstem bronchus" },
+        { "text": "Right mainstem bronchus", "correct": true },
+        { "text": "Both are equal in size" },
+        { "text": "The carina" }
+      ]
+    },
+    {
+      "text": "How many tertiary (segmental) bronchi are in the right lung?",
+      "answers": [
+        { "text": "8" },
+        { "text": "10", "correct": true },
+        { "text": "5" },
+        { "text": "3" }
+      ]
+    },
+    {
+      "text": "Clara cells found in terminal bronchioles function to:",
+      "answers": [
+        { "text": "Secrete mucus" },
+        { "text": "Protect against inhaled toxins and carcinogens", "correct": true },
+        { "text": "Produce surfactant" },
+        { "text": "Engulf foreign particles" }
+      ]
+    },
+    {
+      "text": "The left lung has a concavity called the:",
+      "answers": [
+        { "text": "Hilum" },
+        { "text": "Cardiac notch", "correct": true },
+        { "text": "Costophrenic angle" },
+        { "text": "Mediastinum" }
+      ]
+    },
+    {
+      "text": "Which pleural layer is highly innervated with sensory nerves and sensitive to pain?",
+      "answers": [
+        { "text": "Visceral pleura" },
+        { "text": "Parietal pleura", "correct": true },
+        { "text": "Pleural fluid" },
+        { "text": "Alveolar membrane" }
+      ]
+    },
+    {
+      "text": "Type II alveolar cells secrete:",
+      "answers": [
+        { "text": "Mucus" },
+        { "text": "Surfactant", "correct": true },
+        { "text": "Hemoglobin" },
+        { "text": "Bicarbonate" }
+      ]
+    },
+    {
+      "text": "Surfactant functions to:",
+      "answers": [
+        { "text": "Increase surface tension and decrease compliance" },
+        { "text": "Reduce surface tension, increase compliance, and decrease elastic recoil", "correct": true },
+        { "text": "Increase elastic recoil and decrease lung volume" },
+        { "text": "Trap particles and sweep them toward the mouth" }
+      ]
+    },
+    {
+      "text": "What condition results from surfactant deficiency in premature infants?",
+      "answers": [
+        { "text": "Pneumothorax" },
+        { "text": "Pulmonary edema" },
+        { "text": "Respiratory distress syndrome (IRDS)", "correct": true },
+        { "text": "Pneumonia" }
+      ]
+    },
+    {
+      "text": "The primary muscle of inhalation is the:",
+      "answers": [
+        { "text": "External intercostals" },
+        { "text": "Internal intercostals" },
+        { "text": "Diaphragm", "correct": true },
+        { "text": "Sternocleidomastoid" }
+      ]
+    },
+    {
+      "text": "The diaphragm is innervated by the phrenic nerve, which emerges from which spinal levels?",
+      "answers": [
+        { "text": "C1-C2" },
+        { "text": "C3-C5", "correct": true },
+        { "text": "T1-T4" },
+        { "text": "L1-L3" }
+      ]
+    },
+    {
+      "text": "During quiet breathing, exhalation is:",
+      "answers": [
+        { "text": "Active, requiring internal intercostal contraction" },
+        { "text": "Passive, resulting from elastic recoil", "correct": true },
+        { "text": "Active, requiring abdominal muscle contraction" },
+        { "text": "Active, requiring accessory muscle use" }
+      ]
+    },
+    {
+      "text": "Which law describes the pressure inside a bubble varying directly with surface tension and inversely with radius?",
+      "answers": [
+        { "text": "Boyle's Law" },
+        { "text": "Charles' Law" },
+        { "text": "LaPlace's Law", "correct": true },
+        { "text": "Poiseuille's Law" }
+      ]
+    },
+    {
+      "text": "Which disease is associated with increased lung compliance?",
+      "answers": [
+        { "text": "ARDS" },
+        { "text": "Pulmonary fibrosis" },
+        { "text": "Emphysema", "correct": true },
+        { "text": "Pulmonary edema" }
+      ]
+    },
+    {
+      "text": "According to Poiseuille's Law, if the airway radius is halved, resistance increases by:",
+      "answers": [
+        { "text": "2 times" },
+        { "text": "4 times" },
+        { "text": "16 times", "correct": true },
+        { "text": "32 times" }
+      ]
+    },
+    {
+      "text": "Anatomic dead space is approximately:",
+      "answers": [
+        { "text": "1 mL per pound of ideal body weight", "correct": true },
+        { "text": "2 mL per kilogram of actual body weight" },
+        { "text": "50% of tidal volume" },
+        { "text": "10 mL per pound of body weight" }
+      ]
+    },
+    {
+      "text": "Which lung capacity equals IRV + Vt + ERV?",
+      "answers": [
+        { "text": "Total Lung Capacity (TLC)" },
+        { "text": "Inspiratory Capacity (IC)" },
+        { "text": "Functional Residual Capacity (FRC)" },
+        { "text": "Vital Capacity (VC)", "correct": true }
+      ]
+    },
+    {
+      "text": "What is the formula for minute ventilation?",
+      "answers": [
+        { "text": "Vt / RR" },
+        { "text": "RR x Vt", "correct": true },
+        { "text": "Vt - dead space" },
+        { "text": "RR + Vt" }
+      ]
+    },
+    {
+      "text": "Kelvin is the temperature scale used in gas laws. What is 37°C in Kelvin?",
+      "answers": [
+        { "text": "237 K" },
+        { "text": "310 K", "correct": true },
+        { "text": "273 K" },
+        { "text": "37 K" }
+      ]
+    },
+    {
+      "text": "At STPD, 1 mole of any gas occupies what volume?",
+      "answers": [
+        { "text": "22.4 L", "correct": true },
+        { "text": "27.11 L" },
+        { "text": "11.2 L" },
+        { "text": "44.8 L" }
+      ]
+    },
+    {
+      "text": "According to Pascal's Principle, pressure equals:",
+      "answers": [
+        { "text": "Mass x Acceleration" },
+        { "text": "Force / Area", "correct": true },
+        { "text": "Volume x Density" },
+        { "text": "Energy / Time" }
+      ]
+    },
+    {
+      "text": "What type of flow requires less pressure and moves in discrete cylindrical streamlines?",
+      "answers": [
+        { "text": "Turbulent flow" },
+        { "text": "Laminar flow", "correct": true },
+        { "text": "Transitional flow" },
+        { "text": "Eddy flow" }
+      ]
+    },
+    {
+      "text": "What is the density of oxygen gas at STPD?",
+      "answers": [
+        { "text": "1.25 g/L" },
+        { "text": "1.43 g/L", "correct": true },
+        { "text": "1.29 g/L" },
+        { "text": "0.18 g/L" }
+      ]
+    },
+    {
+      "text": "Boyle's Law states that pressure and volume are:",
+      "answers": [
+        { "text": "Directly proportional" },
+        { "text": "Inversely proportional", "correct": true },
+        { "text": "Unrelated" },
+        { "text": "Equal at all times" }
+      ]
+    },
+    {
+      "text": "Each hemoglobin molecule can bind how many oxygen molecules?",
+      "answers": [
+        { "text": "2" },
+        { "text": "4", "correct": true },
+        { "text": "6" },
+        { "text": "8" }
+      ]
+    },
+    {
+      "text": "What percentage of oxygen is transported bound to hemoglobin?",
+      "answers": [
+        { "text": "70%" },
+        { "text": "98.5%", "correct": true },
+        { "text": "23%" },
+        { "text": "1.5%" }
+      ]
+    },
+    {
+      "text": "What is the primary form in which carbon dioxide is transported in the blood?",
+      "answers": [
+        { "text": "Dissolved in plasma" },
+        { "text": "As carbaminohemoglobin" },
+        { "text": "As bicarbonate (HCO3-)", "correct": true },
+        { "text": "As carbonic acid" }
+      ]
+    },
+    {
+      "text": "Carbon monoxide has how much greater affinity for hemoglobin than oxygen?",
+      "answers": [
+        { "text": "20 times" },
+        { "text": "200 times", "correct": true },
+        { "text": "2 times" },
+        { "text": "1000 times" }
+      ]
+    },
+    {
+      "text": "According to Dalton's Law, the partial pressure of a gas equals:",
+      "answers": [
+        { "text": "Solubility coefficient x temperature" },
+        { "text": "Fractional concentration x total pressure (pB)", "correct": true },
+        { "text": "Molecular weight x volume" },
+        { "text": "Density x flow rate" }
+      ]
+    },
+    {
+      "text": "According to Graham's Law, which gas diffuses faster?",
+      "answers": [
+        { "text": "A gas with higher molecular weight" },
+        { "text": "A gas with lower molecular weight", "correct": true },
+        { "text": "A gas with higher density" },
+        { "text": "All gases diffuse at the same rate" }
+      ]
+    },
+    {
+      "text": "What is the difference between hypoxia and hypoxemia?",
+      "answers": [
+        { "text": "They mean the same thing" },
+        { "text": "Hypoxia is low oxygen at the cellular level; hypoxemia is low oxygen in the blood", "correct": true },
+        { "text": "Hypoxia is low oxygen in the blood; hypoxemia is low oxygen in tissues" },
+        { "text": "Hypoxia is caused by altitude; hypoxemia is caused by anemia" }
+      ]
+    },
+    {
+      "text": "The respiratory center that controls basic rhythm is located in the:",
+      "answers": [
+        { "text": "Cerebral cortex" },
+        { "text": "Medulla oblongata", "correct": true },
+        { "text": "Pons" },
+        { "text": "Cerebellum" }
+      ]
+    },
+    {
+      "text": "The pneumotaxic center functions to:",
+      "answers": [
+        { "text": "Prolong inhalation for deep breaths" },
+        { "text": "Shorten the duration of inhalation", "correct": true },
+        { "text": "Activate forceful exhalation" },
+        { "text": "Stimulate the expiratory area" }
+      ]
+    },
+    {
+      "text": "Central chemoreceptors respond primarily to changes in:",
+      "answers": [
+        { "text": "PO2 in the blood" },
+        { "text": "H+ concentration or PCO2 in the CSF", "correct": true },
+        { "text": "Blood temperature" },
+        { "text": "Blood glucose levels" }
+      ]
+    },
+    {
+      "text": "Peripheral chemoreceptors are located in the:",
+      "answers": [
+        { "text": "Medulla oblongata and pons" },
+        { "text": "Aortic arch and carotid bodies", "correct": true },
+        { "text": "Lungs and diaphragm" },
+        { "text": "Rib cage and intercostal muscles" }
+      ]
+    },
+    {
+      "text": "Proprioceptors stimulate increased breathing rate:",
+      "answers": [
+        { "text": "Only during sleep" },
+        { "text": "At the onset of exercise, before chemoreceptor changes", "correct": true },
+        { "text": "Only when CO2 levels rise significantly" },
+        { "text": "During breath holding" }
+      ]
+    },
+    {
+      "text": "What is the normal pH range of the human body?",
+      "answers": [
+        { "text": "6.8-7.0" },
+        { "text": "7.35-7.45", "correct": true },
+        { "text": "7.0-7.35" },
+        { "text": "7.5-7.8" }
+      ]
+    },
+    {
+      "text": "According to the hydrolysis equation, an increase in CO2 will:",
+      "answers": [
+        { "text": "Shift the equation left, producing less H+" },
+        { "text": "Shift the equation right, producing more H+ and lowering pH", "correct": true },
+        { "text": "Have no effect on pH" },
+        { "text": "Increase bicarbonate excretion by the kidneys" }
+      ]
+    },
+    {
+      "text": "Bicarbonate (HCO3-) is primarily regulated by which organ?",
+      "answers": [
+        { "text": "Lungs" },
+        { "text": "Kidneys", "correct": true },
+        { "text": "Liver" },
+        { "text": "Heart" }
+      ]
+    }
+  ]
+}

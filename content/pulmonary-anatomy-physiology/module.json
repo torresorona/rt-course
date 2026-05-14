@@ -1,0 +1,134 @@
+{
+  "title": "Pulmonary Anatomy & Physiology",
+  "description": "Structure and functional dynamics of the respiratory system, gas exchange, regulation of breathing, and acid-base regulation.",
+  "order": 1,
+  "lessons": [
+    { "slug": "pulmonary-anatomy-physiology/lesson-1", "title": "Structure and Functional Dynamics of the Respiratory System", "description": "Upper and lower respiratory anatomy, conducting vs respiratory zones, epithelial types and PCCE, thoracic cavity and lungs, respiratory zone and pulmonary blood flow, pulmonary ventilation, lung volumes and capacities." },
+    { "slug": "pulmonary-anatomy-physiology/lesson-2", "title": "Gas Exchange", "description": "Energy, temperature and gas pressure, volume and weight laws, ideal gas laws, gas transportation by blood, gas diffusion laws, and the mechanics of external and internal gas exchange." },
+    { "slug": "pulmonary-anatomy-physiology/lesson-3", "title": "Regulation of Breathing", "description": "Medullary rhythmicity center, pneumotaxic and apneustic centers of the pons, central and peripheral chemoreceptors, and proprioceptor stimulation." },
+    { "slug": "pulmonary-anatomy-physiology/lesson-4", "title": "Acid Base Regulation", "description": "Hydrolysis equation, pH regulation, CO2 and HCO3- balance, protein buffer systems, and the carbonic acid-bicarbonate buffer system." },
+    { "slug": "pulmonary-anatomy-physiology/lesson-5", "title": "Module Exam", "description": "Comprehensive 50-question exam covering all Pulmonary Anatomy & Physiology content." }
+  ],
+  "resources": [
+    {
+      "title": "Mucociliary Escalator",
+      "description": "Visual demonstration of mucociliary clearance mechanism.",
+      "url": "https://youtu.be/HMB6flEaZwI",
+      "type": "video"
+    },
+    {
+      "title": "Respiratory System Overview",
+      "description": "Comprehensive overview of the respiratory system.",
+      "url": "https://www.youtube.com/watch?v=UwCxckHdrUE",
+      "type": "video"
+    },
+    {
+      "title": "Respiratory System Anatomy",
+      "description": "Detailed anatomy of the respiratory system.",
+      "url": "https://youtu.be/0fVoz4V75_E",
+      "type": "video"
+    },
+    {
+      "title": "Lungs and Ventilation",
+      "description": "Mechanics of pulmonary ventilation.",
+      "url": "https://youtu.be/bHZsvBdUC2I",
+      "type": "video"
+    },
+    {
+      "title": "Respiratory System Physiology",
+      "description": "Physiology of the respiratory system.",
+      "url": "https://www.youtube.com/watch?v=iUuNtfdJDTY",
+      "type": "video"
+    },
+    {
+      "title": "Inhalation Mechanics",
+      "description": "The mechanics of inhalation.",
+      "url": "https://youtu.be/GD-HPx_ZG8I",
+      "type": "video"
+    },
+    {
+      "title": "Breathing Mechanics",
+      "description": "How breathing works.",
+      "url": "https://www.youtube.com/watch?v=DYEKKyA7g5k",
+      "type": "video"
+    },
+    {
+      "title": "Pulmonary Blood Flow",
+      "description": "Blood flow through the pulmonary circulation.",
+      "url": "https://www.youtube.com/watch?v=Uo7o22GN634",
+      "type": "video"
+    },
+    {
+      "title": "Surfactant Visual",
+      "description": "Visual explanation of surfactant function.",
+      "url": "https://www.youtube.com/watch?v=QxxRkzlOq1g",
+      "type": "video"
+    },
+    {
+      "title": "Surfactant Deep Dive",
+      "description": "In-depth look at surfactant physiology.",
+      "url": "https://youtu.be/ev9XyuLwjuI",
+      "type": "video"
+    },
+    {
+      "title": "LaPlace's Law and Lung Recoil",
+      "description": "LaPlace's law applied to lung mechanics.",
+      "url": "https://www.youtube.com/watch?v=80wkCwwYgQU",
+      "type": "video"
+    },
+    {
+      "title": "Airway Resistance",
+      "description": "Understanding airway resistance.",
+      "url": "https://www.youtube.com/watch?v=ZJRvhrHxR94",
+      "type": "video"
+    },
+    {
+      "title": "Lung Volumes",
+      "description": "Lung volumes and capacities explained.",
+      "url": "https://www.youtube.com/watch?v=9VdHhD1vcDU",
+      "type": "video"
+    },
+    {
+      "title": "Partial Pressures",
+      "description": "Understanding partial pressures in respiratory physiology.",
+      "url": "https://youtu.be/JbqtqCunYzA",
+      "type": "video"
+    },
+    {
+      "title": "Gas Exchange",
+      "description": "How gas exchange occurs in the lungs.",
+      "url": "https://www.youtube.com/watch?v=6qnSsV2syUE",
+      "type": "video"
+    },
+    {
+      "title": "Internal/External Respiration",
+      "description": "Internal and external respiration explained.",
+      "url": "https://youtu.be/qM1A4O3urGE",
+      "type": "video"
+    },
+    {
+      "title": "Gas Exchange Physiology",
+      "description": "Physiology of gas exchange.",
+      "url": "https://youtu.be/EI8Oe8r9vH4",
+      "type": "video"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Structure and Functional Dynamics (Unit I)",
+      "src": "/audio/The_Engineering_of_a_Single_Breath.m4a"
+    },
+    {
+      "title": "Gas Exchange (Unit II)",
+      "src": "/audio/The_Physics_of_Human_Gas_Exchange.m4a"
+    },
+    {
+      "title": "Regulation of Breathing (Unit III)",
+      "src": "/audio/Why_You_Breathe_to_Expel_Brain_Acid.m4a"
+    },
+    {
+      "title": "Acid Base Regulation (Unit IV)",
+      "src": "/audio/How_Your_Body_Balances_Blood_pH.m4a"
+    }
+  ]
+}

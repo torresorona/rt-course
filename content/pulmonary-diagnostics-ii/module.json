@@ -1,7 +1,7 @@
 {
   "title": "Pulmonary Diagnostics II",
   "description": "Arterial and capillary blood gas sampling, acid-base and gas exchange, ABG analyzers, and pulmonary imaging (chest x-ray, CT, MRI, ultrasound, V/Q, PET).",
-  "order": 5,
+  "order": 6,
   "lessons": [
     {
       "slug": "pulmonary-diagnostics-ii/lesson-1",

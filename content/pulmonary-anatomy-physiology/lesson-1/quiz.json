@@ -1,0 +1,230 @@
+{
+  "title": "Structure and Functional Dynamics of the Respiratory System",
+  "questions": [
+    {
+      "text": "Which of the following is part of the upper respiratory tract?",
+      "answers": [
+        { "text": "Larynx", "correct": false },
+        { "text": "Trachea", "correct": false },
+        { "text": "Pharynx", "correct": true },
+        { "text": "Bronchi", "correct": false }
+      ]
+    },
+    {
+      "text": "Gas exchange occurs in which functional division of the respiratory system?",
+      "answers": [
+        { "text": "Conducting zone", "correct": false },
+        { "text": "Respiratory zone", "correct": true },
+        { "text": "Upper respiratory tract", "correct": false },
+        { "text": "Terminal bronchioles", "correct": false }
+      ]
+    },
+    {
+      "text": "Which type of epithelium is the primary airway epithelium lining the trachea and bronchi?",
+      "answers": [
+        { "text": "Simple squamous epithelium", "correct": false },
+        { "text": "Stratified squamous epithelium", "correct": false },
+        { "text": "Pseudostratified ciliated columnar epithelium", "correct": true },
+        { "text": "Simple cuboidal epithelium", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the function of goblet cells in the airway epithelium?",
+      "answers": [
+        { "text": "Gas exchange", "correct": false },
+        { "text": "Secrete mucus", "correct": true },
+        { "text": "Move particles toward the mouth", "correct": false },
+        { "text": "Detect foreign bodies", "correct": false }
+      ]
+    },
+    {
+      "text": "The mucociliary escalator sweeps trapped particles toward which destination?",
+      "answers": [
+        { "text": "The stomach", "correct": false },
+        { "text": "The larynx", "correct": false },
+        { "text": "The mouth", "correct": true },
+        { "text": "The nasal cavity", "correct": false }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT a function of the nasal cavity?",
+      "answers": [
+        { "text": "Warming inspired air", "correct": false },
+        { "text": "Moistening inspired air", "correct": false },
+        { "text": "Filtering inspired air", "correct": false },
+        { "text": "Gas exchange", "correct": true }
+      ]
+    },
+    {
+      "text": "Which division of the pharynx is lined with pseudostratified ciliated columnar epithelium?",
+      "answers": [
+        { "text": "Nasopharynx", "correct": true },
+        { "text": "Oropharynx", "correct": false },
+        { "text": "Laryngopharynx", "correct": false },
+        { "text": "All three divisions", "correct": false }
+      ]
+    },
+    {
+      "text": "Which laryngeal cartilage is a complete ring and serves as a landmark for tracheotomy?",
+      "answers": [
+        { "text": "Thyroid cartilage", "correct": false },
+        { "text": "Epiglottis", "correct": false },
+        { "text": "Cricoid cartilage", "correct": true },
+        { "text": "Arytenoid cartilage", "correct": false }
+      ]
+    },
+    {
+      "text": "During swallowing, which structure covers the glottis to prevent aspiration?",
+      "answers": [
+        { "text": "Thyroid cartilage", "correct": false },
+        { "text": "Epiglottis", "correct": true },
+        { "text": "Uvula", "correct": false },
+        { "text": "Arytenoid cartilage", "correct": false }
+      ]
+    },
+    {
+      "text": "The carina is a landmark for endotracheal tube placement and is located at the bifurcation of which structure?",
+      "answers": [
+        { "text": "Larynx", "correct": false },
+        { "text": "Trachea", "correct": true },
+        { "text": "Right primary bronchus", "correct": false },
+        { "text": "Left primary bronchus", "correct": false }
+      ]
+    },
+    {
+      "text": "Why do aspirated objects more commonly enter the right primary bronchus?",
+      "answers": [
+        { "text": "The right bronchus is longer than the left", "correct": false },
+        { "text": "The right bronchus is wider, shorter, and more vertical", "correct": true },
+        { "text": "The right bronchus has more cartilage", "correct": false },
+        { "text": "The right bronchus is smaller in diameter", "correct": false }
+      ]
+    },
+    {
+      "text": "How many secondary (lobar) bronchi does the left lung have?",
+      "answers": [
+        { "text": "1", "correct": false },
+        { "text": "2", "correct": true },
+        { "text": "3", "correct": false },
+        { "text": "10", "correct": false }
+      ]
+    },
+    {
+      "text": "Clara cells are found in which part of the airway?",
+      "answers": [
+        { "text": "Trachea", "correct": false },
+        { "text": "Primary bronchi", "correct": false },
+        { "text": "Terminal bronchioles", "correct": true },
+        { "text": "Alveolar ducts", "correct": false }
+      ]
+    },
+    {
+      "text": "Which pleural membrane is pain-sensitive?",
+      "answers": [
+        { "text": "Visceral pleura", "correct": false },
+        { "text": "Parietal pleura", "correct": true },
+        { "text": "Both are pain-sensitive", "correct": false },
+        { "text": "Neither is pain-sensitive", "correct": false }
+      ]
+    },
+    {
+      "text": "Approximately how much serous fluid is normally present in the pleural cavity?",
+      "answers": [
+        { "text": "5 mL", "correct": false },
+        { "text": "18 mL", "correct": true },
+        { "text": "50 mL", "correct": false },
+        { "text": "100 mL", "correct": false }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT a type of alveolar cell?",
+      "answers": [
+        { "text": "Type I cells", "correct": false },
+        { "text": "Type II cells", "correct": false },
+        { "text": "Clara cells", "correct": true },
+        { "text": "Alveolar macrophages", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the primary function of Type II alveolar cells?",
+      "answers": [
+        { "text": "Gas exchange", "correct": false },
+        { "text": "Secrete surfactant", "correct": true },
+        { "text": "Phagocytosis of pathogens", "correct": false },
+        { "text": "Structural support", "correct": false }
+      ]
+    },
+    {
+      "text": "Surfactant deficiency leads to which condition?",
+      "answers": [
+        { "text": "Pneumothorax", "correct": false },
+        { "text": "Bronchospasm", "correct": false },
+        { "text": "Atelectasis", "correct": true },
+        { "text": "Pleural effusion", "correct": false }
+      ]
+    },
+    {
+      "text": "The respiratory membrane is approximately how thick?",
+      "answers": [
+        { "text": "0.1 microns", "correct": false },
+        { "text": "0.5 microns", "correct": true },
+        { "text": "2.0 microns", "correct": false },
+        { "text": "5.0 microns", "correct": false }
+      ]
+    },
+    {
+      "text": "Hypoxic pulmonary vasoconstriction causes blood flow to:",
+      "answers": [
+        { "text": "Increase in poorly ventilated areas", "correct": false },
+        { "text": "Decrease in poorly ventilated areas", "correct": true },
+        { "text": "Remain unchanged regardless of ventilation", "correct": false },
+        { "text": "Increase in response to low carbon dioxide", "correct": false }
+      ]
+    },
+    {
+      "text": "During quiet breathing, the diaphragm is responsible for approximately what percentage of inhaled air?",
+      "answers": [
+        { "text": "25%", "correct": false },
+        { "text": "50%", "correct": false },
+        { "text": "75%", "correct": true },
+        { "text": "100%", "correct": false }
+      ]
+    },
+    {
+      "text": "According to Poiseuille's Law, halving the radius of an airway increases resistance by how many times?",
+      "answers": [
+        { "text": "2 times", "correct": false },
+        { "text": "4 times", "correct": false },
+        { "text": "8 times", "correct": false },
+        { "text": "16 times", "correct": true }
+      ]
+    },
+    {
+      "text": "Which of the following is classified as an obstructive lung disease?",
+      "answers": [
+        { "text": "Pulmonary fibrosis", "correct": false },
+        { "text": "ARDS", "correct": false },
+        { "text": "Emphysema", "correct": true },
+        { "text": "Surfactant deficiency", "correct": false }
+      ]
+    },
+    {
+      "text": "Which lung volume CANNOT be measured by spirometry?",
+      "answers": [
+        { "text": "Tidal volume", "correct": false },
+        { "text": "Inspiratory reserve volume", "correct": false },
+        { "text": "Expiratory reserve volume", "correct": false },
+        { "text": "Residual volume", "correct": true }
+      ]
+    },
+    {
+      "text": "Functional residual capacity (FRC) is the sum of which two lung volumes?",
+      "answers": [
+        { "text": "Tidal volume and inspiratory reserve volume", "correct": false },
+        { "text": "Expiratory reserve volume and residual volume", "correct": true },
+        { "text": "Inspiratory reserve volume and expiratory reserve volume", "correct": false },
+        { "text": "Tidal volume and residual volume", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "title": "Acid Base Regulation Quiz",
+  "questions": [
+    {
+      "text": "What is the correct hydrolysis equation?",
+      "answers": [
+        { "text": "H₂O + O₂ ↔ H₂O₂ ↔ OH⁻ + H⁺" },
+        { "text": "CO₂ + H₂O ↔ H₂CO₃ ↔ HCO₃⁻ + H⁺", "correct": true },
+        { "text": "CO₂ + H₂O ↔ HCO₃⁻ ↔ H₂CO₃ + H⁺" },
+        { "text": "O₂ + H₂O ↔ H₂O₂ ↔ 2H⁺ + O₂²⁻" }
+      ]
+    },
+    {
+      "text": "What does pH stand for?",
+      "answers": [
+        { "text": "Percentage of hydrogen" },
+        { "text": "Potential of hydrogen", "correct": true },
+        { "text": "Power of hydration" },
+        { "text": "Partial pressure of hydrogen" }
+      ]
+    },
+    {
+      "text": "What is the normal pH range of human blood?",
+      "answers": [
+        { "text": "7.00–7.20" },
+        { "text": "7.25–7.35" },
+        { "text": "7.35–7.45", "correct": true },
+        { "text": "7.45–7.55" }
+      ]
+    },
+    {
+      "text": "A blood pH below 7.35 is called:",
+      "answers": [
+        { "text": "Alkalosis" },
+        { "text": "Acidosis", "correct": true },
+        { "text": "Homeostasis" },
+        { "text": "Hyperventilation" }
+      ]
+    },
+    {
+      "text": "A blood pH above 7.45 is called:",
+      "answers": [
+        { "text": "Acidosis" },
+        { "text": "Hypercapnia" },
+        { "text": "Alkalosis", "correct": true },
+        { "text": "Hypoxemia" }
+      ]
+    },
+    {
+      "text": "The normal hydrogen ion concentration in the blood is approximately:",
+      "answers": [
+        { "text": "0.00004 mEq/L", "correct": true },
+        { "text": "0.04 mEq/L" },
+        { "text": "4.0 mEq/L" },
+        { "text": "40 mEq/L" }
+      ]
+    },
+    {
+      "text": "Which two organ systems are primarily responsible for pH regulation?",
+      "answers": [
+        { "text": "Heart and liver" },
+        { "text": "Lungs and kidneys", "correct": true },
+        { "text": "Brain and pancreas" },
+        { "text": "Spleen and intestines" }
+      ]
+    },
+    {
+      "text": "What happens to the hydrolysis equation when CO₂ levels increase?",
+      "answers": [
+        { "text": "The equation shifts to the left" },
+        { "text": "The equation shifts to the right", "correct": true },
+        { "text": "The equation is unchanged" },
+        { "text": "The reaction stops entirely" }
+      ]
+    },
+    {
+      "text": "Increased CO₂ in the blood leads to which change in pH?",
+      "answers": [
+        { "text": "pH increases (alkalosis)" },
+        { "text": "pH decreases (acidosis)", "correct": true },
+        { "text": "pH remains unchanged" },
+        { "text": "pH becomes exactly 7.0" }
+      ]
+    },
+    {
+      "text": "Decreased CO₂ in the blood leads to which change in pH?",
+      "answers": [
+        { "text": "pH decreases (acidosis)" },
+        { "text": "pH increases (alkalosis)", "correct": true },
+        { "text": "pH remains unchanged" },
+        { "text": "pH becomes exactly 7.4" }
+      ]
+    },
+    {
+      "text": "How is CO₂ primarily regulated in the body?",
+      "answers": [
+        { "text": "Through urination" },
+        { "text": "Through exhalation", "correct": true },
+        { "text": "Through sweat" },
+        { "text": "Through fecal elimination" }
+      ]
+    },
+    {
+      "text": "The pulmonary system adjusts CO₂ levels on what time scale?",
+      "answers": [
+        { "text": "Seconds to minutes", "correct": true },
+        { "text": "Hours" },
+        { "text": "Days to weeks" },
+        { "text": "Months" }
+      ]
+    },
+    {
+      "text": "Which organ primarily regulates bicarbonate (HCO₃⁻)?",
+      "answers": [
+        { "text": "Lungs" },
+        { "text": "Liver" },
+        { "text": "Kidneys", "correct": true },
+        { "text": "Pancreas" }
+      ]
+    },
+    {
+      "text": "Renal compensation for acid-base disturbances takes:",
+      "answers": [
+        { "text": "Seconds" },
+        { "text": "Minutes" },
+        { "text": "Hours to days", "correct": true },
+        { "text": "Weeks to months" }
+      ]
+    },
+    {
+      "text": "When there is too much H⁺ in the blood, the kidneys respond by:",
+      "answers": [
+        { "text": "Excreting H⁺ and retaining HCO₃⁻", "correct": true },
+        { "text": "Retaining H⁺ and excreting HCO₃⁻" },
+        { "text": "Excreting both H⁺ and HCO₃⁻" },
+        { "text": "Retaining both H⁺ and HCO₃⁻" }
+      ]
+    },
+    {
+      "text": "When there is too little H⁺ in the blood, the kidneys respond by:",
+      "answers": [
+        { "text": "Excreting H⁺ and retaining HCO₃⁻" },
+        { "text": "Retaining H⁺ and excreting HCO₃⁻", "correct": true },
+        { "text": "Excreting both H⁺ and HCO₃⁻" },
+        { "text": "Retaining both H⁺ and HCO₃⁻" }
+      ]
+    },
+    {
+      "text": "Which two proteins are the primary protein buffers in the blood?",
+      "answers": [
+        { "text": "Fibrinogen and thrombin" },
+        { "text": "Hemoglobin and albumin", "correct": true },
+        { "text": "Myoglobin and actin" },
+        { "text": "Collagen and elastin" }
+      ]
+    },
+    {
+      "text": "How do protein buffers function?",
+      "answers": [
+        { "text": "They permanently remove H⁺ from the blood" },
+        { "text": "They reversibly bind H⁺", "correct": true },
+        { "text": "They convert H⁺ into H₂O" },
+        { "text": "They transport H⁺ to the kidneys" }
+      ]
+    },
+    {
+      "text": "Why is hemoglobin particularly effective as a buffer?",
+      "answers": [
+        { "text": "It is found in high concentration and can bind excess H⁺", "correct": true },
+        { "text": "It permanently neutralizes acid" },
+        { "text": "It directly excretes H⁺ in the urine" },
+        { "text": "It converts H⁺ into bicarbonate" }
+      ]
+    },
+    {
+      "text": "The majority of CO₂ is carried in the blood as:",
+      "answers": [
+        { "text": "Dissolved CO₂ gas" },
+        { "text": "Carbonic acid" },
+        { "text": "Bicarbonate (HCO₃⁻)", "correct": true },
+        { "text": "Carbaminohemoglobin" }
+      ]
+    },
+    {
+      "text": "What happens to carbonic acid (H₂CO₃) near lung tissue?",
+      "answers": [
+        { "text": "It is excreted by the kidneys" },
+        { "text": "It dissociates to CO₂ + H₂O for exhalation", "correct": true },
+        { "text": "It binds to hemoglobin permanently" },
+        { "text": "It is converted to lactic acid" }
+      ]
+    },
+    {
+      "text": "H₂CO₃ is classified as what type of acid?",
+      "answers": [
+        { "text": "Strong acid" },
+        { "text": "Weak acid", "correct": true },
+        { "text": "Mineral acid" },
+        { "text": "Fixed acid" }
+      ]
+    },
+    {
+      "text": "What is the most important buffer system in extracellular fluid?",
+      "answers": [
+        { "text": "Phosphate buffer system" },
+        { "text": "Carbonic acid-bicarbonate buffer system", "correct": true },
+        { "text": "Protein buffer system" },
+        { "text": "Hemoglobin buffer system" }
+      ]
+    },
+    {
+      "text": "Which statement about acidosis is true?",
+      "answers": [
+        { "text": "It means pH > 7.45 with low H⁺" },
+        { "text": "It means pH < 7.35 with high H⁺", "correct": true },
+        { "text": "It is always caused by kidney failure" },
+        { "text": "It is treated by breath holding" }
+      ]
+    },
+    {
+      "text": "A patient who is becoming acidotic will typically:",
+      "answers": [
+        { "text": "Breathe more slowly and shallowly" },
+        { "text": "Breathe faster and deeper to blow off CO₂", "correct": true },
+        { "text": "Hold their breath" },
+        { "text": "Show no change in breathing pattern" }
+      ]
+    }
+  ]
+}

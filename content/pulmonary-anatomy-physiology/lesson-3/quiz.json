@@ -1,0 +1,230 @@
+{
+  "title": "Regulation of Breathing Quiz",
+  "questions": [
+    {
+      "text": "Where is the respiratory center located?",
+      "answers": [
+        { "text": "Cerebral cortex and cerebellum" },
+        { "text": "Medulla oblongata and pons", "correct": true },
+        { "text": "Hypothalamus and thalamus" },
+        { "text": "Spinal cord and midbrain" }
+      ]
+    },
+    {
+      "text": "Which nerve carries signals from the medullary inspiratory area to the diaphragm?",
+      "answers": [
+        { "text": "Vagus nerve" },
+        { "text": "Phrenic nerve", "correct": true },
+        { "text": "Facial nerve" },
+        { "text": "Accessory nerve" }
+      ]
+    },
+    {
+      "text": "What spinal nerve roots contribute to the phrenic nerve?",
+      "answers": [
+        { "text": "C1–C3" },
+        { "text": "C3–C5", "correct": true },
+        { "text": "C5–C7" },
+        { "text": "T1–T3" }
+      ]
+    },
+    {
+      "text": "During quiet breathing, approximately how long does the inspiratory area fire before impulses stop?",
+      "answers": [
+        { "text": "1 second" },
+        { "text": "2 seconds", "correct": true },
+        { "text": "3 seconds" },
+        { "text": "5 seconds" }
+      ]
+    },
+    {
+      "text": "What happens when the impulses from the inspiratory area stop during quiet breathing?",
+      "answers": [
+        { "text": "Forceful exhalation begins" },
+        { "text": "Expiratory area activates the abdominal muscles" },
+        { "text": "Passive exhalation occurs", "correct": true },
+        { "text": "The diaphragm remains contracted" }
+      ]
+    },
+    {
+      "text": "What is the role of the expiratory area during quiet breathing?",
+      "answers": [
+        { "text": "It fires continuously to maintain exhalation" },
+        { "text": "It remains inactive", "correct": true },
+        { "text": "It stimulates the diaphragm" },
+        { "text": "It overrides the inspiratory area" }
+      ]
+    },
+    {
+      "text": "During forceful breathing, which muscles are stimulated by the expiratory area?",
+      "answers": [
+        { "text": "Diaphragm and scalenes" },
+        { "text": "External intercostals and pectoralis minor" },
+        { "text": "Internal intercostals and abdominal muscles", "correct": true },
+        { "text": "Sternocleidomastoid and trapezius" }
+      ]
+    },
+    {
+      "text": "What is the primary function of the pneumotaxic center?",
+      "answers": [
+        { "text": "Prolong inhalation to deepen breaths" },
+        { "text": "Coordinate the transition from inhalation to exhalation", "correct": true },
+        { "text": "Stimulate the expiratory area" },
+        { "text": "Detect changes in blood oxygen levels" }
+      ]
+    },
+    {
+      "text": "Where is the pneumotaxic center located?",
+      "answers": [
+        { "text": "Lower medulla" },
+        { "text": "Upper pons", "correct": true },
+        { "text": "Midbrain" },
+        { "text": "Cerebral cortex" }
+      ]
+    },
+    {
+      "text": "Increased activity of the pneumotaxic center results in what change to breathing?",
+      "answers": [
+        { "text": "Slower, deeper breaths" },
+        { "text": "More rapid breathing", "correct": true },
+        { "text": "Prolonged inspiratory gasps" },
+        { "text": "No change to respiratory rate" }
+      ]
+    },
+    {
+      "text": "What is the function of the apneustic center?",
+      "answers": [
+        { "text": "Shorten inhalation duration" },
+        { "text": "Send stimulatory impulses to the inspiratory area", "correct": true },
+        { "text": "Inhibit the medullary rhythmicity center" },
+        { "text": "Detect CO₂ in the blood" }
+      ]
+    },
+    {
+      "text": "What prevents the apneustic center from causing overinflation of the lungs?",
+      "answers": [
+        { "text": "The expiratory area overrides it" },
+        { "text": "The pneumotaxic area overrides it", "correct": true },
+        { "text": "Central chemoreceptors inhibit it" },
+        { "text": "Proprioceptors suppress it" }
+      ]
+    },
+    {
+      "text": "What eventually overrides voluntary breath holding?",
+      "answers": [
+        { "text": "Low oxygen levels detected by peripheral chemoreceptors" },
+        { "text": "CO₂ and H⁺ buildup stimulating chemoreceptors", "correct": true },
+        { "text": "Fatigue of the diaphragm muscle" },
+        { "text": "Decreased blood pressure in the carotid arteries" }
+      ]
+    },
+    {
+      "text": "Where are central chemoreceptors located?",
+      "answers": [
+        { "text": "Aortic arch" },
+        { "text": "In or near the medulla", "correct": true },
+        { "text": "Carotid bodies" },
+        { "text": "Alveolar walls" }
+      ]
+    },
+    {
+      "text": "What do central chemoreceptors primarily respond to?",
+      "answers": [
+        { "text": "PO₂ in arterial blood" },
+        { "text": "H⁺ concentration or PCO₂ in CSF", "correct": true },
+        { "text": "Blood glucose levels" },
+        { "text": "Lung stretch" }
+      ]
+    },
+    {
+      "text": "Where are peripheral chemoreceptors located?",
+      "answers": [
+        { "text": "Medulla and spinal cord" },
+        { "text": "Aortic arch and carotid bodies", "correct": true },
+        { "text": "Alveoli and bronchioles" },
+        { "text": "Right ventricle and pulmonary artery" }
+      ]
+    },
+    {
+      "text": "What are the carotid bodies?",
+      "answers": [
+        { "text": "Cartilage rings in the trachea" },
+        { "text": "Oval nodules in the common carotid arteries", "correct": true },
+        { "text": "Lymph nodes near the carotid artery" },
+        { "text": "Nerve ganglia in the neck" }
+      ]
+    },
+    {
+      "text": "Which of the following do peripheral chemoreceptors detect?",
+      "answers": [
+        { "text": "PO₂ only" },
+        { "text": "PCO₂ only" },
+        { "text": "PO₂, PCO₂, and [H⁺]", "correct": true },
+        { "text": "Temperature and pH" }
+      ]
+    },
+    {
+      "text": "What happens when peripheral chemoreceptors detect oxygen deficiency?",
+      "answers": [
+        { "text": "Respiratory rate decreases to conserve oxygen" },
+        { "text": "Rate and depth of breathing increase", "correct": true },
+        { "text": "The apneustic center is inhibited" },
+        { "text": "Bronchoconstriction occurs" }
+      ]
+    },
+    {
+      "text": "What stimulates proprioceptors to increase ventilation at the onset of exercise?",
+      "answers": [
+        { "text": "Rising CO₂ levels in blood" },
+        { "text": "Decreasing O₂ levels in blood" },
+        { "text": "Movement detected in muscles, tendons, and joints", "correct": true },
+        { "text": "Decreased pH in CSF" }
+      ]
+    },
+    {
+      "text": "When does proprioceptor stimulation of breathing occur relative to chemoreceptor changes?",
+      "answers": [
+        { "text": "After chemoreceptor changes" },
+        { "text": "Before chemoreceptor changes", "correct": true },
+        { "text": "Simultaneously with chemoreceptor changes" },
+        { "text": "Only if chemoreceptors fail" }
+      ]
+    },
+    {
+      "text": "Which equation underlies CO₂ transport and chemoreceptor regulation?",
+      "answers": [
+        { "text": "PV = nRT" },
+        { "text": "CO₂ + H₂O ↔ H₂CO₃ ↔ HCO₃⁻ + H⁺", "correct": true },
+        { "text": "P₁V₁ = P₂V₂" },
+        { "text": "O₂ + Hb ↔ HbO₂" }
+      ]
+    },
+    {
+      "text": "The majority of CO₂ is transported in the blood as which form?",
+      "answers": [
+        { "text": "Dissolved CO₂" },
+        { "text": "Carbaminohemoglobin" },
+        { "text": "Bicarbonate (HCO₃⁻)", "correct": true },
+        { "text": "Carbonic acid" }
+      ]
+    },
+    {
+      "text": "Damage to the pneumotaxic center with an intact apneustic center would likely produce which breathing pattern?",
+      "answers": [
+        { "text": "Rapid shallow breathing" },
+        { "text": "Prolonged inspiratory gasps (apneustic breathing)", "correct": true },
+        { "text": "No change in breathing pattern" },
+        { "text": "Cheyne-Stokes respiration" }
+      ]
+    },
+    {
+      "text": "Which of the following is true about the cortical influence on breathing?",
+      "answers": [
+        { "text": "The cortex cannot override the brainstem rhythm at all" },
+        { "text": "Breath holding can be sustained indefinitely with practice" },
+        { "text": "The cortex can voluntarily alter breathing but is limited by chemoreceptor drive", "correct": true },
+        { "text": "The cortex only affects breathing during sleep" }
+      ]
+    }
+  ]
+}

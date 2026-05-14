@@ -1,7 +1,7 @@
 {
   "title": "Patient Assessment",
   "description": "Clinical assessment techniques for evaluating respiratory patients.",
-  "order": 2,
+  "order": 3,
   "lessons": [
     { "slug": "patient-assessment/lesson-1", "title": "Patient History & Laboratory Values", "description": "Patient history, chart review, and laboratory values — CBC, BMP, microbiology, and coagulation testing." },
     { "slug": "patient-assessment/lesson-2", "title": "Patient Inspection", "description": "Communication, privacy zones, cardiopulmonary signs & symptoms (OLDCART, cough, sputum, dyspnea, chest pain, edema), pain scales, LOC, and the Glasgow Coma Scale." },

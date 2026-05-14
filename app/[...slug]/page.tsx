@@ -89,6 +89,10 @@ export default async function LessonPage({
     "pulmonary-diagnostics-ii/lesson-3": "/audio/The_Invisible_Math_of_Clinical_Oxygenation.m4a",
     "pulmonary-diagnostics-ii/lesson-4": "/audio/The_Physics_of_Clinical_Chest_X-Rays.m4a",
     "pulmonary-diagnostics-ii/lesson-5": "/audio/How_doctors_read_shadows_on_lung_scans.m4a",
+    "pulmonary-anatomy-physiology/lesson-1": "/audio/The_Engineering_of_a_Single_Breath.m4a",
+    "pulmonary-anatomy-physiology/lesson-2": "/audio/The_Physics_of_Human_Gas_Exchange.m4a",
+    "pulmonary-anatomy-physiology/lesson-3": "/audio/Why_You_Breathe_to_Expel_Brain_Acid.m4a",
+    "pulmonary-anatomy-physiology/lesson-4": "/audio/How_Your_Body_Balances_Blood_pH.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 

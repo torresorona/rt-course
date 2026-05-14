@@ -1,7 +1,7 @@
 {
   "title": "Cardiac Diagnostics II",
   "description": "Advanced cardiac imaging and monitoring: echocardiography (TTE and TEE), Doppler, stress echo, and hemodynamic assessment.",
-  "order": 4,
+  "order": 5,
   "lessons": [
     {
       "slug": "cardiac-diagnostics-ii/lesson-1",

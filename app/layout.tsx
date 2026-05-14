@@ -44,9 +44,19 @@ export default function RootLayout({
                   Course
                 </span>
               </Link>
-              <Show when="signed-in">
-                <UserButton />
-              </Show>
+              <div className="flex items-center gap-3">
+                <Link
+                  href="https://github.com/torresorona/rt-course/issues"
+                  target="_blank"
+                  className="flex items-center gap-1.5 rounded-xl border border-sand-200 bg-white px-3 py-1.5 text-xs font-medium text-sand-600 transition-all hover:border-sand-300 hover:text-sand-800"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/><line x1="9" y1="10" x2="15" y2="10"/></svg>
+                  Feedback
+                </Link>
+                <Show when="signed-in">
+                  <UserButton />
+                </Show>
+              </div>
             </nav>
           </header>
           <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-10">

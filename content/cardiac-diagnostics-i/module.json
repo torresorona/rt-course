@@ -1,7 +1,7 @@
 {
   "title": "Cardiac Diagnostics I",
   "description": "ECG fundamentals: 12-lead acquisition, paper measurements, waveform interpretation, and lead anatomy.",
-  "order": 3,
+  "order": 4,
   "lessons": [
     {
       "slug": "cardiac-diagnostics-i/lesson-1",
