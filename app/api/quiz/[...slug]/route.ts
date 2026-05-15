@@ -47,6 +47,7 @@ export async function GET(
       return {
         id: q.id,
         text: q.text,
+        image: q.image ?? null,
         answers: questionAnswers,
       };
     })

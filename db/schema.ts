@@ -30,6 +30,7 @@ export const questions = pgTable("questions", {
     .notNull()
     .references(() => quizzes.id, { onDelete: "cascade" }),
   text: text("text").notNull(),
+  image: text("image"),
   order: integer("order").notNull(),
 });
 

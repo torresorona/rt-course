@@ -1,0 +1,910 @@
+{
+  "title": "Pulmonary Diagnostics II \u2014 Module Exam",
+  "questions": [
+    {
+      "text": "A 68-year-old male with COPD is being evaluated for long-term oxygen therapy. Which ABG parameter is most indicative of chronic hypoxemia and would support the need for home oxygen?",
+      "answers": [
+        {
+          "text": "PaCO\u2082 52 mm Hg"
+        },
+        {
+          "text": "PaO\u2082 55 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "pH 7.36"
+        },
+        {
+          "text": "HCO\u2083\u207b 30 mEq/L"
+        }
+      ]
+    },
+    {
+      "text": "Before performing a radial artery puncture for ABG, which of the following is the correct technique for performing the Modified Allen test?",
+      "answers": [
+        {
+          "text": "Compress both ulnar and radial arteries, release ulnar, observe palmar flush within 10 seconds",
+          "correct": true
+        },
+        {
+          "text": "Compress only the radial artery and observe capillary refill in the nailbed"
+        },
+        {
+          "text": "Compress both arteries, release radial, observe palmar flush within 15 seconds"
+        },
+        {
+          "text": "Apply a tourniquet and palpate for radial pulse distal to the site"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is an absolute contraindication to performing a radial artery puncture?",
+      "answers": [
+        {
+          "text": "Positive Modified Allen test"
+        },
+        {
+          "text": "Negative Modified Allen test",
+          "correct": true
+        },
+        {
+          "text": "Presence of a weak radial pulse"
+        },
+        {
+          "text": "Patient taking low-dose aspirin"
+        }
+      ]
+    },
+    {
+      "text": "A blood gas sample drawn from a radial artery line shows a PaO\u2082 of 85 mm Hg while the patient is on 4 L/min nasal cannula. However, the sample was drawn from the distal port of a saline lock. What is the most likely cause of these results?",
+      "answers": [
+        {
+          "text": "The sample was contaminated with heparin"
+        },
+        {
+          "text": "The sample represents venous blood due to peripheral vasoconstriction"
+        },
+        {
+          "text": "The sample was diluted with saline flush solution",
+          "correct": true
+        },
+        {
+          "text": "The patient was hyperventilating during the draw"
+        }
+      ]
+    },
+    {
+      "text": "What is the primary purpose of adding heparin to an ABG syringe?",
+      "answers": [
+        {
+          "text": "Prevent clot formation in the sample",
+          "correct": true
+        },
+        {
+          "text": "Preserve the PaO\u2082 during transport"
+        },
+        {
+          "text": "Prevent bacterial contamination"
+        },
+        {
+          "text": "Reduce hemolysis of red blood cells"
+        }
+      ]
+    },
+    {
+      "text": "An ABG sample that has been stored at room temperature for 45 minutes will most likely show which of the following changes compared to a sample analyzed immediately?",
+      "answers": [
+        {
+          "text": "Increased pH and decreased PaCO\u2082"
+        },
+        {
+          "text": "Decreased PaO\u2082 and increased PaCO\u2082",
+          "correct": true
+        },
+        {
+          "text": "Increased PaO\u2082 and decreased PaCO\u2082"
+        },
+        {
+          "text": "No significant change in blood gas values"
+        }
+      ]
+    },
+    {
+      "text": "When performing a femoral artery puncture, which of the following complications is of greatest concern?",
+      "answers": [
+        {
+          "text": "Hematoma formation"
+        },
+        {
+          "text": "Retroperitoneal hemorrhage",
+          "correct": true
+        },
+        {
+          "text": "Arteriovenous fistula"
+        },
+        {
+          "text": "Vasovagal syncope"
+        }
+      ]
+    },
+    {
+      "text": "A capillary blood gas sample from a heel stick in an infant shows a pH of 7.32, PaCO\u2082 48 mm Hg, and PaO\u2082 of 48 mm Hg. How should the PaO\u2082 value be interpreted compared to an arterial sample?",
+      "answers": [
+        {
+          "text": "It overestimates arterial PaO\u2082 by about 10 mm Hg"
+        },
+        {
+          "text": "It underestimates arterial PaO\u2082 by about 5\u201310 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "It accurately reflects arterial PaO\u2082"
+        },
+        {
+          "text": "It is unreliable and should not be interpreted"
+        }
+      ]
+    },
+    {
+      "text": "A patient has an indwelling radial arterial line. The nurse notices the waveform appears dampened and the flush solution will not return blood when the system is aspirated. Which of the following is the most likely cause?",
+      "answers": [
+        {
+          "text": "Air in the transducer dome"
+        },
+        {
+          "text": "A clot at the catheter tip",
+          "correct": true
+        },
+        {
+          "text": "The transducer is positioned too low"
+        },
+        {
+          "text": "The stopcock is open to air"
+        }
+      ]
+    },
+    {
+      "text": "When using an arterial line for blood pressure monitoring, where should the transducer be positioned for the most accurate reading?",
+      "answers": [
+        {
+          "text": "At the level of the heart at the mid-axillary line (phlebostatic axis)",
+          "correct": true
+        },
+        {
+          "text": "At the level of the catheter insertion site"
+        },
+        {
+          "text": "10 cm above the level of the heart"
+        },
+        {
+          "text": "At the level of the mid-chest posteriorly"
+        }
+      ]
+    },
+    {
+      "text": "What is the normal range for arterial pH in healthy adults?",
+      "answers": [
+        {
+          "text": "7.25\u20137.35"
+        },
+        {
+          "text": "7.35\u20137.45",
+          "correct": true
+        },
+        {
+          "text": "7.45\u20137.55"
+        },
+        {
+          "text": "7.30\u20137.40"
+        }
+      ]
+    },
+    {
+      "text": "A patient presents with a 3-day history of severe vomiting. ABG shows pH 7.52, PaCO\u2082 44 mm Hg, HCO\u2083\u207b 34 mEq/L. Using the ROME method, what is the acid-base disorder?",
+      "answers": [
+        {
+          "text": "Respiratory alkalosis"
+        },
+        {
+          "text": "Metabolic alkalosis",
+          "correct": true
+        },
+        {
+          "text": "Respiratory acidosis"
+        },
+        {
+          "text": "Metabolic acidosis"
+        }
+      ]
+    },
+    {
+      "text": "A patient with COPD has an ABG showing pH 7.33, PaCO\u2082 62 mm Hg, HCO\u2083\u207b 32 mEq/L. Which of the following best describes this acid-base disorder?",
+      "answers": [
+        {
+          "text": "Acute respiratory acidosis"
+        },
+        {
+          "text": "Chronic compensated respiratory acidosis",
+          "correct": true
+        },
+        {
+          "text": "Metabolic acidosis with respiratory compensation"
+        },
+        {
+          "text": "Mixed respiratory and metabolic acidosis"
+        }
+      ]
+    },
+    {
+      "text": "According to the ROME method, if the pH and PaCO\u2082 are both moving in opposite directions (one up, one down), the primary disorder is:",
+      "answers": [
+        {
+          "text": "Metabolic",
+          "correct": true
+        },
+        {
+          "text": "Respiratory"
+        },
+        {
+          "text": "Mixed"
+        },
+        {
+          "text": "Cannot be determined without HCO\u2083\u207b"
+        }
+      ]
+    },
+    {
+      "text": "A patient presents with an ABG showing pH 7.48, PaCO\u2082 30 mm Hg, HCO\u2083\u207b 24 mEq/L. What is the expected compensatory response, and is compensation adequate?",
+      "answers": [
+        {
+          "text": "No compensation needed; this is an uncompensated respiratory alkalosis",
+          "correct": true
+        },
+        {
+          "text": "The kidneys should increase HCO\u2083\u207b reabsorption to compensate"
+        },
+        {
+          "text": "The lungs should increase ventilation to compensate"
+        },
+        {
+          "text": "This represents partial metabolic compensation for a respiratory acidosis"
+        }
+      ]
+    },
+    {
+      "text": "Carbon dioxide is transported in the blood in three main forms. Which form accounts for the largest proportion (approximately 70%)?",
+      "answers": [
+        {
+          "text": "Dissolved CO\u2082 in plasma"
+        },
+        {
+          "text": "Bicarbonate ion (HCO\u2083\u207b)",
+          "correct": true
+        },
+        {
+          "text": "Carbamino compounds (bound to hemoglobin)"
+        },
+        {
+          "text": "Carbonic acid"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following factors causes a LEFT shift of the oxyhemoglobin dissociation curve?",
+      "answers": [
+        {
+          "text": "Increased temperature"
+        },
+        {
+          "text": "Decreased pH (acidosis)"
+        },
+        {
+          "text": "Decreased 2,3-DPG",
+          "correct": true
+        },
+        {
+          "text": "Increased PaCO\u2082"
+        }
+      ]
+    },
+    {
+      "text": "The Bohr effect describes the phenomenon where:",
+      "answers": [
+        {
+          "text": "Increased CO\u2082 and H\u207a concentration decrease hemoglobin's affinity for oxygen, promoting O\u2082 unloading in tissues",
+          "correct": true
+        },
+        {
+          "text": "Increased O\u2082 concentration promotes CO\u2082 binding to hemoglobin"
+        },
+        {
+          "text": "Decreased pH increases hemoglobin's affinity for oxygen"
+        },
+        {
+          "text": "Fetal hemoglobin has a higher affinity for oxygen than adult hemoglobin"
+        }
+      ]
+    },
+    {
+      "text": "The Haldane effect states that:",
+      "answers": [
+        {
+          "text": "Deoxygenated hemoglobin has an increased capacity to carry CO\u2082 and H\u207a",
+          "correct": true
+        },
+        {
+          "text": "Oxygenated hemoglobin binds more CO\u2082 than deoxygenated hemoglobin"
+        },
+        {
+          "text": "Increasing ventilation decreases PaCO\u2082 proportionally"
+        },
+        {
+          "text": "Hemoglobin releases O\u2082 more readily in acidic environments"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT a major buffer system in the body?",
+      "answers": [
+        {
+          "text": "Bicarbonate buffer system"
+        },
+        {
+          "text": "Phosphate buffer system"
+        },
+        {
+          "text": "Protein buffer system (including hemoglobin)"
+        },
+        {
+          "text": "Sodium-potassium ATPase buffer system",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A patient on 40% venturi mask has a PaO\u2082 of 65 mm Hg. Calculate the A\u2013a gradient using the simplified alveolar air equation (assume FiO\u2082 0.40, PaCO\u2082 40 mm Hg, RQ 0.8). Which of the following best characterizes the patient's oxygenation?",
+      "answers": [
+        {
+          "text": "PAO\u2082 = (0.40 \u00d7 713) \u2212 (40/0.8) = 285 \u2212 50 = 235 mm Hg; A\u2013a gradient = 170 mm Hg \u2014 significantly elevated",
+          "correct": true
+        },
+        {
+          "text": "PAO\u2082 = 150 mm Hg; A\u2013a gradient = 85 mm Hg \u2014 mildly elevated"
+        },
+        {
+          "text": "PAO\u2082 = 300 mm Hg; A\u2013a gradient = 235 mm Hg \u2014 severely elevated"
+        },
+        {
+          "text": "PAO\u2082 = 200 mm Hg; A\u2013a gradient = 135 mm Hg \u2014 moderately elevated"
+        }
+      ]
+    },
+    {
+      "text": "The Clark (Severinghaus-type) electrode directly measures which of the following parameters?",
+      "answers": [
+        {
+          "text": "pH"
+        },
+        {
+          "text": "PaO\u2082",
+          "correct": true
+        },
+        {
+          "text": "PaCO\u2082"
+        },
+        {
+          "text": "Hemoglobin concentration"
+        }
+      ]
+    },
+    {
+      "text": "A co-oximeter reading shows elevated carboxyhemoglobin (HbCO) of 12% in a patient with no known smoke inhalation. Which of the following conditions could artifactually elevate HbCO measurement?",
+      "answers": [
+        {
+          "text": "Methemoglobinemia",
+          "correct": true
+        },
+        {
+          "text": "Severe anemia"
+        },
+        {
+          "text": "Polycythemia"
+        },
+        {
+          "text": "Sickle cell trait"
+        }
+      ]
+    },
+    {
+      "text": "A patient's ABG shows a normal PaO\u2082 of 92 mm Hg, but the co-oximeter reveals a methemoglobin (MetHb) level of 25%. The patient is cyanotic. Which of the following is the most appropriate interpretation?",
+      "answers": [
+        {
+          "text": "The patient's oxygen-carrying capacity is significantly reduced despite normal PaO\u2082",
+          "correct": true
+        },
+        {
+          "text": "The cyanosis is due to hypercapnia"
+        },
+        {
+          "text": "The MetHb level is clinically insignificant"
+        },
+        {
+          "text": "The high MetHb increases oxygen delivery to tissues"
+        }
+      ]
+    },
+    {
+      "text": "In the context of quality control for blood gas analyzers, a Westgard rule violation where one control value exceeds the mean \u00b1 2 SD on two consecutive levels in the same direction is known as:",
+      "answers": [
+        {
+          "text": "1:2s warning rule",
+          "correct": true
+        },
+        {
+          "text": "2:2s rejection rule"
+        },
+        {
+          "text": "R:4s rejection rule"
+        },
+        {
+          "text": "4:1s warning rule"
+        }
+      ]
+    },
+    {
+      "text": "A Levey-Jennings chart shows the last 7 data points are all above the mean but within \u00b1 2 SD. According to Westgard rules, this pattern indicates:",
+      "answers": [
+        {
+          "text": "A random error that can be ignored"
+        },
+        {
+          "text": "A systematic error (trend) flagging a 7x rule violation",
+          "correct": true
+        },
+        {
+          "text": "An acceptable calibration shift"
+        },
+        {
+          "text": "An R:4s random error"
+        }
+      ]
+    },
+    {
+      "text": "Which regulatory agency requires blood gas laboratories in the United States to participate in proficiency testing programs?",
+      "answers": [
+        {
+          "text": "OSHA"
+        },
+        {
+          "text": "CLIA (Clinical Laboratory Improvement Amendments)",
+          "correct": true
+        },
+        {
+          "text": "EPA"
+        },
+        {
+          "text": "FDA"
+        }
+      ]
+    },
+    {
+      "text": "A point-of-care blood gas analyzer (i-STAT) is being used in the ICU. Compared with a central laboratory analyzer, which of the following is the most significant advantage of POC testing for ABG analysis?",
+      "answers": [
+        {
+          "text": "Lower cost per test"
+        },
+        {
+          "text": "Reduced turnaround time leading to faster clinical decisions",
+          "correct": true
+        },
+        {
+          "text": "Higher accuracy than central lab analyzers"
+        },
+        {
+          "text": "Eliminates the need for quality control"
+        }
+      ]
+    },
+    {
+      "text": "In a 1-point calibration of a blood gas analyzer, what is being tested?",
+      "answers": [
+        {
+          "text": "The analyzer's response at zero gas concentration"
+        },
+        {
+          "text": "The analyzer's response at one known gas concentration to adjust the gain",
+          "correct": true
+        },
+        {
+          "text": "Both zero and span calibration simultaneously"
+        },
+        {
+          "text": "The analyzer's precision across multiple replicates"
+        }
+      ]
+    },
+    {
+      "text": "A patient with suspected pulmonary embolism has a normal PaO\u2082 on room air but a widened A\u2013a gradient. The most likely explanation is:",
+      "answers": [
+        {
+          "text": "Hypoventilation causing hypercapnia"
+        },
+        {
+          "text": "V/Q mismatch causing inefficient gas exchange despite normal PaO\u2082 at rest",
+          "correct": true
+        },
+        {
+          "text": "Right-to-left shunt causing refractory hypoxemia"
+        },
+        {
+          "text": "Diffusion impairment from interstitial lung disease"
+        }
+      ]
+    },
+    {
+      "text": "A posterior-anterior (PA) chest X-ray is preferred over an anteroposterior (AP) projection primarily because:",
+      "answers": [
+        {
+          "text": "The PA view magnifies the cardiac silhouette making abnormalities easier to detect"
+        },
+        {
+          "text": "The PA view produces less magnification of the heart and better lung field clarity",
+          "correct": true
+        },
+        {
+          "text": "The AP view requires higher radiation dose"
+        },
+        {
+          "text": "The PA view is easier to perform on intubated patients"
+        }
+      ]
+    },
+    {
+      "text": "A chest X-ray is evaluated as adequately penetrated when which of the following structures is visible?",
+      "answers": [
+        {
+          "text": "The carina"
+        },
+        {
+          "text": "The vertebral bodies behind the cardiac silhouette",
+          "correct": true
+        },
+        {
+          "text": "The costophrenic angles"
+        },
+        {
+          "text": "The aortic knob"
+        }
+      ]
+    },
+    {
+      "text": "On a PA chest X-ray, which of the following findings indicates adequate inspiratory effort?",
+      "answers": [
+        {
+          "text": "The right hemidiaphragm is at the level of the 10th posterior rib",
+          "correct": true
+        },
+        {
+          "text": "The heart is less than 50% of the thoracic width"
+        },
+        {
+          "text": "The trachea is midline"
+        },
+        {
+          "text": "The clavicles are symmetric"
+        }
+      ]
+    },
+    {
+      "text": "A chest X-ray shows the clavicles are asymmetric with the right clavicle appearing more horizontal than the left. The cardiomediastinal silhouette appears shifted to the right. This suggests:",
+      "answers": [
+        {
+          "text": "The patient is rotated to the right",
+          "correct": true
+        },
+        {
+          "text": "The X-ray beam was angled cephalad"
+        },
+        {
+          "text": "The patient has pectus excavatum"
+        },
+        {
+          "text": "The film was over-penetrated"
+        }
+      ]
+    },
+    {
+      "text": "A 25-year-old asymptomatic male presents for a routine pre-operative chest X-ray. The image shows clear lung fields bilaterally, sharp costophrenic angles, a normal cardiac silhouette with a cardiothoracic ratio of 42%, and intact bony structures. What is the most accurate interpretation?",
+      "image": "/xrays/normal-chest.jpg",
+      "answers": [
+        {
+          "text": "Mild cardiomegaly with pulmonary congestion"
+        },
+        {
+          "text": "Normal chest X-ray with no acute cardiopulmonary abnormality",
+          "correct": true
+        },
+        {
+          "text": "Bilateral interstitial lung disease"
+        },
+        {
+          "text": "Hyperinflation suggestive of COPD"
+        }
+      ]
+    },
+    {
+      "text": "A 22-year-old male presents with acute onset left-sided pleuritic chest pain after a motor vehicle collision. BP 90/60, HR 120, trachea deviated to the right. Based on the chest X-ray findings shown, what is the most likely diagnosis?",
+      "image": "/xrays/pneumothorax.jpg",
+      "answers": [
+        {
+          "text": "Left hemothorax"
+        },
+        {
+          "text": "Left tension pneumothorax",
+          "correct": true
+        },
+        {
+          "text": "Left pleural effusion"
+        },
+        {
+          "text": "Left lower lobe pneumonia"
+        }
+      ]
+    },
+    {
+      "text": "A 55-year-old male with congestive heart failure presents with progressive dyspnea and orthopnea. Chest X-ray shows blunting of the right costophrenic angle with a meniscus sign and opacification of the right lower hemithorax. What is the most likely finding?",
+      "image": "/xrays/pleural-effusion.jpg",
+      "answers": [
+        {
+          "text": "Right lower lobe pneumonia"
+        },
+        {
+          "text": "Right pleural effusion",
+          "correct": true
+        },
+        {
+          "text": "Right hemothorax"
+        },
+        {
+          "text": "Elevated right hemidiaphragm"
+        }
+      ]
+    },
+    {
+      "text": "A 70-year-old female with a history of hypertension presents with acute dyspnea, orthopnea, and bilateral crackles. Chest X-ray shows an enlarged cardiac silhouette (CTR > 55%), perihilar bat-wing opacities, Kerley B lines, and cephalization of pulmonary vessels. What is the most likely diagnosis?",
+      "image": "/xrays/pulmonary-edema.jpg",
+      "answers": [
+        {
+          "text": "ARDS"
+        },
+        {
+          "text": "Pulmonary edema due to left heart failure",
+          "correct": true
+        },
+        {
+          "text": "Bilateral pneumonia"
+        },
+        {
+          "text": "Pulmonary fibrosis"
+        }
+      ]
+    },
+    {
+      "text": "A 45-year-old male with septic shock presents with acute hypoxemic respiratory failure requiring mechanical ventilation. PaO\u2082/FiO\u2082 ratio is 140. Chest X-ray shows bilateral diffuse alveolar and interstitial opacities with air bronchograms. What is the most likely diagnosis?",
+      "image": "/xrays/ards.jpg",
+      "answers": [
+        {
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "text": "Acute respiratory distress syndrome (ARDS)",
+          "correct": true
+        },
+        {
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "text": "Bilateral pleural effusions"
+        }
+      ]
+    },
+    {
+      "text": "On a chest X-ray following endotracheal intubation, the tip of the ETT should be positioned:",
+      "answers": [
+        {
+          "text": "At the carina"
+        },
+        {
+          "text": "2\u20134 cm above the carina (at the level of the aortic knob)",
+          "correct": true
+        },
+        {
+          "text": "At the level of the clavicles"
+        },
+        {
+          "text": "Below the carina in the right mainstem bronchus"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following chest X-ray findings is most characteristic of COPD (chronic bronchitis / emphysema)?",
+      "answers": [
+        {
+          "text": "Kerley B lines and cephalization"
+        },
+        {
+          "text": "Hyperinflation, flattened diaphragms, increased retrosternal air space",
+          "correct": true
+        },
+        {
+          "text": "Air-fluid levels and meniscus sign"
+        },
+        {
+          "text": "Bilateral dense consolidation with air bronchograms"
+        }
+      ]
+    },
+    {
+      "text": "A chest X-ray shows a dense, lobar opacity in the right upper lobe with air bronchograms. The patient has fever, productive cough, and leukocytosis. What is the most likely diagnosis?",
+      "answers": [
+        {
+          "text": "Pulmonary embolism"
+        },
+        {
+          "text": "Lobar pneumonia",
+          "correct": true
+        },
+        {
+          "text": "Atelectasis"
+        },
+        {
+          "text": "Pulmonary nodule"
+        }
+      ]
+    },
+    {
+      "text": "How can atelectasis be distinguished from consolidation on chest X-ray?",
+      "answers": [
+        {
+          "text": "Atelectasis produces a dense opacity with air bronchograms; consolidation does not"
+        },
+        {
+          "text": "Atelectasis causes displacement of fissures and tracheal shift toward the opacity; consolidation does not cause volume loss",
+          "correct": true
+        },
+        {
+          "text": "Consolidation causes fissure displacement toward the opacity; atelectasis causes tracheal shift away"
+        },
+        {
+          "text": "Atelectasis is always bilateral; consolidation is unilateral"
+        }
+      ]
+    },
+    {
+      "text": "A trauma patient arrives after a gunshot wound to the chest. Chest X-ray shows a large left-sided pleural opacity with an air-fluid level. The mediastinum is shifted to the right. What is the most likely diagnosis?",
+      "answers": [
+        {
+          "text": "Left tension pneumothorax"
+        },
+        {
+          "text": "Left hemothorax with possible air leak (hemopneumothorax)",
+          "correct": true
+        },
+        {
+          "text": "Left pleural effusion"
+        },
+        {
+          "text": "Left lower lobe collapse"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following advanced imaging modalities is most useful for detecting a pulmonary embolism?",
+      "answers": [
+        {
+          "text": "CT pulmonary angiography (CTPA)",
+          "correct": true
+        },
+        {
+          "text": "High-resolution CT (HRCT) of the chest"
+        },
+        {
+          "text": "MRI of the chest with contrast"
+        },
+        {
+          "text": "Ventilation-perfusion (V/Q) scan"
+        }
+      ]
+    },
+    {
+      "text": "A ventilation-perfusion (V/Q) scan shows a matched defect (both ventilation and perfusion are absent in the same region). Which condition is most likely?",
+      "answers": [
+        {
+          "text": "Pulmonary embolism"
+        },
+        {
+          "text": "Pneumonia or COPD with compensatory hypoxic vasoconstriction",
+          "correct": true
+        },
+        {
+          "text": "Pulmonary arteriovenous malformation"
+        },
+        {
+          "text": "Pulmonary hypertension"
+        }
+      ]
+    },
+    {
+      "text": "Which of the following statements about PET scanning in pulmonary imaging is true?",
+      "answers": [
+        {
+          "text": "PET is the gold standard for diagnosing pulmonary embolism"
+        },
+        {
+          "text": "PET combined with CT (PET/CT) is the most accurate noninvasive method for staging lung cancer",
+          "correct": true
+        },
+        {
+          "text": "PET uses ionizing radiation at levels exceeding conventional CT"
+        },
+        {
+          "text": "PET scans cannot distinguish malignant from benign nodules"
+        }
+      ]
+    },
+    {
+      "text": "In lung ultrasound, the presence of A-lines (horizontal repetition artifacts) in a normally aerated lung will be replaced by B-lines (vertical artifacts) in which of the following conditions?",
+      "answers": [
+        {
+          "text": "Pneumothorax"
+        },
+        {
+          "text": "Pulmonary edema/interstitial syndrome",
+          "correct": true
+        },
+        {
+          "text": "Pleural effusion"
+        },
+        {
+          "text": "Normal lung"
+        }
+      ]
+    },
+    {
+      "text": "A patient with multiple rib fractures from a motor vehicle collision presents with paradoxical chest wall movement during inspiration. Which of the following is the correct diagnosis?",
+      "answers": [
+        {
+          "text": "Tension pneumothorax"
+        },
+        {
+          "text": "Flail chest",
+          "correct": true
+        },
+        {
+          "text": "Pulmonary contusion"
+        },
+        {
+          "text": "Traumatic asphyxia"
+        }
+      ]
+    },
+    {
+      "text": "A 3-year-old child presents with sudden onset of coughing and respiratory distress while eating peanuts. Chest X-ray shows hyperinflation of the right lung with mediastinal shift to the left. What is the most likely cause?",
+      "answers": [
+        {
+          "text": "Right mainstem bronchus foreign body aspiration with ball-valve effect",
+          "correct": true
+        },
+        {
+          "text": "Right tension pneumothorax"
+        },
+        {
+          "text": "Right lower lobe pneumonia"
+        },
+        {
+          "text": "Congenital lobar emphysema"
+        }
+      ]
+    }
+  ]
+}

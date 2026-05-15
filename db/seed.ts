@@ -82,7 +82,12 @@ async function seed() {
         const questionData = quizData.questions[q];
         const [question] = await db
           .insert(schema.questions)
-          .values({ quizId: quiz.id, text: questionData.text, order: q + 1 })
+          .values({
+            quizId: quiz.id,
+            text: questionData.text,
+            image: questionData.image ?? null,
+            order: q + 1,
+          })
           .returning();
 
         const answerValues = questionData.answers.map(

@@ -10,6 +10,7 @@ interface Answer {
 interface Question {
   id: number;
   text: string;
+  image: string | null;
   answers: Answer[];
 }
 
@@ -37,6 +38,7 @@ export default function Quiz({ slug }: { slug: string }) {
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [imageModal, setImageModal] = useState<string | null>(null);
 
   // Load quiz data and saved progress on mount
   useEffect(() => {
@@ -221,6 +223,16 @@ export default function Quiz({ slug }: { slug: string }) {
                   </span>
                   <p className="text-sm text-sand-800">{q.text}</p>
                 </div>
+                {q.image && (
+                  <button
+                    type="button"
+                    onClick={() => setImageModal(q.image!)}
+                    className="ml-9 mt-2 inline-flex items-center gap-1.5 rounded-lg border border-sand-200 bg-sand-50 px-3 py-1.5 text-xs font-medium text-sand-600 transition-all hover:border-sand-300 hover:text-terracotta-600"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+                    Show Image
+                  </button>
+                )}
                 <div className="mt-3 ml-9 space-y-1.5">
                   {selectedText && (
                     <p
@@ -248,6 +260,32 @@ export default function Quiz({ slug }: { slug: string }) {
         >
           Try again
         </button>
+
+        {/* Image modal overlay (results view) */}
+        {imageModal && (
+          <div
+            className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4 backdrop-blur-sm"
+            onClick={() => setImageModal(null)}
+          >
+            <div
+              className="relative max-h-[90vh] max-w-[90vw] overflow-hidden rounded-2xl bg-white shadow-2xl"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <button
+                type="button"
+                onClick={() => setImageModal(null)}
+                className="absolute right-3 top-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-white/90 text-sand-700 shadow-sm transition-colors hover:bg-white hover:text-sand-900"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+              </button>
+              <img
+                src={imageModal}
+                alt="X-ray image"
+                className="block h-auto max-h-[85vh] w-auto max-w-full object-contain"
+              />
+            </div>
+          </div>
+        )}
       </div>
     );
   }
@@ -287,10 +325,20 @@ export default function Quiz({ slug }: { slug: string }) {
         <div className="space-y-6">
           {quiz.questions.map((q, qi) => (
             <div key={q.id} className="rounded-2xl border border-sand-200 bg-white p-6">
-              <p className="mb-4 text-sm font-semibold text-sand-800">
+              <p className="mb-3 text-sm font-semibold text-sand-800">
                 <span className="mr-2 text-sand-400">{qi + 1}.</span>
                 {q.text}
               </p>
+              {q.image && (
+                <button
+                  type="button"
+                  onClick={() => setImageModal(q.image!)}
+                  className="mb-4 inline-flex items-center gap-1.5 rounded-lg border border-sand-200 bg-sand-50 px-3 py-1.5 text-xs font-medium text-sand-600 transition-all hover:border-sand-300 hover:text-terracotta-600"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+                  Show Image
+                </button>
+              )}
               <div className="grid gap-2 sm:grid-cols-2">
                 {q.answers.map((a) => {
                   const selected = responses[String(q.id)] === a.id;
@@ -327,6 +375,32 @@ export default function Quiz({ slug }: { slug: string }) {
           {submitting ? "Checking answers..." : "Submit answers"}
         </button>
       </form>
+
+      {/* Image modal overlay */}
+      {imageModal && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4 backdrop-blur-sm"
+          onClick={() => setImageModal(null)}
+        >
+          <div
+            className="relative max-h-[90vh] max-w-[90vw] overflow-hidden rounded-2xl bg-white shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              type="button"
+              onClick={() => setImageModal(null)}
+              className="absolute right-3 top-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-white/90 text-sand-700 shadow-sm transition-colors hover:bg-white hover:text-sand-900"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+            <img
+              src={imageModal}
+              alt="X-ray image"
+              className="block h-auto max-h-[85vh] w-auto max-w-full object-contain"
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 }
