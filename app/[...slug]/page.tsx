@@ -156,12 +156,16 @@ export default async function LessonPage({
         </div>
       </div>
 
+      {/* Sticky Audio Bar (Review view only) */}
+      {activeView === "review" && audioSrc && (
+        <div className="sticky top-[102px] z-[11] mb-6">
+          <AudioPlayer src={audioSrc} title={`Listen: ${frontmatter.title}`} />
+        </div>
+      )}
+
       {/* Review view */}
       {activeView === "review" && (
         <div className="space-y-6">
-          {audioSrc && (
-            <AudioPlayer src={audioSrc} title={`Listen: ${frontmatter.title}`} />
-          )}
           <article className="rounded-2xl border border-sand-200 bg-white px-8 py-10 sm:px-10">
             <div className="prose prose-sand max-w-none">{content}</div>
           </article>

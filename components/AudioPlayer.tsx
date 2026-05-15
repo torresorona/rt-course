@@ -45,7 +45,7 @@ export default function AudioPlayer({
     setPlaying(!playing);
   }
 
-  const speeds = [0.75, 1, 1.25, 1.5, 1.75, 2];
+  const speeds = [0.75, 1, 1.25];
 
   function cycleSpeed() {
     const audio = audioRef.current;
