@@ -23,12 +23,6 @@ function MdxTable(props: React.ComponentProps<"table">) {
 
 const mdxComponents = { DataTable, YouTube, table: MdxTable };
 
-const views = [
-  { id: "review", label: "Review" },
-  { id: "resources", label: "Resources" },
-  { id: "quiz", label: "Quiz" },
-];
-
 export default async function LessonPage({
   params,
   searchParams,
@@ -41,6 +35,15 @@ export default async function LessonPage({
   const slugPath = slug.join("/");
   const { userId } = await auth();
   const filePath = join(process.cwd(), "content", ...slug, "lesson.mdx");
+
+  const hasXrayExam = slugPath === "pulmonary-diagnostics-ii/lesson-6"
+
+  const views = [
+    { id: "review", label: "Review" },
+    { id: "resources", label: "Resources" },
+    { id: "quiz", label: "Module Exam" },
+    ...(hasXrayExam ? [{ id: "xray-exam", label: "X-ray Exam" }] : []),
+  ];
 
   if (!existsSync(filePath)) {
     notFound();
@@ -190,6 +193,25 @@ export default async function LessonPage({
       {activeView === "quiz" && (
         userId ? (
           <Quiz slug={slugPath} />
+        ) : (
+          <div className="mt-6 flex items-center gap-3 rounded-2xl border border-sky-100 bg-sky-100/50 px-5 py-4">
+            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-sky-500/10 text-sky-600">
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" /><polyline points="10 17 15 12 10 7" /><line x1="15" y1="12" x2="3" y2="12" /></svg>
+            </div>
+            <p className="text-sm text-sand-700">
+              <Link href="/sign-in" className="font-semibold text-sky-600 underline decoration-sky-300 underline-offset-2 transition hover:text-sky-700">
+                Sign in
+              </Link>{" "}
+              to take this quiz and track your progress.
+            </p>
+          </div>
+        )
+      )}
+
+      {/* X-ray Exam view */}
+      {activeView === "xray-exam" && (
+        userId ? (
+          <Quiz slug={slugPath} name="xray" />
         ) : (
           <div className="mt-6 flex items-center gap-3 rounded-2xl border border-sky-100 bg-sky-100/50 px-5 py-4">
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-sky-500/10 text-sky-600">

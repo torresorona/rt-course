@@ -5,7 +5,7 @@ import { eq, and } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
 export async function GET(
-  _request: Request,
+  request: Request,
   { params }: { params: Promise<{ slug: string[] }> }
 ) {
   const { userId } = await auth();
@@ -15,12 +15,18 @@ export async function GET(
 
   const { slug } = await params;
   const moduleSlug = slug.join("/");
+  const url = new URL(request.url);
+  const quizSlug = url.searchParams.get("slug") ?? "default";
 
   const row = await db
     .select()
     .from(progress)
     .where(
-      and(eq(progress.userId, userId), eq(progress.moduleSlug, moduleSlug))
+      and(
+        eq(progress.userId, userId),
+        eq(progress.moduleSlug, moduleSlug),
+        eq(progress.quizSlug, quizSlug)
+      )
     )
     .then((rows) => rows[0]);
 
@@ -37,7 +43,7 @@ export async function GET(
 }
 
 export async function DELETE(
-  _request: Request,
+  request: Request,
   { params }: { params: Promise<{ slug: string[] }> }
 ) {
   const { userId } = await auth();
@@ -47,6 +53,8 @@ export async function DELETE(
 
   const { slug } = await params;
   const moduleSlug = slug.join("/");
+  const url = new URL(request.url);
+  const quizSlug = url.searchParams.get("slug") ?? "default";
 
   await db
     .update(progress)
@@ -58,7 +66,11 @@ export async function DELETE(
       updatedAt: new Date(),
     })
     .where(
-      and(eq(progress.userId, userId), eq(progress.moduleSlug, moduleSlug))
+      and(
+        eq(progress.userId, userId),
+        eq(progress.moduleSlug, moduleSlug),
+        eq(progress.quizSlug, quizSlug)
+      )
     );
 
   return NextResponse.json({ ok: true });

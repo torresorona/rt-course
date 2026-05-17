@@ -27,11 +27,11 @@ interface ScoreResult {
   results: { questionId: number; correct: boolean; correctAnswerId: number }[];
 }
 
-function storageKey(slug: string, suffix: string) {
-  return `quiz:${slug}:${suffix}`;
+function storageKey(slug: string, name: string | undefined, suffix: string) {
+  return `quiz:${slug}:${name ?? "default"}:${suffix}`;
 }
 
-export default function Quiz({ slug }: { slug: string }) {
+export default function Quiz({ slug, name }: { slug: string; name?: string }) {
   const [quiz, setQuiz] = useState<QuizData | null>(null);
   const [responses, setResponses] = useState<Record<string, number>>({});
   const [result, setResult] = useState<ScoreResult | null>(null);
@@ -44,9 +44,10 @@ export default function Quiz({ slug }: { slug: string }) {
   useEffect(() => {
     async function load() {
       try {
+        const qp = name ? `?slug=${name}` : ""
         const [quizRes, progressRes] = await Promise.all([
-          fetch(`/api/quiz/${slug}`),
-          fetch(`/api/progress/${slug}`),
+          fetch(`/api/quiz/${slug}${qp}`),
+          fetch(`/api/progress/${slug}${qp}`),
         ]);
 
         if (!quizRes.ok) throw new Error("Failed to load quiz");
@@ -63,14 +64,14 @@ export default function Quiz({ slug }: { slug: string }) {
               total: saved.results.length,
               results: saved.results,
             });
-            localStorage.removeItem(storageKey(slug, "responses"));
+            localStorage.removeItem(storageKey(slug, name, "responses"));
             return;
           }
         }
 
         // Fall back to localStorage for in-progress draft answers
         try {
-          const draft = localStorage.getItem(storageKey(slug, "responses"));
+          const draft = localStorage.getItem(storageKey(slug, name, "responses"));
           if (draft) setResponses(JSON.parse(draft));
         } catch {
           // ignore corrupt storage
@@ -83,21 +84,22 @@ export default function Quiz({ slug }: { slug: string }) {
     }
 
     load();
-  }, [slug]);
+  }, [slug, name]);
 
   // Persist draft responses to localStorage as user answers
   useEffect(() => {
     if (!result && Object.keys(responses).length > 0) {
-      localStorage.setItem(storageKey(slug, "responses"), JSON.stringify(responses));
+      localStorage.setItem(storageKey(slug, name, "responses"), JSON.stringify(responses));
     }
-  }, [responses, result, slug]);
+  }, [responses, result, slug, name]);
 
   async function resetQuiz() {
     setResponses({});
     setResult(null);
-    localStorage.removeItem(storageKey(slug, "responses"));
+    localStorage.removeItem(storageKey(slug, name, "responses"));
     // Clear server-saved results
-    fetch(`/api/progress/${slug}`, { method: "DELETE" }).catch(() => {});
+    const qp = name ? `?slug=${name}` : ""
+    fetch(`/api/progress/${slug}${qp}`, { method: "DELETE" }).catch(() => {});
   }
 
   async function handleSubmit(e: React.FormEvent) {
@@ -111,7 +113,7 @@ export default function Quiz({ slug }: { slug: string }) {
       const res = await fetch("/api/score", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ moduleSlug: slug, responses }),
+        body: JSON.stringify({ moduleSlug: slug, quizSlug: name ?? "default", responses }),
       });
 
       if (!res.ok) throw new Error("Failed to submit quiz");

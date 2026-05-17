@@ -6,7 +6,7 @@ import { readdirSync, readFileSync, existsSync } from "fs";
 import { join } from "path";
 import matter from "gray-matter";
 import * as schema from "./schema";
-import { eq } from "drizzle-orm";
+import { eq, and } from "drizzle-orm";
 
 async function seed() {
   const sql = neon(process.env.DATABASE_URL!);
@@ -37,8 +37,6 @@ async function seed() {
     for (const lessonDir of lessonDirs) {
       const slug = `${moduleName}/${lessonDir.name}`;
       const mdxPath = join(contentDir, moduleName, lessonDir.name, "lesson.mdx");
-      const quizPath = join(contentDir, moduleName, lessonDir.name, "quiz.json");
-
       // Read lesson title from MDX frontmatter
       let title = lessonDir.name;
       if (existsSync(mdxPath)) {
@@ -61,47 +59,65 @@ async function seed() {
           .where(eq(schema.modules.slug, slug));
       }
 
-      // Seed quiz if quiz.json exists
-      if (!existsSync(quizPath)) continue;
-
-      const quizData = JSON.parse(readFileSync(quizPath, "utf-8"));
-
-      // Delete existing quiz (cascade deletes questions + answers)
-      await db
-        .delete(schema.quizzes)
-        .where(eq(schema.quizzes.moduleSlug, slug));
-
-      // Insert quiz
-      const [quiz] = await db
-        .insert(schema.quizzes)
-        .values({ moduleSlug: slug, title: quizData.title ?? `${title} Quiz` })
-        .returning();
-
-      // Insert questions and answers
-      for (let q = 0; q < quizData.questions.length; q++) {
-        const questionData = quizData.questions[q];
-        const [question] = await db
-          .insert(schema.questions)
-          .values({
-            quizId: quiz.id,
-            text: questionData.text,
-            image: questionData.image ?? null,
-            order: q + 1,
-          })
-          .returning();
-
-        const answerValues = questionData.answers.map(
-          (a: { text: string; correct?: boolean }, idx: number) => ({
-            questionId: question.id,
-            text: a.text,
-            correct: a.correct ?? false,
-            order: idx + 1,
-          })
-        );
-        await db.insert(schema.answers).values(answerValues);
+      // Discover all quiz files: quiz.json (slug=default), quiz-{name}.json (slug={name})
+      const lessonFiles = readdirSync(join(contentDir, moduleName, lessonDir.name));
+      const quizFiles: { fileName: string; slug: string }[] = [];
+      for (const f of lessonFiles) {
+        const match = f.match(/^quiz(?:-(.+))?\.json$/);
+        if (match) {
+          quizFiles.push({ fileName: f, slug: match[1] ?? "default" });
+        }
       }
 
-      console.log(`  Seeded "${slug}" with ${quizData.questions.length} questions`);
+      if (quizFiles.length === 0) continue;
+
+      for (const { fileName, slug: quizSlug } of quizFiles) {
+        const quizPath = join(contentDir, moduleName, lessonDir.name, fileName);
+        const quizData = JSON.parse(readFileSync(quizPath, "utf-8"));
+
+        // Delete existing quiz with this slug (cascade deletes questions + answers)
+        const existingQuiz = await db
+          .select()
+          .from(schema.quizzes)
+          .where(and(eq(schema.quizzes.moduleSlug, slug), eq(schema.quizzes.slug, quizSlug)))
+          .then((rows) => rows[0]);
+
+        if (existingQuiz) {
+          await db.delete(schema.quizzes).where(eq(schema.quizzes.id, existingQuiz.id));
+        }
+
+        // Insert quiz
+        const [quiz] = await db
+          .insert(schema.quizzes)
+          .values({ moduleSlug: slug, slug: quizSlug, title: quizData.title ?? `${title} Quiz` })
+          .returning();
+
+        // Insert questions and answers
+        for (let q = 0; q < quizData.questions.length; q++) {
+          const questionData = quizData.questions[q];
+          const [question] = await db
+            .insert(schema.questions)
+            .values({
+              quizId: quiz.id,
+              text: questionData.text,
+              image: questionData.image ?? null,
+              order: q + 1,
+            })
+            .returning();
+
+          const answerValues = questionData.answers.map(
+            (a: { text: string; correct?: boolean }, idx: number) => ({
+              questionId: question.id,
+              text: a.text,
+              correct: a.correct ?? false,
+              order: idx + 1,
+            })
+          );
+          await db.insert(schema.answers).values(answerValues);
+        }
+
+        console.log(`  Seeded "${slug}" quiz="${quizSlug}" with ${quizData.questions.length} questions`);
+      }
     }
 
     console.log(`  Module "${moduleTitle}" done`);

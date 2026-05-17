@@ -1,11 +1,11 @@
 import { auth } from "@clerk/nextjs/server";
 import { db } from "@/db";
 import { quizzes, questions, answers } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { eq, and } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
 export async function GET(
-  _request: Request,
+  request: Request,
   { params }: { params: Promise<{ slug: string[] }> }
 ) {
   const { userId } = await auth();
@@ -15,11 +15,13 @@ export async function GET(
 
   const { slug } = await params;
   const moduleSlug = slug.join("/");
+  const url = new URL(request.url);
+  const quizSlug = url.searchParams.get("slug") ?? "default";
 
   const quiz = await db
     .select()
     .from(quizzes)
-    .where(eq(quizzes.moduleSlug, moduleSlug))
+    .where(and(eq(quizzes.moduleSlug, moduleSlug), eq(quizzes.slug, quizSlug)))
     .then((rows) => rows[0]);
 
   if (!quiz) {

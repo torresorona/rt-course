@@ -21,6 +21,7 @@ export const quizzes = pgTable("quizzes", {
   moduleSlug: text("module_slug")
     .notNull()
     .references(() => modules.slug, { onDelete: "cascade" }),
+  slug: text("slug").notNull().default("default"),
   title: text("title").notNull(),
 });
 
@@ -52,6 +53,7 @@ export const progress = pgTable(
     moduleSlug: text("module_slug")
       .notNull()
       .references(() => modules.slug, { onDelete: "cascade" }),
+    quizSlug: text("quiz_slug").notNull().default("default"),
     quizScore: integer("quiz_score"),
     quizResponses: jsonb("quiz_responses").$type<Record<string, number>>(),
     quizResults: jsonb("quiz_results").$type<
@@ -60,5 +62,7 @@ export const progress = pgTable(
     completedAt: timestamp("completed_at"),
     updatedAt: timestamp("updated_at").notNull().defaultNow(),
   },
-  (table) => [uniqueIndex("progress_user_module").on(table.userId, table.moduleSlug)]
+  (table) => [
+    uniqueIndex("progress_user_module_quiz").on(table.userId, table.moduleSlug, table.quizSlug),
+  ]
 );

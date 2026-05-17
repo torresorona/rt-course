@@ -6,6 +6,7 @@ import { NextResponse } from "next/server";
 
 interface SubmitBody {
   moduleSlug: string;
+  quizSlug?: string;
   responses: Record<string, number>; // questionId -> answerId
 }
 
@@ -16,17 +17,19 @@ export async function POST(request: Request) {
   }
 
   const body: SubmitBody = await request.json();
-  const { moduleSlug, responses } = body;
+  const { moduleSlug, quizSlug, responses } = body;
 
   if (!moduleSlug || !responses) {
     return NextResponse.json({ error: "Missing fields" }, { status: 400 });
   }
 
+  const qs = quizSlug ?? "default";
+
   // Verify the quiz exists
   const quiz = await db
     .select()
     .from(quizzes)
-    .where(eq(quizzes.moduleSlug, moduleSlug))
+    .where(and(eq(quizzes.moduleSlug, moduleSlug), eq(quizzes.slug, qs)))
     .then((rows) => rows[0]);
 
   if (!quiz) {
@@ -74,7 +77,8 @@ export async function POST(request: Request) {
     .where(
       and(
         eq(progress.userId, userId),
-        eq(progress.moduleSlug, moduleSlug)
+        eq(progress.moduleSlug, moduleSlug),
+        eq(progress.quizSlug, qs)
       )
     )
     .then((rows) => rows[0]);
@@ -94,6 +98,7 @@ export async function POST(request: Request) {
     await db.insert(progress).values({
       userId,
       moduleSlug,
+      quizSlug: qs,
       quizScore: score,
       quizResponses: responses,
       quizResults: results,
