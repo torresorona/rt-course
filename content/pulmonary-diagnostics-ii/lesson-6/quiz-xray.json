@@ -13,6 +13,7 @@
     },
     {
       "text": "A 72-year-old male with a 50-pack-year smoking history presents with worsening dyspnea. Chest X-ray reveals increased AP diameter, flattened hemidiaphragms, hyperlucent lung fields, and increased retrosternal airspace on the lateral view. Which of the following is the most likely diagnosis?",
+      "image": "/xrays/copd.jpg",
       "answers": [
         { "text": "Acute respiratory distress syndrome (ARDS)" },
         { "text": "Chronic obstructive pulmonary disease (COPD)", "correct": true },
@@ -32,6 +33,7 @@
     },
     {
       "text": "A 45-year-old post-operative patient develops sudden dyspnea and hypoxemia 24 hours after abdominal surgery. Chest X-ray shows increased radiopacity in the left lower lobe with displacement of the major fissure toward the collapsed lung. What is the most likely diagnosis?",
+      "image": "/xrays/atelectasis-left-lower-lobe.jpg",
       "answers": [
         { "text": "Left-sided pleural effusion" },
         { "text": "Left lower lobe atelectasis", "correct": true },
@@ -40,7 +42,7 @@
       ]
     },
     {
-      "text": "A 60-year-old male with cirrhosis presents with progressive dyspnea. On upright chest X-ray, the right costophrenic angle is blunted and a meniscus-shaped opacity is seen along the lateral chest wall. To better characterize this finding, which additional view should be ordered?",
+      "text": "A 60-year-old male presents with progressive dyspnea. On upright chest X-ray, the left costophrenic angle is blunted and a meniscus-shaped opacity is seen along the lateral chest wall. To better characterize this finding, which additional view should be ordered?",
       "image": "/xrays/pleural-effusion.jpg",
       "answers": [
         { "text": "Lateral neck view" },
@@ -71,7 +73,7 @@
     },
     {
       "text": "A 28-year-old male on anticoagulant therapy is brought to the ER after a stab wound to the left chest. He is tachycardic and hypotensive. Chest X-ray reveals a large homogeneous opacity in the left hemithorax obscuring the left diaphragm and heart border, with contralateral mediastinal shift. What is the most likely diagnosis?",
-      "image": "/xrays/hemothorax.jpg",
+      "image": "/xrays/hemothorax.png",
       "answers": [
         { "text": "Left-sided tension pneumothorax" },
         { "text": "Left-sided hemothorax", "correct": true },
@@ -80,7 +82,7 @@
       ]
     },
     {
-      "text": "A 78-year-old female with a history of hypertension presents with acute onset of orthopnea, paroxysmal nocturnal dyspnea, and pink frothy sputum. On exam she has crackles bilaterally and peripheral edema. Chest X-ray shows cephalization of pulmonary vessels, bilateral perihilar batwing opacities, and thin horizontal lines at the lung bases. What are these thin horizontal lines called?",
+      "text": "A 78-year-old female with a history of hypertension presents with acute onset of orthopnea, paroxysmal nocturnal dyspnea, and pink frothy sputum. On exam she has crackles bilaterally and peripheral edema. Chest X-ray shows thin horizontal lines at the lung bases in the setting of pulmonary edema. What are these thin horizontal lines called?",
       "image": "/xrays/pulmonary-edema.jpg",
       "answers": [
         { "text": "Air bronchograms" },
@@ -90,7 +92,7 @@
       ]
     },
     {
-      "text": "A 48-year-old female with pancreatitis develops rapid onset of respiratory failure requiring intubation. Her chest X-ray shows confluent bilateral airspace opacities with a peripheral predominance and no cardiomegaly. What is the most likely diagnosis?",
+      "text": "A 48-year-old female with pancreatitis develops rapid onset of respiratory failure requiring intubation. Her chest X-ray shows diffuse bilateral airspace opacities without cardiomegaly. What is the most likely diagnosis?",
       "image": "/xrays/ards2.jpg",
       "answers": [
         { "text": "Bilateral pleural effusions" },
@@ -121,7 +123,6 @@
     },
     {
       "text": "An 18-month-old male is brought to the ER with sudden onset of cough and wheezing while eating peanuts. Breath sounds are diminished on the right. Chest X-ray reveals hyperinflation of the right lung with a flattened right hemidiaphragm and mediastinal shift to the left. On an expiratory film, the right lung remains hyperlucent and fails to deflate. What is the most likely diagnosis?",
-      "image": "/xrays/hyperinflated-lung.jpg",
       "answers": [
         { "text": "Right-sided pneumothorax" },
         { "text": "Foreign body aspiration into the right main bronchus", "correct": true },
@@ -160,7 +161,7 @@
       ]
     },
     {
-      "text": "A central venous catheter is inserted via the right subclavian vein. On post-procedure chest X-ray, the catheter is seen traversing the right subclavian vein into the superior vena cava. Based on the line position in this image, where should the tip be located for safe use?",
+      "text": "A tunneled central venous catheter is inserted via the internal jugular vein. On post-procedure chest X-ray, the catheter is seen coursing toward the superior vena cava. Based on the line position in this image, where should the tip be located for safe use?",
       "image": "/xrays/cvc-placement.jpg",
       "answers": [
         { "text": "In the right atrium" },
@@ -179,21 +180,21 @@
       ]
     },
     {
-      "text": "When reviewing a chest X-ray, the radiologist notes that the right lung appears significantly darker than the left, with complete loss of vascular markings on the right side. The left lung shows normal vascular markings and aeration. The trachea is midline. What technical quality issue is demonstrated in this image?",
-      "image": "/xrays/overexposed.jpg",
+      "text": "When reviewing a chest X-ray for image quality, the left hemidiaphragm cannot be followed clearly to the spine and the lung tissue behind the heart is difficult to assess. What technical quality issue is demonstrated in this image?",
+      "image": "/xrays/underpenetrated.jpg",
       "answers": [
-        { "text": "Underexposure (under-penetrated) — film too white on the right" },
-        { "text": "Overexposure (over-penetrated) — image saturation on the right", "correct": true },
+        { "text": "Underexposure (under-penetration) limiting assessment behind the heart", "correct": true },
+        { "text": "Overexposure (over-penetration) with image saturation" },
         { "text": "Patient rotation to the left" },
         { "text": "Poor inspiration with fewer than 8 posterior ribs visible" }
       ]
     },
     {
-      "text": "A respiratory therapist is evaluating a post-procedure chest X-ray after insertion of an NG tube. The image shows both an endotracheal tube and an NG tube in place. The radiopaque tip of the NG tube appears to cross the left hemidiaphragm but terminates at approximately 1 cm below it. Which of the following is the greatest concern?",
+      "text": "A respiratory therapist is evaluating a post-procedure chest X-ray after insertion of an NG tube. The tube descends in the midline and crosses the gastroesophageal junction, but the tip is not visible below the lower edge of the image. Which of the following is the greatest concern?",
       "image": "/xrays/ng-tube.png",
       "answers": [
         { "text": "The tube is in the right mainstem bronchus" },
-        { "text": "The tube may not be far enough into the stomach for safe feedings", "correct": true },
+        { "text": "The tube tip position cannot be confirmed for safe feedings", "correct": true },
         { "text": "The tube has perforated the esophagus" },
         { "text": "The tube is coiled in the oropharynx" }
       ]
