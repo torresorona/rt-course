@@ -1,0 +1,455 @@
+{
+  "title": "Cardiovascular Anatomy & Physiology Module Exam",
+  "questions": [
+    {
+      "text": "The heart lies within which thoracic cavity compartment?",
+      "answers": [
+        { "text": "Pleural cavity" },
+        { "text": "Mediastinum", "correct": true },
+        { "text": "Pericardial cavity" },
+        { "text": "Abdominal cavity" }
+      ]
+    },
+    {
+      "text": "Which portion of the heart forms the base?",
+      "answers": [
+        { "text": "Tip of the left ventricle" },
+        { "text": "Left atrium and small amount of right atrium", "correct": true },
+        { "text": "Right ventricle and left ventricle" },
+        { "text": "Inferior vena cava opening" }
+      ]
+    },
+    {
+      "text": "What is the primary function of the fibrous pericardium?",
+      "answers": [
+        { "text": "To produce serous fluid for lubrication" },
+        { "text": "To anchor the heart in the mediastinum and prevent overstretching", "correct": true },
+        { "text": "To supply blood to the myocardium" },
+        { "text": "To form the inner lining of the heart chambers" }
+      ]
+    },
+    {
+      "text": "Which layer of the heart wall contains the main coronary arteries on its surface?",
+      "answers": [
+        { "text": "Endocardium" },
+        { "text": "Myocardium" },
+        { "text": "Epicardium", "correct": true },
+        { "text": "Pericardium" }
+      ]
+    },
+    {
+      "text": "Cardiac muscle tissue is described as striated and involuntary. Which characteristic allows it to contract as a coordinated unit?",
+      "answers": [
+        { "text": "T-tubules" },
+        { "text": "Gap junctions", "correct": true },
+        { "text": "Sarcoplasmic reticulum" },
+        { "text": "Sarcomeres" }
+      ]
+    },
+    {
+      "text": "The right atrium receives deoxygenated blood from all of the following EXCEPT:",
+      "answers": [
+        { "text": "Superior vena cava" },
+        { "text": "Inferior vena cava" },
+        { "text": "Coronary sinus" },
+        { "text": "Pulmonary veins", "correct": true }
+      ]
+    },
+    {
+      "text": "The left ventricle is the thickest chamber because it must:",
+      "answers": [
+        { "text": "Pump blood to the lungs" },
+        { "text": "Overcome the high pressure of the systemic circulation", "correct": true },
+        { "text": "Receive blood from the entire body" },
+        { "text": "Generate the electrical impulse for the heart" }
+      ]
+    },
+    {
+      "text": "The fossa ovalis in the interatrial septum marks the location of the:",
+      "answers": [
+        { "text": "Coronary sinus opening" },
+        { "text": "Foramen ovale", "correct": true },
+        { "text": "AV node" },
+        { "text": "Bundle of His" }
+      ]
+    },
+    {
+      "text": "What is the primary function of the fibrous skeleton of the heart?",
+      "answers": [
+        { "text": "To contract during systole" },
+        { "text": "To provide structural support and prevent premature electrical conduction", "correct": true },
+        { "text": "To produce red blood cells" },
+        { "text": "To store calcium for contraction" }
+      ]
+    },
+    {
+      "text": "The coronary sulcus separates which structures?",
+      "answers": [
+        { "text": "Right ventricle from left ventricle" },
+        { "text": "Atria from ventricles", "correct": true },
+        { "text": "Right atrium from left atrium" },
+        { "text": "Aorta from pulmonary artery" }
+      ]
+    },
+    {
+      "text": "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+      "answers": [
+        { "text": "Tricuspid valve" },
+        { "text": "Pulmonic valve" },
+        { "text": "Mitral (bicuspid) valve", "correct": true },
+        { "text": "Aortic valve" }
+      ]
+    },
+    {
+      "text": "During ventricular systole, the papillary muscles contract to:",
+      "answers": [
+        { "text": "Open the semilunar valves" },
+        { "text": "Pull the chordae tendineae and prevent AV valve prolapse", "correct": true },
+        { "text": "Push blood through the coronary arteries" },
+        { "text": "Stimulate the SA node" }
+      ]
+    },
+    {
+      "text": "The semilunar valves are anchored by and consist of:",
+      "answers": [
+        { "text": "Fibrous skeleton; three crescent moon-shaped cusps", "correct": true },
+        { "text": "Chordae tendineae; two cusps" },
+        { "text": "Papillary muscles; four cusps" },
+        { "text": "Interventricular septum; five cusps" }
+      ]
+    },
+    {
+      "text": "Pulmonary circulation is described as a low-pressure system because it:",
+      "answers": [
+        { "text": "Involves shorter distances and less resistance than systemic circulation", "correct": true },
+        { "text": "Carries oxygenated blood" },
+        { "text": "Involves only the left side of the heart" },
+        { "text": "Does not require valves" }
+      ]
+    },
+    {
+      "text": "Which coronary artery branch supplies oxygenated blood to the walls of both ventricles?",
+      "answers": [
+        { "text": "Marginal branch" },
+        { "text": "Circumflex branch" },
+        { "text": "Anterior interventricular branch (LAD)", "correct": true },
+        { "text": "Posterior interventricular branch" }
+      ]
+    },
+    {
+      "text": "The great cardiac vein drains into which structure?",
+      "answers": [
+        { "text": "Superior vena cava" },
+        { "text": "Coronary sinus", "correct": true },
+        { "text": "Inferior vena cava" },
+        { "text": "Right ventricle" }
+      ]
+    },
+    {
+      "text": "The small cardiac vein drains the area of the heart supplied by which artery?",
+      "answers": [
+        { "text": "Left anterior descending" },
+        { "text": "Circumflex branch" },
+        { "text": "Right coronary artery and marginal branch", "correct": true },
+        { "text": "Posterior interventricular branch" }
+      ]
+    },
+    {
+      "text": "Which artery supplies oxygenated blood to the brain?",
+      "answers": [
+        { "text": "Subclavian artery" },
+        { "text": "Carotid arteries", "correct": true },
+        { "text": "Brachial artery" },
+        { "text": "Femoral artery" }
+      ]
+    },
+    {
+      "text": "The dorsalis pedis pulse is located where?",
+      "answers": [
+        { "text": "Posterior to the knee" },
+        { "text": "Medial to the biceps brachii" },
+        { "text": "Top of the foot", "correct": true },
+        { "text": "Inferior to the inguinal ligament" }
+      ]
+    },
+    {
+      "text": "The largest vein in the body, returning blood from the lower body, is the:",
+      "answers": [
+        { "text": "Superior vena cava" },
+        { "text": "Inferior vena cava", "correct": true },
+        { "text": "Jugular vein" },
+        { "text": "Great cardiac vein" }
+      ]
+    },
+    {
+      "text": "During phase 0 of the cardiac action potential, rapid depolarization is caused by:",
+      "answers": [
+        { "text": "Calcium influx through slow Ca2+ channels" },
+        { "text": "Sodium influx through voltage-gated fast Na+ channels", "correct": true },
+        { "text": "Potassium efflux through K+ channels" },
+        { "text": "Chloride influx through Cl- channels" }
+      ]
+    },
+    {
+      "text": "Which phase of the action potential is known as the plateau phase and sustains cardiac contraction?",
+      "answers": [
+        { "text": "Phase 0" },
+        { "text": "Phase 1" },
+        { "text": "Phase 2", "correct": true },
+        { "text": "Phase 3" }
+      ]
+    },
+    {
+      "text": "During the absolute refractory period, the cardiac cell:",
+      "answers": [
+        { "text": "Can be stimulated by a stronger than normal stimulus" },
+        { "text": "Will not respond to any further stimulation", "correct": true },
+        { "text": "Is more excitable than normal" },
+        { "text": "Is at resting membrane potential" }
+      ]
+    },
+    {
+      "text": "Which component of the cardiac conduction system has an intrinsic rate of 40-60 bpm?",
+      "answers": [
+        { "text": "SA node" },
+        { "text": "AV node", "correct": true },
+        { "text": "Bundle of His" },
+        { "text": "Purkinje fibers" }
+      ]
+    },
+    {
+      "text": "The Purkinje fibers rapidly conduct the action potential from the apex upward to ensure:",
+      "answers": [
+        { "text": "The atria contract before the ventricles" },
+        { "text": "Ventricular contraction begins at the apex and moves upward", "correct": true },
+        { "text": "The SA node fires faster" },
+        { "text": "The AV node delays the impulse" }
+      ]
+    },
+    {
+      "text": "The P wave on an ECG corresponds to which electrical event?",
+      "answers": [
+        { "text": "Ventricular depolarization" },
+        { "text": "Atrial depolarization", "correct": true },
+        { "text": "Ventricular repolarization" },
+        { "text": "Atrial repolarization" }
+      ]
+    },
+    {
+      "text": "Isovolumetric contraction occurs when:",
+      "answers": [
+        { "text": "The AV valves are open and SL valves are closed" },
+        { "text": "Both the AV and SL valves are closed", "correct": true },
+        { "text": "The AV valves are closed and SL valves are open" },
+        { "text": "Both the AV and SL valves are open" }
+      ]
+    },
+    {
+      "text": "End-diastolic volume (EDV) in a typical resting adult is approximately:",
+      "answers": [
+        { "text": "60 mL" },
+        { "text": "70 mL" },
+        { "text": "130 mL", "correct": true },
+        { "text": "250 mL" }
+      ]
+    },
+    {
+      "text": "A patient has a heart rate of 80 bpm and a stroke volume of 65 mL. What is their cardiac output?",
+      "answers": [
+        { "text": "4.2 L/min" },
+        { "text": "5.2 L/min", "correct": true },
+        { "text": "6.5 L/min" },
+        { "text": "7.8 L/min" }
+      ]
+    },
+    {
+      "text": "Which of the following would decrease stroke volume?",
+      "answers": [
+        { "text": "Increased preload" },
+        { "text": "Increased contractility" },
+        { "text": "Increased afterload", "correct": true },
+        { "text": "Decreased heart rate" }
+      ]
+    },
+    {
+      "text": "The tunica media of a blood vessel is primarily responsible for:",
+      "answers": [
+        { "text": "Providing a smooth inner lining" },
+        { "text": "Regulating lumen diameter through vasoconstriction and vasodilation", "correct": true },
+        { "text": "Anchoring the vessel to surrounding tissues" },
+        { "text": "Exchanging nutrients with neighboring cells" }
+      ]
+    },
+    {
+      "text": "Elastic arteries are characterized by:",
+      "answers": [
+        { "text": "A tunica media dominated by smooth muscle" },
+        { "text": "A tunica media dominated by elastic fibers", "correct": true },
+        { "text": "A thick tunica externa relative to their diameter" },
+        { "text": "Greater capacity for vasoconstriction than other arteries" }
+      ]
+    },
+    {
+      "text": "Capillaries are known as exchange vessels because they:",
+      "answers": [
+        { "text": "Have thick muscular walls to pump blood" },
+        { "text": "Lack a tunica media and externa, maximizing surface area for diffusion", "correct": true },
+        { "text": "Contain valves to prevent backflow" },
+        { "text": "Are innervated by the autonomic nervous system" }
+      ]
+    },
+    {
+      "text": "Precapillary sphincters function to:",
+      "answers": [
+        { "text": "Prevent blood from entering the heart" },
+        { "text": "Regulate blood flow into specific capillary beds", "correct": true },
+        { "text": "Close the semilunar valves during diastole" },
+        { "text": "Stimulate the SA node during exercise" }
+      ]
+    },
+    {
+      "text": "Approximately what percentage of blood volume is contained in systemic veins and venules at rest?",
+      "answers": [
+        { "text": "13%" },
+        { "text": "7%" },
+        { "text": "64%", "correct": true },
+        { "text": "9%" }
+      ]
+    },
+    {
+      "text": "The vasa vasorum supplies:",
+      "answers": [
+        { "text": "Blood to the myocardium" },
+        { "text": "Oxygen and nutrients to the outer wall of blood vessels", "correct": true },
+        { "text": "Nerve fibers to the SA node" },
+        { "text": "Blood to the lungs" }
+      ]
+    },
+    {
+      "text": "Which mechanism of capillary exchange uses pinocyte vesicles to move large lipid-insoluble molecules across the endothelium?",
+      "answers": [
+        { "text": "Diffusion" },
+        { "text": "Transcytosis", "correct": true },
+        { "text": "Bulk flow" },
+        { "text": "Active transport" }
+      ]
+    },
+    {
+      "text": "In Starling's law of the capillaries, which pressure promotes filtration of fluid out of the capillary?",
+      "answers": [
+        { "text": "Blood colloid osmotic pressure" },
+        { "text": "Blood hydrostatic pressure", "correct": true },
+        { "text": "Interstitial fluid hydrostatic pressure" },
+        { "text": "Net filtration pressure" }
+      ]
+    },
+    {
+      "text": "A decrease in blood albumin would most likely cause:",
+      "answers": [
+        { "text": "Increased BCOP and fluid reabsorption" },
+        { "text": "Decreased BCOP and increased filtration leading to edema", "correct": true },
+        { "text": "Increased blood hydrostatic pressure" },
+        { "text": "Decreased interstitial fluid osmotic pressure" }
+      ]
+    },
+    {
+      "text": "Vascular resistance is increased by all of the following EXCEPT:",
+      "answers": [
+        { "text": "Vasoconstriction" },
+        { "text": "Vasodilation", "correct": true },
+        { "text": "Increased blood viscosity" },
+        { "text": "Increased blood vessel length" }
+      ]
+    },
+    {
+      "text": "The respiratory pump assists venous return by:",
+      "answers": [
+        { "text": "Increasing heart rate during inhalation" },
+        { "text": "Compressing abdominal veins and decompressing thoracic veins during inhalation", "correct": true },
+        { "text": "Constricting arterioles in the lungs" },
+        { "text": "Opening the aortic valve during exhalation" }
+      ]
+    },
+    {
+      "text": "The cardiovascular center is located in the:",
+      "answers": [
+        { "text": "Cerebral cortex" },
+        { "text": "Medulla oblongata", "correct": true },
+        { "text": "Cerebellum" },
+        { "text": "Hypothalamus" }
+      ]
+    },
+    {
+      "text": "When blood pressure rises, baroreceptors respond by:",
+      "answers": [
+        { "text": "Sending slower impulses to increase sympathetic tone" },
+        { "text": "Sending faster impulses to increase parasympathetic stimulation and decrease sympathetic stimulation", "correct": true },
+        { "text": "Releasing ADH to retain water" },
+        { "text": "Directly constricting the arterioles" }
+      ]
+    },
+    {
+      "text": "Chemoreceptors detect all of the following EXCEPT:",
+      "answers": [
+        { "text": "Decreased pO2 (hypoxia)" },
+        { "text": "Increased pCO2 (hypercapnia)" },
+        { "text": "Increased H+ (acidosis)" },
+        { "text": "Decreased blood pressure", "correct": true }
+      ]
+    },
+    {
+      "text": "Antidiuretic hormone (ADH) increases blood pressure by:",
+      "answers": [
+        { "text": "Increasing heart rate" },
+        { "text": "Causing vasoconstriction and helping the kidneys retain water", "correct": true },
+        { "text": "Blocking calcium channels in the heart" },
+        { "text": "Stimulating the SA node directly" }
+      ]
+    },
+    {
+      "text": "Autoregulation allows a tissue to adjust its blood flow based on:",
+      "answers": [
+        { "text": "Signals from the brainstem" },
+        { "text": "Its own metabolic demands", "correct": true },
+        { "text": "Hormonal signals from the adrenal glands" },
+        { "text": "Baroreceptor feedback" }
+      ]
+    },
+    {
+      "text": "A patient with a myocardial infarction has difficulty maintaining adequate cardiac output. This is most consistent with which type of shock?",
+      "answers": [
+        { "text": "Hypovolemic shock" },
+        { "text": "Cardiogenic shock", "correct": true },
+        { "text": "Vascular shock" },
+        { "text": "Obstructive shock" }
+      ]
+    },
+    {
+      "text": "A pulmonary embolism lodged in the pulmonary arteries causes which type of shock?",
+      "answers": [
+        { "text": "Hypovolemic shock" },
+        { "text": "Cardiogenic shock" },
+        { "text": "Vascular shock" },
+        { "text": "Obstructive shock", "correct": true }
+      ]
+    },
+    {
+      "text": "The body's initial homeostatic response to shock includes all of the following EXCEPT:",
+      "answers": [
+        { "text": "Increased sympathetic response" },
+        { "text": "Increased hormonal response causing vasoconstriction" },
+        { "text": "Increased local vasodilators", "correct": true },
+        { "text": "Increased heart rate" }
+      ]
+    },
+    {
+      "text": "Myogenic response refers to:",
+      "answers": [
+        { "text": "The heart's ability to generate its own action potential" },
+        { "text": "Vessels contracting more forcefully when stretched and relaxing when stretching less", "correct": true },
+        { "text": "The release of nitric oxide by endothelial cells" },
+        { "text": "The effect of epinephrine on heart rate" }
+      ]
+    }
+  ]
+}

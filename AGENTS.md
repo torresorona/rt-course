@@ -65,11 +65,13 @@ rt-course/
 │   └── GCSScenarios.tsx        # Client — GCS clinical scenario trainer
 │
 ├── content/                    # ⭐ ALL COURSE CONTENT LIVES HERE
-│   ├── pharmacology/           # Module 1 (order: 1) — 5 lessons
-│   ├── patient-assessment/     # Module 2 (order: 2) — 4 lessons
-│   ├── cardiac-diagnostics-i/  # Module 3 (order: 3) — 6 lessons
-│   ├── cardiac-diagnostics-ii/ # Module 4 (order: 4) — 4 lessons
-│   └── pulmonary-diagnostics-ii/ # Module 5 (order: 5) — 3 lessons
+│   ├── pulmonary-anatomy-physiology/ # Module 1 (order: 1) — 5 lessons
+│   ├── cardiovascular-anatomy-physiology/ # Module 2 (order: 2) — 6 lessons
+│   ├── pharmacology/           # Module 3 (order: 3) — 5 lessons
+│   ├── patient-assessment/     # Module 4 (order: 4) — 4 lessons
+│   ├── cardiac-diagnostics-i/  # Module 5 (order: 5) — 6 lessons
+│   ├── cardiac-diagnostics-ii/ # Module 6 (order: 6) — 4 lessons
+│   └── pulmonary-diagnostics-ii/ # Module 7 (order: 7) — 3 lessons
 │
 ├── db/
 │   ├── schema.ts               # Drizzle schema — modules, quizzes, questions, answers, progress
@@ -294,11 +296,13 @@ The lesson page (`app/[...slug]/page.tsx`) has three views controlled by `?view=
 
 | # | Module Slug | Title | Lessons |
 |---|-------------|-------|---------|
-| 1 | `pharmacology` | Pharmacology | 5 (incl. module exam) |
-| 2 | `patient-assessment` | Patient Assessment | 4 |
-| 3 | `cardiac-diagnostics-i` | Cardiac Diagnostics I | 6 (incl. review + exam) |
-| 4 | `cardiac-diagnostics-ii` | Cardiac Diagnostics II | 4 (incl. review + exam) |
-| 5 | `pulmonary-diagnostics-ii` | Pulmonary Diagnostics II | 3 |
+| 1 | `pulmonary-anatomy-physiology` | Pulmonary Anatomy & Physiology | 5 (incl. module exam) |
+| 2 | `cardiovascular-anatomy-physiology` | Cardiovascular Anatomy & Physiology | 6 (incl. module exam) |
+| 3 | `pharmacology` | Pharmacology | 5 (incl. module exam) |
+| 4 | `patient-assessment` | Patient Assessment | 4 |
+| 5 | `cardiac-diagnostics-i` | Cardiac Diagnostics I | 6 (incl. review + exam) |
+| 6 | `cardiac-diagnostics-ii` | Cardiac Diagnostics II | 4 (incl. review + exam) |
+| 7 | `pulmonary-diagnostics-ii` | Pulmonary Diagnostics II | 3 |
 
 ### NotebookLM Source Files
 Some lessons have `notebooklm-source.md` files — these are expanded study guides used as input for generating audio podcasts via Google NotebookLM. Currently only `cardiac-diagnostics-i` lessons have these files.
@@ -313,8 +317,8 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 2. Create `module.json` with title, description, order, lessons array
 3. Create lesson subdirectories: `content/<module-slug>/lesson-1/`, etc.
 4. Create `lesson.mdx` in each lesson directory with frontmatter
-5. Optionally create `quiz.json` in each lesson directory
-6. Optionally create `notebooklm-source.md` for audio generation
+5. Create `quiz.json` in each lesson directory
+6. Create `notebooklm-source.md` for each content lesson (expanded conversational transcript for audio generation via NotebookLM)
 7. Add audio file mapping to `audioMap` in `app/[...slug]/page.tsx` if audio exists
 8. Run `npm run db:seed` to populate the database (validates quiz JSON syntax and loads questions)
 
@@ -412,4 +416,4 @@ This is a **Respiratory Therapy** course for a student in a military RT program.
 - **Cardiac Diagnostics II**: Echocardiography, cardiac catheterization, hemodynamic monitoring, cardiac rehab
 - **Pulmonary Diagnostics II**: ABG sampling, acid-base balance, oxygenation evaluation, blood gas analyzers
 
-When creating new content, maintain clinical accuracy and use proper medical terminology. Quiz questions should test understanding, not just recall — include clinical scenarios when possible.
+When creating new content, always use the provided content as the sole source — do not add external vocabulary, facts, or terminology not present in the source material. Avoid excessive auxiliary info or elaboration beyond what's in the original content. Maintain clinical accuracy and use proper medical terminology. Quiz questions should test understanding, not just recall — include clinical scenarios when possible.

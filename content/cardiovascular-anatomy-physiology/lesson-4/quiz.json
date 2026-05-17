@@ -1,0 +1,95 @@
+{
+  "title": "Structure and Function of Blood Vessels",
+  "questions": [
+    {
+      "text": "Which layer of a blood vessel is primarily responsible for regulating lumen diameter through vasoconstriction and vasodilation?",
+      "answers": [
+        { "text": "Tunica interna", "correct": false },
+        { "text": "Tunica media", "correct": true },
+        { "text": "Tunica externa", "correct": false },
+        { "text": "Vasa vasorum", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the function of the internal elastic lamina found in blood vessel walls?",
+      "answers": [
+        { "text": "To anchor the vessel to surrounding tissues", "correct": false },
+        { "text": "To facilitate diffusion through window-like openings", "correct": true },
+        { "text": "To produce red blood cells", "correct": false },
+        { "text": "To generate electrical impulses for vasoconstriction", "correct": false }
+      ]
+    },
+    {
+      "text": "Elastic arteries are characterized by:",
+      "answers": [
+        { "text": "A thick tunica media dominated by smooth muscle", "correct": false },
+        { "text": "A thick tunica media dominated by elastic fibers", "correct": true },
+        { "text": "The ability to distribute blood to specific organs", "correct": false },
+        { "text": "Greater capacity for vasoconstriction than muscular arteries", "correct": false }
+      ]
+    },
+    {
+      "text": "The ability of an anastomosis to provide collateral circulation is most important when:",
+      "answers": [
+        { "text": "Blood viscosity increases", "correct": false },
+        { "text": "A blood vessel becomes blocked or damaged", "correct": true },
+        { "text": "Heart rate decreases during sleep", "correct": false },
+        { "text": "Blood pressure drops during hemorrhage", "correct": false }
+      ]
+    },
+    {
+      "text": "What controls blood flow into specific capillary beds?",
+      "answers": [
+        { "text": "The tunica externa", "correct": false },
+        { "text": "The vasa vasorum", "correct": false },
+        { "text": "Precapillary sphincters", "correct": true },
+        { "text": "Elastic lamellae", "correct": false }
+      ]
+    },
+    {
+      "text": "Which blood vessels are the most distensible elements of the vascular system and serve as a reservoir for large volumes of blood?",
+      "answers": [
+        { "text": "Elastic arteries", "correct": false },
+        { "text": "Muscular arteries", "correct": false },
+        { "text": "Muscular venules", "correct": true },
+        { "text": "Capillaries", "correct": false }
+      ]
+    },
+    {
+      "text": "What prevents blood from flowing backward in veins?",
+      "answers": [
+        { "text": "The thick tunica media", "correct": false },
+        { "text": "Valves within the veins", "correct": true },
+        { "text": "The elastic recoil of the vessel wall", "correct": false },
+        { "text": "High pressure in the venous system", "correct": false }
+      ]
+    },
+    {
+      "text": "At rest, the largest portion of blood volume is found in:",
+      "answers": [
+        { "text": "Systemic arteries and arterioles", "correct": false },
+        { "text": "Systemic capillaries", "correct": false },
+        { "text": "Systemic veins and venules", "correct": true },
+        { "text": "The heart and pulmonary vessels", "correct": false }
+      ]
+    },
+    {
+      "text": "During hemorrhage, vasoconstriction of which vessels helps redistribute blood to maintain survivable blood pressure?",
+      "answers": [
+        { "text": "Elastic arteries only", "correct": false },
+        { "text": "Systemic capillaries", "correct": false },
+        { "text": "Systemic veins and venules", "correct": true },
+        { "text": "Pulmonary arteries", "correct": false }
+      ]
+    },
+    {
+      "text": "A nurse notices that when a patient's skin is cut, bleeding initially stops quickly. This is primarily due to:",
+      "answers": [
+        { "text": "Platelet plug formation", "correct": false },
+        { "text": "A vascular spasm of the tunica media", "correct": true },
+        { "text": "Clotting factor activation", "correct": false },
+        { "text": "Fibrin deposition", "correct": false }
+      ]
+    }
+  ]
+}

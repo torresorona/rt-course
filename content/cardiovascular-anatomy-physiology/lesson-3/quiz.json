@@ -1,0 +1,95 @@
+{
+  "title": "Cardiac Muscle, Conduction System, and Cardiac Cycle",
+  "questions": [
+    {
+      "text": "What structural feature allows cardiac muscle cells to contract as a single coordinated unit?",
+      "answers": [
+        { "text": "Sarcomeres", "correct": false },
+        { "text": "Gap junctions", "correct": true },
+        { "text": "T-tubules", "correct": false },
+        { "text": "Z-discs", "correct": false }
+      ]
+    },
+    {
+      "text": "During phase 0 of the cardiac action potential, which ion rapidly moves into the cell?",
+      "answers": [
+        { "text": "Potassium (K+)", "correct": false },
+        { "text": "Calcium (Ca2+)", "correct": false },
+        { "text": "Sodium (Na+)", "correct": true },
+        { "text": "Chloride (Cl-)", "correct": false }
+      ]
+    },
+    {
+      "text": "The plateau phase (phase 2) of the action potential is characterized by which combination of ion movements?",
+      "answers": [
+        { "text": "Rapid Na+ influx and rapid K+ efflux", "correct": false },
+        { "text": "Slow Ca2+ entry and slow K+ leaving", "correct": true },
+        { "text": "Rapid Ca2+ efflux and rapid Na+ influx", "correct": false },
+        { "text": "No ion movement occurs during the plateau", "correct": false }
+      ]
+    },
+    {
+      "text": "During the absolute refractory period, the cardiac cell:",
+      "answers": [
+        { "text": "Can respond to a stronger than normal stimulus", "correct": false },
+        { "text": "Will not respond to further stimulation", "correct": true },
+        { "text": "Is more excitable than normal", "correct": false },
+        { "text": "Repolarizes back to resting membrane potential", "correct": false }
+      ]
+    },
+    {
+      "text": "The R on T phenomenon is most likely to occur during which period?",
+      "answers": [
+        { "text": "Absolute refractory period", "correct": false },
+        { "text": "Effective refractory period", "correct": false },
+        { "text": "Relative refractory period", "correct": false },
+        { "text": "Supranormal period", "correct": true }
+      ]
+    },
+    {
+      "text": "Which structure is the primary pacemaker of the heart with an intrinsic rate of 60-100 bpm?",
+      "answers": [
+        { "text": "Atrioventricular node", "correct": false },
+        { "text": "Bundle of His", "correct": false },
+        { "text": "Sinoatrial node", "correct": true },
+        { "text": "Purkinje fibers", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the significance of the delay at the AV node?",
+      "answers": [
+        { "text": "It prevents the heart from beating too fast", "correct": false },
+        { "text": "It allows the atria to fully empty blood into the ventricles", "correct": true },
+        { "text": "It increases the force of ventricular contraction", "correct": false },
+        { "text": "It allows the lungs to oxygenate the blood before ejection", "correct": false }
+      ]
+    },
+    {
+      "text": "The QRS complex marks what electrical event on the ECG?",
+      "answers": [
+        { "text": "Atrial depolarization", "correct": false },
+        { "text": "Ventricular depolarization", "correct": true },
+        { "text": "Atrial repolarization", "correct": false },
+        { "text": "Ventricular repolarization", "correct": false }
+      ]
+    },
+    {
+      "text": "A patient has a cardiac output of 4.9 L/min and a heart rate of 70 bpm. What is their stroke volume?",
+      "answers": [
+        { "text": "50 mL", "correct": false },
+        { "text": "60 mL", "correct": false },
+        { "text": "70 mL", "correct": true },
+        { "text": "80 mL", "correct": false }
+      ]
+    },
+    {
+      "text": "According to the Frank-Starling law, an increase in preload leads to:",
+      "answers": [
+        { "text": "A weaker contraction due to overstretching", "correct": false },
+        { "text": "A stronger contraction due to greater stretch", "correct": true },
+        { "text": "Decreased stroke volume", "correct": false },
+        { "text": "Decreased end-diastolic volume", "correct": false }
+      ]
+    }
+  ]
+}

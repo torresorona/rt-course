@@ -1,0 +1,95 @@
+{
+  "title": "Anatomy of the Heart",
+  "questions": [
+    {
+      "text": "Where does the heart lie within the thoracic cavity?",
+      "answers": [
+        { "text": "In the pleural cavity, between the lungs", "correct": false },
+        { "text": "In the mediastinum, between the lungs", "correct": true },
+        { "text": "In the pericardial cavity, posterior to the sternum", "correct": false },
+        { "text": "In the abdominal cavity, above the diaphragm", "correct": false }
+      ]
+    },
+    {
+      "text": "Approximately what fraction of the heart lies to the left of the sternum?",
+      "answers": [
+        { "text": "One-quarter", "correct": false },
+        { "text": "One-third", "correct": false },
+        { "text": "One-half", "correct": false },
+        { "text": "Two-thirds", "correct": true }
+      ]
+    },
+    {
+      "text": "Which structure forms the apex of the heart?",
+      "answers": [
+        { "text": "The tip of the left ventricle", "correct": true },
+        { "text": "The superior vena cava", "correct": false },
+        { "text": "The right atrium", "correct": false },
+        { "text": "The base of the aorta", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the primary function of the fibrous pericardium?",
+      "answers": [
+        { "text": "To produce serous fluid for lubrication", "correct": false },
+        { "text": "To anchor the heart and prevent overstretching", "correct": true },
+        { "text": "To supply blood to the myocardium", "correct": false },
+        { "text": "To generate the electrical impulse for contraction", "correct": false }
+      ]
+    },
+    {
+      "text": "The pericardial cavity contains approximately how much serous fluid?",
+      "answers": [
+        { "text": "5 mL", "correct": false },
+        { "text": "10 mL", "correct": false },
+        { "text": "20 mL", "correct": true },
+        { "text": "50 mL", "correct": false }
+      ]
+    },
+    {
+      "text": "Which layer of the heart wall is the thickest and responsible for the pumping action?",
+      "answers": [
+        { "text": "Epicardium", "correct": false },
+        { "text": "Myocardium", "correct": true },
+        { "text": "Endocardium", "correct": false },
+        { "text": "Pericardium", "correct": false }
+      ]
+    },
+    {
+      "text": "Which chamber of the heart has the thickest walls?",
+      "answers": [
+        { "text": "Right atrium", "correct": false },
+        { "text": "Left atrium", "correct": false },
+        { "text": "Right ventricle", "correct": false },
+        { "text": "Left ventricle", "correct": true }
+      ]
+    },
+    {
+      "text": "What is the function of the chordae tendineae?",
+      "answers": [
+        { "text": "To generate the cardiac action potential", "correct": false },
+        { "text": "To connect the AV valves to papillary muscles", "correct": true },
+        { "text": "To separate the atria from the ventricles", "correct": false },
+        { "text": "To supply blood to the myocardium", "correct": false }
+      ]
+    },
+    {
+      "text": "What does the coronary sulcus separate?",
+      "answers": [
+        { "text": "The right ventricle from the left ventricle", "correct": false },
+        { "text": "The atria from the ventricles", "correct": true },
+        { "text": "The right atrium from the left atrium", "correct": false },
+        { "text": "The aorta from the pulmonary artery", "correct": false }
+      ]
+    },
+    {
+      "text": "What is the function of the fibrous skeleton of the heart?",
+      "answers": [
+        { "text": "To produce red blood cells", "correct": false },
+        { "text": "To prevent premature conduction from atria to ventricles", "correct": true },
+        { "text": "To store calcium for cardiac contraction", "correct": false },
+        { "text": "To pump blood through the coronary arteries", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Cardiovascular Anatomy & Physiology",
+  "description": "Structure and function of the heart, cardiac conduction, hemodynamics, and regulation of blood pressure.",
+  "order": 2,
+  "lessons": [
+    { "slug": "cardiovascular-anatomy-physiology/lesson-1", "title": "Anatomy of the Heart", "description": "Heart location, pericardium, layers, chambers, septum, and fibrous skeleton." },
+    { "slug": "cardiovascular-anatomy-physiology/lesson-2", "title": "Heart Valves and Circulation", "description": "AV and semilunar valves, systemic and pulmonary circulation, coronary circulation." },
+    { "slug": "cardiovascular-anatomy-physiology/lesson-3", "title": "Cardiac Muscle, Conduction System, and Cardiac Cycle", "description": "Cardiac muscle histology, action potential, refractory periods, conduction pathway, cardiac cycle phases, EDV/ESV, stroke volume, cardiac output, preload/afterload/contractility." },
+    { "slug": "cardiovascular-anatomy-physiology/lesson-4", "title": "Structure and Function of Blood Vessels", "description": "Artery, arteriole, capillary, venule, and vein structure, three tunics, elastic vs muscular arteries, anastomoses, blood distribution." },
+    { "slug": "cardiovascular-anatomy-physiology/lesson-5", "title": "Capillary Exchange, Hemodynamics, and BP Control", "description": "Diffusion, transcytosis, bulk flow, Starling's law, vascular resistance, SVR, venous return, MAP, baroreceptor/chemoreceptor reflexes, hormonal regulation, autoregulation, types of shock." },
+    { "slug": "cardiovascular-anatomy-physiology/lesson-6", "title": "Module Exam", "description": "Comprehensive exam covering all Cardiovascular Anatomy & Physiology content." }
+  ],
+  "resources": [],
+  "audio": [
+    { "title": "Anatomy of the Heart (Unit I)", "src": "/audio/cardiovascular-anatomy-physiology/Anatomy_of_the_Human_Heart_Engine.m4a" },
+    { "title": "Heart Valves and Circulation (Unit II)", "src": "/audio/cardiovascular-anatomy-physiology/How_your_body_moves_blood_against_gravity.m4a" },
+    { "title": "Cardiac Muscle, Conduction, and Cycle (Unit III)", "src": "/audio/cardiovascular-anatomy-physiology/The_Engineering_Logic_of_Your_Heart.m4a" },
+    { "title": "Blood Vessels (Unit IV)", "src": "/audio/cardiovascular-anatomy-physiology/Your_Body_s_Hidden_Blood_Reservoir.m4a" },
+    { "title": "Capillary Exchange, Hemodynamics, and BP Control (Unit V)", "src": "/audio/cardiovascular-anatomy-physiology/The_Physics_of_Your_Heart_s_Engine.m4a" }
+  ]
+}

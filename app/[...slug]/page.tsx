@@ -36,15 +36,6 @@ export default async function LessonPage({
   const { userId } = await auth();
   const filePath = join(process.cwd(), "content", ...slug, "lesson.mdx");
 
-  const hasXrayExam = slugPath === "pulmonary-diagnostics-ii/lesson-6"
-
-  const views = [
-    { id: "review", label: "Review" },
-    { id: "resources", label: "Resources" },
-    { id: "quiz", label: "Module Exam" },
-    ...(hasXrayExam ? [{ id: "xray-exam", label: "X-ray Exam" }] : []),
-  ];
-
   if (!existsSync(filePath)) {
     notFound();
   }
@@ -59,6 +50,16 @@ export default async function LessonPage({
     components: mdxComponents,
     options: { parseFrontmatter: true, mdxOptions: { remarkPlugins: [remarkGfm] } },
   });
+
+  const isModuleExam = frontmatter.title?.toLowerCase().includes("module exam");
+  const hasXrayExam = slugPath === "pulmonary-diagnostics-ii/lesson-6"
+
+  const views = [
+    { id: "review", label: "Review" },
+    { id: "resources", label: "Resources" },
+    { id: "quiz", label: isModuleExam ? "Module Exam" : "Quiz" },
+    ...(hasXrayExam ? [{ id: "xray-exam", label: "X-ray Exam" }] : []),
+  ];
 
   // Read module.json for breadcrumb if it exists
   const moduleSlug = slug[0];
@@ -92,6 +93,11 @@ export default async function LessonPage({
     "pulmonary-diagnostics-ii/lesson-3": "/audio/The_Invisible_Math_of_Clinical_Oxygenation.m4a",
     "pulmonary-diagnostics-ii/lesson-4": "/audio/The_Physics_of_Clinical_Chest_X-Rays.m4a",
     "pulmonary-diagnostics-ii/lesson-5": "/audio/How_doctors_read_shadows_on_lung_scans.m4a",
+    "cardiovascular-anatomy-physiology/lesson-1": "/audio/cardiovascular-anatomy-physiology/Anatomy_of_the_Human_Heart_Engine.m4a",
+    "cardiovascular-anatomy-physiology/lesson-2": "/audio/cardiovascular-anatomy-physiology/How_your_body_moves_blood_against_gravity.m4a",
+    "cardiovascular-anatomy-physiology/lesson-3": "/audio/cardiovascular-anatomy-physiology/The_Engineering_Logic_of_Your_Heart.m4a",
+    "cardiovascular-anatomy-physiology/lesson-4": "/audio/cardiovascular-anatomy-physiology/Your_Body_s_Hidden_Blood_Reservoir.m4a",
+    "cardiovascular-anatomy-physiology/lesson-5": "/audio/cardiovascular-anatomy-physiology/The_Physics_of_Your_Heart_s_Engine.m4a",
     "pulmonary-anatomy-physiology/lesson-1": "/audio/The_Engineering_of_a_Single_Breath.m4a",
     "pulmonary-anatomy-physiology/lesson-2": "/audio/The_Physics_of_Human_Gas_Exchange.m4a",
     "pulmonary-anatomy-physiology/lesson-3": "/audio/Why_You_Breathe_to_Expel_Brain_Acid.m4a",

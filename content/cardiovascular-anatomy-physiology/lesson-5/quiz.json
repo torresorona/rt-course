@@ -1,0 +1,95 @@
+{
+  "title": "Capillary Exchange, Hemodynamics, and BP Control",
+  "questions": [
+    {
+      "text": "Which mechanism is the most important method of capillary exchange?",
+      "answers": [
+        { "text": "Transcytosis", "correct": false },
+        { "text": "Bulk flow", "correct": false },
+        { "text": "Simple diffusion", "correct": true },
+        { "text": "Active transport", "correct": false }
+      ]
+    },
+    {
+      "text": "According to Starling's law, which pressure pushes fluid out of the capillaries into the interstitial space?",
+      "answers": [
+        { "text": "Blood colloid osmotic pressure (BCOP)", "correct": false },
+        { "text": "Interstitial fluid hydrostatic pressure (IFHP)", "correct": false },
+        { "text": "Blood hydrostatic pressure (BHP)", "correct": true },
+        { "text": "Interstitial fluid osmotic pressure (IFOP)", "correct": false }
+      ]
+    },
+    {
+      "text": "A patient has low albumin levels due to liver disease. How would this affect Starling's forces?",
+      "answers": [
+        { "text": "Increased BCOP, causing fluid reabsorption", "correct": false },
+        { "text": "Decreased BCOP, causing increased filtration and edema", "correct": true },
+        { "text": "Increased BHP, causing vasoconstriction", "correct": false },
+        { "text": "Decreased IFHP, causing fluid retention in vessels", "correct": false }
+      ]
+    },
+    {
+      "text": "Mean arterial pressure (MAP) is calculated as:",
+      "answers": [
+        { "text": "Systolic BP + 1/3 (Systolic - Diastolic)", "correct": false },
+        { "text": "Diastolic BP + 1/3 (Systolic - Diastolic)", "correct": true },
+        { "text": "Systolic BP - Diastolic BP", "correct": false },
+        { "text": "(Systolic BP × Diastolic BP) / 2", "correct": false }
+      ]
+    },
+    {
+      "text": "Which factor does NOT increase vascular resistance?",
+      "answers": [
+        { "text": "Decreased lumen diameter due to vasoconstriction", "correct": false },
+        { "text": "Increased blood viscosity from polycythemia", "correct": false },
+        { "text": "Vasodilation causing increased lumen diameter", "correct": true },
+        { "text": "Increased total blood vessel length from obesity", "correct": false }
+      ]
+    },
+    {
+      "text": "The skeletal muscle pump and respiratory pump primarily assist with:",
+      "answers": [
+        { "text": "Increasing arterial blood pressure", "correct": false },
+        { "text": "Venous return of blood to the heart", "correct": true },
+        { "text": "Oxygenation of blood in the lungs", "correct": false },
+        { "text": "Vasoconstriction of arterioles", "correct": false }
+      ]
+    },
+    {
+      "text": "When blood pressure falls, baroreceptors respond by:",
+      "answers": [
+        { "text": "Sending faster impulses to the cardiovascular center", "correct": false },
+        { "text": "Sending slower impulses, decreasing parasympathetic response and increasing sympathetic response", "correct": true },
+        { "text": "Directly constricting all arterioles", "correct": false },
+        { "text": "Releasing epinephrine from the adrenal medulla", "correct": false }
+      ]
+    },
+    {
+      "text": "Chemoreceptors detect changes in which of the following?",
+      "answers": [
+        { "text": "Blood pressure only", "correct": false },
+        { "text": "Temperature and blood volume", "correct": false },
+        { "text": "pH, pO2, and pCO2", "correct": true },
+        { "text": "Heart rate and stroke volume", "correct": false }
+      ]
+    },
+    {
+      "text": "A trauma patient arrives with significant external bleeding. Which type of shock are they most likely experiencing?",
+      "answers": [
+        { "text": "Cardiogenic shock", "correct": false },
+        { "text": "Vascular shock", "correct": false },
+        { "text": "Obstructive shock", "correct": false },
+        { "text": "Hypovolemic shock", "correct": true }
+      ]
+    },
+    {
+      "text": "A patient with a severe bacterial infection develops widespread vasodilation and low blood pressure. This is most consistent with which type of shock?",
+      "answers": [
+        { "text": "Hypovolemic shock", "correct": false },
+        { "text": "Cardiogenic shock", "correct": false },
+        { "text": "Vascular shock (septic)", "correct": true },
+        { "text": "Obstructive shock", "correct": false }
+      ]
+    }
+  ]
+}

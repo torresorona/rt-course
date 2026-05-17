@@ -1,0 +1,95 @@
+{
+  "title": "Heart Valves and Circulation",
+  "questions": [
+    {
+      "text": "What is the primary function of heart valves?",
+      "answers": [
+        { "text": "To increase the force of cardiac contraction", "correct": false },
+        { "text": "To ensure one-way flow of blood and prevent backflow", "correct": true },
+        { "text": "To generate electrical impulses for conduction", "correct": false },
+        { "text": "To supply oxygen to the myocardium", "correct": false }
+      ]
+    },
+    {
+      "text": "A patient has a murmur caused by backflow of blood from the left ventricle into the left atrium. Which valve is most likely affected?",
+      "answers": [
+        { "text": "Aortic valve", "correct": false },
+        { "text": "Pulmonic valve", "correct": false },
+        { "text": "Tricuspid valve", "correct": false },
+        { "text": "Mitral (bicuspid) valve", "correct": true }
+      ]
+    },
+    {
+      "text": "What prevents the AV valve cusps from prolapsing backward into the atria during ventricular contraction?",
+      "answers": [
+        { "text": "The fibrous skeleton", "correct": false },
+        { "text": "The interventricular septum", "correct": false },
+        { "text": "Contraction of the papillary muscles pulling the chordae tendineae", "correct": true },
+        { "text": "The elastic recoil of the aorta", "correct": false }
+      ]
+    },
+    {
+      "text": "During which phase of the cardiac cycle do the semilunar valves open?",
+      "answers": [
+        { "text": "Atrial systole", "correct": false },
+        { "text": "Ventricular diastole", "correct": false },
+        { "text": "Ventricular systole when ventricular pressure exceeds arterial pressure", "correct": true },
+        { "text": "Isovolumetric relaxation", "correct": false }
+      ]
+    },
+    {
+      "text": "Which circulation is described as a low-pressure system?",
+      "answers": [
+        { "text": "Systemic circulation", "correct": false },
+        { "text": "Pulmonary circulation", "correct": true },
+        { "text": "Coronary circulation", "correct": false },
+        { "text": "Cerebral circulation", "correct": false }
+      ]
+    },
+    {
+      "text": "The left anterior descending artery (LAD) supplies blood to which region of the heart?",
+      "answers": [
+        { "text": "Walls of the right atrium", "correct": false },
+        { "text": "Walls of both ventricles", "correct": true },
+        { "text": "The left atrium only", "correct": false },
+        { "text": "The interatrial septum", "correct": false }
+      ]
+    },
+    {
+      "text": "All coronary veins ultimately drain into which structure?",
+      "answers": [
+        { "text": "The superior vena cava", "correct": false },
+        { "text": "The right atrium via the coronary sinus", "correct": true },
+        { "text": "The left atrium via the pulmonary veins", "correct": false },
+        { "text": "The inferior vena cava", "correct": false }
+      ]
+    },
+    {
+      "text": "Which artery supplies the right ventricle along the right margin of the heart?",
+      "answers": [
+        { "text": "Circumflex branch", "correct": false },
+        { "text": "Left anterior descending", "correct": false },
+        { "text": "Posterior interventricular branch", "correct": false },
+        { "text": "Marginal branch of the right coronary artery", "correct": true }
+      ]
+    },
+    {
+      "text": "A paramedic needs to feel a pulse at the groin. Which artery are they palpating?",
+      "answers": [
+        { "text": "Brachial artery", "correct": false },
+        { "text": "Popliteal artery", "correct": false },
+        { "text": "Femoral artery", "correct": true },
+        { "text": "Dorsalis pedis artery", "correct": false }
+      ]
+    },
+    {
+      "text": "Which veins drain deoxygenated blood from the brain, face, and neck?",
+      "answers": [
+        { "text": "Subclavian veins", "correct": false },
+        { "text": "Jugular veins", "correct": true },
+        { "text": "Cephalic veins", "correct": false },
+        { "text": "Basilic veins", "correct": false }
+      ]
+    }
+  ]
+}
