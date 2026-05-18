@@ -1,0 +1,230 @@
+{
+  "title": "Spirometry & Post-Bronchodilator Studies Quiz",
+  "questions": [
+    {
+      "text": "Which statement best defines spirometry?",
+      "answers": [
+        { "text": "The measurement of arterial pH, PaCO2, and PaO2" },
+        { "text": "The measurement of air entering and leaving the lungs", "correct": true },
+        { "text": "The measurement of oxygen saturation during sleep" },
+        { "text": "The direct visualization of the airways" }
+      ]
+    },
+    {
+      "text": "In the PAINT and CBABE memory aids, PAINT is associated with which type of problem?",
+      "answers": [
+        { "text": "Flow and possible obstruction" },
+        { "text": "Medication reversibility" },
+        { "text": "Volume and possible restriction", "correct": true },
+        { "text": "Bronchoprovocation response" }
+      ]
+    },
+    {
+      "text": "Which set belongs with the CBABE flow/obstruction memory aid?",
+      "answers": [
+        { "text": "Pulmonary, alveolar, interstitial, neuromuscular, thoracic" },
+        { "text": "Cystic fibrosis, bronchitis, asthma, bronchiectasis, emphysema", "correct": true },
+        { "text": "Cromolyn, albuterol, tiotropium, salmeterol, ipratropium" },
+        { "text": "Cough, sputum, dyspnea, smoking, asbestos" }
+      ]
+    },
+    {
+      "text": "Which is an indication for spirometry?",
+      "answers": [
+        { "text": "Known pneumothorax" },
+        { "text": "Recent eye surgery" },
+        { "text": "Thoracic aneurysm" },
+        { "text": "Establishing baseline pulmonary function", "correct": true }
+      ]
+    },
+    {
+      "text": "Which is a contraindication to spirometry?",
+      "answers": [
+        { "text": "Pre-operative evaluation" },
+        { "text": "Identifying a high-risk smoker" },
+        { "text": "Hemoptysis of unknown origin", "correct": true },
+        { "text": "Monitoring treatment response" }
+      ]
+    },
+    {
+      "text": "Which hazard can occur during spirometry if oxygen is interrupted?",
+      "answers": [
+        { "text": "Methemoglobinemia" },
+        { "text": "Desaturation", "correct": true },
+        { "text": "Pneumothorax resolution" },
+        { "text": "Hyperkalemia" }
+      ]
+    },
+    {
+      "text": "What is the primary advantage of volume-sensing spirometers listed in the lesson?",
+      "answers": [
+        { "text": "They do not require a mouthpiece" },
+        { "text": "They eliminate the need for nose clips" },
+        { "text": "Better long-term accuracy if calibration is not done regularly", "correct": true },
+        { "text": "They automatically diagnose asthma" }
+      ]
+    },
+    {
+      "text": "Predicted reference values for spirometry are compared according to which patient factors?",
+      "answers": [
+        { "text": "Weight, blood pressure, pulse, and temperature" },
+        { "text": "Smoking status, oxygen device, diagnosis, and medication list" },
+        { "text": "Occupation, sputum color, cough frequency, and sleep quality" },
+        { "text": "Race, age, sex, and height", "correct": true }
+      ]
+    },
+    {
+      "text": "A PFT value is considered normal when it is:",
+      "answers": [
+        { "text": "Greater than or equal to the LLN", "correct": true },
+        { "text": "Less than the LLN" },
+        { "text": "Always above 100% predicted" },
+        { "text": "Always below the ULN" }
+      ]
+    },
+    {
+      "text": "How are pack years calculated?",
+      "answers": [
+        { "text": "Years smoked divided by packs per day" },
+        { "text": "Packs per day x years smoked", "correct": true },
+        { "text": "Cigarettes per day x age" },
+        { "text": "Years since quitting x packs per week" }
+      ]
+    },
+    {
+      "text": "During the FVC maneuver, what should the patient do after inhaling maximally to TLC?",
+      "answers": [
+        { "text": "Hold the breath for 30 seconds" },
+        { "text": "Take several normal tidal breaths only" },
+        { "text": "Forcefully exhale until completely empty at RV", "correct": true },
+        { "text": "Remove the nose clips and cough" }
+      ]
+    },
+    {
+      "text": "How many acceptable and reproducible efforts should be obtained during spirometry?",
+      "answers": [
+        { "text": "One" },
+        { "text": "Two" },
+        { "text": "Seven" },
+        { "text": "Three", "correct": true }
+      ]
+    },
+    {
+      "text": "A sub-maximal blast is identified by low peaks on the flow-volume curve. What is the expected test implication?",
+      "answers": [
+        { "text": "Falsely reduced FEV1 and ratio", "correct": true },
+        { "text": "Falsely elevated FVC only" },
+        { "text": "Normal FEV1 with elevated ratio" },
+        { "text": "No effect on measured values" }
+      ]
+    },
+    {
+      "text": "Excessive extrapolated volume usually indicates which start-of-test problem?",
+      "answers": [
+        { "text": "Extra breath at the end of the test" },
+        { "text": "Hesitation before the initial blast", "correct": true },
+        { "text": "Positive zero-flow error" },
+        { "text": "Leak after the test is complete" }
+      ]
+    },
+    {
+      "text": "For a patient with FVC less than 2 L, extrapolated volume must be less than:",
+      "answers": [
+        { "text": "200 mL" },
+        { "text": "5% of predicted FEV1" },
+        { "text": "100 mL", "correct": true },
+        { "text": "15 seconds" }
+      ]
+    },
+    {
+      "text": "Which middle-of-test issue makes an effort unacceptable when it exceeds the listed threshold?",
+      "answers": [
+        { "text": "FEV1 greater than 80% predicted" },
+        { "text": "PEFR recorded in L/min" },
+        { "text": "A normal tidal breath before the maneuver" },
+        { "text": "FIVC - FVC greater than 0.100 L or 5% of FVC, whichever is greater", "correct": true }
+      ]
+    },
+    {
+      "text": "What is FVC?",
+      "answers": [
+        { "text": "The volume expired as forcefully as possible after maximum inhalation", "correct": true },
+        { "text": "The average flow rate during the middle half of FVC" },
+        { "text": "The maximum flow rate attained during FVC" },
+        { "text": "The ratio of FEVt to FVC" }
+      ]
+    },
+    {
+      "text": "In obstructive disease, why can FVC be less than SVC?",
+      "answers": [
+        { "text": "Increased lung volume from restriction" },
+        { "text": "Airway collapse and air trapping", "correct": true },
+        { "text": "Reduced extrapolated volume" },
+        { "text": "A higher lower limit of normal" }
+      ]
+    },
+    {
+      "text": "Which FEV1 percent predicted range is classified as severe in the lesson?",
+      "answers": [
+        { "text": "> 80%" },
+        { "text": "70-79%" },
+        { "text": "35-49%", "correct": true },
+        { "text": "60-69%" }
+      ]
+    },
+    {
+      "text": "Which timed interval is the most commonly used FEVt value and best value for grading airway obstruction severity?",
+      "answers": [
+        { "text": "FEV0.5" },
+        { "text": "FEV2" },
+        { "text": "FEV6" },
+        { "text": "FEV1", "correct": true }
+      ]
+    },
+    {
+      "text": "Which finding suggests obstructive disease according to the lesson's ratio table?",
+      "answers": [
+        { "text": "FEV1/FVC less than 70%", "correct": true },
+        { "text": "FEV1/FVC greater than 100%" },
+        { "text": "FVC greater than 80% predicted" },
+        { "text": "PEFR perfectly reproducible" }
+      ]
+    },
+    {
+      "text": "What does FEF25%-75% measure?",
+      "answers": [
+        { "text": "Maximum flow rate at the very peak of the loop" },
+        { "text": "Average flow rate during the middle half of an FVC maneuver", "correct": true },
+        { "text": "Total exhaled volume after maximum inhalation" },
+        { "text": "The ratio of FEVt to FVC" }
+      ]
+    },
+    {
+      "text": "Which spirometry value is effort dependent and should be evaluated for reproducibility before diagnostic interpretation?",
+      "answers": [
+        { "text": "LLN" },
+        { "text": "Age" },
+        { "text": "PEFR", "correct": true },
+        { "text": "Height" }
+      ]
+    },
+    {
+      "text": "On a flow-volume loop, what do the X-axis and Y-axis represent?",
+      "answers": [
+        { "text": "X-axis = time in seconds; Y-axis = volume in L" },
+        { "text": "X-axis = flow in L/sec; Y-axis = time in seconds" },
+        { "text": "X-axis = predicted percent; Y-axis = LLN" },
+        { "text": "X-axis = volume in L; Y-axis = flow in L/sec", "correct": true }
+      ]
+    },
+    {
+      "text": "What change is considered significant airway reversibility after bronchodilator testing?",
+      "answers": [
+        { "text": "FEV1 or FVC increase greater than 12% and 200 mL", "correct": true },
+        { "text": "Any PEFR increase, regardless of reproducibility" },
+        { "text": "FEF25%-75% decrease by 50%" },
+        { "text": "FVC decrease below LLN" }
+      ]
+    }
+  ]
+}

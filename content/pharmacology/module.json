@@ -32,19 +32,19 @@
   "audio": [
     {
       "title": "Principles of Drug Actions (Slides 1–38)",
-      "src": "/audio/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a"
+      "src": "/audio/pharmacology/Respiratory_Pharmacology_and_Receptor_Cheat_Codes.m4a"
     },
     {
       "title": "Calculating Drug Doses & Bronchodilators (Slides 39–80)",
-      "src": "/audio/Airway_Pharmacology_and_Respiratory_Math.m4a"
+      "src": "/audio/pharmacology/Airway_Pharmacology_and_Respiratory_Math.m4a"
     },
     {
       "title": "Corticosteroids, Anti-Infectives, Vasodilators & Critical Care Agents (Slides 89–152)",
-      "src": "/audio/Clinical_Guide_to_Respiratory_Pharmacology.m4a"
+      "src": "/audio/pharmacology/Clinical_Guide_to_Respiratory_Pharmacology.m4a"
     },
     {
       "title": "Pain Management, Vasopressors, Inotropes & Antiarrhythmic Agents (Slides 154–176)",
-      "src": "/audio/Pharmacology_for_Pain_Sedation_and_Emergencies.m4a"
+      "src": "/audio/pharmacology/Pharmacology_for_Pain_Sedation_and_Emergencies.m4a"
     }
   ]
 }

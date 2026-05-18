@@ -19,19 +19,19 @@
   "audio": [
     {
       "title": "Patient History & Laboratory Values",
-      "src": "/audio/Respiratory_Therapy_History_and_Lab_Values.m4a"
+      "src": "/audio/patient-assessment/Respiratory_Therapy_History_and_Lab_Values.m4a"
     },
     {
       "title": "Clinical Signs in Respiratory Patient Inspection",
-      "src": "/audio/Clinical_Signs_in_Respiratory_Patient_Inspection.m4a"
+      "src": "/audio/patient-assessment/Clinical_Signs_in_Respiratory_Patient_Inspection.m4a"
     },
     {
       "title": "Identifying Critical Respiratory and Vital Signs",
-      "src": "/audio/Identifying_Critical_Respiratory_and_Vital_Signs.m4a"
+      "src": "/audio/patient-assessment/Identifying_Critical_Respiratory_and_Vital_Signs.m4a"
     },
     {
       "title": "Acoustic Physics of Respiratory Assessment",
-      "src": "/audio/Acoustic_Physics_of_Respiratory_Assessment.m4a"
+      "src": "/audio/patient-assessment/Acoustic_Physics_of_Respiratory_Assessment.m4a"
     }
   ]
 }

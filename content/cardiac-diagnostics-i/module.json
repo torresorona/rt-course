@@ -37,23 +37,23 @@
   "audio": [
     {
       "title": "How to Read a 12-Lead ECG",
-      "src": "/audio/How_to_read_a_12-lead_ECG.m4a"
+      "src": "/audio/cardiac-diagnostics-i/How_to_read_a_12-lead_ECG.m4a"
     },
     {
       "title": "The Five-Step ECG Interpretation Method",
-      "src": "/audio/The_Five_Step_ECG_Interpretation_Method.m4a"
+      "src": "/audio/cardiac-diagnostics-i/The_Five_Step_ECG_Interpretation_Method.m4a"
     },
     {
       "title": "Sinus, Atrial, and Junctional Heart Rhythms",
-      "src": "/audio/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a"
+      "src": "/audio/cardiac-diagnostics-i/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a"
     },
     {
       "title": "Ventricular Rhythms and Conduction Blocks",
-      "src": "/audio/Ventricular_Rhythms_and_Conduction_Blocks.m4a"
+      "src": "/audio/cardiac-diagnostics-i/Ventricular_Rhythms_and_Conduction_Blocks.m4a"
     },
     {
       "title": "Why Your Resting Heart Lies",
-      "src": "/audio/Why_Your_Resting_Heart_Lies.m4a"
+      "src": "/audio/cardiac-diagnostics-i/Why_Your_Resting_Heart_Lies.m4a"
     }
   ],
   "resources": [

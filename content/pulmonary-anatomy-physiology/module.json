@@ -116,19 +116,19 @@
   "audio": [
     {
       "title": "Structure and Functional Dynamics (Unit I)",
-      "src": "/audio/The_Engineering_of_a_Single_Breath.m4a"
+      "src": "/audio/pulmonary-anatomy-physiology/The_Engineering_of_a_Single_Breath.m4a"
     },
     {
       "title": "Gas Exchange (Unit II)",
-      "src": "/audio/The_Physics_of_Human_Gas_Exchange.m4a"
+      "src": "/audio/pulmonary-anatomy-physiology/The_Physics_of_Human_Gas_Exchange.m4a"
     },
     {
       "title": "Regulation of Breathing (Unit III)",
-      "src": "/audio/Why_You_Breathe_to_Expel_Brain_Acid.m4a"
+      "src": "/audio/pulmonary-anatomy-physiology/Why_You_Breathe_to_Expel_Brain_Acid.m4a"
     },
     {
       "title": "Acid Base Regulation (Unit IV)",
-      "src": "/audio/How_Your_Body_Balances_Blood_pH.m4a"
+      "src": "/audio/pulmonary-anatomy-physiology/How_Your_Body_Balances_Blood_pH.m4a"
     }
   ]
 }

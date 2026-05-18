@@ -1,0 +1,56 @@
+{
+  "title": "Pulmonary Diagnostics I",
+  "description": "Pulmonary function testing fundamentals: spirometry, flow-volume loops, lung volumes, DLCO, bronchoprovocation, CPX, bronchoscopy, and sleep studies.",
+  "order": 7,
+  "lessons": [
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-1",
+      "title": "Spirometry & Post-Bronchodilator Studies",
+      "description": "Pulmonary function testing overview with spirometry indications, contraindications, hazards, equipment, patient preparation, ATS acceptability criteria, core values, flow-volume loop interpretation, and post-bronchodilator testing."
+    }
+  ],
+  "audio": [
+    {
+      "title": "Spirometry and Pulmonary Diagnostic Essentials",
+      "src": "/audio/pulmonary-diagnostics-i/Spirometry_and_Pulmonary_Diagnostic_Essentials.m4a"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Lung Volumes and Capacities (video)",
+      "description": "Overview of lung volumes and capacities used in pulmonary function testing.",
+      "url": "https://www.youtube.com/watch?v=mNadr6bGEMU",
+      "type": "video"
+    },
+    {
+      "title": "Obstructive vs Restrictive (video)",
+      "description": "Comparison of obstructive and restrictive pulmonary function patterns.",
+      "url": "https://www.youtube.com/watch?v=dibFaYtSAFk",
+      "type": "video"
+    },
+    {
+      "title": "Spirometry (video)",
+      "description": "Companion spirometry video for forced vital capacity maneuvers and interpretation.",
+      "url": "https://www.youtube.com/watch?v=YwcNbVnHNAo",
+      "type": "video"
+    },
+    {
+      "title": "Lung Volumes (video)",
+      "description": "Companion video focused on lung volume measurement.",
+      "url": "https://www.youtube.com/watch?v=4nQApZ8Q0XM",
+      "type": "video"
+    },
+    {
+      "title": "MIP/MEP (video)",
+      "description": "Overview of maximum inspiratory and expiratory pressure testing.",
+      "url": "https://www.youtube.com/watch?v=HM-kaL0dDdU",
+      "type": "video"
+    },
+    {
+      "title": "Bronchoscopy (video)",
+      "description": "Procedure overview for bronchoscopy.",
+      "url": "https://www.youtube.com/watch?v=KqZc1JqArco",
+      "type": "video"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "title": "Pulmonary Diagnostics II",
   "description": "Arterial and capillary blood gas sampling, acid-base and gas exchange, ABG analyzers, and pulmonary imaging (chest x-ray, CT, MRI, ultrasound, V/Q, PET).",
-  "order": 7,
+  "order": 8,
   "lessons": [
     {
       "slug": "pulmonary-diagnostics-ii/lesson-1",
@@ -37,19 +37,19 @@
   "audio": [
     {
       "title": "The Physics of Arterial Blood Gas Sampling",
-      "src": "/audio/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a"
+      "src": "/audio/pulmonary-diagnostics-ii/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a"
     },
     {
       "title": "The Invisible Tightrope of Blood pH",
-      "src": "/audio/The_Invisible_Tightrope_of_Blood_pH.m4a"
+      "src": "/audio/pulmonary-diagnostics-ii/The_Invisible_Tightrope_of_Blood_pH.m4a"
     },
     {
       "title": "The Invisible Math of Clinical Oxygenation",
-      "src": "/audio/The_Invisible_Math_of_Clinical_Oxygenation.m4a"
+      "src": "/audio/pulmonary-diagnostics-ii/The_Invisible_Math_of_Clinical_Oxygenation.m4a"
     },
     {
       "title": "The Physics of Clinical Chest X-Rays",
-      "src": "/audio/The_Physics_of_Clinical_Chest_X-Rays.m4a"
+      "src": "/audio/pulmonary-diagnostics-ii/The_Physics_of_Clinical_Chest_X-Rays.m4a"
     }
   ],
   "resources": [

@@ -27,15 +27,15 @@
   "audio": [
     {
       "title": "How Sound Waves Map the Heart",
-      "src": "/audio/How_Sound_Waves_Map_the_Heart.m4a"
+      "src": "/audio/cardiac-diagnostics-ii/How_Sound_Waves_Map_the_Heart.m4a"
     },
     {
       "title": "Fixing the Heart's Plumbing and Wiring",
-      "src": "/audio/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a"
+      "src": "/audio/cardiac-diagnostics-ii/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a"
     },
     {
       "title": "Cardiac Rehab and Hemodynamic Monitoring",
-      "src": "/audio/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a"
+      "src": "/audio/cardiac-diagnostics-ii/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a"
     }
   ],
   "resources": [
