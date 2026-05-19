@@ -20,6 +20,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Feedback Alerts
+
+The built-in feedback form stores submissions in the `feedback` table and can send email alerts through Resend. Configure these server-only environment variables in `.env.local` and Vercel:
+
+```bash
+RESEND_API_KEY=...
+FEEDBACK_ALERT_TO=ce.torresorona@gmail.com
+FEEDBACK_ALERT_FROM="RT Course <feedback@torresorona.dev>"
+```
+
+Use a verified Resend domain for `FEEDBACK_ALERT_FROM` when sending outside Resend's test limits.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
