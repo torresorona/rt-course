@@ -44,6 +44,43 @@
           "type": "video"
         }
       ]
+    },
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-3",
+      "title": "Lung Diffusion & Bronchoprovocation Studies",
+      "description": "DLCO testing with single-breath technique, test gas composition, analyzers, ATS acceptability/reproducibility, DL/VA interpretation, and bronchoprovocation testing with methacholine and exercise-induced bronchospasm protocols.",
+      "resources": [
+        {
+          "title": "Pulmonary Function Tests (PFT): Lesson 4 - DLCO",
+          "description": "Best overview for DLCO interpretation, decreased diffusion capacity, and how DLCO fits into PFT interpretation.",
+          "url": "https://www.youtube.com/watch?v=j_oRQS2dnck",
+          "type": "video"
+        },
+        {
+          "title": "What is a Single Breath Diffusion Capacity Test?",
+          "description": "Patient-facing walk-through of the single-breath DLCO maneuver and breath-hold concept.",
+          "url": "https://www.youtube.com/watch?v=lz4O44jvDXM",
+          "type": "video"
+        },
+        {
+          "title": "Taking a DLCO test with the EasyOne Pro",
+          "description": "Useful visual companion for DLCO setup, patient coaching, inhalation, breath hold, and exhalation.",
+          "url": "https://www.youtube.com/watch?v=s89QaJ1X6C0",
+          "type": "video"
+        },
+        {
+          "title": "The Methacholine Challenge Test: Why and How?",
+          "description": "ATS video that pairs well with the methacholine indication, safety, procedure, and positive-response sections.",
+          "url": "https://www.youtube.com/watch?v=OlXoNKDPtVU",
+          "type": "video"
+        },
+        {
+          "title": "Exercise Induced Asthma Explained by a Respiratory Therapist",
+          "description": "Companion overview for the EIA/EIB portion of the lesson, especially symptoms and exercise-triggered bronchospasm.",
+          "url": "https://www.youtube.com/watch?v=QmIdU9vLJok",
+          "type": "video"
+        }
+      ]
     }
   ],
   "audio": [
@@ -54,6 +91,10 @@
     {
       "title": "Lung Volume Studies and Diagnostic Formulas",
       "src": "/audio/pulmonary-diagnostics-i/Lung_Volume_Studies_and_Diagnostic_Formulas.m4a"
+    },
+    {
+      "title": "DLCO and Bronchoprovocation Testing Essentials",
+      "src": "/audio/pulmonary-diagnostics-i/DLCO_and_Bronchoprovocation_Testing_Essentials.m4a"
     }
   ],
   "resources": [

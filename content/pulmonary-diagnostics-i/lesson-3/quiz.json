@@ -1,0 +1,761 @@
+{
+  "title": "Lung Diffusion & Bronchoprovocation Studies Quiz",
+  "questions": [
+    {
+      "text": "A provider orders testing to evaluate how well gas crosses the alveolar-capillary membrane. Which study best matches that goal?",
+      "answers": [
+        {
+          "text": "Peak flow monitoring"
+        },
+        {
+          "text": "DLCO",
+          "correct": true
+        },
+        {
+          "text": "Body plethysmography only"
+        },
+        {
+          "text": "Exercise heart-rate calculation"
+        }
+      ]
+    },
+    {
+      "text": "In DLCO testing, why is carbon monoxide included in the test gas?",
+      "answers": [
+        {
+          "text": "It measures alveolar volume directly"
+        },
+        {
+          "text": "It reverses bronchospasm after the test"
+        },
+        {
+          "text": "It removes water vapor from the sample"
+        },
+        {
+          "text": "It serves as a surrogate for oxygen diffusion",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A patient with asbestosis is being followed over time. Which reason supports ordering DLCO?",
+      "answers": [
+        {
+          "text": "To evaluate or follow parenchymal lung disease",
+          "correct": true
+        },
+        {
+          "text": "To induce bronchospasm for asthma confirmation"
+        },
+        {
+          "text": "To measure FRC by Boyle's law"
+        },
+        {
+          "text": "To calculate maximum heart rate"
+        }
+      ]
+    },
+    {
+      "text": "A patient taking amiodarone needs monitoring for potential lung involvement. What DLCO indication does this represent?",
+      "answers": [
+        {
+          "text": "Documenting response to a rescue bronchodilator"
+        },
+        {
+          "text": "Screening for uncontrolled hypertension"
+        },
+        {
+          "text": "Monitoring risk of drug toxicity affecting the alveolar-capillary membrane",
+          "correct": true
+        },
+        {
+          "text": "Confirming a positive post-diluent challenge"
+        }
+      ]
+    },
+    {
+      "text": "Which patient factor would stop DLCO testing because it is listed as an absolute contraindication?",
+      "answers": [
+        {
+          "text": "History of asthma symptoms"
+        },
+        {
+          "text": "Carbon monoxide toxicity",
+          "correct": true
+        },
+        {
+          "text": "Known EIA/EIB on therapy"
+        },
+        {
+          "text": "Normal resting PFTs with exertional dyspnea"
+        }
+      ]
+    },
+    {
+      "text": "A patient smoked before arriving for diffusion testing. Why is this a problem for DLCO preparation?",
+      "answers": [
+        {
+          "text": "It can raise blood CO levels and interfere with the test",
+          "correct": true
+        },
+        {
+          "text": "It causes helium to dissolve in blood"
+        },
+        {
+          "text": "It prevents the use of nose clips during exercise"
+        },
+        {
+          "text": "It makes methacholine doses quadruple"
+        }
+      ]
+    },
+    {
+      "text": "Which analyzer principle is paired correctly for DLCO equipment?",
+      "answers": [
+        {
+          "text": "Thermal conductivity analyzer separates all gases by chromatography"
+        },
+        {
+          "text": "Gas chromatograph measures only heart rate response"
+        },
+        {
+          "text": "Desiccator column measures FEV1 after bronchodilator"
+        },
+        {
+          "text": "Infrared absorption analyzer measures CO by infrared radiation absorption",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A DLCO test gas uses helium or methane. What value is that gas used to determine?",
+      "answers": [
+        {
+          "text": "Diffusion rate"
+        },
+        {
+          "text": "Maximum heart rate"
+        },
+        {
+          "text": "Alveolar volume",
+          "correct": true
+        },
+        {
+          "text": "Bronchodilator response"
+        }
+      ]
+    },
+    {
+      "text": "A gas sample for DLCO analysis contains water vapor. Which action from the lesson helps protect accurate CO analysis?",
+      "answers": [
+        {
+          "text": "Remove water vapor with a desiccator column",
+          "correct": true
+        },
+        {
+          "text": "Administer methacholine before analysis"
+        },
+        {
+          "text": "Use nose clips to force mouth breathing"
+        },
+        {
+          "text": "Repeat FVC at 5-minute intervals"
+        }
+      ]
+    },
+    {
+      "text": "A patient uses supplemental oxygen at baseline. What preparation is listed before DLCO testing?",
+      "answers": [
+        {
+          "text": "Keep the patient on 100% O2 for the full procedure"
+        },
+        {
+          "text": "Have the patient off supplemental O2 for 10 minutes before testing",
+          "correct": true
+        },
+        {
+          "text": "Wait 4 hours after removing O2"
+        },
+        {
+          "text": "Skip DLCO and perform EIB testing only"
+        }
+      ]
+    },
+    {
+      "text": "A patient had a nitrogen washout study just before DLCO. How long should the technologist wait before diffusion testing?",
+      "answers": [
+        {
+          "text": "30 seconds"
+        },
+        {
+          "text": "4 minutes"
+        },
+        {
+          "text": "1 week"
+        },
+        {
+          "text": "20 minutes",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Why is the modified Krogh single-breath DLCO technique commonly used?",
+      "answers": [
+        {
+          "text": "It is the best method during exercise"
+        },
+        {
+          "text": "It avoids all effects of V/Q mismatch"
+        },
+        {
+          "text": "It is simple, non-invasive, and useful clinically",
+          "correct": true
+        },
+        {
+          "text": "It does not require breath holding"
+        }
+      ]
+    },
+    {
+      "text": "During single-breath DLCO, the patient exhales to RV, inhales rapidly to TLC, and then holds the breath. Which breath-hold range meets the lesson criteria?",
+      "answers": [
+        {
+          "text": "1-2 seconds"
+        },
+        {
+          "text": "20-30 seconds"
+        },
+        {
+          "text": "8-12 seconds",
+          "correct": true
+        },
+        {
+          "text": "60 seconds"
+        }
+      ]
+    },
+    {
+      "text": "Why is the first portion of exhaled gas discarded during single-breath DLCO?",
+      "answers": [
+        {
+          "text": "To remove anatomic dead space from the analyzed sample",
+          "correct": true
+        },
+        {
+          "text": "To create a positive methacholine challenge"
+        },
+        {
+          "text": "To calculate maximum heart rate"
+        },
+        {
+          "text": "To document bronchodilator reversal"
+        }
+      ]
+    },
+    {
+      "text": "If washout gas is accidentally included in the alveolar sample, what happens to the DL result?",
+      "answers": [
+        {
+          "text": "DL is overestimated"
+        },
+        {
+          "text": "VA becomes equal to TLC"
+        },
+        {
+          "text": "FEV1 decreases by 20%"
+        },
+        {
+          "text": "DL is underestimated",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "After one DLCO effort, why should the technologist wait before repeating the test?",
+      "answers": [
+        {
+          "text": "To allow methacholine to refrigerate again"
+        },
+        {
+          "text": "To allow test gas to wash out of the lungs",
+          "correct": true
+        },
+        {
+          "text": "To wait for target heart rate"
+        },
+        {
+          "text": "To let the patient smoke before the next effort"
+        }
+      ]
+    },
+    {
+      "text": "A DLCO effort has IVC equal to 80% of VC. Which ATS decision fits the lesson?",
+      "answers": [
+        {
+          "text": "Accept the effort because any IVC above 60% is valid"
+        },
+        {
+          "text": "Call it positive for bronchoprovocation"
+        },
+        {
+          "text": "Discard the effort because IVC must be greater than 85% of VC",
+          "correct": true
+        },
+        {
+          "text": "Use it only if FEV1 is 70% predicted"
+        }
+      ]
+    },
+    {
+      "text": "Two acceptable DLCO efforts are being compared. Which reproducibility result meets the lesson's criterion?",
+      "answers": [
+        {
+          "text": "FEV1 values within 20% of baseline"
+        },
+        {
+          "text": "VA greater than TLC on both tests"
+        },
+        {
+          "text": "FVC maneuvers separated by 30 minutes"
+        },
+        {
+          "text": "DL values within 3 mL or within 10% of the highest value",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A DLCO value is 35% predicted. How should the degree of diffusion impairment be graded?",
+      "answers": [
+        {
+          "text": "Severe",
+          "correct": true
+        },
+        {
+          "text": "Moderate"
+        },
+        {
+          "text": "Mild"
+        },
+        {
+          "text": "Normal"
+        }
+      ]
+    },
+    {
+      "text": "A patient has decreased DLCO, normal VA, and a low DL/VA. Which pattern best fits the lesson?",
+      "answers": [
+        {
+          "text": "Restrictive loss of lung tissue with preserved ratio"
+        },
+        {
+          "text": "Obstructive pattern from uneven V/Q or inspired gas distribution",
+          "correct": true
+        },
+        {
+          "text": "Normal diffusion study"
+        },
+        {
+          "text": "Positive exercise challenge only"
+        }
+      ]
+    },
+    {
+      "text": "A patient has decreased DLCO and decreased VA, but DL/VA remains in the healthy range. What does this suggest?",
+      "answers": [
+        {
+          "text": "Obstruction from uneven distribution only"
+        },
+        {
+          "text": "Carbon monoxide toxicity"
+        },
+        {
+          "text": "Methacholine response to diluent"
+        },
+        {
+          "text": "Restrictive pattern related to loss of lung tissue",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which value from the lesson represents a healthy DL/VA range?",
+      "answers": [
+        {
+          "text": "0.3% CO/min/mmHg"
+        },
+        {
+          "text": "10-15% FEV1 decrease"
+        },
+        {
+          "text": "4-5 mL CO/min/L lung volume",
+          "correct": true
+        },
+        {
+          "text": "80-90% maximum heart rate"
+        }
+      ]
+    },
+    {
+      "text": "What is the purpose of bronchoprovocation testing?",
+      "answers": [
+        {
+          "text": "To measure alveolar volume with helium only"
+        },
+        {
+          "text": "To induce bronchospasm and assess airway hyper-reactivity",
+          "correct": true
+        },
+        {
+          "text": "To remove water vapor from DLCO gas samples"
+        },
+        {
+          "text": "To calculate TLC from FRC and IC"
+        }
+      ]
+    },
+    {
+      "text": "A patient reports wheezing, dyspnea, chest tightness, and persistent cough, but PFTs do not show airflow obstruction. Which bronchoprovocation test may help evaluate airway hyper-reactivity?",
+      "answers": [
+        {
+          "text": "Methacholine challenge",
+          "correct": true
+        },
+        {
+          "text": "DLCO-SB only"
+        },
+        {
+          "text": "Nitrogen washout"
+        },
+        {
+          "text": "Body plethysmography for FRC only"
+        }
+      ]
+    },
+    {
+      "text": "How does methacholine create the challenge response described in the lesson?",
+      "answers": [
+        {
+          "text": "It binds carbon monoxide for DLCO measurement"
+        },
+        {
+          "text": "It measures alveolar volume by thermal conductivity"
+        },
+        {
+          "text": "It increases parasympathetic tone in bronchial smooth muscle",
+          "correct": true
+        },
+        {
+          "text": "It warms inspired air during exercise"
+        }
+      ]
+    },
+    {
+      "text": "Which finding is an absolute contraindication to methacholine challenge?",
+      "answers": [
+        {
+          "text": "FEV1 less than 60% predicted",
+          "correct": true
+        },
+        {
+          "text": "History suggestive of asthma with normal PFTs"
+        },
+        {
+          "text": "Persistent cough with uncertain bronchodilator response"
+        },
+        {
+          "text": "Stable corticosteroid dosage"
+        }
+      ]
+    },
+    {
+      "text": "Why should a physician be immediately available during methacholine or EIA/EIB challenge testing?",
+      "answers": [
+        {
+          "text": "The tests require arterial puncture"
+        },
+        {
+          "text": "The tests intentionally risk bronchospasm symptoms",
+          "correct": true
+        },
+        {
+          "text": "The tests require carbon monoxide toxicity"
+        },
+        {
+          "text": "The tests cannot be reversed with bronchodilator"
+        }
+      ]
+    },
+    {
+      "text": "Which equipment is specifically needed to reverse bronchospasm during methacholine testing?",
+      "answers": [
+        {
+          "text": "Desiccator column"
+        },
+        {
+          "text": "Gas chromatograph"
+        },
+        {
+          "text": "Thermal conductivity analyzer"
+        },
+        {
+          "text": "Fast-acting bronchodilator",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A patient used albuterol 4 hours before a scheduled methacholine challenge. What issue does this create based on the lesson?",
+      "answers": [
+        {
+          "text": "Albuterol should be withheld for 8 hours",
+          "correct": true
+        },
+        {
+          "text": "Albuterol should be withheld for 1 week"
+        },
+        {
+          "text": "Albuterol must be taken 30 minutes before testing"
+        },
+        {
+          "text": "Albuterol is only restricted for DLCO testing"
+        }
+      ]
+    },
+    {
+      "text": "A patient used tiotropium two days before methacholine challenge. Which instruction from the lesson was not met?",
+      "answers": [
+        {
+          "text": "Tiotropium should be withheld for 8 hours"
+        },
+        {
+          "text": "Tiotropium should be withheld for 24 hours"
+        },
+        {
+          "text": "Tiotropium should be withheld for 48 hours"
+        },
+        {
+          "text": "Tiotropium should be withheld for 1 week",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "During methacholine testing, a nebulized diluent is given and FEV1 drops by 12% from baseline. What should the technologist conclude?",
+      "answers": [
+        {
+          "text": "The challenge must proceed to the highest methacholine dose"
+        },
+        {
+          "text": "The result is normal because only a 20% drop matters at this step"
+        },
+        {
+          "text": "The test is positive at the diluent step",
+          "correct": true
+        },
+        {
+          "text": "The patient should begin exercise for 6-8 minutes"
+        }
+      ]
+    },
+    {
+      "text": "A methacholine dose is given and the sustained FEV1 decrease is 15%. What is the next step if no positive threshold has been reached?",
+      "answers": [
+        {
+          "text": "Terminate as a positive methacholine test"
+        },
+        {
+          "text": "Administer the next higher dose",
+          "correct": true
+        },
+        {
+          "text": "Switch immediately to DLCO analysis"
+        },
+        {
+          "text": "Score as positive EIA/EIB"
+        }
+      ]
+    },
+    {
+      "text": "A sustained 20% FEV1 decrease occurs during methacholine challenge. What should happen next?",
+      "answers": [
+        {
+          "text": "Continue to the next higher dose"
+        },
+        {
+          "text": "Have the patient exercise to 90% MHR"
+        },
+        {
+          "text": "Wait 20 minutes and perform nitrogen washout"
+        },
+        {
+          "text": "Terminate the test and reverse bronchospasm with a bronchodilator",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A patient has exertional shortness of breath, normal resting PFTs, and an uncertain methacholine result. Which study is indicated by the lesson?",
+      "answers": [
+        {
+          "text": "DLCO only"
+        },
+        {
+          "text": "EIA/EIB challenge",
+          "correct": true
+        },
+        {
+          "text": "Helium dilution only"
+        },
+        {
+          "text": "A shunt study before every spirometry effort"
+        }
+      ]
+    },
+    {
+      "text": "Which mechanism helps explain EIA/EIB occurring after exercise has stopped?",
+      "answers": [
+        {
+          "text": "Rewarming with bronchial vascular engorgement can narrow the airway",
+          "correct": true
+        },
+        {
+          "text": "Helium dissolves in blood and raises FRC"
+        },
+        {
+          "text": "Carbon monoxide replaces oxygen in the test gas"
+        },
+        {
+          "text": "Methacholine doses double after exercise"
+        }
+      ]
+    },
+    {
+      "text": "Before an EIA/EIB test, which baseline FEV1 requirement must be met?",
+      "answers": [
+        {
+          "text": "At least 40% predicted"
+        },
+        {
+          "text": "Less than 60% predicted"
+        },
+        {
+          "text": "At least 70% predicted",
+          "correct": true
+        },
+        {
+          "text": "Exactly equal to VC"
+        }
+      ]
+    },
+    {
+      "text": "A 30-year-old patient is preparing for EIA/EIB testing. What predicted maximum heart rate should be used from the lesson formula?",
+      "answers": [
+        {
+          "text": "170 beats/min"
+        },
+        {
+          "text": "190 beats/min",
+          "correct": true
+        },
+        {
+          "text": "220 beats/min"
+        },
+        {
+          "text": "250 beats/min"
+        }
+      ]
+    },
+    {
+      "text": "During EIA/EIB testing, what exercise intensity and duration best matches the lesson protocol?",
+      "answers": [
+        {
+          "text": "40-50% predicted maximum heart rate for 20-30 minutes"
+        },
+        {
+          "text": "Resting tidal breathing for 2 minutes only"
+        },
+        {
+          "text": "80-90% predicted maximum heart rate for 6-8 minutes",
+          "correct": true
+        },
+        {
+          "text": "Five deep breaths with a 5-second hold only"
+        }
+      ]
+    },
+    {
+      "text": "Why does the patient wear nose clips during EIA/EIB testing?",
+      "answers": [
+        {
+          "text": "To ensure mouth breathing",
+          "correct": true
+        },
+        {
+          "text": "To remove water vapor from CO samples"
+        },
+        {
+          "text": "To prevent helium from measuring VA"
+        },
+        {
+          "text": "To reverse bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "After exercise challenge, when should the first post-exercise FVC be performed?",
+      "answers": [
+        {
+          "text": "Only after 4 hours"
+        },
+        {
+          "text": "Exactly 20 minutes before exercise"
+        },
+        {
+          "text": "After a 10-minute oxygen washout"
+        },
+        {
+          "text": "Within 1-2 minutes after exercise",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "A patient has a sustained 12% FEV1 decrease after exercise challenge. How should this be interpreted?",
+      "answers": [
+        {
+          "text": "Negative because only a 20% decrease counts"
+        },
+        {
+          "text": "Positive methacholine response only"
+        },
+        {
+          "text": "Positive EIA/EIB response",
+          "correct": true
+        },
+        {
+          "text": "Severe DLCO impairment"
+        }
+      ]
+    },
+    {
+      "text": "Which post-positive-test action is shared by methacholine and EIA/EIB protocols?",
+      "answers": [
+        {
+          "text": "Repeat DLCO immediately without waiting"
+        },
+        {
+          "text": "Administer a bronchodilator and repeat spirometry to document reversal",
+          "correct": true
+        },
+        {
+          "text": "Have the patient smoke to reduce CO levels"
+        },
+        {
+          "text": "Skip all follow-up FVC maneuvers"
+        }
+      ]
+    }
+  ]
+}
