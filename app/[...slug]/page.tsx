@@ -23,6 +23,41 @@ function MdxTable(props: React.ComponentProps<"table">) {
 
 const mdxComponents = { DataTable, YouTube, table: MdxTable };
 
+interface LessonResource {
+  title: string;
+  description: string;
+  url: string;
+  type?: string;
+}
+
+interface ModuleLesson {
+  slug: string;
+  title: string;
+  description?: string;
+  resources?: LessonResource[];
+}
+
+function getYouTubeVideoId(url: string) {
+  try {
+    const parsed = new URL(url);
+
+    if (parsed.hostname.includes("youtu.be")) {
+      return parsed.pathname.split("/").filter(Boolean)[0] ?? null;
+    }
+
+    if (parsed.hostname.includes("youtube.com")) {
+      if (parsed.pathname === "/watch") return parsed.searchParams.get("v");
+      if (parsed.pathname.startsWith("/live/") || parsed.pathname.startsWith("/embed/")) {
+        return parsed.pathname.split("/").filter(Boolean)[1] ?? null;
+      }
+    }
+  } catch {
+    return null;
+  }
+
+  return null;
+}
+
 export default async function LessonPage({
   params,
   searchParams,
@@ -65,9 +100,14 @@ export default async function LessonPage({
   const moduleSlug = slug[0];
   const moduleJsonPath = join(process.cwd(), "content", moduleSlug, "module.json");
   let moduleTitle: string | null = null;
+  let lessonResources: LessonResource[] = [];
   if (existsSync(moduleJsonPath)) {
     const moduleData = JSON.parse(readFileSync(moduleJsonPath, "utf-8"));
     moduleTitle = moduleData.title ?? null;
+    const currentLesson = (moduleData.lessons as ModuleLesson[] | undefined)?.find(
+      (lesson) => lesson.slug === slugPath
+    );
+    lessonResources = currentLesson?.resources ?? [];
   }
 
   // Detect audio file for this lesson
@@ -89,6 +129,7 @@ export default async function LessonPage({
     "cardiac-diagnostics-ii/lesson-2": "/audio/cardiac-diagnostics-ii/Fixing_the_Heart_s_Plumbing_and_Wiring.m4a",
     "cardiac-diagnostics-ii/lesson-3": "/audio/cardiac-diagnostics-ii/Cardiac_Rehab_and_Hemodynamic_Monitoring.m4a",
     "pulmonary-diagnostics-i/lesson-1": "/audio/pulmonary-diagnostics-i/Spirometry_and_Pulmonary_Diagnostic_Essentials.m4a",
+    "pulmonary-diagnostics-i/lesson-2": "/audio/pulmonary-diagnostics-i/Lung_Volume_Studies_and_Diagnostic_Formulas.m4a",
     "pulmonary-diagnostics-ii/lesson-1": "/audio/pulmonary-diagnostics-ii/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a",
     "pulmonary-diagnostics-ii/lesson-2": "/audio/pulmonary-diagnostics-ii/The_Invisible_Tightrope_of_Blood_pH.m4a",
     "pulmonary-diagnostics-ii/lesson-3": "/audio/pulmonary-diagnostics-ii/The_Invisible_Math_of_Clinical_Oxygenation.m4a",
@@ -108,6 +149,7 @@ export default async function LessonPage({
 
   // Check if this lesson has resources
   const hasResources =
+    lessonResources.length > 0 ||
     slugPath === "pharmacology/lesson-1" ||
     slugPath === "patient-assessment/lesson-1" ||
     slugPath === "patient-assessment/lesson-2";
@@ -188,6 +230,43 @@ export default async function LessonPage({
           {slugPath === "pharmacology/lesson-1" && <ReceptorTable />}
           {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
           {slugPath === "patient-assessment/lesson-2" && <GCSScenarios />}
+          {lessonResources.length > 0 && (
+            <div className="space-y-6">
+              {lessonResources.map((resource) => {
+                const videoId = resource.type === "video" ? getYouTubeVideoId(resource.url) : null;
+
+                return videoId ? (
+                  <YouTube
+                    key={resource.url}
+                    id={videoId}
+                    title={resource.title}
+                    caption={resource.description}
+                  />
+                ) : (
+                  <a
+                    key={resource.url}
+                    href={resource.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex items-center gap-4 rounded-2xl border border-sand-200 bg-white p-5 transition-all hover:border-sand-300 hover:shadow-sm"
+                  >
+                    <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-sky-100 text-sky-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" /><polyline points="15 3 21 3 21 9" /><line x1="10" y1="14" x2="21" y2="3" /></svg>
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="font-medium text-sand-900 transition-colors group-hover:text-terracotta-600">
+                        {resource.title}
+                      </p>
+                      <p className="mt-0.5 text-sm text-sand-500">
+                        {resource.description}
+                      </p>
+                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="shrink-0 text-sand-300 transition-colors group-hover:text-sand-500"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" /><polyline points="15 3 21 3 21 9" /><line x1="10" y1="14" x2="21" y2="3" /></svg>
+                  </a>
+                );
+              })}
+            </div>
+          )}
           {!hasResources && (
             <div className="rounded-2xl border border-dashed border-sand-300 p-8 text-center text-sand-500">
               No additional resources for this lesson yet.

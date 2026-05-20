@@ -1,0 +1,275 @@
+{
+  "title": "Lung Volume Studies Quiz",
+  "questions": [
+    {
+      "text": "A patient has a reduced vital capacity and the provider wants to know whether the pattern is restrictive or obstructive. Which measurement is the main target of a lung volume study?",
+      "answers": [
+        { "text": "Functional residual capacity", "correct": true },
+        { "text": "Peak expiratory flow" },
+        { "text": "Arterial pH" },
+        { "text": "Oxyhemoglobin saturation" }
+      ]
+    },
+    {
+      "text": "A lab offers nitrogen washout, helium dilution, and body plethysmography. What do these three techniques have in common?",
+      "answers": [
+        { "text": "They are methods for determining FRC", "correct": true },
+        { "text": "They directly measure DLCO" },
+        { "text": "They replace the need for spirometry" },
+        { "text": "They all require a forced expiratory maneuver only" }
+      ]
+    },
+    {
+      "text": "The technologist is preparing a VTG test. Which equipment setup best matches that procedure?",
+      "answers": [
+        { "text": "A sealed body box with airway pressure measurement", "correct": true },
+        { "text": "A pulse oximeter and exercise treadmill" },
+        { "text": "A carbon monoxide analyzer for single-breath testing" },
+        { "text": "A bronchoscope with suction tubing" }
+      ]
+    },
+    {
+      "text": "In an open-circuit nitrogen washout, what is the purpose of having the patient breathe pure oxygen?",
+      "answers": [
+        { "text": "To wash nitrogen out of the lungs for FRC calculation", "correct": true },
+        { "text": "To stabilize helium concentration in a closed circuit" },
+        { "text": "To create the closed shutter needed for Boyle's law" },
+        { "text": "To directly measure airway conductance" }
+      ]
+    },
+    {
+      "text": "During nitrogen washout, the technologist sees expired N2 fall to the test endpoint before the maximum time has elapsed. What should this indicate?",
+      "answers": [
+        { "text": "The washout criterion has been met", "correct": true },
+        { "text": "The patient has reached TLC" },
+        { "text": "The shutter should be closed for panting" },
+        { "text": "The helium correction should be added" }
+      ]
+    },
+    {
+      "text": "A nitrogen washout calculation includes N2 removed from blood and tissue. How should this tissue contribution be handled?",
+      "answers": [
+        { "text": "Subtract it from the measured exhaled nitrogen volume", "correct": true },
+        { "text": "Add it to the measured exhaled nitrogen volume" },
+        { "text": "Use it as the patient's ERV" },
+        { "text": "Use it only when calculating airway resistance" }
+      ]
+    },
+    {
+      "text": "In helium dilution, the spirometer starts with a known gas volume and a helium mixture. Which starting mixture from the lesson should the technologist prepare?",
+      "answers": [
+        { "text": "600-800 mL spirometer volume with helium at 10%", "correct": true },
+        { "text": "100 mL spirometer volume with helium at 1%" },
+        { "text": "30-40 mL spirometer volume with helium at 21%" },
+        { "text": "A closed shutter with no added helium" }
+      ]
+    },
+    {
+      "text": "A helium dilution system is missing soda lime. Which hazard becomes most likely if the test proceeds?",
+      "answers": [
+        { "text": "Hypercapnia from retained CO2", "correct": true },
+        { "text": "Nitrogen washout from blood and tissue" },
+        { "text": "Over-reading of mouth pressure during panting" },
+        { "text": "False reduction of extrapolated volume" }
+      ]
+    },
+    {
+      "text": "A helium dilution result has not accounted for helium dissolving in the blood. Which correction from the lesson prevents FRC from reading too high?",
+      "answers": [
+        { "text": "Subtract 100 mL from FRC", "correct": true },
+        { "text": "Add 100 mL to FRC" },
+        { "text": "Subtract ERV twice" },
+        { "text": "Multiply FRC by Raw" }
+      ]
+    },
+    {
+      "text": "A patient with emphysema has suspected trapped gas and uneven ventilation. Which FRC method is most likely to capture that trapped thoracic gas?",
+      "answers": [
+        { "text": "Body plethysmography/VTG", "correct": true },
+        { "text": "Nitrogen washout alone" },
+        { "text": "Helium dilution alone" },
+        { "text": "Peak flow monitoring" }
+      ]
+    },
+    {
+      "text": "During panting against a closed shutter, the body box uses pressure and volume changes to calculate VTG. Which principle supports that calculation?",
+      "answers": [
+        { "text": "At constant temperature, pressure and volume change in relation to each other", "correct": true },
+        { "text": "Gas diffuses according to membrane surface area" },
+        { "text": "Total pressure equals the sum of partial pressures" },
+        { "text": "Gas dissolved in liquid depends on solubility" }
+      ]
+    },
+    {
+      "text": "The technologist starts the VTG maneuver after normal tidal breathing rather than after a maximal inhale. What lung volume level is being targeted at the start?",
+      "answers": [
+        { "text": "FRC", "correct": true },
+        { "text": "TLC" },
+        { "text": "RV" },
+        { "text": "IRV" }
+      ]
+    },
+    {
+      "text": "Why can body plethysmography report a larger value than gas dilution methods in a patient with emphysema?",
+      "answers": [
+        { "text": "It includes gas trapped in thoracic compartments", "correct": true },
+        { "text": "It subtracts oxygen demand from FRC" },
+        { "text": "It excludes all noncommunicating gas" },
+        { "text": "It measures only gas that is evenly ventilated" }
+      ]
+    },
+    {
+      "text": "Before the SVC maneuver in the body box, the patient's tidal breaths vary by more than 100 mL. What is the best interpretation?",
+      "answers": [
+        { "text": "Baseline breathing is not stable enough for accurate ERV and IC", "correct": true },
+        { "text": "The nitrogen washout endpoint has been reached" },
+        { "text": "The patient has demonstrated a valid Raw value" },
+        { "text": "The helium correction is no longer needed" }
+      ]
+    },
+    {
+      "text": "A patient pants against an occluded airway during VTG testing. Why is airway pressure useful at that moment?",
+      "answers": [
+        { "text": "With no flow, mouth pressure reflects alveolar pressure", "correct": true },
+        { "text": "With no flow, helium cannot dissolve in blood" },
+        { "text": "With no flow, ERV automatically equals VC" },
+        { "text": "With no flow, nitrogen remains at atmospheric concentration" }
+      ]
+    },
+    {
+      "text": "A report describes the gas left in the lungs after a normal passive exhalation. Which value is being described?",
+      "answers": [
+        { "text": "FRC", "correct": true },
+        { "text": "VC" },
+        { "text": "IRV" },
+        { "text": "TLC" }
+      ]
+    },
+    {
+      "text": "A patient's measured FRC is 3.0 L and ERV is 1.1 L. Which calculated value does this determine?",
+      "answers": [
+        { "text": "RV", "correct": true },
+        { "text": "IC" },
+        { "text": "SVC" },
+        { "text": "Gaw" }
+      ]
+    },
+    {
+      "text": "A patient has a vital capacity of 4.0 L. Based on the lesson's normal proportions, about 3.0 L would correspond to which capacity?",
+      "answers": [
+        { "text": "Inspiratory capacity", "correct": true },
+        { "text": "Expiratory reserve volume" },
+        { "text": "Residual volume" },
+        { "text": "Functional residual capacity" }
+      ]
+    },
+    {
+      "text": "An ERV is reduced and vital capacity is also reduced. Which interpretation fits the relationship described in the lesson?",
+      "answers": [
+        { "text": "ERV changes tend to parallel VC and can be reduced in restriction", "correct": true },
+        { "text": "ERV is unrelated to VC and only reflects airway resistance" },
+        { "text": "Reduced ERV confirms hyperinflation by itself" },
+        { "text": "Reduced ERV means RV cannot be calculated" }
+      ]
+    },
+    {
+      "text": "A patient exhales maximally but still has an abnormally large amount of gas left in the lungs. Which process does this most strongly suggest from the lesson?",
+      "answers": [
+        { "text": "Air trapping from obstructive disease", "correct": true },
+        { "text": "Normal restrictive mechanics" },
+        { "text": "Loss of helium into the blood only" },
+        { "text": "A low FRC with low RV" }
+      ]
+    },
+    {
+      "text": "The technologist has FRC and IC after testing. Which calculation can be made from those two values?",
+      "answers": [
+        { "text": "TLC", "correct": true },
+        { "text": "Raw" },
+        { "text": "sGaw" },
+        { "text": "ERV" }
+      ]
+    },
+    {
+      "text": "A patient has reduced TLC on lung volume testing. Which broad ventilatory pattern should be suspected?",
+      "answers": [
+        { "text": "Restrictive", "correct": true },
+        { "text": "Hyperinflation only" },
+        { "text": "Normal lung volumes" },
+        { "text": "Isolated airway resistance increase" }
+      ]
+    },
+    {
+      "text": "A TLC result is below LLN but still above 70% predicted. How should the restriction severity be documented?",
+      "answers": [
+        { "text": "Mild", "correct": true },
+        { "text": "Moderate" },
+        { "text": "Moderately severe" },
+        { "text": "Hyperinflated" }
+      ]
+    },
+    {
+      "text": "A lung volume report shows FRC above ULN while TLC remains within normal limits. Which interpretation is most consistent with the lesson?",
+      "answers": [
+        { "text": "Air trapping", "correct": true },
+        { "text": "Moderately severe restriction" },
+        { "text": "Normal volume distribution" },
+        { "text": "Combined abnormality without obstruction" }
+      ]
+    },
+    {
+      "text": "Both FRC and TLC are above the predicted upper limit. Which term best matches this obstructive lung volume pattern?",
+      "answers": [
+        { "text": "Hyperinflation", "correct": true },
+        { "text": "Mild restriction" },
+        { "text": "Reduced IC only" },
+        { "text": "Normal airway conductance" }
+      ]
+    },
+    {
+      "text": "Spirometry confirms obstruction and lung volumes show TLC below LLN. What pattern does this combination support?",
+      "answers": [
+        { "text": "Combined abnormality", "correct": true },
+        { "text": "Normal test" },
+        { "text": "Pure air trapping only" },
+        { "text": "Isolated hyperinflation only" }
+      ]
+    },
+    {
+      "text": "A body box report shows Raw of 3.0 cmH2O/L/sec. How should this be interpreted using the lesson's cutoff?",
+      "answers": [
+        { "text": "Increased resistance consistent with obstruction", "correct": true },
+        { "text": "Normal Raw" },
+        { "text": "No reliable adult reference exists for Raw" },
+        { "text": "Restrictive disease is confirmed by Raw alone" }
+      ]
+    },
+    {
+      "text": "A patient has sGaw below 0.15 L/sec/cmH2O. Which interpretation fits the lesson?",
+      "answers": [
+        { "text": "Obstruction is suggested", "correct": true },
+        { "text": "Restriction is confirmed" },
+        { "text": "Airway resistance is normal" },
+        { "text": "The value is used only for nitrogen correction" }
+      ]
+    },
+    {
+      "text": "A patient's Gaw is measured at a specific VTG. Which calculation normalizes conductance for the lung volume where it was measured?",
+      "answers": [
+        { "text": "Divide Gaw by VTG", "correct": true },
+        { "text": "Multiply Gaw by ERV" },
+        { "text": "Subtract ERV from FRC" },
+        { "text": "Add VC and RV" }
+      ]
+    },
+    {
+      "text": "A patient has reduced TLC but normal Raw and Gaw. Which statement best fits the lesson?",
+      "answers": [
+        { "text": "Restrictive disease can show normal resistance and conductance values", "correct": true },
+        { "text": "All reduced TLC patterns must have elevated Raw" },
+        { "text": "Normal Raw excludes restriction" },
+        { "text": "Conductance values are used only during helium dilution" }
+      ]
+    }
+  ]
+}

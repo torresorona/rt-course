@@ -7,12 +7,53 @@
       "slug": "pulmonary-diagnostics-i/lesson-1",
       "title": "Spirometry & Post-Bronchodilator Studies",
       "description": "Pulmonary function testing overview with spirometry indications, contraindications, hazards, equipment, patient preparation, ATS acceptability criteria, core values, flow-volume loop interpretation, and post-bronchodilator testing."
+    },
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-2",
+      "title": "Lung Volume Studies",
+      "description": "Pulmonary function testing methods that measure FRC, including nitrogen washout, helium dilution, and body plethysmography; lung volume calculations; restrictive, obstructive, and combined interpretation; and airway resistance/conductance values from VTG.",
+      "resources": [
+        {
+          "title": "Respiratory | Spirometry: Lung Volumes & Capacities",
+          "description": "Use this first for the core vocabulary: VT, IRV, ERV, RV, FRC, VC, IC, and TLC.",
+          "url": "https://www.youtube.com/watch?v=mNadr6bGEMU",
+          "type": "video"
+        },
+        {
+          "title": "Lung Volumes by Body Plethysmography: Unraveling the Mysteries of the Box",
+          "description": "Best match for VTG/body box mechanics, Boyle's law, panting against the shutter, and trapped gas.",
+          "url": "https://www.youtube.com/live/emYwtSXCzU8",
+          "type": "video"
+        },
+        {
+          "title": "Clinical Application of Total Body Plethysmography: Airway Mechanics Measurements",
+          "description": "Targets the Raw, Gaw, sRaw, and sGaw section of the lesson.",
+          "url": "https://www.youtube.com/watch?v=IRXljt4JDPU",
+          "type": "video"
+        },
+        {
+          "title": "Is There Only One Way to Measure Vital Capacity During Lung Volume Testing?",
+          "description": "Good companion for SVC, VC, and how volume maneuvers fit into lung volume testing.",
+          "url": "https://www.youtube.com/watch?v=ZyHzkTuUixA",
+          "type": "video"
+        },
+        {
+          "title": "Pulmonary Lung Function Test Interpretation",
+          "description": "Use this after the lesson to reinforce obstruction, restriction, air trapping, and hyperinflation patterns.",
+          "url": "https://www.youtube.com/watch?v=Ou8Umud3aNs",
+          "type": "video"
+        }
+      ]
     }
   ],
   "audio": [
     {
       "title": "Spirometry and Pulmonary Diagnostic Essentials",
       "src": "/audio/pulmonary-diagnostics-i/Spirometry_and_Pulmonary_Diagnostic_Essentials.m4a"
+    },
+    {
+      "title": "Lung Volume Studies and Diagnostic Formulas",
+      "src": "/audio/pulmonary-diagnostics-i/Lung_Volume_Studies_and_Diagnostic_Formulas.m4a"
     }
   ],
   "resources": [
