@@ -131,6 +131,8 @@ export default async function LessonPage({
     "pulmonary-diagnostics-i/lesson-1": "/audio/pulmonary-diagnostics-i/Spirometry_and_Pulmonary_Diagnostic_Essentials.m4a",
     "pulmonary-diagnostics-i/lesson-2": "/audio/pulmonary-diagnostics-i/Lung_Volume_Studies_and_Diagnostic_Formulas.m4a",
     "pulmonary-diagnostics-i/lesson-3": "/audio/pulmonary-diagnostics-i/DLCO_and_Bronchoprovocation_Testing_Essentials.m4a",
+    "pulmonary-diagnostics-i/lesson-4": "/audio/pulmonary-diagnostics-i/How_doctors_measure_breathing_limits.m4a",
+    "pulmonary-diagnostics-i/lesson-5": "/audio/pulmonary-diagnostics-i/Clinical_protocols_for_lung_inflammation_and_exertion.m4a",
     "pulmonary-diagnostics-ii/lesson-1": "/audio/pulmonary-diagnostics-ii/The_Physics_of_Arterial_Blood_Gas_Sampling.m4a",
     "pulmonary-diagnostics-ii/lesson-2": "/audio/pulmonary-diagnostics-ii/The_Invisible_Tightrope_of_Blood_pH.m4a",
     "pulmonary-diagnostics-ii/lesson-3": "/audio/pulmonary-diagnostics-ii/The_Invisible_Math_of_Clinical_Oxygenation.m4a",

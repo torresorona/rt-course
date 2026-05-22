@@ -1,6 +1,6 @@
 {
   "title": "Pulmonary Diagnostics I",
-  "description": "Pulmonary function testing fundamentals: spirometry, flow-volume loops, lung volumes, DLCO, bronchoprovocation, CPX, bronchoscopy, and sleep studies.",
+  "description": "Pulmonary function testing fundamentals: spirometry, flow-volume loops, lung volumes, DLCO, bronchoprovocation, CPX, MVV, respiratory muscle strength, FeNO, walk testing, oxygen titration, bronchoscopy, and sleep studies.",
   "order": 7,
   "lessons": [
     {
@@ -81,6 +81,16 @@
           "type": "video"
         }
       ]
+    },
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-4",
+      "title": "CPX, MVV & Respiratory Muscle Strength",
+      "description": "Cardiopulmonary exercise testing, maximum voluntary ventilation, and MIP/MEP testing with indications, contraindications, equipment, procedures, values, and interpretation."
+    },
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-5",
+      "title": "FeNO, Timed Walk Testing & Exercise Oxygen Titration",
+      "description": "Exhaled nitric oxide testing, timed walk testing, and oxygen titration with exercise, including indications, preparation, procedure, values, interpretation, contraindications, and hazards."
     }
   ],
   "audio": [
@@ -95,6 +105,14 @@
     {
       "title": "DLCO and Bronchoprovocation Testing Essentials",
       "src": "/audio/pulmonary-diagnostics-i/DLCO_and_Bronchoprovocation_Testing_Essentials.m4a"
+    },
+    {
+      "title": "How Doctors Measure Breathing Limits",
+      "src": "/audio/pulmonary-diagnostics-i/How_doctors_measure_breathing_limits.m4a"
+    },
+    {
+      "title": "Clinical Protocols for Lung Inflammation and Exertion",
+      "src": "/audio/pulmonary-diagnostics-i/Clinical_protocols_for_lung_inflammation_and_exertion.m4a"
     }
   ],
   "resources": [

@@ -1,0 +1,185 @@
+{
+  "title": "FeNO, Timed Walk Testing & Exercise Oxygen Titration Quiz",
+  "questions": [
+    {
+      "text": "What happens to FeNO as airway inflammation worsens?",
+      "answers": [
+        { "text": "It decreases to zero" },
+        { "text": "It increases", "correct": true },
+        { "text": "It becomes unrelated to airway inflammation" },
+        { "text": "It changes only after spirometry" }
+      ]
+    },
+    {
+      "text": "FeNO is measured in which unit?",
+      "answers": [
+        { "text": "cmH2O" },
+        { "text": "L/min BTPS" },
+        { "text": "Parts per billion", "correct": true },
+        { "text": "Feet walked" }
+      ]
+    },
+    {
+      "text": "Which is an indication for FeNO testing?",
+      "answers": [
+        { "text": "Determine likely response to corticosteroid treatment", "correct": true },
+        { "text": "Measure distance walked in 6 minutes" },
+        { "text": "Measure maximum expiratory pressure" },
+        { "text": "Diagnose limiting orthopedic disorders" }
+      ]
+    },
+    {
+      "text": "When possible, how long should a patient refrain from eating and drinking before FeNO measurement?",
+      "answers": [
+        { "text": "15 minutes" },
+        { "text": "1 hour", "correct": true },
+        { "text": "8 hours" },
+        { "text": "24 hours" }
+      ]
+    },
+    {
+      "text": "Which pre-test factor can increase FeNO with maximum effect 2 hours after ingestion?",
+      "answers": [
+        { "text": "Foods high in nitrates", "correct": true },
+        { "text": "Walking aids" },
+        { "text": "Low vital capacity" },
+        { "text": "Using ordered oxygen flow settings" }
+      ]
+    },
+    {
+      "text": "When should FeNO be performed relative to spirometry or other PFTs?",
+      "answers": [
+        { "text": "Always before spirometry or other PFTs", "correct": true },
+        { "text": "Only after spirometry is complete" },
+        { "text": "Only after oxygen titration" },
+        { "text": "It does not matter according to the source" }
+      ]
+    },
+    {
+      "text": "In adults, which FeNO value indicates eosinophilic inflammation is unlikely?",
+      "answers": [
+        { "text": "Less than 25 ppb", "correct": true },
+        { "text": "Greater than 50 ppb" },
+        { "text": "Greater than 35 ppb" },
+        { "text": "Exactly 100 ppb only" }
+      ]
+    },
+    {
+      "text": "In symptomatic adult patients, FeNO greater than 50 ppb suggests what?",
+      "answers": [
+        { "text": "Eosinophilic inflammation and corticosteroid responsiveness are likely", "correct": true },
+        { "text": "Timed walk distance is normal" },
+        { "text": "MIP and MEP are normal" },
+        { "text": "SpO2 must be below 85%" }
+      ]
+    },
+    {
+      "text": "What does the timed walk test measure?",
+      "answers": [
+        { "text": "Distance walked on a flat, hard surface in 6 minutes", "correct": true },
+        { "text": "Maximum volume breathed in 12 seconds" },
+        { "text": "Exhaled nitric oxide after spirometry" },
+        { "text": "PaCO2 during sleep" }
+      ]
+    },
+    {
+      "text": "Which condition is listed as an indication for a single functional-status timed walk measurement?",
+      "answers": [
+        { "text": "COPD", "correct": true },
+        { "text": "Carbon monoxide toxicity" },
+        { "text": "Recent MI within 4 weeks" },
+        { "text": "Uncontrolled asthma" }
+      ]
+    },
+    {
+      "text": "What is the minimum hallway distance listed for a timed walk test?",
+      "answers": [
+        { "text": "10 feet" },
+        { "text": "30 meters or 100 feet", "correct": true },
+        { "text": "300 feet" },
+        { "text": "1800 feet" }
+      ]
+    },
+    {
+      "text": "Before the timed walk, how long should the patient sit before baseline data are obtained?",
+      "answers": [
+        { "text": "1 minute" },
+        { "text": "6 minutes" },
+        { "text": "10 minutes", "correct": true },
+        { "text": "30 minutes" }
+      ]
+    },
+    {
+      "text": "During the timed walk, what happens if the patient stops to rest?",
+      "answers": [
+        { "text": "The test clock stops until the patient restarts" },
+        { "text": "Time continues to run", "correct": true },
+        { "text": "The test is automatically invalid" },
+        { "text": "The technician must walk beside the patient" }
+      ]
+    },
+    {
+      "text": "If a patient is on supplemental O2 during the timed walk, who should carry the gas source?",
+      "answers": [
+        { "text": "The technician walking behind the patient" },
+        { "text": "The patient", "correct": true },
+        { "text": "A second staff member pacing the patient" },
+        { "text": "No one; oxygen should always be removed" }
+      ]
+    },
+    {
+      "text": "What change in 6-minute walk distance is clinically significant in most disease states?",
+      "answers": [
+        { "text": "More than 10 feet" },
+        { "text": "More than 150 feet", "correct": true },
+        { "text": "Exactly 1800 feet" },
+        { "text": "Less than 4%" }
+      ]
+    },
+    {
+      "text": "What is the purpose of oxygen titration with exercise?",
+      "answers": [
+        { "text": "Determine the degree of desaturation and/or hypoxemia on exertion", "correct": true },
+        { "text": "Determine exhaled nitric oxide after eating" },
+        { "text": "Measure only inspiratory muscle strength" },
+        { "text": "Replace all timed walk measurements" }
+      ]
+    },
+    {
+      "text": "Which is a relative contraindication to oxygen titration with exercise?",
+      "answers": [
+        { "text": "Invalid pulse oximetry from COHb or decreased perfusion", "correct": true },
+        { "text": "Known pulmonary disease" },
+        { "text": "Dyspnea on exertion" },
+        { "text": "Decreased DLCO" }
+      ]
+    },
+    {
+      "text": "Which is an absolute contraindication to oxygen titration with exercise?",
+      "answers": [
+        { "text": "SaO2 or SpO2 less than 85% on room air" },
+        { "text": "Recent MI within 4 weeks", "correct": true },
+        { "text": "Resting systolic BP greater than 200 torr" },
+        { "text": "Inability to cooperate" }
+      ]
+    },
+    {
+      "text": "When testing a patient on room air, what should be done if SpO2 drops below 85%?",
+      "answers": [
+        { "text": "Stop the patient and have them recover before continuing", "correct": true },
+        { "text": "Increase oxygen by 1-2 L without slowing the patient" },
+        { "text": "Ignore the reading until the end of the test" },
+        { "text": "Switch immediately to FeNO testing" }
+      ]
+    },
+    {
+      "text": "When testing a patient on oxygen, what should be done if SpO2 drops below 88%?",
+      "answers": [
+        { "text": "Decrease oxygen and continue" },
+        { "text": "Increase oxygen 1-2 L at a time to maintain saturation at least 89%", "correct": true },
+        { "text": "Stop all oxygen immediately" },
+        { "text": "Document only the walking distance" }
+      ]
+    }
+  ]
+}

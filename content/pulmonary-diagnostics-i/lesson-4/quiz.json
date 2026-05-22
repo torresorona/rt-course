@@ -1,0 +1,185 @@
+{
+  "title": "CPX, MVV & Respiratory Muscle Strength Quiz",
+  "questions": [
+    {
+      "text": "Which statement best defines CPX, CPEX, or CPET?",
+      "answers": [
+        { "text": "A test that measures only residual volume after maximal expiration" },
+        { "text": "A test designed to assess ventilation, gas exchange, and cardiovascular function during exercise", "correct": true },
+        { "text": "A test that measures airway inflammation using exhaled nitric oxide" },
+        { "text": "A test used only to collect resting arterial blood gases" }
+      ]
+    },
+    {
+      "text": "Which is an indication for CPX?",
+      "answers": [
+        { "text": "Unexplained dyspnea", "correct": true },
+        { "text": "PaO2 less than 40 mmHg on room air" },
+        { "text": "PaCO2 greater than 70 mmHg" },
+        { "text": "A limiting orthopedic disorder" }
+      ]
+    },
+    {
+      "text": "A patient has a PaCO2 greater than 70 mmHg. How is this classified for CPX in the lesson?",
+      "answers": [
+        { "text": "Indication" },
+        { "text": "Expected maximal-effort criterion" },
+        { "text": "Contraindication", "correct": true },
+        { "text": "Normal CPX value" }
+      ]
+    },
+    {
+      "text": "When choosing between treadmill and cycle ergometer for CPX, what dictates the choice?",
+      "answers": [
+        { "text": "The patient's condition", "correct": true },
+        { "text": "The patient's predicted FEV1 only" },
+        { "text": "Whether FeNO is elevated" },
+        { "text": "The availability of a Borg scale only" }
+      ]
+    },
+    {
+      "text": "Which CPX equipment is used to measure exhaled O2, CO2, and N2?",
+      "answers": [
+        { "text": "Gas analyzers", "correct": true },
+        { "text": "Modified Borg scale" },
+        { "text": "Manual pressure gauge" },
+        { "text": "Nose clips only" }
+      ]
+    },
+    {
+      "text": "Which pre-procedure item is listed for CPX when hypoxemia is suspected?",
+      "answers": [
+        { "text": "Arterial blood gas", "correct": true },
+        { "text": "Methacholine challenge" },
+        { "text": "Timed walk without baseline data" },
+        { "text": "FeNO after spirometry" }
+      ]
+    },
+    {
+      "text": "Which patient instruction is part of CPX preparation?",
+      "answers": [
+        { "text": "Smoke cigarettes up to 1 hour before the test" },
+        { "text": "Avoid exercise the day of the test", "correct": true },
+        { "text": "Stop all medications unless told otherwise by the patient" },
+        { "text": "Wear restrictive clothing to improve measurements" }
+      ]
+    },
+    {
+      "text": "Which description matches the maximal incremental cycle protocol?",
+      "answers": [
+        { "text": "Six minutes of walking at the patient's own pace" },
+        { "text": "3 minutes rest, 3 minutes unloaded cycling, then increasing watts every minute", "correct": true },
+        { "text": "Five breaths of solution followed by spirometry" },
+        { "text": "Deep and rapid breathing for 12 seconds only" }
+      ]
+    },
+    {
+      "text": "Which finding is an indication to terminate CPX?",
+      "answers": [
+        { "text": "A stable pulse oximeter waveform" },
+        { "text": "Muscle cramping", "correct": true },
+        { "text": "Heart rate below predicted maximum at rest" },
+        { "text": "Normal ECG reading" }
+      ]
+    },
+    {
+      "text": "What does VO2 measure during CPX?",
+      "answers": [
+        { "text": "Carbon dioxide production each minute" },
+        { "text": "The volume of O2 used by tissues each minute", "correct": true },
+        { "text": "Maximum expiratory pressure" },
+        { "text": "Exhaled nitric oxide in parts per billion" }
+      ]
+    },
+    {
+      "text": "Which criterion can classify a CPX as maximal effort?",
+      "answers": [
+        { "text": "Heart rate greater than 85-90% predicted", "correct": true },
+        { "text": "SpO2 greater than 93%" },
+        { "text": "Respiratory rate between 90-110 breaths/min" },
+        { "text": "MIP greater than -75 cmH2O" }
+      ]
+    },
+    {
+      "text": "Which statement best defines MVV?",
+      "answers": [
+        { "text": "Maximum volume a patient can breathe over a specified period, usually 12 seconds", "correct": true },
+        { "text": "Maximum positive pressure produced after a complete inhalation" },
+        { "text": "Distance a patient can walk in 6 minutes" },
+        { "text": "Oxygen used by tissues at each minute during exercise" }
+      ]
+    },
+    {
+      "text": "Which is an indication for MVV?",
+      "answers": [
+        { "text": "To set a ventilatory limit during exercise", "correct": true },
+        { "text": "To diagnose eosinophilic inflammation" },
+        { "text": "To measure PaO2 directly" },
+        { "text": "To replace all spirometry contraindications" }
+      ]
+    },
+    {
+      "text": "Which hazard is common during MVV because of hyperventilation?",
+      "answers": [
+        { "text": "Syncope or dizziness", "correct": true },
+        { "text": "Increased FeNO from nitrate ingestion" },
+        { "text": "Improved oxygen saturation in all patients" },
+        { "text": "A forced increase in DLCO" }
+      ]
+    },
+    {
+      "text": "During MVV, the patient's rate should generally be:",
+      "answers": [
+        { "text": "10-20 breaths/min" },
+        { "text": "30-60 breaths/min" },
+        { "text": "90-110 breaths/min", "correct": true },
+        { "text": "Greater than 200 breaths/min" }
+      ]
+    },
+    {
+      "text": "MVV is influenced by which factor?",
+      "answers": [
+        { "text": "Condition of the ventilatory control mechanism", "correct": true },
+        { "text": "Only nitrate intake before testing" },
+        { "text": "Only systolic blood pressure" },
+        { "text": "Only the patient's walking aid" }
+      ]
+    },
+    {
+      "text": "What does MIP primarily reflect?",
+      "answers": [
+        { "text": "Strength of the diaphragm and other inspiratory muscles", "correct": true },
+        { "text": "Strength of the abdominal and expiratory muscles only" },
+        { "text": "Exercise distance in 6 minutes" },
+        { "text": "Eosinophilic airway inflammation" }
+      ]
+    },
+    {
+      "text": "What does MEP primarily reflect?",
+      "answers": [
+        { "text": "Strength of the diaphragm only" },
+        { "text": "Strength of the abdominal and other expiratory muscles", "correct": true },
+        { "text": "Arterial oxygenation at rest" },
+        { "text": "CO2 production during CPX" }
+      ]
+    },
+    {
+      "text": "During MIP testing, which pressure should be recorded?",
+      "answers": [
+        { "text": "The largest negative pressure sustained for at least 1 second", "correct": true },
+        { "text": "The first transient positive pressure spike" },
+        { "text": "The lowest oxygen saturation during a walk test" },
+        { "text": "The average FeNO value after spirometry" }
+      ]
+    },
+    {
+      "text": "Which pattern suggests inspiratory muscle weakness, usually diaphragmatic?",
+      "answers": [
+        { "text": "Decreased MIP with normal MEP", "correct": true },
+        { "text": "Normal MIP with decreased MEP" },
+        { "text": "Normal MIP with normal MEP" },
+        { "text": "Normal FeNO with high walk distance" }
+      ]
+    }
+  ]
+}
