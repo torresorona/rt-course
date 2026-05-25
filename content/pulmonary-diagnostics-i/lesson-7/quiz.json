@@ -1,0 +1,455 @@
+{
+  "title": "Pulmonary Diagnostics I Module Review Quiz",
+  "questions": [
+    {
+      "text": "What syringe is used to calibrate the PFT machine daily?",
+      "answers": [
+        { "text": "1-L calibration syringe" },
+        { "text": "3-L calibration syringe", "correct": true },
+        { "text": "10-mL medication syringe" },
+        { "text": "600-800 mL helium syringe" }
+      ]
+    },
+    {
+      "text": "Before spirometry or post-bronchodilator testing, what medication class should the patient withhold when ordered?",
+      "answers": [
+        { "text": "Antibiotics" },
+        { "text": "Bronchodilators", "correct": true },
+        { "text": "Diuretics" },
+        { "text": "Topical anesthetics" }
+      ]
+    },
+    {
+      "text": "Which patient information is used to calculate predicted spirometry values?",
+      "answers": [
+        { "text": "Age, height or arm span, sex, and race", "correct": true },
+        { "text": "Pulse, respiratory rate, temperature, and blood pressure" },
+        { "text": "Medication list, allergies, oxygen device, and sleep position" },
+        { "text": "FEV1, FVC, PEFR, and FEF25%-75%" }
+      ]
+    },
+    {
+      "text": "How many spirometry efforts should be obtained that meet ATS acceptability and reproducibility criteria?",
+      "answers": [
+        { "text": "One effort" },
+        { "text": "Two efforts" },
+        { "text": "Three efforts", "correct": true },
+        { "text": "Eight efforts" }
+      ]
+    },
+    {
+      "text": "What minimum exhalation times are highlighted for adults/patients 10 years or older and children 10 years or younger?",
+      "answers": [
+        { "text": "3 seconds for adults and 6 seconds for children" },
+        { "text": "6 seconds for adults and 3 seconds for children", "correct": true },
+        { "text": "8 seconds for adults and 12 seconds for children" },
+        { "text": "15 seconds for adults and 20 seconds for children" }
+      ]
+    },
+    {
+      "text": "How many attempts are allowed to obtain three good spirometry tests?",
+      "answers": [
+        { "text": "Three attempts" },
+        { "text": "Four attempts" },
+        { "text": "Six attempts" },
+        { "text": "Eight attempts", "correct": true }
+      ]
+    },
+    {
+      "text": "What does a PFT value between LLN and ULN mean?",
+      "answers": [
+        { "text": "Normal range", "correct": true },
+        { "text": "Low value" },
+        { "text": "High value" },
+        { "text": "Positive bronchodilator response" }
+      ]
+    },
+    {
+      "text": "Which FVC percent predicted result is normal according to the review?",
+      "answers": [
+        { "text": "Greater than 80%", "correct": true },
+        { "text": "66-79%" },
+        { "text": "50-65%" },
+        { "text": "Less than 50%" }
+      ]
+    },
+    {
+      "text": "What spirometry value is the best value to grade airway obstruction severity?",
+      "answers": [
+        { "text": "FEV1", "correct": true },
+        { "text": "TLC" },
+        { "text": "RV" },
+        { "text": "AHI" }
+      ]
+    },
+    {
+      "text": "An FEV1/FVC ratio greater than 100% or greater than ULN suggests which pattern?",
+      "answers": [
+        { "text": "Restrictive disease pattern", "correct": true },
+        { "text": "Obstructive disease pattern" },
+        { "text": "Positive methacholine challenge" },
+        { "text": "Normal DLCO severity" }
+      ]
+    },
+    {
+      "text": "An FEV1/FVC ratio less than 70% suggests which pattern?",
+      "answers": [
+        { "text": "Restrictive disease" },
+        { "text": "Obstructive disease", "correct": true },
+        { "text": "Normal older adult pattern only" },
+        { "text": "Severe sleep apnea" }
+      ]
+    },
+    {
+      "text": "FEF25%-75% evaluates flow in which airways?",
+      "answers": [
+        { "text": "Only the trachea" },
+        { "text": "Only the alveoli" },
+        { "text": "Medium and small airways", "correct": true },
+        { "text": "Only the upper airway during sleep" }
+      ]
+    },
+    {
+      "text": "What does a pre/post bronchodilator study determine?",
+      "answers": [
+        { "text": "Reversibility of airway obstruction", "correct": true },
+        { "text": "Definitive diagnosis of sleep apnea" },
+        { "text": "Thoracic gas volume by Boyle's law" },
+        { "text": "Number of apneas per hour" }
+      ]
+    },
+    {
+      "text": "How many MDI puffs are used in the ATS post-bronchodilator source protocol?",
+      "answers": [
+        { "text": "1 puff" },
+        { "text": "2 puffs" },
+        { "text": "4 puffs", "correct": true },
+        { "text": "8 puffs" }
+      ]
+    },
+    {
+      "text": "Which formula calculates post-bronchodilator percent change?",
+      "answers": [
+        { "text": "(predicted - actual) / predicted x 100" },
+        { "text": "(post - pre) / pre x 100", "correct": true },
+        { "text": "(FRC - ERV) / FRC x 100" },
+        { "text": "(baseline - current) / current x 100" }
+      ]
+    },
+    {
+      "text": "What increase indicates significant airway reversibility after bronchodilator?",
+      "answers": [
+        { "text": "FEV1 or FVC increase greater than 12% and 200 mL", "correct": true },
+        { "text": "FEV1 decrease of 10-15%" },
+        { "text": "TLC decrease below LLN" },
+        { "text": "AHI greater than 30" }
+      ]
+    },
+    {
+      "text": "How is MVV performed according to the review?",
+      "answers": [
+        { "text": "8-12 seconds at 30-60 breaths/min" },
+        { "text": "12-15 seconds at 90-110 breaths/min", "correct": true },
+        { "text": "6-8 minutes at 80-90% max HR" },
+        { "text": "Five 15-minute naps with 2-hour breaks" }
+      ]
+    },
+    {
+      "text": "Which lung volume method is also called VTG, body plethysmography, or body box?",
+      "answers": [
+        { "text": "Nitrogen washout" },
+        { "text": "Helium dilution" },
+        { "text": "Thoracic gas volume/body plethysmography", "correct": true },
+        { "text": "DLCO single-breath testing" }
+      ]
+    },
+    {
+      "text": "Body plethysmography is based on which law?",
+      "answers": [
+        { "text": "Boyle's law", "correct": true },
+        { "text": "Ohm's law" },
+        { "text": "Fick's law only" },
+        { "text": "Starling's law" }
+      ]
+    },
+    {
+      "text": "What panting frequency is used during body box testing?",
+      "answers": [
+        { "text": "10-15 bpm" },
+        { "text": "30-60 bpm", "correct": true },
+        { "text": "80-90 bpm" },
+        { "text": "90-110 bpm" }
+      ]
+    },
+    {
+      "text": "Which TLC result is graded as mild restriction?",
+      "answers": [
+        { "text": "TLC less than LLN but at least 70% predicted", "correct": true },
+        { "text": "TLC less than 70% but at least 60% predicted" },
+        { "text": "TLC less than 59% predicted" },
+        { "text": "FRC and TLC greater than ULN" }
+      ]
+    },
+    {
+      "text": "FRC greater than ULN with TLC within normal limits represents what pattern?",
+      "answers": [
+        { "text": "Restriction" },
+        { "text": "Air trapping", "correct": true },
+        { "text": "Normal volume pattern" },
+        { "text": "Positive DLCO response" }
+      ]
+    },
+    {
+      "text": "FRC and TLC both greater than ULN represent what pattern?",
+      "answers": [
+        { "text": "Hyperinflation", "correct": true },
+        { "text": "Moderate restriction" },
+        { "text": "Normal lung volumes" },
+        { "text": "Central sleep apnea" }
+      ]
+    },
+    {
+      "text": "Nitrogen washout uses what oxygen concentration?",
+      "answers": [
+        { "text": "21% O2" },
+        { "text": "40% O2" },
+        { "text": "60% O2" },
+        { "text": "100% O2", "correct": true }
+      ]
+    },
+    {
+      "text": "Nitrogen washout lasts up to how long, or until exhaled N2 is below what value?",
+      "answers": [
+        { "text": "4 minutes or until N2 is below 10%" },
+        { "text": "7 minutes or until N2 is below 1%", "correct": true },
+        { "text": "15 minutes or until N2 is below 5%" },
+        { "text": "20-30 minutes or until N2 is below 15%" }
+      ]
+    },
+    {
+      "text": "What absorber is required during helium dilution?",
+      "answers": [
+        { "text": "CO2 absorber, usually soda lime", "correct": true },
+        { "text": "O2 absorber, usually saline" },
+        { "text": "N2 absorber, usually formalin" },
+        { "text": "He absorber, usually benzocaine" }
+      ]
+    },
+    {
+      "text": "Before DLCO testing, why should the patient avoid smoking the day of the test?",
+      "answers": [
+        { "text": "To reduce CO levels in the blood", "correct": true },
+        { "text": "To reduce N2 levels in the spirometer" },
+        { "text": "To increase AHI" },
+        { "text": "To prevent topical anesthesia toxicity" }
+      ]
+    },
+    {
+      "text": "What DLCO maneuver sequence is highlighted?",
+      "answers": [
+        { "text": "Inhale to TLC, exhale to RV, then pant 30-60 bpm" },
+        { "text": "Exhale to RV, inhale rapidly to TLC, hold 8-12 seconds", "correct": true },
+        { "text": "Exercise for 6-8 minutes, then repeat spirometry" },
+        { "text": "Take five 15-minute naps separated by 2-hour breaks" }
+      ]
+    },
+    {
+      "text": "What is the minimum number of DLCO tests and the wait time between trials?",
+      "answers": [
+        { "text": "One test with no wait" },
+        { "text": "Two tests with at least 4 minutes between trials", "correct": true },
+        { "text": "Three tests with 30 seconds between trials" },
+        { "text": "Eight tests with 15 minutes between trials" }
+      ]
+    },
+    {
+      "text": "During methacholine challenge, spirometry is repeated looking for a significant decrease in which value?",
+      "answers": [
+        { "text": "FEV1", "correct": true },
+        { "text": "TLC" },
+        { "text": "AHI" },
+        { "text": "COHb" }
+      ]
+    },
+    {
+      "text": "What baseline FEV1 is required to start methacholine challenge?",
+      "answers": [
+        { "text": "At least 35% predicted" },
+        { "text": "At least 40% predicted" },
+        { "text": "At least 60-70% predicted", "correct": true },
+        { "text": "At least 100% predicted" }
+      ]
+    },
+    {
+      "text": "What post-diluent NaCl response makes the methacholine test positive and terminated before methacholine dosing?",
+      "answers": [
+        { "text": "FEV1 drops 5% from baseline" },
+        { "text": "FEV1 drops 10% or greater from baseline", "correct": true },
+        { "text": "FVC increases 12% and 200 mL" },
+        { "text": "TLC drops below LLN" }
+      ]
+    },
+    {
+      "text": "What FEV1 response after methacholine dose is considered a positive methacholine challenge?",
+      "answers": [
+        { "text": "Sustained FEV1 decrease of 20%", "correct": true },
+        { "text": "Sustained FEV1 increase of 20%" },
+        { "text": "Sustained FVC increase of 200 mL only" },
+        { "text": "AHI greater than 30" }
+      ]
+    },
+    {
+      "text": "For EIA/EIB testing, what should the patient avoid before the test?",
+      "answers": [
+        { "text": "Heavy exercise for at least 4 hours", "correct": true },
+        { "text": "Sleep for 20 minutes" },
+        { "text": "All oxygen for 24 hours" },
+        { "text": "PAP therapy for 1 week" }
+      ]
+    },
+    {
+      "text": "What exercise target is used during EIA/EIB testing?",
+      "answers": [
+        { "text": "30-60% predicted max HR for 12-15 seconds" },
+        { "text": "80-90% predicted max HR for 6-8 minutes", "correct": true },
+        { "text": "100% predicted max HR for 20-30 minutes" },
+        { "text": "Resting heart rate for 5 minutes" }
+      ]
+    },
+    {
+      "text": "What sustained FEV1 decrease is considered a positive EIA/EIB test?",
+      "answers": [
+        { "text": "3-5%" },
+        { "text": "10-15%", "correct": true },
+        { "text": "20-30%" },
+        { "text": "Greater than 80%" }
+      ]
+    },
+    {
+      "text": "CPX/CPET assesses which three systems during exercise?",
+      "answers": [
+        { "text": "Ventilation, gas exchange, and cardiovascular function", "correct": true },
+        { "text": "Sleep latency, REM entry, and alertness" },
+        { "text": "Bronchial lavage, biopsy, and suctioning" },
+        { "text": "RV, ERV, and AHI only" }
+      ]
+    },
+    {
+      "text": "Which room-air values are listed as CPX contraindications?",
+      "answers": [
+        { "text": "PaO2 less than 40 mmHg or PaCO2 greater than 70 mmHg", "correct": true },
+        { "text": "PaO2 greater than 80 mmHg or PaCO2 less than 35 mmHg" },
+        { "text": "SpO2 greater than 93% and HR less than 60" },
+        { "text": "AHI less than 5 and FEV1 greater than 80%" }
+      ]
+    },
+    {
+      "text": "What gases do CPX gas analyzers measure in exhaled gas?",
+      "answers": [
+        { "text": "O2, CO2, and N2", "correct": true },
+        { "text": "CO, He, and CH4 only" },
+        { "text": "O2, benzocaine, and lidocaine" },
+        { "text": "N2, saline, and methacholine" }
+      ]
+    },
+    {
+      "text": "Which pair accounts for the majority of deaths associated with bronchoscopy?",
+      "answers": [
+        { "text": "Hemorrhage and pneumothorax", "correct": true },
+        { "text": "Cough and headache" },
+        { "text": "Snoring and hypopneas" },
+        { "text": "Nausea and tremors" }
+      ]
+    },
+    {
+      "text": "Which is an absolute contraindication to bronchoscopy?",
+      "answers": [
+        { "text": "Absence of signed consent", "correct": true },
+        { "text": "Patient unable to cooperate" },
+        { "text": "Tracheal obstruction" },
+        { "text": "Moderate to severe hypoxemia" }
+      ]
+    },
+    {
+      "text": "Which bronchoscopy route is most common, and what is needed for the mouth route?",
+      "answers": [
+        { "text": "Transnasal is most common; transoral requires a bite block", "correct": true },
+        { "text": "Transoral is most common; transnasal requires a body box" },
+        { "text": "Transnasal is most common; transoral requires soda lime" },
+        { "text": "Transoral is most common; transnasal requires Saccomanno solution" }
+      ]
+    },
+    {
+      "text": "What does PSG definitively diagnose in the review sheet?",
+      "answers": [
+        { "text": "Sleep apnea", "correct": true },
+        { "text": "Air trapping" },
+        { "text": "Bronchogenic carcinoma" },
+        { "text": "Airway reversibility" }
+      ]
+    },
+    {
+      "text": "What pattern defines obstructive sleep apnea?",
+      "answers": [
+        { "text": "Respiratory effort but no airflow due to upper airway obstruction", "correct": true },
+        { "text": "CNS fails to signal respiratory effort" },
+        { "text": "No respiratory effort and normal airflow" },
+        { "text": "Five naps with REM entry twice" }
+      ]
+    },
+    {
+      "text": "What pattern defines central sleep apnea?",
+      "answers": [
+        { "text": "CNS fails to signal respiratory effort", "correct": true },
+        { "text": "Effort but no airflow from upper airway obstruction" },
+        { "text": "FEV1 drops 20% after methacholine" },
+        { "text": "FRC and TLC are both above ULN" }
+      ]
+    },
+    {
+      "text": "What does actigraphy monitor?",
+      "answers": [
+        { "text": "Rest/activity cycles by movement of a limb", "correct": true },
+        { "text": "CO uptake during a breath hold" },
+        { "text": "Thoracic gas volume by shutter panting" },
+        { "text": "Hemorrhage risk during bronchoscopy" }
+      ]
+    },
+    {
+      "text": "How is the MSLT structured?",
+      "answers": [
+        { "text": "Five 15-minute naps with 2-hour breaks", "correct": true },
+        { "text": "Four sleep trials with 2-hour breaks while trying to stay awake" },
+        { "text": "Exercise at 80-90% max HR for 6-8 minutes" },
+        { "text": "Panting at 30-60 bpm in a closed body box" }
+      ]
+    },
+    {
+      "text": "What does the MWT measure?",
+      "answers": [
+        { "text": "How alert a patient is during the day", "correct": true },
+        { "text": "How much CO crosses the alveolar membrane" },
+        { "text": "How much N2 washes out of the lungs" },
+        { "text": "How much FEV1 improves after bronchodilator" }
+      ]
+    },
+    {
+      "text": "Which AHI value is rated severe sleep apnea?",
+      "answers": [
+        { "text": "Less than 5" },
+        { "text": "5-15" },
+        { "text": "15-30" },
+        { "text": "Greater than 30", "correct": true }
+      ]
+    },
+    {
+      "text": "What is CPAP first-line therapy for, and what is key for successful PAP treatment?",
+      "answers": [
+        { "text": "OSA; patient compliance and comfort", "correct": true },
+        { "text": "Central sleep apnea; avoiding spirometry" },
+        { "text": "DLCO reduction; 100% oxygen washout" },
+        { "text": "Bronchogenic carcinoma; topical anesthesia" }
+      ]
+    }
+  ]
+}

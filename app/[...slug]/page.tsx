@@ -11,6 +11,7 @@ import AudioPlayer from "@/components/AudioPlayer";
 import ReceptorTable from "@/components/ReceptorTable";
 import LabRanges from "@/components/LabRanges";
 import GCSScenarios from "@/components/GCSScenarios";
+import PulmonaryDiagnosticsIReview from "@/components/PulmonaryDiagnosticsIReview";
 import YouTube from "@/components/YouTube";
 
 function MdxTable(props: React.ComponentProps<"table">) {
@@ -66,7 +67,7 @@ export default async function LessonPage({
   searchParams: Promise<{ view?: string }>;
 }) {
   const { slug } = await params;
-  const { view: activeView = "review" } = await searchParams;
+  const { view: requestedView = "review" } = await searchParams;
   const slugPath = slug.join("/");
   const { userId } = await auth();
   const filePath = join(process.cwd(), "content", ...slug, "lesson.mdx");
@@ -87,14 +88,17 @@ export default async function LessonPage({
   });
 
   const isModuleExam = frontmatter.title?.toLowerCase().includes("module exam");
+  const quizPath = join(process.cwd(), "content", ...slug, "quiz.json");
+  const hasQuiz = existsSync(quizPath);
   const hasXrayExam = slugPath === "pulmonary-diagnostics-ii/lesson-6"
 
   const views = [
     { id: "review", label: "Review" },
     { id: "resources", label: "Resources" },
-    { id: "quiz", label: isModuleExam ? "Module Exam" : "Quiz" },
+    ...(hasQuiz ? [{ id: "quiz", label: isModuleExam ? "Module Exam" : "Quiz" }] : []),
     ...(hasXrayExam ? [{ id: "xray-exam", label: "X-ray Exam" }] : []),
   ];
+  const activeView = views.some((view) => view.id === requestedView) ? requestedView : "review";
 
   // Read module.json for breadcrumb if it exists
   const moduleSlug = slug[0];
@@ -156,7 +160,8 @@ export default async function LessonPage({
     lessonResources.length > 0 ||
     slugPath === "pharmacology/lesson-1" ||
     slugPath === "patient-assessment/lesson-1" ||
-    slugPath === "patient-assessment/lesson-2";
+    slugPath === "patient-assessment/lesson-2" ||
+    slugPath === "pulmonary-diagnostics-i/lesson-7";
 
   return (
     <div>
@@ -234,6 +239,7 @@ export default async function LessonPage({
           {slugPath === "pharmacology/lesson-1" && <ReceptorTable />}
           {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
           {slugPath === "patient-assessment/lesson-2" && <GCSScenarios />}
+          {slugPath === "pulmonary-diagnostics-i/lesson-7" && <PulmonaryDiagnosticsIReview />}
           {lessonResources.length > 0 && (
             <div className="space-y-6">
               {lessonResources.map((resource) => {
