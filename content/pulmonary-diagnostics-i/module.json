@@ -91,6 +91,11 @@
       "slug": "pulmonary-diagnostics-i/lesson-5",
       "title": "FeNO, Timed Walk Testing & Exercise Oxygen Titration",
       "description": "Exhaled nitric oxide testing, timed walk testing, and oxygen titration with exercise, including indications, preparation, procedure, values, interpretation, contraindications, and hazards."
+    },
+    {
+      "slug": "pulmonary-diagnostics-i/lesson-6",
+      "title": "Bronchoscopy, Sputum Induction & Sleep Studies",
+      "description": "Bronchoscopy indications, equipment, procedure support, sputum induction, polysomnography, CPAP/BiPAP titration, home sleep testing, actigraphy, MSLT, and MWT."
     }
   ],
   "audio": [
@@ -113,6 +118,10 @@
     {
       "title": "Clinical Protocols for Lung Inflammation and Exertion",
       "src": "/audio/pulmonary-diagnostics-i/Clinical_protocols_for_lung_inflammation_and_exertion.m4a"
+    },
+    {
+      "title": "The Physical Battle for Our Breath",
+      "src": "/audio/pulmonary-diagnostics-i/The_physical_battle_for_our_breath.m4a"
     }
   ],
   "resources": [

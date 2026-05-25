@@ -1,0 +1,455 @@
+{
+  "title": "Bronchoscopy, Sputum Induction & Sleep Studies Quiz",
+  "questions": [
+    {
+      "text": "What is bronchoscopy used to visualize directly?",
+      "answers": [
+        {
+          "text": "Only oxygen saturation during sleep"
+        },
+        {
+          "text": "Pathologic changes in the trachea and bronchi",
+          "correct": true
+        },
+        {
+          "text": "Only movement of a limb during rest"
+        },
+        {
+          "text": "The number of apneas per hour without airway visualization"
+        }
+      ]
+    },
+    {
+      "text": "Which finding is an indication for diagnostic bronchoscopy?",
+      "answers": [
+        {
+          "text": "Need to measure daytime alertness only"
+        },
+        {
+          "text": "Routine CPAP comfort check only"
+        },
+        {
+          "text": "Normal sputum with no symptoms"
+        },
+        {
+          "text": "Abnormal chest X-ray, such as a mass",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which pair is listed as the most common causes of hemoptysis?",
+      "answers": [
+        {
+          "text": "Chronic bronchitis and bronchiectasis",
+          "correct": true
+        },
+        {
+          "text": "Sarcoidosis and lung abscesses"
+        },
+        {
+          "text": "Pulmonary hypertension and pneumonia"
+        },
+        {
+          "text": "Bronchogenic carcinoma and tuberculosis"
+        }
+      ]
+    },
+    {
+      "text": "Which is a therapeutic use of bronchoscopy?",
+      "answers": [
+        {
+          "text": "Diagnosis of narcolepsy"
+        },
+        {
+          "text": "Estimating total sleep time by limb movement"
+        },
+        {
+          "text": "Removal of foreign bodies",
+          "correct": true
+        },
+        {
+          "text": "Measuring AHI without airway access"
+        }
+      ]
+    },
+    {
+      "text": "Which is an absolute contraindication to bronchoscopy?",
+      "answers": [
+        {
+          "text": "Patient unable to cooperate"
+        },
+        {
+          "text": "Absence of signed consent",
+          "correct": true
+        },
+        {
+          "text": "Cardiovascular instability"
+        },
+        {
+          "text": "Moderate to severe hypoxemia"
+        }
+      ]
+    },
+    {
+      "text": "Which bronchoscopy hazards account for the majority of deaths associated with the procedure?",
+      "answers": [
+        {
+          "text": "Snoring and hypopneas"
+        },
+        {
+          "text": "Insomnia and hypersomnia"
+        },
+        {
+          "text": "Daytime sleepiness and REM sleep"
+        },
+        {
+          "text": "Hemorrhage and pneumothorax",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "What is the purpose of atropine before bronchoscopy?",
+      "answers": [
+        {
+          "text": "Reduce salivation, bronchial secretions, and vasovagal reflex",
+          "correct": true
+        },
+        {
+          "text": "Reverse Demerol overmedication"
+        },
+        {
+          "text": "Treat methemoglobinemia from benzocaine overuse"
+        },
+        {
+          "text": "Reduce bleeding during biopsy"
+        }
+      ]
+    },
+    {
+      "text": "Which medication is used to reverse Versed if the patient is overmedicated?",
+      "answers": [
+        {
+          "text": "Narcan"
+        },
+        {
+          "text": "Methylene blue"
+        },
+        {
+          "text": "Romazicon",
+          "correct": true
+        },
+        {
+          "text": "Epinephrine 1:1000"
+        }
+      ]
+    },
+    {
+      "text": "Overuse of benzocaine spray can cause which complication?",
+      "answers": [
+        {
+          "text": "Obstructive hypopnea"
+        },
+        {
+          "text": "Methemoglobinemia",
+          "correct": true
+        },
+        {
+          "text": "Idiopathic hypersomnia"
+        },
+        {
+          "text": "Bronchogenic carcinoma"
+        }
+      ]
+    },
+    {
+      "text": "How long should the patient fast before bronchoscopy according to the lesson?",
+      "answers": [
+        {
+          "text": "20 minutes"
+        },
+        {
+          "text": "2 weeks"
+        },
+        {
+          "text": "One week or more"
+        },
+        {
+          "text": "4-8 hours",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "How is a cytology lavage specimen prepared?",
+      "answers": [
+        {
+          "text": "Saccomanno solution is added in a 50-50 mix",
+          "correct": true
+        },
+        {
+          "text": "No solution is added"
+        },
+        {
+          "text": "It is placed only in formalin"
+        },
+        {
+          "text": "It is flushed only with Hank's solution"
+        }
+      ]
+    },
+    {
+      "text": "Which foreign body removal device uses a single looped wire for long, thin objects?",
+      "answers": [
+        {
+          "text": "Grasping basket"
+        },
+        {
+          "text": "Rat tooth forceps"
+        },
+        {
+          "text": "Snare",
+          "correct": true
+        },
+        {
+          "text": "Rubber-tipped forceps"
+        }
+      ]
+    },
+    {
+      "text": "What is the most common bronchoscopy approach listed in the lesson?",
+      "answers": [
+        {
+          "text": "Transoral without a bite block"
+        },
+        {
+          "text": "Transnasal",
+          "correct": true
+        },
+        {
+          "text": "Through a sleep test belt"
+        },
+        {
+          "text": "Through an actigraphy device"
+        }
+      ]
+    },
+    {
+      "text": "After bronchoscopy, how long should the patient avoid eating or drinking?",
+      "answers": [
+        {
+          "text": "10 minutes"
+        },
+        {
+          "text": "4-8 hours"
+        },
+        {
+          "text": "One week"
+        },
+        {
+          "text": "2 hours",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "What is the purpose of sputum induction?",
+      "answers": [
+        {
+          "text": "Collect fresh, uncontaminated secretions from the tracheobronchial tree",
+          "correct": true
+        },
+        {
+          "text": "Calibrate CPAP and BiPAP pressures"
+        },
+        {
+          "text": "Record EEG and EOG overnight"
+        },
+        {
+          "text": "Remove a rounded foreign body"
+        }
+      ]
+    },
+    {
+      "text": "What may be administered by SVN when a patient has difficulty producing a strong productive cough?",
+      "answers": [
+        {
+          "text": "Methylene blue"
+        },
+        {
+          "text": "Saccomanno solution"
+        },
+        {
+          "text": "Hypertonic saline",
+          "correct": true
+        },
+        {
+          "text": "Formalin"
+        }
+      ]
+    },
+    {
+      "text": "Which test is required for definitive diagnosis of sleep apnea?",
+      "answers": [
+        {
+          "text": "Overnight pulse oximetry"
+        },
+        {
+          "text": "Polysomnography",
+          "correct": true
+        },
+        {
+          "text": "Actigraphy"
+        },
+        {
+          "text": "Multiple Wakefulness Test"
+        }
+      ]
+    },
+    {
+      "text": "How is obstructive sleep apnea identified during interpretation?",
+      "answers": [
+        {
+          "text": "No respiratory effort detected and no airflow"
+        },
+        {
+          "text": "Respiratory effort detected with minimal airflow only"
+        },
+        {
+          "text": "Limb movement recorded for a week or more"
+        },
+        {
+          "text": "Respiratory effort detected but no airflow",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "What does AHI represent?",
+      "answers": [
+        {
+          "text": "The number of apneas and hypopneas per hour of sleep",
+          "correct": true
+        },
+        {
+          "text": "The number of REM entries during MSLT"
+        },
+        {
+          "text": "The number of bronchoscopy biopsies per procedure"
+        },
+        {
+          "text": "The number of oxygen desaturations during sputum induction"
+        }
+      ]
+    },
+    {
+      "text": "Which therapy is first-line medical therapy for OSA according to the lesson?",
+      "answers": [
+        {
+          "text": "BiPAP only"
+        },
+        {
+          "text": "Actigraphy"
+        },
+        {
+          "text": "CPAP",
+          "correct": true
+        },
+        {
+          "text": "Bronchoscopic lavage"
+        }
+      ]
+    },
+    {
+      "text": "Why may BiPAP be ideal for some patients?",
+      "answers": [
+        {
+          "text": "They need five 15-minute naps"
+        },
+        {
+          "text": "They require separate pressures for inhalation and exhalation",
+          "correct": true
+        },
+        {
+          "text": "They need no airflow measured for 10 seconds"
+        },
+        {
+          "text": "They need a sterile suction catheter connected to a trap"
+        }
+      ]
+    },
+    {
+      "text": "What is overnight pulse oximetry used to determine?",
+      "answers": [
+        {
+          "text": "Whether a tissue specimen floats"
+        },
+        {
+          "text": "Whether a patient has bronchospasm from topical anesthesia"
+        },
+        {
+          "text": "Whether cytology needs Saccomanno solution"
+        },
+        {
+          "text": "Whether treatment such as CPAP or BiPAP is effective",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "What does actigraphy measure?",
+      "answers": [
+        {
+          "text": "Movement of a limb",
+          "correct": true
+        },
+        {
+          "text": "Airflow at the nose and mouth"
+        },
+        {
+          "text": "Bronchial secretions after atropine"
+        },
+        {
+          "text": "Localized medication delivery"
+        }
+      ]
+    },
+    {
+      "text": "Which MSLT finding supports narcolepsy in the lesson?",
+      "answers": [
+        {
+          "text": "Falling asleep quickly without REM sleep"
+        },
+        {
+          "text": "Staying awake for 40 minutes in every trial"
+        },
+        {
+          "text": "Entering REM sleep two or more times during the MSLT",
+          "correct": true
+        },
+        {
+          "text": "No respiratory effort and no airflow"
+        }
+      ]
+    },
+    {
+      "text": "Which statement correctly compares MSLT and MWT?",
+      "answers": [
+        {
+          "text": "MSLT uses four trials; MWT uses five naps"
+        },
+        {
+          "text": "MSLT measures falling asleep and REM entry; MWT measures ability to stay awake",
+          "correct": true
+        },
+        {
+          "text": "MSLT is for foreign body removal; MWT is for cytology specimens"
+        },
+        {
+          "text": "MSLT ends at 40 minutes; MWT ends at 20 minutes"
+        }
+      ]
+    }
+  ]
+}
