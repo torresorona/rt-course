@@ -367,7 +367,42 @@ Required in `.env.local`:
 
 ---
 
-## 12. Known Technical Debt & Gotchas
+## 12. Deployment & Promotion Workflow
+
+Changes must be promoted through explicit, user-approved stages:
+
+1. **Local / Dev first**
+   - Implement and validate changes locally before any remote push.
+   - Use `.env.local` for local commands; its values point to the dev Neon branch.
+   - For new lessons/content, run local validation and seed against dev only.
+
+2. **Pre-production next**
+   - Only push to the remote `preview` branch after the user explicitly asks.
+   - The `preview` branch triggers the Vercel pre-production deployment.
+   - Pre-production uses environment values equivalent to `.env.preview`, pointing at the Neon preview instance.
+
+3. **Production last**
+   - Only push to `main` after the user explicitly confirms pre-production validation is complete.
+   - `main` triggers the final Vercel production deployment.
+   - Production uses production Vercel environment variables and the production Neon instance.
+
+### Git Promotion Rules
+
+- The only remote branches that may be pushed are `preview` and `main`.
+- Do not push any other branch remotely without explicit user consent.
+- Direct pushes are acceptable when the user asks for that promotion stage; pull requests are not required.
+
+### Neon Schema Changes
+
+- Neon branches isolate schema and data changes; schema changes applied to dev do not automatically affect preview or production.
+- Use `npm run db:push` only for local/dev schema experimentation unless the user explicitly approves otherwise.
+- For schema changes that will reach preview or production, prefer committed Drizzle migration files and apply the same migration per environment.
+- Before applying schema changes to preview or production, confirm the target environment variables point to the intended Neon branch/instance.
+- Consider Neon Schema Diff before promotion when the schema delta is non-trivial.
+
+---
+
+## 13. Known Technical Debt & Gotchas
 
 ### Hardcoded Mappings
 - **Audio map** (`audioMap` in `app/[...slug]/page.tsx`): Each lesson's audio file path is hardcoded. Adding a new lesson with audio requires manually updating this object.
@@ -392,7 +427,7 @@ Required in `.env.local`:
 
 ---
 
-## 13. Coding Conventions
+## 14. Coding Conventions
 
 - **TypeScript strict mode** enabled
 - **Path alias**: `@/*` maps to project root (e.g., `@/db`, `@/components`)
@@ -406,7 +441,7 @@ Required in `.env.local`:
 
 ---
 
-## 14. Content Domain Context
+## 15. Content Domain Context
 
 This is a **Respiratory Therapy** course for a student in a military RT program. Content covers:
 
