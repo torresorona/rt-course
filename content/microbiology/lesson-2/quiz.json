@@ -1,0 +1,185 @@
+{
+  "title": "Infection, Disease & Epidemiology Quiz",
+  "questions": [
+    {
+      "text": "Which host-microbe relationship benefits both organisms?",
+      "answers": [
+        { "text": "Mutualism", "correct": true },
+        { "text": "Commensalism" },
+        { "text": "Parasitism" },
+        { "text": "Pathogenicity" }
+      ]
+    },
+    {
+      "text": "A pathogen is best described as:",
+      "answers": [
+        { "text": "A parasite capable of causing disease", "correct": true },
+        { "text": "Any organism that always benefits the host" },
+        { "text": "Only normal flora on the skin" },
+        { "text": "Only a nonliving reservoir" }
+      ]
+    },
+    {
+      "text": "Normal flora help protect the host primarily by:",
+      "answers": [
+        { "text": "Impeding colonization by other bacteria", "correct": true },
+        { "text": "Increasing pathogen virulence" },
+        { "text": "Producing exotoxins in all tissues" },
+        { "text": "Preventing all immune responses" }
+      ]
+    },
+    {
+      "text": "Which organism is listed as an opportunistic pathogen in cystic fibrosis patients?",
+      "answers": [
+        { "text": "Pseudomonas aeruginosa", "correct": true },
+        { "text": "Clostridium tetani" },
+        { "text": "West Nile virus" },
+        { "text": "Pertussis" }
+      ]
+    },
+    {
+      "text": "A yeast infection after prolonged antibiotic use is an example of infection related to:",
+      "answers": [
+        { "text": "Changes in normal flora", "correct": true },
+        { "text": "Positive MHC I recognition" },
+        { "text": "Sterilization" },
+        { "text": "Mechanical vector transmission" }
+      ]
+    },
+    {
+      "text": "Which is a portal of entry listed in the lesson?",
+      "answers": [
+        { "text": "Skin", "correct": true },
+        { "text": "Zone of inhibition" },
+        { "text": "Fomite" },
+        { "text": "Virion" }
+      ]
+    },
+    {
+      "text": "Parenteral entry means pathogens are introduced directly into:",
+      "answers": [
+        { "text": "Subcutaneous tissue", "correct": true },
+        { "text": "The capsid" },
+        { "text": "The agar plate" },
+        { "text": "The outer membrane only" }
+      ]
+    },
+    {
+      "text": "The first step in infection that allows colonization is:",
+      "answers": [
+        { "text": "Adhesion", "correct": true },
+        { "text": "Sepsis" },
+        { "text": "Cohorting" },
+        { "text": "Degermination" }
+      ]
+    },
+    {
+      "text": "A slime layer or capsule helps a pathogen evade the host by:",
+      "answers": [
+        { "text": "Preventing phagocytosis", "correct": true },
+        { "text": "Increasing hand hygiene" },
+        { "text": "Creating a zone of inhibition" },
+        { "text": "Filtering airborne particles" }
+      ]
+    },
+    {
+      "text": "Exotoxins are:",
+      "answers": [
+        { "text": "Proteins secreted by bacterial cells", "correct": true },
+        { "text": "Released only from cell walls during lysis" },
+        { "text": "Always nonliving reservoirs" },
+        { "text": "The same as normal flora" }
+      ]
+    },
+    {
+      "text": "Endotoxins are released from cell walls during:",
+      "answers": [
+        { "text": "Lysis", "correct": true },
+        { "text": "Handwashing" },
+        { "text": "Cohorting" },
+        { "text": "Active immunity" }
+      ]
+    },
+    {
+      "text": "A fungal skin infection confined to one tissue is an example of which infection pattern?",
+      "answers": [
+        { "text": "Local infection", "correct": true },
+        { "text": "Systemic infection" },
+        { "text": "Septicemia" },
+        { "text": "Mixed infection only" }
+      ]
+    },
+    {
+      "text": "An asymptomatic infected person who can still infect others is a:",
+      "answers": [
+        { "text": "Carrier", "correct": true },
+        { "text": "Fomite" },
+        { "text": "Mechanical vector only" },
+        { "text": "Phagocyte" }
+      ]
+    },
+    {
+      "text": "A stethoscope transmitting a pathogen from reservoir to host is an example of:",
+      "answers": [
+        { "text": "Indirect contact through a fomite", "correct": true },
+        { "text": "Direct contact with no intermediate object" },
+        { "text": "Active immunity" },
+        { "text": "MHC II presentation" }
+      ]
+    },
+    {
+      "text": "Droplet transmission involves respiratory droplets traveling less than about:",
+      "answers": [
+        { "text": "1 meter or 3 feet", "correct": true },
+        { "text": "10 meters or 30 feet" },
+        { "text": "6 to 12 air changes per hour" },
+        { "text": "20 seconds" }
+      ]
+    },
+    {
+      "text": "Which precaution is associated with airborne transmission?",
+      "answers": [
+        { "text": "Negative pressure room", "correct": true },
+        { "text": "No room door" },
+        { "text": "Only a shared towel" },
+        { "text": "Only alcohol before injection" }
+      ]
+    },
+    {
+      "text": "Foodborne transmission can occur when food is:",
+      "answers": [
+        { "text": "Incompletely cooked, poorly processed, or poorly refrigerated", "correct": true },
+        { "text": "Always sterile and sealed" },
+        { "text": "Used only as a fomite" },
+        { "text": "Exposed only to HEPA filtration" }
+      ]
+    },
+    {
+      "text": "A mosquito transmitting a pathogen through a bite is which type of vector?",
+      "answers": [
+        { "text": "Biological vector", "correct": true },
+        { "text": "Mechanical vector" },
+        { "text": "Nonliving reservoir" },
+        { "text": "Fomite" }
+      ]
+    },
+    {
+      "text": "A healthcare-associated infection caused by a catheter or surgery is:",
+      "answers": [
+        { "text": "Iatrogenic", "correct": true },
+        { "text": "Exogenous only" },
+        { "text": "Endogenous only" },
+        { "text": "Commensal" }
+      ]
+    },
+    {
+      "text": "If hands are visibly soiled, the lesson says to use:",
+      "answers": [
+        { "text": "Soap and water", "correct": true },
+        { "text": "Only an alcohol-based product" },
+        { "text": "Only a surgical mask" },
+        { "text": "Only HEPA filtration" }
+      ]
+    }
+  ]
+}

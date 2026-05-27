@@ -1,0 +1,203 @@
+{
+  "title": "The Immune Response & Lymphatic System Quiz",
+  "questions": [
+    {
+      "text": "Immunology is the study of the immune system's:",
+      "answers": [
+        { "text": "Genetic, biological, chemical, and physical characteristics", "correct": true },
+        { "text": "Only bacterial shape and arrangement" },
+        { "text": "Only oxygen delivery devices" },
+        { "text": "Only foodborne transmission" }
+      ]
+    },
+    {
+      "text": "Innate immunity is described as:",
+      "answers": [
+        { "text": "Nonspecific", "correct": true },
+        { "text": "Specific only to one antigen" },
+        { "text": "Produced only by vaccines" },
+        { "text": "Exogenous antibody transfer" }
+      ]
+    },
+    {
+      "text": "An antigen is any agent capable of:",
+      "answers": [
+        { "text": "Binding specifically to immune system components and triggering an immune response", "correct": true },
+        { "text": "Sterilizing all endospores" },
+        { "text": "Creating negative pressure" },
+        { "text": "Preventing all antibody production" }
+      ]
+    },
+    {
+      "text": "MHC I helps:",
+      "answers": [
+        { "text": "Encode self-antigen characteristics and aid recognition of self", "correct": true },
+        { "text": "Counterstain cells with safranin" },
+        { "text": "Lower microbial counts in food" },
+        { "text": "Carry pathogens passively on feet" }
+      ]
+    },
+    {
+      "text": "MHC II is located on macrophages and B cells and is involved in:",
+      "answers": [
+        { "text": "Presenting foreign antigens to T cells", "correct": true },
+        { "text": "Direct flame sterilization" },
+        { "text": "Budding out of host cells" },
+        { "text": "Producing bile salts" }
+      ]
+    },
+    {
+      "text": "Antibodies are produced by:",
+      "answers": [
+        { "text": "B lymphocytes", "correct": true },
+        { "text": "Platelets" },
+        { "text": "Fomites" },
+        { "text": "Autoclaves" }
+      ]
+    },
+    {
+      "text": "What do antibodies do to antigens?",
+      "answers": [
+        { "text": "Mark them for destruction by phagocytes", "correct": true },
+        { "text": "Kill them directly in every case" },
+        { "text": "Convert them into MHC I" },
+        { "text": "Turn them into normal flora" }
+      ]
+    },
+    {
+      "text": "The largest organ of the lymphatic system is the:",
+      "answers": [
+        { "text": "Spleen", "correct": true },
+        { "text": "Thymus gland" },
+        { "text": "Red bone marrow" },
+        { "text": "Tonsils" }
+      ]
+    },
+    {
+      "text": "Which leukocytes are the most abundant and motile phagocytes and are generally first to respond to bacterial infection?",
+      "answers": [
+        { "text": "Neutrophils", "correct": true },
+        { "text": "Basophils" },
+        { "text": "Mast cells" },
+        { "text": "Memory B cells" }
+      ]
+    },
+    {
+      "text": "Basophils promote inflammation by releasing:",
+      "answers": [
+        { "text": "Histamine, heparin, and serotonin", "correct": true },
+        { "text": "Crystal violet, alcohol, and safranin" },
+        { "text": "Bile salts and pepsin only" },
+        { "text": "Perforin only" }
+      ]
+    },
+    {
+      "text": "A macrophage is a matured:",
+      "answers": [
+        { "text": "Monocyte", "correct": true },
+        { "text": "B cell" },
+        { "text": "Eosinophil" },
+        { "text": "Antibody" }
+      ]
+    },
+    {
+      "text": "B cells are responsible for:",
+      "answers": [
+        { "text": "Antibody-mediated immunity", "correct": true },
+        { "text": "Filtering airborne particles" },
+        { "text": "Replacing keratinocytes" },
+        { "text": "Carrying disease passively by feet" }
+      ]
+    },
+    {
+      "text": "Natural killer cells kill infected and tumor cells by recognizing:",
+      "answers": [
+        { "text": "MHC I", "correct": true },
+        { "text": "Safranin" },
+        { "text": "Foodborne transmission" },
+        { "text": "EtO aeration" }
+      ]
+    },
+    {
+      "text": "Which is a first-line physical barrier?",
+      "answers": [
+        { "text": "Skin", "correct": true },
+        { "text": "Cytotoxic T cell perforin" },
+        { "text": "Clonal selection only" },
+        { "text": "Passive immunity" }
+      ]
+    },
+    {
+      "text": "Lysozymes are present in tears, saliva, nasal secretions, and sweat and:",
+      "answers": [
+        { "text": "Break down organism cell walls", "correct": true },
+        { "text": "Cause blood type antigens" },
+        { "text": "Form syncytia" },
+        { "text": "Act as fomites" }
+      ]
+    },
+    {
+      "text": "During phagocytosis, the sac formed around the organism is the:",
+      "answers": [
+        { "text": "Phagosome", "correct": true },
+        { "text": "Virion" },
+        { "text": "Capsid" },
+        { "text": "Zone of inhibition" }
+      ]
+    },
+    {
+      "text": "Bradykinin activates sensory nerves and initiates:",
+      "answers": [
+        { "text": "Pain", "correct": true },
+        { "text": "Budding" },
+        { "text": "Sterilization" },
+        { "text": "Clonal selection" }
+      ]
+    },
+    {
+      "text": "Interferons are glycoproteins produced by cells infected with:",
+      "answers": [
+        { "text": "A virus", "correct": true },
+        { "text": "A fomite" },
+        { "text": "A surgical mask" },
+        { "text": "A transplant medication" }
+      ]
+    },
+    {
+      "text": "Cytotoxic T cells recognize MHC I and release:",
+      "answers": [
+        { "text": "Perforin", "correct": true },
+        { "text": "Safranin" },
+        { "text": "Glutaraldehyde" },
+        { "text": "Bile salts" }
+      ]
+    },
+    {
+      "text": "Active immunity occurs when:",
+      "answers": [
+        { "text": "An antigen enters the body and the body learns how to respond", "correct": true },
+        { "text": "Antibodies come only from an outside source" },
+        { "text": "All microbial life is eliminated" },
+        { "text": "A patient is placed in a negative pressure room" }
+      ]
+    },
+    {
+      "text": "Passive immunity lasts:",
+      "answers": [
+        { "text": "Only as long as the outside-source antibody remains in the bloodstream", "correct": true },
+        { "text": "Forever after one exposure" },
+        { "text": "Only until a zone of inhibition forms" },
+        { "text": "Only during Gram staining" }
+      ]
+    },
+    {
+      "text": "Surveillance helps detect epidemics through routine reporting or:",
+      "answers": [
+        { "text": "Unusual clusters of cases recognized by healthcare providers", "correct": true },
+        { "text": "Bacterial capsule thickness alone" },
+        { "text": "Mechanical flushing by sweat only" },
+        { "text": "Changing humidifiers every 30 days" }
+      ]
+    }
+  ]
+}
