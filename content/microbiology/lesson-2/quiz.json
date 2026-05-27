@@ -4,8 +4,8 @@
     {
       "text": "Which host-microbe relationship benefits both organisms?",
       "answers": [
-        { "text": "Mutualism", "correct": true },
         { "text": "Commensalism" },
+        { "text": "Mutualism", "correct": true },
         { "text": "Parasitism" },
         { "text": "Pathogenicity" }
       ]
@@ -13,10 +13,10 @@
     {
       "text": "A pathogen is best described as:",
       "answers": [
-        { "text": "A parasite capable of causing disease", "correct": true },
         { "text": "Any organism that always benefits the host" },
         { "text": "Only normal flora on the skin" },
-        { "text": "Only a nonliving reservoir" }
+        { "text": "Only a nonliving reservoir" },
+        { "text": "A parasite capable of causing disease", "correct": true }
       ]
     },
     {
@@ -31,17 +31,17 @@
     {
       "text": "Which organism is listed as an opportunistic pathogen in cystic fibrosis patients?",
       "answers": [
-        { "text": "Pseudomonas aeruginosa", "correct": true },
         { "text": "Clostridium tetani" },
         { "text": "West Nile virus" },
+        { "text": "Pseudomonas aeruginosa", "correct": true },
         { "text": "Pertussis" }
       ]
     },
     {
       "text": "A yeast infection after prolonged antibiotic use is an example of infection related to:",
       "answers": [
-        { "text": "Changes in normal flora", "correct": true },
         { "text": "Positive MHC I recognition" },
+        { "text": "Changes in normal flora", "correct": true },
         { "text": "Sterilization" },
         { "text": "Mechanical vector transmission" }
       ]
@@ -49,10 +49,10 @@
     {
       "text": "Which is a portal of entry listed in the lesson?",
       "answers": [
-        { "text": "Skin", "correct": true },
         { "text": "Zone of inhibition" },
         { "text": "Fomite" },
-        { "text": "Virion" }
+        { "text": "Virion" },
+        { "text": "Skin", "correct": true }
       ]
     },
     {
@@ -67,26 +67,26 @@
     {
       "text": "The first step in infection that allows colonization is:",
       "answers": [
-        { "text": "Adhesion", "correct": true },
         { "text": "Sepsis" },
         { "text": "Cohorting" },
+        { "text": "Adhesion", "correct": true },
         { "text": "Degermination" }
       ]
     },
     {
       "text": "A slime layer or capsule helps a pathogen evade the host by:",
       "answers": [
-        { "text": "Preventing phagocytosis", "correct": true },
         { "text": "Increasing hand hygiene" },
         { "text": "Creating a zone of inhibition" },
-        { "text": "Filtering airborne particles" }
+        { "text": "Filtering airborne particles" },
+        { "text": "Preventing phagocytosis", "correct": true }
       ]
     },
     {
       "text": "Exotoxins are:",
       "answers": [
-        { "text": "Proteins secreted by bacterial cells", "correct": true },
         { "text": "Released only from cell walls during lysis" },
+        { "text": "Proteins secreted by bacterial cells", "correct": true },
         { "text": "Always nonliving reservoirs" },
         { "text": "The same as normal flora" }
       ]
@@ -94,9 +94,9 @@
     {
       "text": "Endotoxins are released from cell walls during:",
       "answers": [
-        { "text": "Lysis", "correct": true },
         { "text": "Handwashing" },
         { "text": "Cohorting" },
+        { "text": "Lysis", "correct": true },
         { "text": "Active immunity" }
       ]
     },
@@ -112,17 +112,17 @@
     {
       "text": "An asymptomatic infected person who can still infect others is a:",
       "answers": [
-        { "text": "Carrier", "correct": true },
         { "text": "Fomite" },
         { "text": "Mechanical vector only" },
-        { "text": "Phagocyte" }
+        { "text": "Phagocyte" },
+        { "text": "Carrier", "correct": true }
       ]
     },
     {
       "text": "A stethoscope transmitting a pathogen from reservoir to host is an example of:",
       "answers": [
-        { "text": "Indirect contact through a fomite", "correct": true },
         { "text": "Direct contact with no intermediate object" },
+        { "text": "Indirect contact through a fomite", "correct": true },
         { "text": "Active immunity" },
         { "text": "MHC II presentation" }
       ]
@@ -130,9 +130,9 @@
     {
       "text": "Droplet transmission involves respiratory droplets traveling less than about:",
       "answers": [
-        { "text": "1 meter or 3 feet", "correct": true },
         { "text": "10 meters or 30 feet" },
         { "text": "6 to 12 air changes per hour" },
+        { "text": "1 meter or 3 feet", "correct": true },
         { "text": "20 seconds" }
       ]
     },
@@ -148,8 +148,8 @@
     {
       "text": "Foodborne transmission can occur when food is:",
       "answers": [
-        { "text": "Incompletely cooked, poorly processed, or poorly refrigerated", "correct": true },
         { "text": "Always sterile and sealed" },
+        { "text": "Incompletely cooked, poorly processed, or poorly refrigerated", "correct": true },
         { "text": "Used only as a fomite" },
         { "text": "Exposed only to HEPA filtration" }
       ]
@@ -157,18 +157,18 @@
     {
       "text": "A mosquito transmitting a pathogen through a bite is which type of vector?",
       "answers": [
-        { "text": "Biological vector", "correct": true },
         { "text": "Mechanical vector" },
         { "text": "Nonliving reservoir" },
-        { "text": "Fomite" }
+        { "text": "Fomite" },
+        { "text": "Biological vector", "correct": true }
       ]
     },
     {
       "text": "A healthcare-associated infection caused by a catheter or surgery is:",
       "answers": [
-        { "text": "Iatrogenic", "correct": true },
         { "text": "Exogenous only" },
         { "text": "Endogenous only" },
+        { "text": "Iatrogenic", "correct": true },
         { "text": "Commensal" }
       ]
     },
