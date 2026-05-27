@@ -12,6 +12,7 @@ import ReceptorTable from "@/components/ReceptorTable";
 import LabRanges from "@/components/LabRanges";
 import GCSScenarios from "@/components/GCSScenarios";
 import PulmonaryDiagnosticsIReview from "@/components/PulmonaryDiagnosticsIReview";
+import CylinderDurationExercises from "@/components/CylinderDurationExercises";
 import YouTube from "@/components/YouTube";
 
 function MdxTable(props: React.ComponentProps<"table">) {
@@ -164,7 +165,8 @@ export default async function LessonPage({
     slugPath === "pharmacology/lesson-1" ||
     slugPath === "patient-assessment/lesson-1" ||
     slugPath === "patient-assessment/lesson-2" ||
-    slugPath === "pulmonary-diagnostics-i/lesson-7";
+    slugPath === "pulmonary-diagnostics-i/lesson-7" ||
+    slugPath === "respiratory-therapeutics/lesson-1";
 
   return (
     <div>
@@ -243,6 +245,7 @@ export default async function LessonPage({
           {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
           {slugPath === "patient-assessment/lesson-2" && <GCSScenarios />}
           {slugPath === "pulmonary-diagnostics-i/lesson-7" && <PulmonaryDiagnosticsIReview />}
+          {slugPath === "respiratory-therapeutics/lesson-1" && <CylinderDurationExercises />}
           {lessonResources.length > 0 && (
             <div className="space-y-6">
               {lessonResources.map((resource) => {
