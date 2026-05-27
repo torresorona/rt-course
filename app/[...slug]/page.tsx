@@ -156,6 +156,8 @@ export default async function LessonPage({
     "pulmonary-anatomy-physiology/lesson-2": "/audio/pulmonary-anatomy-physiology/The_Physics_of_Human_Gas_Exchange.m4a",
     "pulmonary-anatomy-physiology/lesson-3": "/audio/pulmonary-anatomy-physiology/Why_You_Breathe_to_Expel_Brain_Acid.m4a",
     "pulmonary-anatomy-physiology/lesson-4": "/audio/pulmonary-anatomy-physiology/How_Your_Body_Balances_Blood_pH.m4a",
+    "respiratory-therapeutics/lesson-1": "/audio/respiratory-therapeutics/How_Respiratory_Documentation_Prevents_Medical_Errors.m4a",
+    "respiratory-therapeutics/lesson-2": "/audio/respiratory-therapeutics/The_Invisible_Engineering_of_Medical_Gases.m4a",
   };
   const audioSrc = audioMap[slugPath] ?? null;
 
@@ -166,7 +168,7 @@ export default async function LessonPage({
     slugPath === "patient-assessment/lesson-1" ||
     slugPath === "patient-assessment/lesson-2" ||
     slugPath === "pulmonary-diagnostics-i/lesson-7" ||
-    slugPath === "respiratory-therapeutics/lesson-1";
+    slugPath === "respiratory-therapeutics/lesson-2";
 
   return (
     <div>
@@ -245,7 +247,7 @@ export default async function LessonPage({
           {slugPath === "patient-assessment/lesson-1" && <LabRanges />}
           {slugPath === "patient-assessment/lesson-2" && <GCSScenarios />}
           {slugPath === "pulmonary-diagnostics-i/lesson-7" && <PulmonaryDiagnosticsIReview />}
-          {slugPath === "respiratory-therapeutics/lesson-1" && <CylinderDurationExercises />}
+          {slugPath === "respiratory-therapeutics/lesson-2" && <CylinderDurationExercises />}
           {lessonResources.length > 0 && (
             <div className="space-y-6">
               {lessonResources.map((resource) => {
