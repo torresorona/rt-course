@@ -1,7 +1,7 @@
 {
   "title": "Microbiology",
   "description": "Cell classification, bacterial and viral structure, microbial control, infection transmission, healthcare-associated infections, and immune defense.",
-  "order": 9,
+  "order": 3,
   "lessons": [
     {
       "slug": "microbiology/lesson-1",
@@ -17,6 +17,11 @@
       "slug": "microbiology/lesson-3",
       "title": "The Immune Response & Lymphatic System",
       "description": "Innate and adaptive immunity, antigens, MHC, antibodies, immune system organs and cells, barriers, inflammation, fever, interferons, complement, T-cell and B-cell responses, active and passive immunity, and infection prevention programs."
+    },
+    {
+      "slug": "microbiology/lesson-4",
+      "title": "Module Overview & Mock Exam",
+      "description": "Cumulative review of microbiology basics, microbial control, lab safety, infection transmission, healthcare-associated infections, immune response, and lymphatic system concepts with a 50-question mock exam."
     }
   ],
   "audio": [

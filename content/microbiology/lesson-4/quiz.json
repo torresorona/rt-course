@@ -1,0 +1,455 @@
+{
+  "title": "Microbiology Module Mock Exam",
+  "questions": [
+    {
+      "text": "A lab report describes an organism as prokaryotic. Which feature supports that classification?",
+      "answers": [
+        { "text": "It has a membrane-bound nucleus" },
+        { "text": "It divides by binary fission", "correct": true },
+        { "text": "It divides by mitosis" },
+        { "text": "It is a complete extracellular virus particle" }
+      ]
+    },
+    {
+      "text": "A slide shows round bacteria arranged in grapelike clusters. Which terms best describe the shape and arrangement?",
+      "answers": [
+        { "text": "Bacilli arranged as strepto-" },
+        { "text": "Spirochetes arranged as diplo-" },
+        { "text": "Cocci arranged as staphylo-", "correct": true },
+        { "text": "Vibrio arranged as coccobacillus" }
+      ]
+    },
+    {
+      "text": "Which bacterial structure is thicker in Gram-positive bacteria?",
+      "answers": [
+        { "text": "Cell wall/peptidoglycan", "correct": true },
+        { "text": "Outer membrane" },
+        { "text": "Periplasmic space" },
+        { "text": "Flagella" }
+      ]
+    },
+    {
+      "text": "Which structure helps select Gram-negative bacteria resist phagocytosis and attach to surfaces?",
+      "answers": [
+        { "text": "Capsid" },
+        { "text": "Crystal violet" },
+        { "text": "Phagosome" },
+        { "text": "Cell capsule/slime layer", "correct": true }
+      ]
+    },
+    {
+      "text": "Fimbria and pili are most directly associated with:",
+      "answers": [
+        { "text": "Attachment to a host and establishing an infection site", "correct": true },
+        { "text": "Mobility through protein tails" },
+        { "text": "Counterstaining with safranin" },
+        { "text": "Steam sterilization under pressure" }
+      ]
+    },
+    {
+      "text": "A complete virus particle with a genetic core and protein coat is called a:",
+      "answers": [
+        { "text": "Porin" },
+        { "text": "Virion", "correct": true },
+        { "text": "Fomite" },
+        { "text": "Phagosome" }
+      ]
+    },
+    {
+      "text": "During bacteriophage multiplication, which step releases new virions after the host cell breaks open?",
+      "answers": [
+        { "text": "Adsorption" },
+        { "text": "Penetration" },
+        { "text": "Assembly" },
+        { "text": "Lysis", "correct": true }
+      ]
+    },
+    {
+      "text": "A virus can attach only to specific host binding sites. This is called:",
+      "answers": [
+        { "text": "Viral tropism", "correct": true },
+        { "text": "Degermination" },
+        { "text": "Agglutination" },
+        { "text": "Minimal inhibitory concentration" }
+      ]
+    },
+    {
+      "text": "Which animal virus step releases the viral genome after the capsid breaks down?",
+      "answers": [
+        { "text": "Release" },
+        { "text": "Adsorption" },
+        { "text": "Uncoating", "correct": true },
+        { "text": "Budding" }
+      ]
+    },
+    {
+      "text": "Which microbial control term means all forms of microbial life, including endospores, are eliminated?",
+      "answers": [
+        { "text": "Disinfection" },
+        { "text": "Sanitization" },
+        { "text": "Cleaning" },
+        { "text": "Sterilization", "correct": true }
+      ]
+    },
+    {
+      "text": "A clinician wipes a small skin area with rubbing alcohol before injection. Which term best matches this action?",
+      "answers": [
+        { "text": "Degermination", "correct": true },
+        { "text": "Sterilization" },
+        { "text": "Autoclaving" },
+        { "text": "Agar differentiation" }
+      ]
+    },
+    {
+      "text": "Which physical method uses steam under pressure and requires equipment to be cleaned first?",
+      "answers": [
+        { "text": "Dry heat" },
+        { "text": "Autoclave", "correct": true },
+        { "text": "Freezing" },
+        { "text": "Radiation" }
+      ]
+    },
+    {
+      "text": "A hypertonic solution controls microbial growth by:",
+      "answers": [
+        { "text": "Increasing viral tropism" },
+        { "text": "Creating a capsule" },
+        { "text": "Dehydrating the cell", "correct": true },
+        { "text": "Producing antibodies" }
+      ]
+    },
+    {
+      "text": "Which factor can decrease disinfectant effectiveness when present on an item?",
+      "answers": [
+        { "text": "Organic matter", "correct": true },
+        { "text": "Adequate contact time" },
+        { "text": "Correct chemical concentration" },
+        { "text": "Proper temperature" }
+      ]
+    },
+    {
+      "text": "Glutaraldehyde is specifically noted in the lesson as being used to clean:",
+      "answers": [
+        { "text": "Stethoscopes only" },
+        { "text": "Bronchoscopes", "correct": true },
+        { "text": "Food storage units" },
+        { "text": "N95 masks" }
+      ]
+    },
+    {
+      "text": "Ethylene oxide must be properly aerated before patient use because it:",
+      "answers": [
+        { "text": "Turns cells Gram-negative" },
+        { "text": "Has no effect on delicate equipment" },
+        { "text": "Destroys all normal flora instantly" },
+        { "text": "Is toxic", "correct": true }
+      ]
+    },
+    {
+      "text": "In Gram staining, bacteria that remain blue or purple are interpreted as:",
+      "answers": [
+        { "text": "Gram-negative" },
+        { "text": "Acid-fast" },
+        { "text": "Gram-positive", "correct": true },
+        { "text": "Endospore-forming only" }
+      ]
+    },
+    {
+      "text": "Which stain is useful in identifying tuberculosis?",
+      "answers": [
+        { "text": "Acid-fast staining", "correct": true },
+        { "text": "Kirby-Bauer disk diffusion" },
+        { "text": "Minimal inhibitory concentration" },
+        { "text": "Agar differentiation only" }
+      ]
+    },
+    {
+      "text": "A halo forms around an antibiotic disk on agar. What is this halo called?",
+      "answers": [
+        { "text": "Phagosome" },
+        { "text": "Zone of inhibition", "correct": true },
+        { "text": "Capsid" },
+        { "text": "Endotoxin" }
+      ]
+    },
+    {
+      "text": "The minimal inhibitory concentration method identifies the:",
+      "answers": [
+        { "text": "Largest dose that causes turbidity" },
+        { "text": "Lowest drug concentration that inhibits visible growth", "correct": true },
+        { "text": "Best site for viral adsorption" },
+        { "text": "Amount of spores surviving autoclaving" }
+      ]
+    },
+    {
+      "text": "Proper handwashing should include vigorous rubbing for at least:",
+      "answers": [
+        { "text": "5 seconds" },
+        { "text": "10 seconds" },
+        { "text": "20 seconds", "correct": true },
+        { "text": "60 seconds" }
+      ]
+    },
+    {
+      "text": "A safety shower or eyewash station must be accessible within:",
+      "answers": [
+        { "text": "10 seconds", "correct": true },
+        { "text": "1 minute" },
+        { "text": "5 minutes" },
+        { "text": "Only after supervisor approval" }
+      ]
+    },
+    {
+      "text": "Which disposal method matches sharps?",
+      "answers": [
+        { "text": "Autoclave bag" },
+        { "text": "Heavy-duty plastic liner in a cardboard box" },
+        { "text": "Puncture-resistant biohazard sharps container", "correct": true },
+        { "text": "Regular food-storage refrigerator" }
+      ]
+    },
+    {
+      "text": "Which respiratory protection is associated with HEPA filtration for small airborne particles?",
+      "answers": [
+        { "text": "Surgical mask" },
+        { "text": "Safety glasses" },
+        { "text": "Gloves" },
+        { "text": "N95", "correct": true }
+      ]
+    },
+    {
+      "text": "Improperly cleaned bronchoscopes can transmit:",
+      "answers": [
+        { "text": "TB and Pseudomonas aeruginosa", "correct": true },
+        { "text": "Only common cold and flu" },
+        { "text": "Only West Nile" },
+        { "text": "Only tetanus" }
+      ]
+    },
+    {
+      "text": "In symbiosis, which relationship benefits one organism while the other is neither harmed nor helped?",
+      "answers": [
+        { "text": "Mutualism" },
+        { "text": "Commensalism", "correct": true },
+        { "text": "Parasitism" },
+        { "text": "Virulence" }
+      ]
+    },
+    {
+      "text": "Normal flora usually protect the host by:",
+      "answers": [
+        { "text": "Impeding colonization by other bacteria", "correct": true },
+        { "text": "Eliminating all endospores" },
+        { "text": "Preventing every fever" },
+        { "text": "Replacing MHC I" }
+      ]
+    },
+    {
+      "text": "Candida albicans causing yeast infection after prolonged antibiotic use is an example of infection related to:",
+      "answers": [
+        { "text": "Viral adsorption" },
+        { "text": "Dry heat" },
+        { "text": "Changes in normal flora", "correct": true },
+        { "text": "Blood type antigens" }
+      ]
+    },
+    {
+      "text": "The site where a pathogen enters the body is the:",
+      "answers": [
+        { "text": "Portal of exit" },
+        { "text": "Reservoir" },
+        { "text": "Portal of entry", "correct": true },
+        { "text": "Fomite" }
+      ]
+    },
+    {
+      "text": "Fimbriae, pili, and receptor sites enable which first step in infection?",
+      "answers": [
+        { "text": "Adhesion", "correct": true },
+        { "text": "Septicemia" },
+        { "text": "Sanitization" },
+        { "text": "Cohorting" }
+      ]
+    },
+    {
+      "text": "A slime layer or capsule helps a pathogen evade host defenses by:",
+      "answers": [
+        { "text": "Increasing handwashing time" },
+        { "text": "Creating a negative pressure room" },
+        { "text": "Producing bile salts" },
+        { "text": "Preventing phagocytosis", "correct": true }
+      ]
+    },
+    {
+      "text": "Exotoxins are best described as:",
+      "answers": [
+        { "text": "Antibodies from an outside source" },
+        { "text": "Proteins secreted by bacterial cells", "correct": true },
+        { "text": "Mechanical vectors" },
+        { "text": "Inanimate contaminated objects" }
+      ]
+    },
+    {
+      "text": "Endotoxins are released from cell walls during:",
+      "answers": [
+        { "text": "Lysis", "correct": true },
+        { "text": "Cohorting" },
+        { "text": "Gram counterstaining" },
+        { "text": "Hand hygiene" }
+      ]
+    },
+    {
+      "text": "A pathogen that spreads through the circulatory system to several sites is causing which infection pattern?",
+      "answers": [
+        { "text": "Local infection" },
+        { "text": "Degermination" },
+        { "text": "Commensalism" },
+        { "text": "Systemic infection", "correct": true }
+      ]
+    },
+    {
+      "text": "A person who is infected, asymptomatic, and able to infect others is a:",
+      "answers": [
+        { "text": "Phagocyte" },
+        { "text": "Carrier", "correct": true },
+        { "text": "Virion" },
+        { "text": "Kupffer cell" }
+      ]
+    },
+    {
+      "text": "A stethoscope that transmits a pathogen from reservoir to host is a:",
+      "answers": [
+        { "text": "Biological vector" },
+        { "text": "Fomite", "correct": true },
+        { "text": "Pyrogen" },
+        { "text": "Cytokine" }
+      ]
+    },
+    {
+      "text": "Droplet transmission involves respiratory droplets traveling less than:",
+      "answers": [
+        { "text": "1 meter, or about 3 feet", "correct": true },
+        { "text": "6 to 12 air changes per hour" },
+        { "text": "10 meters" },
+        { "text": "30 minutes" }
+      ]
+    },
+    {
+      "text": "Which precaution is associated with airborne transmission?",
+      "answers": [
+        { "text": "Only a surgical mask for all situations" },
+        { "text": "No room door" },
+        { "text": "Negative pressure room", "correct": true },
+        { "text": "Food recall only" }
+      ]
+    },
+    {
+      "text": "A mosquito transmitting a pathogen through a bite is a:",
+      "answers": [
+        { "text": "Mechanical vector" },
+        { "text": "Biological vector", "correct": true },
+        { "text": "Fomite" },
+        { "text": "Nonliving reservoir" }
+      ]
+    },
+    {
+      "text": "An infection caused by the patient's normal flora during healthcare treatment is:",
+      "answers": [
+        { "text": "Exogenous" },
+        { "text": "Iatrogenic" },
+        { "text": "Endogenous", "correct": true },
+        { "text": "Mutualistic" }
+      ]
+    },
+    {
+      "text": "Innate immunity is:",
+      "answers": [
+        { "text": "Nonspecific", "correct": true },
+        { "text": "Specific only after vaccination" },
+        { "text": "Outside-source antibodies only" },
+        { "text": "The same as a fomite" }
+      ]
+    },
+    {
+      "text": "MHC II is located on macrophages and B cells and is involved in:",
+      "answers": [
+        { "text": "Direct flame sterilization" },
+        { "text": "Producing safranin" },
+        { "text": "Moving bacteria with flagella" },
+        { "text": "Presenting foreign antigens to T cells", "correct": true }
+      ]
+    },
+    {
+      "text": "Antibodies do not directly kill antigens; instead, they:",
+      "answers": [
+        { "text": "Become endospores" },
+        { "text": "Mark antigens for destruction by phagocytes", "correct": true },
+        { "text": "Create HEPA filtration" },
+        { "text": "Lower disinfectant contact time" }
+      ]
+    },
+    {
+      "text": "Which leukocytes are usually first to respond to bacterial infection?",
+      "answers": [
+        { "text": "Memory T cells" },
+        { "text": "Plasma B cells" },
+        { "text": "Neutrophils", "correct": true },
+        { "text": "Natural killer cells only" }
+      ]
+    },
+    {
+      "text": "A matured monocyte is a:",
+      "answers": [
+        { "text": "Macrophage", "correct": true },
+        { "text": "Basophil" },
+        { "text": "Virion" },
+        { "text": "Fomite" }
+      ]
+    },
+    {
+      "text": "B cells are responsible for:",
+      "answers": [
+        { "text": "Dry heat sterilization" },
+        { "text": "Droplet travel distance" },
+        { "text": "Foodborne transmission" },
+        { "text": "Antibody-mediated immunity", "correct": true }
+      ]
+    },
+    {
+      "text": "Lysozymes in tears, saliva, nasal secretions, and sweat:",
+      "answers": [
+        { "text": "Release perforin into infected cells" },
+        { "text": "Break down organism cell walls", "correct": true },
+        { "text": "Cause bacterial lysis during Gram staining" },
+        { "text": "Act as mechanical vectors" }
+      ]
+    },
+    {
+      "text": "During phagocytosis, the sac formed around an organism or debris is the:",
+      "answers": [
+        { "text": "Capsid" },
+        { "text": "Outer membrane" },
+        { "text": "Phagosome", "correct": true },
+        { "text": "Bile salt" }
+      ]
+    },
+    {
+      "text": "Interferons are produced by cells infected with:",
+      "answers": [
+        { "text": "A fomite" },
+        { "text": "A surgical mask" },
+        { "text": "A food recall" },
+        { "text": "A virus", "correct": true }
+      ]
+    },
+    {
+      "text": "Active immunity is the basis for booster shots because:",
+      "answers": [
+        { "text": "Memory cells create a faster response on repeat exposure", "correct": true },
+        { "text": "Outside-source antibodies stay forever" },
+        { "text": "It sterilizes all surfaces" },
+        { "text": "It prevents all airborne transmission" }
+      ]
+    }
+  ]
+}
