@@ -1,0 +1,37 @@
+{
+  "title": "Microbiology",
+  "description": "Cell classification, bacterial and viral structure, microbial control, infection transmission, healthcare-associated infections, and immune defense.",
+  "order": 9,
+  "lessons": [
+    {
+      "slug": "microbiology/lesson-1",
+      "title": "Basic Science, Microbial Control & Lab Safety",
+      "description": "Classification of cells and bacteria, bacterial structure and function, viral multiplication, physical and chemical control methods, lab techniques, clinical safety, protective gear, equipment care, and specimen handling."
+    },
+    {
+      "slug": "microbiology/lesson-2",
+      "title": "Infection, Disease & Epidemiology",
+      "description": "Host-microbe relationships, normal flora, opportunistic pathogens, stages of infection, virulence factors, reservoirs, transmission routes, healthcare-associated infections, and prevention."
+    },
+    {
+      "slug": "microbiology/lesson-3",
+      "title": "The Immune Response & Lymphatic System",
+      "description": "Innate and adaptive immunity, antigens, MHC, antibodies, immune system organs and cells, barriers, inflammation, fever, interferons, complement, T-cell and B-cell responses, active and passive immunity, and infection prevention programs."
+    }
+  ],
+  "audio": [
+    {
+      "title": "Bacterial Armor and Viral Hacks",
+      "src": "/audio/microbiology/Bacterial_armor_and_viral_hacks.m4a"
+    },
+    {
+      "title": "The Battle for Biological Real Estate",
+      "src": "/audio/microbiology/The_Battle_for_Biological_Real_Estate.m4a"
+    },
+    {
+      "title": "The Microscopic War Beneath Your Skin",
+      "src": "/audio/microbiology/The_Microscopic_War_Beneath_Your_Skin.m4a"
+    }
+  ],
+  "resources": []
+}

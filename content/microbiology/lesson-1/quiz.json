@@ -1,0 +1,185 @@
+{
+  "title": "Basic Science, Microbial Control & Lab Safety Quiz",
+  "questions": [
+    {
+      "text": "Which cell type has a membrane-bound nucleus and divides by mitosis?",
+      "answers": [
+        { "text": "Prokaryotic cell" },
+        { "text": "Eukaryotic cell", "correct": true },
+        { "text": "Virion" },
+        { "text": "Endospore" }
+      ]
+    },
+    {
+      "text": "A round bacterial cell is classified as which shape?",
+      "answers": [
+        { "text": "Bacillus" },
+        { "text": "Vibrio" },
+        { "text": "Coccus", "correct": true },
+        { "text": "Spirochete" }
+      ]
+    },
+    {
+      "text": "A bacterial arrangement described as grapelike clusters is:",
+      "answers": [
+        { "text": "Diplo-" },
+        { "text": "Strepto-" },
+        { "text": "Staphylo-", "correct": true },
+        { "text": "Vibrio-" }
+      ]
+    },
+    {
+      "text": "Which bacterial envelope structure is thicker in Gram-positive bacteria?",
+      "answers": [
+        { "text": "Outer membrane" },
+        { "text": "Cell wall/peptidoglycan", "correct": true },
+        { "text": "Cell capsule" },
+        { "text": "Flagella" }
+      ]
+    },
+    {
+      "text": "The periplasmic space is larger in which type of bacteria?",
+      "answers": [
+        { "text": "Gram-positive bacteria" },
+        { "text": "Gram-negative bacteria", "correct": true },
+        { "text": "Acid-fast bacteria only" },
+        { "text": "Viruses" }
+      ]
+    },
+    {
+      "text": "Which structure allows bacterial mobility?",
+      "answers": [
+        { "text": "Fimbria" },
+        { "text": "Pili" },
+        { "text": "Flagella", "correct": true },
+        { "text": "Capsid" }
+      ]
+    },
+    {
+      "text": "A complete extracellular infectious virus particle is called a:",
+      "answers": [
+        { "text": "Virion", "correct": true },
+        { "text": "Phagosome" },
+        { "text": "Porin" },
+        { "text": "Fomite" }
+      ]
+    },
+    {
+      "text": "During bacteriophage multiplication, viral tropism means the virus:",
+      "answers": [
+        { "text": "Can attach only to specific binding sites", "correct": true },
+        { "text": "Can reproduce genetic material without a host" },
+        { "text": "Always infects all tissues equally" },
+        { "text": "Always exits by budding" }
+      ]
+    },
+    {
+      "text": "Which animal virus replication step releases the viral genome after the capsid breaks down?",
+      "answers": [
+        { "text": "Adsorption" },
+        { "text": "Penetration" },
+        { "text": "Uncoating", "correct": true },
+        { "text": "Budding" }
+      ]
+    },
+    {
+      "text": "Which microbial control term means all forms of microbial life, including endospores, are eliminated?",
+      "answers": [
+        { "text": "Cleaning" },
+        { "text": "Disinfection" },
+        { "text": "Sterilization", "correct": true },
+        { "text": "Sanitization" }
+      ]
+    },
+    {
+      "text": "Which physical control method uses steam under pressure?",
+      "answers": [
+        { "text": "Autoclave", "correct": true },
+        { "text": "Dry heat" },
+        { "text": "Refrigeration" },
+        { "text": "Radiation" }
+      ]
+    },
+    {
+      "text": "A hypertonic solution controls microbes primarily by:",
+      "answers": [
+        { "text": "Dehydrating the cell", "correct": true },
+        { "text": "Creating viral spikes" },
+        { "text": "Increasing bacterial motility" },
+        { "text": "Neutralizing antibodies" }
+      ]
+    },
+    {
+      "text": "Which chemical agent is used to clean bronchoscopes and requires a 20-minute contact time?",
+      "answers": [
+        { "text": "Alcohol" },
+        { "text": "Glutaraldehyde", "correct": true },
+        { "text": "Safranin" },
+        { "text": "Methylene blue" }
+      ]
+    },
+    {
+      "text": "Ethylene oxide is especially useful because it can sterilize:",
+      "answers": [
+        { "text": "Food that has been poorly refrigerated" },
+        { "text": "Delicate, heat-sensitive instruments", "correct": true },
+        { "text": "Normal flora without affecting pathogens" },
+        { "text": "Only living tissue" }
+      ]
+    },
+    {
+      "text": "In Gram staining, cells that remain blue or purple are interpreted as:",
+      "answers": [
+        { "text": "Gram-positive", "correct": true },
+        { "text": "Gram-negative" },
+        { "text": "Acid-fast only" },
+        { "text": "Endospores only" }
+      ]
+    },
+    {
+      "text": "Acid-fast staining is useful in identifying:",
+      "answers": [
+        { "text": "Tuberculosis", "correct": true },
+        { "text": "Pseudomonas aeruginosa only" },
+        { "text": "Common cold" },
+        { "text": "Pertussis only" }
+      ]
+    },
+    {
+      "text": "In Kirby-Bauer disk diffusion testing, the halo around a disk is called the:",
+      "answers": [
+        { "text": "Zone of inhibition", "correct": true },
+        { "text": "Minimal inhibitory concentration" },
+        { "text": "Periplasmic space" },
+        { "text": "Capsid" }
+      ]
+    },
+    {
+      "text": "Proper handwashing should include vigorous rubbing for at least:",
+      "answers": [
+        { "text": "5 seconds" },
+        { "text": "10 seconds" },
+        { "text": "20 seconds", "correct": true },
+        { "text": "2 minutes" }
+      ]
+    },
+    {
+      "text": "Which respiratory protection is associated with HEPA filtration of small airborne particles?",
+      "answers": [
+        { "text": "Surgical mask" },
+        { "text": "N95", "correct": true },
+        { "text": "Safety glasses" },
+        { "text": "One-way valve" }
+      ]
+    },
+    {
+      "text": "Improperly cleaned bronchoscopes can transmit which organisms listed in the lesson?",
+      "answers": [
+        { "text": "TB and Pseudomonas aeruginosa", "correct": true },
+        { "text": "E. coli and Candida albicans only" },
+        { "text": "West Nile and herpes" },
+        { "text": "Tetanus and pertussis only" }
+      ]
+    }
+  ]
+}
