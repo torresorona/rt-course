@@ -1,0 +1,617 @@
+{
+  "title": "Medical Records, Oxygen & Mixed Gas Therapy Quiz",
+  "questions": [
+    {
+      "text": "A respiratory treatment is ordered BID during awake hours. Which schedule matches the source material?",
+      "answers": [
+        {
+          "text": "08:00 and 20:00",
+          "correct": true
+        },
+        {
+          "text": "08:00, 14:00, and 20:00"
+        },
+        {
+          "text": "08:00, 14:00, 20:00, and 00:00"
+        },
+        {
+          "text": "Every hour"
+        }
+      ]
+    },
+    {
+      "text": "A treatment ordered q4h would most closely match which time pattern?",
+      "answers": [
+        {
+          "text": "08, 10, 12, 14, 16, 18"
+        },
+        {
+          "text": "08, 12, 16, 20, 00",
+          "correct": true
+        },
+        {
+          "text": "08, 14, 20, 02"
+        },
+        {
+          "text": "08:00 and 20:00"
+        }
+      ]
+    },
+    {
+      "text": "Which set lists the essential documentation components of a medical record?",
+      "answers": [
+        {
+          "text": "Brief, verbal, optional"
+        },
+        {
+          "text": "Historical, estimated, informal"
+        },
+        {
+          "text": "Consistent, current, complete",
+          "correct": true
+        },
+        {
+          "text": "Printed, handwritten, countersigned"
+        }
+      ]
+    },
+    {
+      "text": "Which item is an element of a patient medical record?",
+      "answers": [
+        {
+          "text": "Cylinder conversion factor only"
+        },
+        {
+          "text": "Flowmeter float shape only"
+        },
+        {
+          "text": "Heliox correction factor only"
+        },
+        {
+          "text": "Medication Administration Record (MAR)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "The Joint Commission audits medical record documentation for:",
+      "answers": [
+        {
+          "text": "Quality and thoroughness",
+          "correct": true
+        },
+        {
+          "text": "Only oxygen tank color codes"
+        },
+        {
+          "text": "Only outpatient billing codes"
+        },
+        {
+          "text": "Only handwritten signatures"
+        }
+      ]
+    },
+    {
+      "text": "A careless or insufficient documentation entry can result in:",
+      "answers": [
+        {
+          "text": "Automatic deletion of the order"
+        },
+        {
+          "text": "Misinterpretation and patient harm",
+          "correct": true
+        },
+        {
+          "text": "Elimination of the need for physician orders"
+        },
+        {
+          "text": "Guaranteed faster charting"
+        }
+      ]
+    },
+    {
+      "text": "Which respiratory detail belongs in common treatment documentation?",
+      "answers": [
+        {
+          "text": "Only the brand of the stethoscope"
+        },
+        {
+          "text": "Only the room number"
+        },
+        {
+          "text": "Sputum consistency, volume, and color",
+          "correct": true
+        },
+        {
+          "text": "Only the patient's meal preference"
+        }
+      ]
+    },
+    {
+      "text": "Physician orders are required for:",
+      "answers": [
+        {
+          "text": "Only oxygen cylinder transport"
+        },
+        {
+          "text": "Only written documentation audits"
+        },
+        {
+          "text": "Only noninvasive ventilation"
+        },
+        {
+          "text": "All patient care",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which list contains the three physician order types from the lesson?",
+      "answers": [
+        {
+          "text": "Written, verbal, telephone",
+          "correct": true
+        },
+        {
+          "text": "Routine, emergency, discharge"
+        },
+        {
+          "text": "Electronic, paper, oral-only"
+        },
+        {
+          "text": "Primary, secondary, tertiary"
+        }
+      ]
+    },
+    {
+      "text": "Verbal and telephone orders must be countersigned within what time frame?",
+      "answers": [
+        {
+          "text": "2 hours"
+        },
+        {
+          "text": "24 hours",
+          "correct": true
+        },
+        {
+          "text": "72 hours"
+        },
+        {
+          "text": "One week"
+        }
+      ]
+    },
+    {
+      "text": "Which item is one of the Five Rights for verifying physician orders?",
+      "answers": [
+        {
+          "text": "Cylinder color"
+        },
+        {
+          "text": "Tank factor"
+        },
+        {
+          "text": "Modality",
+          "correct": true
+        },
+        {
+          "text": "Flowmeter brand"
+        }
+      ]
+    },
+    {
+      "text": "For the Five Rights, the patient should be verified by:",
+      "answers": [
+        {
+          "text": "Asking only the room number"
+        },
+        {
+          "text": "Checking only the flowmeter"
+        },
+        {
+          "text": "Using only the time of day"
+        },
+        {
+          "text": "Using 2 identifiers",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "In EMR charting, a hard stop is designed to:",
+      "answers": [
+        {
+          "text": "Require an important documentation entry before proceeding",
+          "correct": true
+        },
+        {
+          "text": "Delete all paper records"
+        },
+        {
+          "text": "Turn off all oxygen delivery devices"
+        },
+        {
+          "text": "Replace physician orders"
+        }
+      ]
+    },
+    {
+      "text": "Compressed air is clinically used to:",
+      "answers": [
+        {
+          "text": "Replace all therapeutic oxygen"
+        },
+        {
+          "text": "Dilute 100% O2 to produce FiO2 from 22% to 99%",
+          "correct": true
+        },
+        {
+          "text": "Support combustion"
+        },
+        {
+          "text": "Treat PPHN as a vasodilator"
+        }
+      ]
+    },
+    {
+      "text": "At STPD, oxygen is described in the source material as:",
+      "answers": [
+        {
+          "text": "Brown, flammable, and lighter than helium"
+        },
+        {
+          "text": "Grey, corrosive, and unable to support combustion"
+        },
+        {
+          "text": "Colorless, tasteless, non-flammable, and slightly heavier than air",
+          "correct": true
+        },
+        {
+          "text": "Teal/black and metallic smelling"
+        }
+      ]
+    },
+    {
+      "text": "What is the oxygen cylinder color listed in the lesson?",
+      "answers": [
+        {
+          "text": "Grey"
+        },
+        {
+          "text": "Brown"
+        },
+        {
+          "text": "Teal/black"
+        },
+        {
+          "text": "Green",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Carbogen is:",
+      "answers": [
+        {
+          "text": "CO2 mixed with oxygen",
+          "correct": true
+        },
+        {
+          "text": "Helium mixed with oxygen"
+        },
+        {
+          "text": "Nitric oxide mixed with helium"
+        },
+        {
+          "text": "Compressed ambient air only"
+        }
+      ]
+    },
+    {
+      "text": "Which Carbogen mixture is listed as used in medicine?",
+      "answers": [
+        {
+          "text": "80% helium mixed with 20% O2"
+        },
+        {
+          "text": "95% O2 mixed with 5% CO2",
+          "correct": true
+        },
+        {
+          "text": "70% helium mixed with 30% O2"
+        },
+        {
+          "text": "60% helium mixed with 40% O2"
+        }
+      ]
+    },
+    {
+      "text": "Heliox promotes laminar flow because it has:",
+      "answers": [
+        {
+          "text": "Higher density and lower viscosity"
+        },
+        {
+          "text": "No oxygen component"
+        },
+        {
+          "text": "Lower density and higher viscosity",
+          "correct": true
+        },
+        {
+          "text": "A metallic odor"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is listed as an upper-airway indication for Heliox?",
+      "answers": [
+        {
+          "text": "Persistent pulmonary hypertension of the newborn"
+        },
+        {
+          "text": "Need for electronic charting"
+        },
+        {
+          "text": "Cylinder pressure testing"
+        },
+        {
+          "text": "Croup",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Nitric oxide dose is delivered in:",
+      "answers": [
+        {
+          "text": "Parts per million (PPM)",
+          "correct": true
+        },
+        {
+          "text": "Liters per psig"
+        },
+        {
+          "text": "Puffs per treatment"
+        },
+        {
+          "text": "Percent helium"
+        }
+      ]
+    },
+    {
+      "text": "The clinical application listed for nitric oxide is treatment of:",
+      "answers": [
+        {
+          "text": "Routine EMR hard stops"
+        },
+        {
+          "text": "Persistent pulmonary hypertension of the newborn (PPHN)",
+          "correct": true
+        },
+        {
+          "text": "Cylinder dents and corrosion"
+        },
+        {
+          "text": "Medication tremors during albuterol"
+        }
+      ]
+    },
+    {
+      "text": "In liquid oxygen storage, 1 liter of liquid O2 equals how much gaseous O2?",
+      "answers": [
+        {
+          "text": "50 liters"
+        },
+        {
+          "text": "2015 liters"
+        },
+        {
+          "text": "860 liters",
+          "correct": true
+        },
+        {
+          "text": "3358 liters"
+        }
+      ]
+    },
+    {
+      "text": "Patient room wall outlets supply oxygen and air at approximately:",
+      "answers": [
+        {
+          "text": "5 psig"
+        },
+        {
+          "text": "500 psig"
+        },
+        {
+          "text": "2015 psig"
+        },
+        {
+          "text": "50 psig",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which safety system is used with small cylinders such as D and E cylinders?",
+      "answers": [
+        {
+          "text": "Pin Index Safety System (PISS)",
+          "correct": true
+        },
+        {
+          "text": "American Standard Safety System (ASSS)"
+        },
+        {
+          "text": "Diameter Index Safety System (DISS)"
+        },
+        {
+          "text": "Medication Administration Record (MAR)"
+        }
+      ]
+    },
+    {
+      "text": "Which safety system is used with large cylinders such as H or K oxygen cylinders?",
+      "answers": [
+        {
+          "text": "Pin Index Safety System (PISS)"
+        },
+        {
+          "text": "American Standard Safety System (ASSS)",
+          "correct": true
+        },
+        {
+          "text": "Diameter Index Safety System (DISS)"
+        },
+        {
+          "text": "Electronic Medical Record (EMR)"
+        }
+      ]
+    },
+    {
+      "text": "A pressure-compensated Thorpe tube should respond how when its outlet is occluded?",
+      "answers": [
+        {
+          "text": "The float should remain at the same liter flow"
+        },
+        {
+          "text": "The gauge should become unaffected by gravity"
+        },
+        {
+          "text": "The float should drop to zero",
+          "correct": true
+        },
+        {
+          "text": "The blender should increase FiO2 to 99%"
+        }
+      ]
+    },
+    {
+      "text": "Which flow device is not affected by gravity when the cylinder is on its side?",
+      "answers": [
+        {
+          "text": "Thorpe tube"
+        },
+        {
+          "text": "Non-compensated Thorpe tube"
+        },
+        {
+          "text": "Air-oxygen blender"
+        },
+        {
+          "text": "Bourdon gauge",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "What is the oxygen cylinder duration formula from the lesson?",
+      "answers": [
+        {
+          "text": "[(Pressure - 500) x tank factor] / flow",
+          "correct": true
+        },
+        {
+          "text": "(Pressure x 2.50) / FiO2"
+        },
+        {
+          "text": "(Flow x tank factor) / 500"
+        },
+        {
+          "text": "(FiO2 x Pb) / flow"
+        }
+      ]
+    },
+    {
+      "text": "A patient is on 5 L/min from an E cylinder with 2000 psig. Using the lesson formula and E factor 0.28, what is the duration?",
+      "answers": [
+        {
+          "text": "56 minutes"
+        },
+        {
+          "text": "84 minutes",
+          "correct": true
+        },
+        {
+          "text": "112 minutes"
+        },
+        {
+          "text": "550 minutes"
+        }
+      ]
+    },
+    {
+      "text": "What H-cylinder tank factor is listed for Heliox?",
+      "answers": [
+        {
+          "text": "0.28 L/psig"
+        },
+        {
+          "text": "3.14 L/psig"
+        },
+        {
+          "text": "2.50 L/psig",
+          "correct": true
+        },
+        {
+          "text": "0.16 L/psig"
+        }
+      ]
+    },
+    {
+      "text": "If 80/20 Heliox is set at 10 L/min on an oxygen flowmeter, what actual flow is listed?",
+      "answers": [
+        {
+          "text": "16 L/min"
+        },
+        {
+          "text": "14 L/min"
+        },
+        {
+          "text": "10 L/min"
+        },
+        {
+          "text": "18 L/min",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Which oxygen concentrator method is listed as the most common type?",
+      "answers": [
+        {
+          "text": "Molecular sieves",
+          "correct": true
+        },
+        {
+          "text": "Vacuum method"
+        },
+        {
+          "text": "Fractional distillation at the bedside"
+        },
+        {
+          "text": "Carbogen blending"
+        }
+      ]
+    },
+    {
+      "text": "Molecular sieve oxygen concentrators remove:",
+      "answers": [
+        {
+          "text": "Oxygen, helium, and nitric oxide"
+        },
+        {
+          "text": "Nitrogen, carbon dioxide, and water vapor",
+          "correct": true
+        },
+        {
+          "text": "Only water vapor"
+        },
+        {
+          "text": "Only carbonic acid"
+        }
+      ]
+    }
+  ]
+}

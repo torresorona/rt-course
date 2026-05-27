@@ -4,6 +4,17 @@ import { quizzes, questions, answers } from "@/db/schema";
 import { eq, and, inArray } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
+function shuffleAnswers<T>(items: T[]) {
+  const shuffled = [...items];
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  return shuffled;
+}
+
 export async function GET(
   request: Request,
   { params }: { params: Promise<{ slug: string[] }> }
@@ -59,11 +70,12 @@ export async function GET(
     id: question.id,
     text: question.text,
     image: question.image ?? null,
-    answers: (answersByQuestion.get(question.id) ?? []).map(({ id, text, order }) => ({
-      id,
-      text,
-      order,
-    })),
+    answers: shuffleAnswers(
+      (answersByQuestion.get(question.id) ?? []).map(({ id, text }) => ({
+        id,
+        text,
+      })),
+    ),
   }));
 
   return NextResponse.json({

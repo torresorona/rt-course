@@ -1,0 +1,14 @@
+{
+  "title": "Respiratory Therapeutics",
+  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery systems, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
+  "order": 10,
+  "lessons": [
+    {
+      "slug": "respiratory-therapeutics/lesson-1",
+      "title": "Medical Records, Oxygen & Mixed Gas Therapy",
+      "description": "Electronic medical records and charting requirements; common abbreviations; patient record elements; physician, verbal, and telephone orders; five rights verification; therapeutic gases; gas storage and cylinder safety; regulators, flowmeters, blenders, oxygen and Heliox duration calculations; and oxygen concentrator methods."
+    }
+  ],
+  "audio": [],
+  "resources": []
+}
