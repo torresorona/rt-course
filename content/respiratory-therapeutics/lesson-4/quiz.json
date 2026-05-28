@@ -1,0 +1,221 @@
+{
+  "title": "Humidification Delivery Quiz",
+  "questions": [
+    {
+      "text": "BTPS is defined in the source material as:",
+      "answers": [
+        {
+          "text": "Body temperature 37°C, ambient pressure, gas saturated with water vapor",
+          "correct": true
+        },
+        {
+          "text": "Room temperature 22°C with 50% relative humidity only"
+        },
+        {
+          "text": "Standard temperature 0°C with dry gas"
+        },
+        {
+          "text": "FiO2 of 21% at sea level only"
+        }
+      ]
+    },
+    {
+      "text": "The isothermic saturation boundary (ISB) is located approximately:",
+      "answers": [
+        {
+          "text": "At the nares only"
+        },
+        {
+          "text": "5 cm below the carina at room temperature",
+          "correct": true
+        },
+        {
+          "text": "In the alveoli at first breath"
+        },
+        {
+          "text": "Above the vocal cords only"
+        }
+      ]
+    },
+    {
+      "text": "Medical gas humidity and required humidification are described as:",
+      "answers": [
+        {
+          "text": "Medical gas has 50% humidity; no added humidification needed"
+        },
+        {
+          "text": "Medical gas has zero percent humidity; methods must provide greater than 60% to avoid lung injury",
+          "correct": true
+        },
+        {
+          "text": "Medical gas is always at BTPS at the wall outlet"
+        },
+        {
+          "text": "Humidification is optional for all low-flow devices"
+        }
+      ]
+    },
+    {
+      "text": "Which is a passive humidification device listed in the source material?",
+      "answers": [
+        {
+          "text": "Bubble humidifier"
+        },
+        {
+          "text": "Heat moisture exchanger (HME)",
+          "correct": true
+        },
+        {
+          "text": "Wick humidifier"
+        },
+        {
+          "text": "Pass-over humidifier"
+        }
+      ]
+    },
+    {
+      "text": "Simple condenser HME efficiency is listed as:",
+      "answers": [
+        {
+          "text": "50%",
+          "correct": true
+        },
+        {
+          "text": "70%"
+        },
+        {
+          "text": "100%"
+        },
+        {
+          "text": "20%"
+        }
+      ]
+    },
+    {
+      "text": "Which is a contraindication for HME use per the source material?",
+      "answers": [
+        {
+          "text": "Short-term transport of mechanically ventilated patients"
+        },
+        {
+          "text": "Minute ventilation greater than 10 L/min",
+          "correct": true
+        },
+        {
+          "text": "Skilled nursing facility use up to 1 week"
+        },
+        {
+          "text": "Reduced bacterial colonization in circuits"
+        }
+      ]
+    },
+    {
+      "text": "Bubble humidifiers are used with:",
+      "answers": [
+        {
+          "text": "Low flow oxygen devices",
+          "correct": true
+        },
+        {
+          "text": "HME only systems"
+        },
+        {
+          "text": "Patients who require no added humidity"
+        },
+        {
+          "text": "Neonatal oxygen hoods exclusively"
+        }
+      ]
+    },
+    {
+      "text": "A pass-over humidifier at 37°C provides how much humidity per the source material?",
+      "answers": [
+        {
+          "text": "20 mg H2O/L"
+        },
+        {
+          "text": "30 mg H2O/L"
+        },
+        {
+          "text": "44 mg H2O/L",
+          "correct": true
+        },
+        {
+          "text": "60 mg H2O/L"
+        }
+      ]
+    },
+    {
+      "text": "Which active humidifier is described as giving the most humidity for invasive and non-invasive ventilation?",
+      "answers": [
+        {
+          "text": "Bubble humidifier"
+        },
+        {
+          "text": "HME"
+        },
+        {
+          "text": "Wick humidifier",
+          "correct": true
+        },
+        {
+          "text": "Cool pass-over at 22°C only"
+        }
+      ]
+    },
+    {
+      "text": "Cool bland aerosol therapy is indicated primarily to:",
+      "answers": [
+        {
+          "text": "Treat upper airway inflammation and promote mucosal vasoconstriction",
+          "correct": true
+        },
+        {
+          "text": "Replace all heated humidification for trach patients"
+        },
+        {
+          "text": "Prevent all mucus production permanently"
+        },
+        {
+          "text": "Deliver only 21% FiO2"
+        }
+      ]
+    },
+    {
+      "text": "Warm bland aerosol therapy is indicated to:",
+      "answers": [
+        {
+          "text": "Promote upper airway vasoconstriction in croup only"
+        },
+        {
+          "text": "Prevent injury from dry gas and preserve mucociliary escalator motility",
+          "correct": true
+        },
+        {
+          "text": "Eliminate the need for any O2 delivery device"
+        },
+        {
+          "text": "Replace HME in all COPD patients"
+        }
+      ]
+    },
+    {
+      "text": "Large volume nebulizer (LVN) for bland aerosol can deliver oxygen at flow rates:",
+      "answers": [
+        {
+          "text": "Less than 6 L/min only"
+        },
+        {
+          "text": "Greater than 100 L/min with selectable concentrations up to 100%",
+          "correct": true
+        },
+        {
+          "text": "1–5 L/min with fixed 24% FiO2 only"
+        },
+        {
+          "text": "0–6 L/min with Rule of Fours only"
+        }
+      ]
+    }
+  ]
+}
