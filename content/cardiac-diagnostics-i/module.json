@@ -6,27 +6,32 @@
     {
       "slug": "cardiac-diagnostics-i/lesson-1",
       "title": "12-Lead ECG & Rhythm Strip",
-      "description": "Objective 1.1.1 — Electrode placement, ECG paper measurements, waveform components (P, QRS, T, U), intervals, segments, and the 12 leads with their anatomic views."
+      "description": "Objective 1.1.1 — Electrode placement, ECG paper measurements, waveform components (P, QRS, T, U), intervals, segments, and the 12 leads with their anatomic views.",
+      "audio": "/audio/cardiac-diagnostics-i/How_to_read_a_12-lead_ECG.m4a"
     },
     {
       "slug": "cardiac-diagnostics-i/lesson-2",
       "title": "ECG Interpretation: Axis, Ischemia, Hypertrophy & Rhythm",
-      "description": "Objective 1.1.2 — Mean QRS axis & axis deviation, ischemia/injury/infarction patterns by wall, chamber enlargement (RAE/LAE/LVH/RVH), electrolyte effects on the ECG, and the 5-step rhythm strip method."
+      "description": "Objective 1.1.2 — Mean QRS axis & axis deviation, ischemia/injury/infarction patterns by wall, chamber enlargement (RAE/LAE/LVH/RVH), electrolyte effects on the ECG, and the 5-step rhythm strip method.",
+      "audio": "/audio/cardiac-diagnostics-i/The_Five_Step_ECG_Interpretation_Method.m4a"
     },
     {
       "slug": "cardiac-diagnostics-i/lesson-3",
       "title": "Sinus, Atrial & Junctional Rhythms",
-      "description": "Objective 1.1.3 — Recognize sinus rhythms (NSR, brady, tachy, arrhythmia, arrest), atrial rhythms (PAC, MAR/MAT, SVT, WPW, A-flutter, A-fib), and junctional rhythms (PJC, escape, accelerated, tachycardia)."
+      "description": "Objective 1.1.3 — Recognize sinus rhythms (NSR, brady, tachy, arrhythmia, arrest), atrial rhythms (PAC, MAR/MAT, SVT, WPW, A-flutter, A-fib), and junctional rhythms (PJC, escape, accelerated, tachycardia).",
+      "audio": "/audio/cardiac-diagnostics-i/Sinus_Atrial_and_Junctional_Heart_Rhythms.m4a"
     },
     {
       "slug": "cardiac-diagnostics-i/lesson-4",
       "title": "Ventricular Rhythms, AV Blocks & Conduction Defects",
-      "description": "Objective 1.1.4 — Recognize ventricular rhythms (PVC, IVR, V-tach incl. torsades, V-fib, asystole), AV blocks (1st, 2nd Type I/II, 2:1, 3rd), bundle branch blocks (RBBB, LBBB), and paced rhythms."
+      "description": "Objective 1.1.4 — Recognize ventricular rhythms (PVC, IVR, V-tach incl. torsades, V-fib, asystole), AV blocks (1st, 2nd Type I/II, 2:1, 3rd), bundle branch blocks (RBBB, LBBB), and paced rhythms.",
+      "audio": "/audio/cardiac-diagnostics-i/Ventricular_Rhythms_and_Conduction_Blocks.m4a"
     },
     {
       "slug": "cardiac-diagnostics-i/lesson-5",
       "title": "Exercise Stress Testing & Ambulatory Monitoring",
-      "description": "Objective 1.1.5 — Perform an exercise stress test (GXT) using Bruce, Modified Bruce, Naughton, or Weber protocols; recognize ECG/non-ECG findings and termination criteria; perform Holter and event monitor application with patient education."
+      "description": "Objective 1.1.5 — Perform an exercise stress test (GXT) using Bruce, Modified Bruce, Naughton, or Weber protocols; recognize ECG/non-ECG findings and termination criteria; perform Holter and event monitor application with patient education.",
+      "audio": "/audio/cardiac-diagnostics-i/Why_Your_Resting_Heart_Lies.m4a"
     },
     {
       "slug": "cardiac-diagnostics-i/lesson-6",

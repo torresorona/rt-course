@@ -143,7 +143,11 @@ content/<module-slug>/
     {
       "slug": "module-slug/lesson-1",
       "title": "Lesson Title",
-      "description": "Brief lesson description."
+      "description": "Brief lesson description.",
+      "audio": "/audio/module-slug/podcast.m4a",
+      "interactive": "ReceptorTable",
+      "resources": [{ "title": "...", "description": "...", "url": "...", "type": "video" }],
+      "quizzes": [{ "slug": "xray", "view": "xray-exam", "label": "X-ray Exam" }]
     }
   ],
   "audio": [
@@ -208,18 +212,18 @@ These components are registered in `app/[...slug]/page.tsx` and can be used in a
 
 - All audio files are `.m4a` format stored in `public/audio/`
 - Audio files are generated from NotebookLM using `notebooklm-source.md` as input
-- Audio mapping in the lesson page is currently **hardcoded** in `app/[...slug]/page.tsx` (the `audioMap` object)
-- Module-level audio is configured via `module.json`'s `audio` array
+- Per-lesson audio is set via `audio` on each lesson entry in `module.json` (module-level `audio` is still used on the module landing page)
+- Lesson audio is read by `lib/content` (`getLessonAudioSrc`) — no code changes needed when adding audio
 
 ### Resources (Interactive Components)
 
-Resource components are currently **hardcoded** by slug in `app/[...slug]/page.tsx`:
+Set `interactive` on a lesson in `module.json` to one of: `ReceptorTable`, `LabRanges`, `GCSScenarios`, `PulmonaryDiagnosticsIReview`, `CylinderDurationExercises`. Register new components in `lib/content/interactive.tsx`.
 
 | Slug | Component |
 |------|-----------|
-| `pharmacology/lesson-1` | `<ReceptorTable />` |
-| `patient-assessment/lesson-1` | `<LabRanges />` |
-| `patient-assessment/lesson-2` | `<GCSScenarios />` |
+| `pharmacology/lesson-1` | `ReceptorTable` |
+| `patient-assessment/lesson-1` | `LabRanges` |
+| `patient-assessment/lesson-2` | `GCSScenarios` |
 
 ---
 
@@ -319,7 +323,7 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 4. Create `lesson.mdx` in each lesson directory with frontmatter
 5. Create `quiz.json` in each lesson directory
 6. Create `notebooklm-source.md` for each content lesson (expanded conversational transcript for audio generation via NotebookLM)
-7. Add audio file mapping to `audioMap` in `app/[...slug]/page.tsx` if audio exists
+7. Add `"audio": "/audio/..."` to the lesson entry in `module.json` if audio exists
 8. Run `npm run db:seed` to populate the database (validates quiz JSON syntax and loads questions)
 
 ### Adding a New Lesson to an Existing Module
@@ -328,16 +332,15 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 2. Add `lesson.mdx` with frontmatter
 3. Add `quiz.json` if needed
 4. Update `content/<module-slug>/module.json` to include the new lesson in the `lessons` array
-5. Update `audioMap` in `app/[...slug]/page.tsx` if adding audio
+5. Add `"audio": "/audio/..."` to the lesson entry in `module.json` if adding audio
 6. Run `npm run db:seed` (validates quiz JSON syntax and loads questions into DB)
 
 ### Adding a New Interactive Resource Component
 
 1. Create the component in `components/`
 2. Mark it `"use client"` if it needs state/interactivity
-3. Import it in `app/[...slug]/page.tsx`
-4. Add a condition in the Resources view section for the lesson slug
-5. Update `hasResources` variable to include the new slug
+3. Add the component id to `InteractiveComponentId` and `lib/content/interactive.tsx`
+4. Set `"interactive": "YourComponentId"` on the lesson in `module.json`
 
 ---
 
@@ -404,9 +407,10 @@ Changes must be promoted through explicit, user-approved stages:
 
 ## 13. Known Technical Debt & Gotchas
 
-### Hardcoded Mappings
-- **Audio map** (`audioMap` in `app/[...slug]/page.tsx`): Each lesson's audio file path is hardcoded. Adding a new lesson with audio requires manually updating this object.
-- **Resource components** (`hasResources` + conditional rendering in `app/[...slug]/page.tsx`): Interactive resource components are conditionally rendered by slug string matching. Should ideally be driven by `module.json` config or MDX component usage.
+### Content metadata (`lib/content`)
+- Lesson **audio**, **interactive** tools, **resources**, and **extra quiz tabs** are driven by `module.json` lesson entries.
+- Module-level `audio` remains for the module landing page playlist.
+- Extra quizzes use `quiz-{slug}.json` plus a `quizzes` array on the lesson (e.g. `quiz-xray.json` → `{ "slug": "xray", "view": "xray-exam", "label": "X-ray Exam" }`).
 
 ### Architecture Notes
 - The home page reads modules from the filesystem using `readdirSync` (reads `module.json` files) — **not** from the database.

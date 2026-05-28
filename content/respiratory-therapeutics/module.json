@@ -6,12 +6,15 @@
     {
       "slug": "respiratory-therapeutics/lesson-1",
       "title": "Electronic Medical Records & Medical Record Entries",
-      "description": "Common medical abbreviations, patient medical record elements, respiratory documentation, physician and verbal orders, Five Rights verification, and EMR hard stops."
+      "description": "Common medical abbreviations, patient medical record elements, respiratory documentation, physician and verbal orders, Five Rights verification, and EMR hard stops.",
+      "audio": "/audio/respiratory-therapeutics/How_Respiratory_Documentation_Prevents_Medical_Errors.m4a"
     },
     {
       "slug": "respiratory-therapeutics/lesson-2",
       "title": "Oxygen & Mixed Gas Therapy",
-      "description": "Therapeutic respiratory gases, gas storage and delivery systems, cylinder safety, regulators, flowmeters, blenders, oxygen and Heliox duration calculations, Heliox flowmeter correction, and oxygen concentrators."
+      "description": "Therapeutic respiratory gases, gas storage and delivery systems, cylinder safety, regulators, flowmeters, blenders, oxygen and Heliox duration calculations, Heliox flowmeter correction, and oxygen concentrators.",
+      "audio": "/audio/respiratory-therapeutics/The_Invisible_Engineering_of_Medical_Gases.m4a",
+      "interactive": "CylinderDurationExercises"
     }
   ],
   "audio": [
