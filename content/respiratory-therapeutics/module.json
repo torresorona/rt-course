@@ -1,17 +1,32 @@
 {
   "title": "Respiratory Therapeutics",
-  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery systems, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
+  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery, oxygen delivery devices, humidification systems, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
   "order": 10,
   "lessons": [
     {
       "slug": "respiratory-therapeutics/lesson-1",
       "title": "Electronic Medical Records & Medical Record Entries",
-      "description": "Common medical abbreviations, patient medical record elements, respiratory documentation, physician and verbal orders, Five Rights verification, and EMR hard stops."
+      "description": "Common medical abbreviations, patient medical record elements, respiratory documentation, physician and verbal orders, Five Rights verification, and EMR hard stops.",
+      "audio": "/audio/respiratory-therapeutics/How_Respiratory_Documentation_Prevents_Medical_Errors.m4a"
     },
     {
       "slug": "respiratory-therapeutics/lesson-2",
       "title": "Oxygen & Mixed Gas Therapy",
-      "description": "Therapeutic respiratory gases, gas storage and delivery systems, cylinder safety, regulators, flowmeters, blenders, oxygen and Heliox duration calculations, Heliox flowmeter correction, and oxygen concentrators."
+      "description": "Therapeutic respiratory gases, gas storage and delivery systems, cylinder safety, regulators, flowmeters, blenders, oxygen and Heliox duration calculations, Heliox flowmeter correction, and oxygen concentrators.",
+      "audio": "/audio/respiratory-therapeutics/The_Invisible_Engineering_of_Medical_Gases.m4a",
+      "interactive": "CylinderDurationExercises"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-3",
+      "title": "Oxygen Delivery Devices",
+      "description": "O2 indications, contraindications, and hazards; low- and high-flow delivery devices; Rule of Fours; Venturi entrainment; HFNC; and oxygen analyzer calibration.",
+      "audio": "/audio/respiratory-therapeutics/Oxygen_Delivery_Devices_and_Clinical_Math.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-4",
+      "title": "Humidification Delivery",
+      "description": "Humidity fundamentals, ISB, active and passive humidification, HME indications and contraindications, and bland aerosol therapy with cool vs warm goals.",
+      "audio": "/audio/respiratory-therapeutics/The_Science_of_Airway_Humidification.m4a"
     }
   ],
   "audio": [
@@ -22,6 +37,14 @@
     {
       "title": "The Invisible Engineering of Medical Gases",
       "src": "/audio/respiratory-therapeutics/The_Invisible_Engineering_of_Medical_Gases.m4a"
+    },
+    {
+      "title": "Oxygen Delivery Devices and Clinical Math",
+      "src": "/audio/respiratory-therapeutics/Oxygen_Delivery_Devices_and_Clinical_Math.m4a"
+    },
+    {
+      "title": "The Science of Airway Humidification",
+      "src": "/audio/respiratory-therapeutics/The_Science_of_Airway_Humidification.m4a"
     }
   ],
   "resources": []

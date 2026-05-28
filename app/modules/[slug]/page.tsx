@@ -1,26 +1,9 @@
-import { readFileSync, existsSync } from "fs";
-import { join } from "path";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import AudioPlayer from "@/components/AudioPlayer";
-
-interface Lesson {
-  slug: string;
-  title: string;
-  description?: string;
-}
-
-interface AudioEntry {
-  title: string;
-  src: string;
-}
-
-interface Resource {
-  title: string;
-  description: string;
-  url: string;
-  type?: string;
-}
+import { getModuleJsonPath, readModuleData } from "@/lib/content";
+import { existsSync } from "fs";
+import type { ModuleAudioEntry, ModuleLesson, ModuleResource } from "@/lib/content/types";
 
 export default async function ModuleLandingPage({
   params,
@@ -28,15 +11,16 @@ export default async function ModuleLandingPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const moduleDir = join(process.cwd(), "content", slug);
-  const moduleJsonPath = join(moduleDir, "module.json");
+  const moduleJsonPath = getModuleJsonPath(slug);
 
   if (!existsSync(moduleJsonPath)) notFound();
 
-  const moduleData = JSON.parse(readFileSync(moduleJsonPath, "utf-8"));
-  const lessons: Lesson[] = moduleData.lessons ?? [];
-  const resources: Resource[] = moduleData.resources ?? [];
-  const audioEntries: AudioEntry[] = moduleData.audio ?? [];
+  const moduleData = readModuleData(slug);
+  if (!moduleData) notFound();
+
+  const lessons: ModuleLesson[] = moduleData.lessons ?? [];
+  const resources: ModuleResource[] = moduleData.resources ?? [];
+  const audioEntries: ModuleAudioEntry[] = moduleData.audio ?? [];
 
   return (
     <div>

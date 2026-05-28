@@ -6,7 +6,8 @@
     {
       "slug": "pulmonary-diagnostics-i/lesson-1",
       "title": "Spirometry & Post-Bronchodilator Studies",
-      "description": "Pulmonary function testing overview with spirometry indications, contraindications, hazards, equipment, patient preparation, ATS acceptability criteria, core values, flow-volume loop interpretation, and post-bronchodilator testing."
+      "description": "Pulmonary function testing overview with spirometry indications, contraindications, hazards, equipment, patient preparation, ATS acceptability criteria, core values, flow-volume loop interpretation, and post-bronchodilator testing.",
+      "audio": "/audio/pulmonary-diagnostics-i/Spirometry_and_Pulmonary_Diagnostic_Essentials.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-2",
@@ -43,7 +44,8 @@
           "url": "https://www.youtube.com/watch?v=Ou8Umud3aNs",
           "type": "video"
         }
-      ]
+      ],
+      "audio": "/audio/pulmonary-diagnostics-i/Lung_Volume_Studies_and_Diagnostic_Formulas.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-3",
@@ -80,27 +82,32 @@
           "url": "https://www.youtube.com/watch?v=QmIdU9vLJok",
           "type": "video"
         }
-      ]
+      ],
+      "audio": "/audio/pulmonary-diagnostics-i/DLCO_and_Bronchoprovocation_Testing_Essentials.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-4",
       "title": "CPX, MVV & Respiratory Muscle Strength",
-      "description": "Cardiopulmonary exercise testing, maximum voluntary ventilation, and MIP/MEP testing with indications, contraindications, equipment, procedures, values, and interpretation."
+      "description": "Cardiopulmonary exercise testing, maximum voluntary ventilation, and MIP/MEP testing with indications, contraindications, equipment, procedures, values, and interpretation.",
+      "audio": "/audio/pulmonary-diagnostics-i/How_doctors_measure_breathing_limits.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-5",
       "title": "FeNO, Timed Walk Testing & Exercise Oxygen Titration",
-      "description": "Exhaled nitric oxide testing, timed walk testing, and oxygen titration with exercise, including indications, preparation, procedure, values, interpretation, contraindications, and hazards."
+      "description": "Exhaled nitric oxide testing, timed walk testing, and oxygen titration with exercise, including indications, preparation, procedure, values, interpretation, contraindications, and hazards.",
+      "audio": "/audio/pulmonary-diagnostics-i/Clinical_protocols_for_lung_inflammation_and_exertion.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-6",
       "title": "Bronchoscopy, Sputum Induction & Sleep Studies",
-      "description": "Bronchoscopy indications, equipment, procedure support, sputum induction, polysomnography, CPAP/BiPAP titration, home sleep testing, actigraphy, MSLT, and MWT."
+      "description": "Bronchoscopy indications, equipment, procedure support, sputum induction, polysomnography, CPAP/BiPAP titration, home sleep testing, actigraphy, MSLT, and MWT.",
+      "audio": "/audio/pulmonary-diagnostics-i/The_physical_battle_for_our_breath.m4a"
     },
     {
       "slug": "pulmonary-diagnostics-i/lesson-7",
       "title": "Module Overview & Exam Review",
-      "description": "High-yield Pulmonary Diagnostics I review with a fillable RESC 2340 worksheet resource for exam prep."
+      "description": "High-yield Pulmonary Diagnostics I review with a fillable RESC 2340 worksheet resource for exam prep.",
+      "interactive": "PulmonaryDiagnosticsIReview"
     }
   ],
   "audio": [

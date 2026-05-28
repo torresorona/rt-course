@@ -6,17 +6,20 @@
     {
       "slug": "microbiology/lesson-1",
       "title": "Basic Science, Microbial Control & Lab Safety",
-      "description": "Classification of cells and bacteria, bacterial structure and function, viral multiplication, physical and chemical control methods, lab techniques, clinical safety, protective gear, equipment care, and specimen handling."
+      "description": "Classification of cells and bacteria, bacterial structure and function, viral multiplication, physical and chemical control methods, lab techniques, clinical safety, protective gear, equipment care, and specimen handling.",
+      "audio": "/audio/microbiology/Bacterial_armor_and_viral_hacks.m4a"
     },
     {
       "slug": "microbiology/lesson-2",
       "title": "Infection, Disease & Epidemiology",
-      "description": "Host-microbe relationships, normal flora, opportunistic pathogens, stages of infection, virulence factors, reservoirs, transmission routes, healthcare-associated infections, and prevention."
+      "description": "Host-microbe relationships, normal flora, opportunistic pathogens, stages of infection, virulence factors, reservoirs, transmission routes, healthcare-associated infections, and prevention.",
+      "audio": "/audio/microbiology/The_Battle_for_Biological_Real_Estate.m4a"
     },
     {
       "slug": "microbiology/lesson-3",
       "title": "The Immune Response & Lymphatic System",
-      "description": "Innate and adaptive immunity, antigens, MHC, antibodies, immune system organs and cells, barriers, inflammation, fever, interferons, complement, T-cell and B-cell responses, active and passive immunity, and infection prevention programs."
+      "description": "Innate and adaptive immunity, antigens, MHC, antibodies, immune system organs and cells, barriers, inflammation, fever, interferons, complement, T-cell and B-cell responses, active and passive immunity, and infection prevention programs.",
+      "audio": "/audio/microbiology/The_Microscopic_War_Beneath_Your_Skin.m4a"
     },
     {
       "slug": "microbiology/lesson-4",

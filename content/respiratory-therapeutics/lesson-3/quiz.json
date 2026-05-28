@@ -1,0 +1,293 @@
+{
+  "title": "Oxygen Delivery Devices Quiz",
+  "questions": [
+    {
+      "text": "Documented hypoxemia on room air is defined in the source material as:",
+      "answers": [
+        {
+          "text": "PaO2 less than 60 mmHg or SaO2 less than 90% on 21% FiO2",
+          "correct": true
+        },
+        {
+          "text": "PaO2 less than 80 mmHg or SaO2 less than 95%"
+        },
+        {
+          "text": "PaCO2 greater than 60 mmHg on room air"
+        },
+        {
+          "text": "SaO2 less than 70% only in COPD patients"
+        }
+      ]
+    },
+    {
+      "text": "Which situation is listed as an acute care indication for oxygen when hypoxemia is suspected?",
+      "answers": [
+        {
+          "text": "Routine outpatient wellness visit"
+        },
+        {
+          "text": "Acute myocardial infarction",
+          "correct": true
+        },
+        {
+          "text": "Mild seasonal allergies without hypoxemia"
+        },
+        {
+          "text": "Elective cosmetic surgery only"
+        }
+      ]
+    },
+    {
+      "text": "Nasal cannulas are contraindicated in which patients per the source material?",
+      "answers": [
+        {
+          "text": "Adults with nasal obstruction only"
+        },
+        {
+          "text": "Pediatric and neonatal patients with obstruction",
+          "correct": true
+        },
+        {
+          "text": "All patients with COPD"
+        },
+        {
+          "text": "Patients requiring fixed FiO2 above 60%"
+        }
+      ]
+    },
+    {
+      "text": "Low-flow oxygen devices are characterized by:",
+      "answers": [
+        {
+          "text": "Fixed FiO2 and flow generally greater than 10 L/min"
+        },
+        {
+          "text": "Variable FiO2 and flow generally less than 10 L/min",
+          "correct": true
+        },
+        {
+          "text": "Fixed FiO2 and no room air entrainment"
+        },
+        {
+          "text": "Flow that always exceeds inspiratory demand"
+        }
+      ]
+    },
+    {
+      "text": "A patient has an inspiratory flow of 20 L/min and the O2 device is set at 8 L/min. What is the flow deficit?",
+      "answers": [
+        {
+          "text": "8 L/min"
+        },
+        {
+          "text": "12 L/min",
+          "correct": true
+        },
+        {
+          "text": "20 L/min"
+        },
+        {
+          "text": "28 L/min"
+        }
+      ]
+    },
+    {
+      "text": "Using the Rule of Fours, what is the estimated FiO2 at 3 L/min via nasal cannula?",
+      "answers": [
+        {
+          "text": "28%"
+        },
+        {
+          "text": "32%",
+          "correct": true
+        },
+        {
+          "text": "36%"
+        },
+        {
+          "text": "44%"
+        }
+      ]
+    },
+    {
+      "text": "Nasal cannula flow must be humidified above:",
+      "answers": [
+        {
+          "text": "2 L/min"
+        },
+        {
+          "text": "4 L/min",
+          "correct": true
+        },
+        {
+          "text": "6 L/min"
+        },
+        {
+          "text": "10 L/min"
+        }
+      ]
+    },
+    {
+      "text": "All enclosed O2 mask systems must be run at greater than 5 L/min primarily to:",
+      "answers": [
+        {
+          "text": "Increase FiO2 above 100%"
+        },
+        {
+          "text": "Wash out exhaled CO2",
+          "correct": true
+        },
+        {
+          "text": "Prevent humidification"
+        },
+        {
+          "text": "Deliver Heliox only"
+        }
+      ]
+    },
+    {
+      "text": "Which flow and FiO2 range is listed for a non-rebreathing mask?",
+      "answers": [
+        {
+          "text": "1–5 L/min; 22%–35%"
+        },
+        {
+          "text": "5–10 L/min; 30%–60%"
+        },
+        {
+          "text": "10 to greater than 15 L/min; 60%–80%",
+          "correct": true
+        },
+        {
+          "text": "Less than 6 L/min; 22%–35%"
+        }
+      ]
+    },
+    {
+      "text": "The only device listed for delivering Heliox is the:",
+      "answers": [
+        {
+          "text": "Simple mask"
+        },
+        {
+          "text": "Venturi mask"
+        },
+        {
+          "text": "Non-rebreathing mask",
+          "correct": true
+        },
+        {
+          "text": "Nasal catheter"
+        }
+      ]
+    },
+    {
+      "text": "High-flow oxygen devices deliver:",
+      "answers": [
+        {
+          "text": "Variable FiO2 with flow less than 10 L/min"
+        },
+        {
+          "text": "Fixed FiO2 with flow that exceeds patient inspiratory flow",
+          "correct": true
+        },
+        {
+          "text": "FiO2 that always decreases when entrainment ports are occluded"
+        },
+        {
+          "text": "No room air entrainment at any flow"
+        }
+      ]
+    },
+    {
+      "text": "For a Venturi mask at FiO2 0.40, what air-to-oxygen entrainment ratio is listed?",
+      "answers": [
+        {
+          "text": "25 : 1"
+        },
+        {
+          "text": "8 : 1"
+        },
+        {
+          "text": "3 : 1",
+          "correct": true
+        },
+        {
+          "text": "1 : 1"
+        }
+      ]
+    },
+    {
+      "text": "Occlusion of Venturi mask air entrainment ports will:",
+      "answers": [
+        {
+          "text": "Decrease FiO2 and increase total flow"
+        },
+        {
+          "text": "Increase FiO2 while decreasing total flow",
+          "correct": true
+        },
+        {
+          "text": "Have no effect on FiO2"
+        },
+        {
+          "text": "Decrease both FiO2 and total flow"
+        }
+      ]
+    },
+    {
+      "text": "Adult delivered flow rates for HFNC (Vapotherm) are listed as:",
+      "answers": [
+        {
+          "text": "1–8 L/min"
+        },
+        {
+          "text": "5–40 L/min",
+          "correct": true
+        },
+        {
+          "text": "0–6 L/min"
+        },
+        {
+          "text": "10 to greater than 15 L/min only"
+        }
+      ]
+    },
+    {
+      "text": "Oxygen analyzers should be calibrated prior to each use with an error range no greater than:",
+      "answers": [
+        {
+          "text": "+/- 5%"
+        },
+        {
+          "text": "+/- 2%",
+          "correct": true
+        },
+        {
+          "text": "+/- 10%"
+        },
+        {
+          "text": "+/- 21%"
+        }
+      ]
+    },
+    {
+      "text": "Two-point oxygen analyzer calibration uses which FiO2 values?",
+      "answers": [
+        {
+          "text": "24% and 60%"
+        },
+        {
+          "text": "21% and 100%",
+          "correct": true
+        },
+        {
+          "text": "35% and 50%"
+        },
+        {
+          "text": "0% and 50%"
+        }
+      ]
+    }
+  ]
+}
