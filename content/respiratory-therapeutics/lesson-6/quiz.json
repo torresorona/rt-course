@@ -1,0 +1,275 @@
+{
+  "title": "Controlled Breathing & Airway Clearance Techniques Quiz",
+  "questions": [
+    {
+      "text": "Normal airway clearance requires a patent airway, functional mucociliary escalator, and:",
+      "answers": [
+        {
+          "text": "Strong effective cough",
+          "correct": true
+        },
+        {
+          "text": "Dry powder inhaler use"
+        },
+        {
+          "text": "SPAG therapy"
+        },
+        {
+          "text": "A dose counter"
+        }
+      ]
+    },
+    {
+      "text": "Which sequence lists the four phases of normal cough from the source?",
+      "answers": [
+        {
+          "text": "Irritation, inspiration, compression, expulsion",
+          "correct": true
+        },
+        {
+          "text": "Compression, expulsion, inhalation, diffusion"
+        },
+        {
+          "text": "Unsticking, collecting, evacuation, dosing"
+        },
+        {
+          "text": "Assessment, treatment, storage, documentation"
+        }
+      ]
+    },
+    {
+      "text": "The purpose of controlled breathing techniques includes expanding the lungs, mobilizing secretions, airway clearance, and:",
+      "answers": [
+        {
+          "text": "Reducing and/or reversing breathing difficulties",
+          "correct": true
+        },
+        {
+          "text": "Delivering Ribavirin"
+        },
+        {
+          "text": "Counting MDI doses"
+        },
+        {
+          "text": "Replacing all bronchial hygiene therapies"
+        }
+      ]
+    },
+    {
+      "text": "Which is listed as an indication for directed cough?",
+      "answers": [
+        {
+          "text": "Aid removal of retained secretions from central airways",
+          "correct": true
+        },
+        {
+          "text": "Deliver micronized drug particles"
+        },
+        {
+          "text": "Prevent dry powder clumping"
+        },
+        {
+          "text": "Power an HFA propellant"
+        }
+      ]
+    },
+    {
+      "text": "In the Heimlich maneuver method for manually assisted cough, the patient sits:",
+      "answers": [
+        {
+          "text": "At 45 degrees facing away from the assister",
+          "correct": true
+        },
+        {
+          "text": "Flat supine with no inhalation"
+        },
+        {
+          "text": "Prone with the assister facing away"
+        },
+        {
+          "text": "Standing and exhaling into a DPI"
+        }
+      ]
+    },
+    {
+      "text": "In the recumbent method for manually assisted cough, the patient's abdomen is pushed:",
+      "answers": [
+        {
+          "text": "Inward and upward after deep inhalation",
+          "correct": true
+        },
+        {
+          "text": "Outward during inhalation only"
+        },
+        {
+          "text": "Downward before inspiration"
+        },
+        {
+          "text": "Only with a mouthpiece"
+        }
+      ]
+    },
+    {
+      "text": "Forced expiratory technique is also called:",
+      "answers": [
+        {
+          "text": "Huff cough",
+          "correct": true
+        },
+        {
+          "text": "SPAG"
+        },
+        {
+          "text": "VHC"
+        },
+        {
+          "text": "BEN"
+        }
+      ]
+    },
+    {
+      "text": "FET consists of one or two forced expirations from middle to low lung volume with:",
+      "answers": [
+        {
+          "text": "Open glottis",
+          "correct": true
+        },
+        {
+          "text": "Closed lips during inhalation"
+        },
+        {
+          "text": "A propellant"
+        },
+        {
+          "text": "A nebulizer baffle"
+        }
+      ]
+    },
+    {
+      "text": "Autogenic drainage is characterized by:",
+      "answers": [
+        {
+          "text": "Breathing control focused on rate, depth, and location of lung volumes",
+          "correct": true
+        },
+        {
+          "text": "Use of an HFA propellant"
+        },
+        {
+          "text": "Exhaling into a dry powder inhaler"
+        },
+        {
+          "text": "A dose counter on all devices"
+        }
+      ]
+    },
+    {
+      "text": "Which autogenic drainage phase begins with low lung volumes, inspiratory breath holds, and controlled exhalation to prevent airway collapse?",
+      "answers": [
+        {
+          "text": "Unsticking phase",
+          "correct": true
+        },
+        {
+          "text": "Collecting phase"
+        },
+        {
+          "text": "Evacuation phase"
+        },
+        {
+          "text": "Compression phase"
+        }
+      ]
+    },
+    {
+      "text": "Pursed-lips breathing creates expiratory resistance and back pressure to:",
+      "answers": [
+        {
+          "text": "Splint the airways open",
+          "correct": true
+        },
+        {
+          "text": "Clump dry powder"
+        },
+        {
+          "text": "Increase aerosol waste"
+        },
+        {
+          "text": "Stop all exhalation"
+        }
+      ]
+    },
+    {
+      "text": "Pursed-lips breathing is primarily used in patients with:",
+      "answers": [
+        {
+          "text": "Severe COPD",
+          "correct": true
+        },
+        {
+          "text": "RSV only"
+        },
+        {
+          "text": "PIV only"
+        },
+        {
+          "text": "No breathing difficulty"
+        }
+      ]
+    },
+    {
+      "text": "Diaphragmatic breathing is intended to help reengage and strengthen the:",
+      "answers": [
+        {
+          "text": "Diaphragm",
+          "correct": true
+        },
+        {
+          "text": "Dose counter"
+        },
+        {
+          "text": "Baffle"
+        },
+        {
+          "text": "Spacer whistle"
+        }
+      ]
+    },
+    {
+      "text": "During diaphragmatic breathing, the patient should focus on moving the stomach outward more than the chest while inhaling through the nose for:",
+      "answers": [
+        {
+          "text": "2 seconds",
+          "correct": true
+        },
+        {
+          "text": "10 seconds"
+        },
+        {
+          "text": "30 seconds"
+        },
+        {
+          "text": "3 minutes"
+        }
+      ]
+    },
+    {
+      "text": "Mechanical insufflation-exsufflation is listed in the source as:",
+      "answers": [
+        {
+          "text": "A controlled breathing technique and Cough Assist option",
+          "correct": true
+        },
+        {
+          "text": "A dry powder inhaler propellant"
+        },
+        {
+          "text": "A spacer dose-counting device"
+        },
+        {
+          "text": "A SPAG antiviral medication"
+        }
+      ]
+    }
+  ]
+}

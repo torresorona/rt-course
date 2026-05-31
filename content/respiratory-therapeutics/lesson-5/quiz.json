@@ -1,0 +1,275 @@
+{
+  "title": "Medication Delivery Modalities Quiz",
+  "questions": [
+    {
+      "text": "Aerosol deposition site in the respiratory tract varies with particle mass produced by nebulizers and:",
+      "answers": [
+        {
+          "text": "Inspiratory flow",
+          "correct": true
+        },
+        {
+          "text": "Patient height only"
+        },
+        {
+          "text": "Room lighting"
+        },
+        {
+          "text": "Dose counter color"
+        }
+      ]
+    },
+    {
+      "text": "MMAD stands for:",
+      "answers": [
+        {
+          "text": "Mass median aerodynamic diameter",
+          "correct": true
+        },
+        {
+          "text": "Maximum medication aerosol dose"
+        },
+        {
+          "text": "Manual metered aerosol delivery"
+        },
+        {
+          "text": "Mechanical mist airway device"
+        }
+      ]
+    },
+    {
+      "text": "A metered dose inhaler (MDI) is powered by:",
+      "answers": [
+        {
+          "text": "An HFA propellant",
+          "correct": true
+        },
+        {
+          "text": "A patient-actuated powder chamber only"
+        },
+        {
+          "text": "A ventilator expiratory limb"
+        },
+        {
+          "text": "A SPAG reservoir"
+        }
+      ]
+    },
+    {
+      "text": "According to the source, spacers should be used with:",
+      "answers": [
+        {
+          "text": "MDIs",
+          "correct": true
+        },
+        {
+          "text": "DPIs only"
+        },
+        {
+          "text": "SPAG only"
+        },
+        {
+          "text": "Mechanical ventilators only"
+        }
+      ]
+    },
+    {
+      "text": "During MDI spacer instruction, the MDI should be actuated:",
+      "answers": [
+        {
+          "text": "At the beginning of inhalation",
+          "correct": true
+        },
+        {
+          "text": "After breath holding is complete"
+        },
+        {
+          "text": "Only during exhalation"
+        },
+        {
+          "text": "Before the patient exhales completely"
+        }
+      ]
+    },
+    {
+      "text": "The minimum wait between MDI breath actuations in the source is:",
+      "answers": [
+        {
+          "text": "30 seconds",
+          "correct": true
+        },
+        {
+          "text": "2 seconds"
+        },
+        {
+          "text": "10 seconds"
+        },
+        {
+          "text": "10 minutes"
+        }
+      ]
+    },
+    {
+      "text": "Pneumatic jet nebulizers require:",
+      "answers": [
+        {
+          "text": "An external compressed gas source",
+          "correct": true
+        },
+        {
+          "text": "No gas source"
+        },
+        {
+          "text": "Only patient-generated inspiratory powder flow"
+        },
+        {
+          "text": "A dry powder capsule only"
+        }
+      ]
+    },
+    {
+      "text": "In a pneumatic jet nebulizer, the baffle creates:",
+      "answers": [
+        {
+          "text": "Particulate mist or aerosol small enough to reach the lower airways",
+          "correct": true
+        },
+        {
+          "text": "A dry powder clump"
+        },
+        {
+          "text": "A dose-counting display"
+        },
+        {
+          "text": "A ventilator wye"
+        }
+      ]
+    },
+    {
+      "text": "A breath-enhanced jet nebulizer (BEN) uses one-way valves to:",
+      "answers": [
+        {
+          "text": "Contain nebulized aerosol until the patient inhales",
+          "correct": true
+        },
+        {
+          "text": "Stop all aerosol during inspiration"
+        },
+        {
+          "text": "Deliver dry powder through a capsule"
+        },
+        {
+          "text": "Replace all compressed gas"
+        }
+      ]
+    },
+    {
+      "text": "A breath-actuated nebulizer (BAN) reduces waste because nebulization stops during:",
+      "answers": [
+        {
+          "text": "Exhalation",
+          "correct": true
+        },
+        {
+          "text": "Inhalation"
+        },
+        {
+          "text": "Patient assessment"
+        },
+        {
+          "text": "Chart review"
+        }
+      ]
+    },
+    {
+      "text": "For SVN treatment, gas flow should be adjusted to:",
+      "answers": [
+        {
+          "text": "6 L/min or greater",
+          "correct": true
+        },
+        {
+          "text": "1 L/min exactly"
+        },
+        {
+          "text": "Less than 2 L/min"
+        },
+        {
+          "text": "Only 10 to 12 L/min for every medication"
+        }
+      ]
+    },
+    {
+      "text": "Medication delivery on mechanical ventilators uses adapters on the:",
+      "answers": [
+        {
+          "text": "Inspiratory limb before the circuit wye",
+          "correct": true
+        },
+        {
+          "text": "Patient's dry powder inhaler"
+        },
+        {
+          "text": "Expiratory port after the wye only"
+        },
+        {
+          "text": "Dose counter"
+        }
+      ]
+    },
+    {
+      "text": "Which device cannot deliver medication to mechanically ventilated patients according to the source?",
+      "answers": [
+        {
+          "text": "DPI",
+          "correct": true
+        },
+        {
+          "text": "Nebulizer adapter"
+        },
+        {
+          "text": "HHN"
+        },
+        {
+          "text": "MDI adapter"
+        }
+      ]
+    },
+    {
+      "text": "A DPI requires the patient to:",
+      "answers": [
+        {
+          "text": "Actively inhale through the device",
+          "correct": true
+        },
+        {
+          "text": "Exhale moist air into the inhaler"
+        },
+        {
+          "text": "Use an HFA propellant"
+        },
+        {
+          "text": "Attach the device to a ventilator wye"
+        }
+      ]
+    },
+    {
+      "text": "SPAG is used to deliver Ribavirin for RSV and:",
+      "answers": [
+        {
+          "text": "Parainfluenza Virus (PIV)",
+          "correct": true
+        },
+        {
+          "text": "Atelectasis"
+        },
+        {
+          "text": "COPD dynamic hyperinflation"
+        },
+        {
+          "text": "Post-treatment peak flow"
+        }
+      ]
+    }
+  ]
+}

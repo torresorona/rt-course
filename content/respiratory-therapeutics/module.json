@@ -1,6 +1,6 @@
 {
   "title": "Respiratory Therapeutics",
-  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery, oxygen delivery devices, humidification systems, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
+  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery, oxygen delivery devices, humidification systems, medication delivery devices, aerosol therapy, controlled breathing, airway clearance, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
   "order": 10,
   "lessons": [
     {
@@ -27,6 +27,18 @@
       "title": "Humidification Delivery",
       "description": "Humidity fundamentals, ISB, active and passive humidification, HME indications and contraindications, and bland aerosol therapy with cool vs warm goals.",
       "audio": "/audio/respiratory-therapeutics/The_Science_of_Airway_Humidification.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-5",
+      "title": "Medication Delivery Modalities",
+      "description": "Aerosol particle size, MDI and spacer technique, small volume nebulizer setup and administration, ventilator medication delivery, DPI use, and SPAG indications.",
+      "audio": "/audio/respiratory-therapeutics/The_Physics_of_Inhaling_Medicine.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-6",
+      "title": "Controlled Breathing & Airway Clearance Techniques",
+      "description": "Directed cough techniques, normal cough phases, manually assisted cough, huff cough, autogenic drainage, pursed-lips breathing, diaphragmatic breathing, and mechanical insufflation-exsufflation.",
+      "audio": "/audio/respiratory-therapeutics/Manual_overrides_for_failing_lungs.m4a"
     }
   ],
   "audio": [
@@ -45,6 +57,14 @@
     {
       "title": "The Science of Airway Humidification",
       "src": "/audio/respiratory-therapeutics/The_Science_of_Airway_Humidification.m4a"
+    },
+    {
+      "title": "The Physics of Inhaling Medicine",
+      "src": "/audio/respiratory-therapeutics/The_Physics_of_Inhaling_Medicine.m4a"
+    },
+    {
+      "title": "Manual Overrides for Failing Lungs",
+      "src": "/audio/respiratory-therapeutics/Manual_overrides_for_failing_lungs.m4a"
     }
   ],
   "resources": []
