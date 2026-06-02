@@ -1,0 +1,3605 @@
+{
+  "title": "Respiratory Therapeutics Therapy Review Exam",
+  "questions": [
+    {
+      "text": "Which best states the primary goal of Oxygen Therapy?",
+      "answers": [
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work",
+          "correct": true
+        },
+        {
+          "text": "Deliver oxygen at 1-5 Lpm (FiO2 22-35%)"
+        },
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm"
+        },
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Oxygen Therapy?",
+      "answers": [
+        {
+          "text": "Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery",
+          "correct": true
+        },
+        {
+          "text": "Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Oxygen Therapy?",
+      "answers": [
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction",
+          "correct": true
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Oxygen Therapy is to treat hypoxemia.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Oxygen Therapy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Oxygen Therapy?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Oxygen Therapy is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction",
+          "correct": true
+        },
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity"
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        }
+      ]
+    },
+    {
+      "text": "Can Oxygen Therapy be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Oxygen Therapy's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension. Contraindications: Patients not experiencing pulmonary hypertension. Goals: Act as a pulmonary vasodilator to improve blood flow."
+        },
+        {
+          "text": "Indications: Low-flow oxygen delivery (historical/rarely used today). Contraindications: Nasal septum deviation, mucosal congestion, nasal polyps. Goals: Deliver oxygen at 1-5 Lpm (FiO2 22-35%)."
+        },
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Oxygen Therapy appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Inability to clear secretions, CF, bronchiectasis"
+        },
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Yes, indications include: Retained secretions, atelectasis, cystic fibrosis"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Heliox Therapy?",
+      "answers": [
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles",
+          "correct": true
+        },
+        {
+          "text": "Keep glottis open during exhalation to push secretions toward upper airway"
+        },
+        {
+          "text": "Mobilize secretions using controlled breathing at various lung volumes"
+        },
+        {
+          "text": "Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Heliox Therapy?",
+      "answers": [
+        {
+          "text": "Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)",
+          "correct": true
+        },
+        {
+          "text": "Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        },
+        {
+          "text": "Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Heliox Therapy?",
+      "answers": [
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)",
+          "correct": true
+        },
+        {
+          "text": "Untreated pneumothorax, active hemoptysis"
+        },
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax"
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Heliox Therapy is to increase peak flows.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Heliox Therapy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Heliox Therapy?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Heliox Therapy is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)",
+          "correct": true
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        }
+      ]
+    },
+    {
+      "text": "Can Heliox Therapy be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Heliox Therapy's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD). Contraindications: Conditions requiring high FiO2 (since Heliox limits max O2 delivery). Goals: Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles. Contraindications: Abdominal pathology, pregnancy, unhealed abdominal hernia. Goals: Increase expiratory flow and clear secretions by applying external pressure."
+        },
+        {
+          "text": "Indications: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough. Contraindications: Inability to control breathing. Goals: Keep glottis open during exhalation to push secretions toward upper airway."
+        },
+        {
+          "text": "Indications: Patients with thick, retained secretions (CF, bronchiectasis). Contraindications: Uncooperative or cognitively impaired patients. Goals: Mobilize secretions using controlled breathing at various lung volumes."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Heliox Therapy appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Low-flow oxygen delivery (historical/rarely used today)"
+        },
+        {
+          "text": "Yes, indications include: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Yes, indications include: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Nitric Oxide (NO) Therapy?",
+      "answers": [
+        {
+          "text": "Act as a pulmonary vasodilator to improve blood flow",
+          "correct": true
+        },
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles"
+        },
+        {
+          "text": "Deliver oxygen at 1-5 Lpm (FiO2 22-35%)"
+        },
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Nitric Oxide (NO) Therapy?",
+      "answers": [
+        {
+          "text": "Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "Inability to clear secretions, CF, bronchiectasis"
+        },
+        {
+          "text": "Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Retained secretions, atelectasis, cystic fibrosis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Nitric Oxide (NO) Therapy?",
+      "answers": [
+        {
+          "text": "Patients not experiencing pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "Inability to control breathing"
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Nitric Oxide (NO) Therapy is to act as a pulmonary vasodilator to improve blood flow.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Nitric Oxide (NO) Therapy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Nitric Oxide (NO) Therapy?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Nitric Oxide (NO) Therapy is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Patients not experiencing pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        },
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity"
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        }
+      ]
+    },
+    {
+      "text": "Can Nitric Oxide (NO) Therapy be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Nitric Oxide (NO) Therapy's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension. Contraindications: Patients not experiencing pulmonary hypertension. Goals: Act as a pulmonary vasodilator to improve blood flow.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work."
+        },
+        {
+          "text": "Indications: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD). Contraindications: Conditions requiring high FiO2 (since Heliox limits max O2 delivery). Goals: Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles."
+        },
+        {
+          "text": "Indications: Low-flow oxygen delivery (historical/rarely used today). Contraindications: Nasal septum deviation, mucosal congestion, nasal polyps. Goals: Deliver oxygen at 1-5 Lpm (FiO2 22-35%)."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Nitric Oxide (NO) Therapy appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        },
+        {
+          "text": "Yes, indications include: Inability to clear secretions, CF, bronchiectasis"
+        },
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Nasal Catheter?",
+      "answers": [
+        {
+          "text": "Deliver oxygen at 1-5 Lpm (FiO2 22-35%)",
+          "correct": true
+        },
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm"
+        },
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate"
+        },
+        {
+          "text": "Promote localized mucosal vasoconstriction, reduce inflammation, relieve upper airway discomfort, reduce WOB"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Nasal Catheter?",
+      "answers": [
+        {
+          "text": "Low-flow oxygen delivery (historical/rarely used today)",
+          "correct": true
+        },
+        {
+          "text": "Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        },
+        {
+          "text": "Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Nasal Catheter?",
+      "answers": [
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps",
+          "correct": true
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Nasal Catheter is to deliver oxygen at 1-5 lpm (fio2 22-35%).",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Nasal Catheter?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Nasal Catheter?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Nasal Catheter is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps",
+          "correct": true
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        }
+      ]
+    },
+    {
+      "text": "Can Nasal Catheter be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Nasal Catheter's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Low-flow oxygen delivery (historical/rarely used today). Contraindications: Nasal septum deviation, mucosal congestion, nasal polyps. Goals: Deliver oxygen at 1-5 Lpm (FiO2 22-35%).",
+          "correct": true
+        },
+        {
+          "text": "Indications: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension. Contraindications: Patients not experiencing pulmonary hypertension. Goals: Act as a pulmonary vasodilator to improve blood flow."
+        },
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm."
+        },
+        {
+          "text": "Indications: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%). Contraindications: Situations where air entrainment ports might be obstructed. Goals: Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Nasal Catheter appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Low-flow oxygen delivery (historical/rarely used today)",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Yes, indications include: Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Yes, indications include: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Simple Face Mask?",
+      "answers": [
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm",
+          "correct": true
+        },
+        {
+          "text": "Strengthen the diaphragm, decrease WOB, reduce oxygen demand"
+        },
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work"
+        },
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Simple Face Mask?",
+      "answers": [
+        {
+          "text": "Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)",
+          "correct": true
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        },
+        {
+          "text": "Inability to clear secretions, CF, bronchiectasis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Simple Face Mask?",
+      "answers": [
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)",
+          "correct": true
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        },
+        {
+          "text": "Inability to control breathing"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Simple Face Mask is to provide fio2 of 30-60% at 5-10 lpm.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Simple Face Mask?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Simple Face Mask?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Simple Face Mask is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)",
+          "correct": true
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Can Simple Face Mask be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Simple Face Mask's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Severe COPD, dyspnea, dynamic hyperinflation. Contraindications: Ineffective in restrictive disorders. Goals: Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time."
+        },
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand."
+        },
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Simple Face Mask appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Yes, indications include: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Yes, indications include: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Venturi Mask (Air Entrainment)?",
+      "answers": [
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate",
+          "correct": true
+        },
+        {
+          "text": "Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching"
+        },
+        {
+          "text": "Utilize gravity to enhance mobilization of secretions from small to large airways"
+        },
+        {
+          "text": "Splint airways open, reduce air trapping, enhance mobilization of secretions"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Venturi Mask (Air Entrainment)?",
+      "answers": [
+        {
+          "text": "Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)",
+          "correct": true
+        },
+        {
+          "text": "Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles"
+        },
+        {
+          "text": "COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough"
+        },
+        {
+          "text": "Patients with thick, retained secretions (CF, bronchiectasis)"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Venturi Mask (Air Entrainment)?",
+      "answers": [
+        {
+          "text": "Situations where air entrainment ports might be obstructed",
+          "correct": true
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Venturi Mask (Air Entrainment) is to deliver a precise.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Venturi Mask (Air Entrainment)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Venturi Mask (Air Entrainment)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Venturi Mask (Air Entrainment) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Situations where air entrainment ports might be obstructed",
+          "correct": true
+        },
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax"
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        }
+      ]
+    },
+    {
+      "text": "Can Venturi Mask (Air Entrainment) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Venturi Mask (Air Entrainment)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%). Contraindications: Situations where air entrainment ports might be obstructed. Goals: Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas. Contraindications: Patients with hyperthermia or excessive airway reactivity. Goals: Preserve mucociliary escalator motility, maintain mucosal hydration."
+        },
+        {
+          "text": "Indications: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis. Contraindications: Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism. Goals: Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching."
+        },
+        {
+          "text": "Indications: Inability to clear secretions, CF, bronchiectasis. Contraindications: Unstable spinal cord injuries, active hemoptysis, increased ICP. Goals: Utilize gravity to enhance mobilization of secretions from small to large airways."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Venturi Mask (Air Entrainment) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery"
+        },
+        {
+          "text": "Yes, indications include: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles"
+        },
+        {
+          "text": "Yes, indications include: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Cool Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Promote localized mucosal vasoconstriction, reduce inflammation, relieve upper airway discomfort, reduce WOB",
+          "correct": true
+        },
+        {
+          "text": "Mobilize secretions using controlled breathing at various lung volumes"
+        },
+        {
+          "text": "Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time"
+        },
+        {
+          "text": "Strengthen the diaphragm, decrease WOB, reduce oxygen demand"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Cool Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis",
+          "correct": true
+        },
+        {
+          "text": "Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Cool Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "History of hyperresponsiveness or bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax"
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Cool Bland Aerosol Therapy is to promote localized mucosal vasoconstriction.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Cool Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Cool Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Cool Bland Aerosol Therapy is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "History of hyperresponsiveness or bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)"
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        }
+      ]
+    },
+    {
+      "text": "Can Cool Bland Aerosol Therapy be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Cool Bland Aerosol Therapy's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis. Contraindications: History of hyperresponsiveness or bronchospasm. Goals: Promote localized mucosal vasoconstriction, reduce inflammation, relieve upper airway discomfort, reduce WOB.",
+          "correct": true
+        },
+        {
+          "text": "Indications: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough. Contraindications: Inability to control breathing. Goals: Keep glottis open during exhalation to push secretions toward upper airway."
+        },
+        {
+          "text": "Indications: Patients with thick, retained secretions (CF, bronchiectasis). Contraindications: Uncooperative or cognitively impaired patients. Goals: Mobilize secretions using controlled breathing at various lung volumes."
+        },
+        {
+          "text": "Indications: Severe COPD, dyspnea, dynamic hyperinflation. Contraindications: Ineffective in restrictive disorders. Goals: Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Cool Bland Aerosol Therapy appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Low-flow oxygen delivery (historical/rarely used today)"
+        },
+        {
+          "text": "Yes, indications include: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Yes, indications include: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Warm Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Preserve mucociliary escalator motility, maintain mucosal hydration",
+          "correct": true
+        },
+        {
+          "text": "Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions"
+        },
+        {
+          "text": "Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways"
+        },
+        {
+          "text": "Deliver short duration lung expansion, improve cough effectiveness"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Warm Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas",
+          "correct": true
+        },
+        {
+          "text": "Severe COPD, dyspnea, dynamic hyperinflation"
+        },
+        {
+          "text": "COPD, excessive accessory muscle use, high work of breathing"
+        },
+        {
+          "text": "Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Warm Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity",
+          "correct": true
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Warm Bland Aerosol Therapy is to preserve mucociliary escalator motility.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Warm Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Warm Bland Aerosol Therapy?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Warm Bland Aerosol Therapy is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity",
+          "correct": true
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        },
+        {
+          "text": "Inability to control breathing"
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        }
+      ]
+    },
+    {
+      "text": "Can Warm Bland Aerosol Therapy be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Warm Bland Aerosol Therapy's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas. Contraindications: Patients with hyperthermia or excessive airway reactivity. Goals: Preserve mucociliary escalator motility, maintain mucosal hydration.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Need for lung expansion and secretion mobilization. Contraindications: Untreated pneumothorax, severe epistaxis, active hemoptysis. Goals: Splint airways open, reduce air trapping, enhance mobilization of secretions."
+        },
+        {
+          "text": "Indications: Retained secretions, atelectasis, cystic fibrosis. Contraindications: Untreated pneumothorax, active hemoptysis. Goals: Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions."
+        },
+        {
+          "text": "Indications: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually. Contraindications: Unstable chest wall, active hemoptysis, untreated pneumothorax. Goals: Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Warm Bland Aerosol Therapy appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Patients with thick, retained secretions (CF, bronchiectasis)"
+        },
+        {
+          "text": "Yes, indications include: Severe COPD, dyspnea, dynamic hyperinflation"
+        },
+        {
+          "text": "Yes, indications include: COPD, excessive accessory muscle use, high work of breathing"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Chest Physiotherapy (CPT)?",
+      "answers": [
+        {
+          "text": "Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching",
+          "correct": true
+        },
+        {
+          "text": "Deliver oxygen at 1-5 Lpm (FiO2 22-35%)"
+        },
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm"
+        },
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Chest Physiotherapy (CPT)?",
+      "answers": [
+        {
+          "text": "Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis",
+          "correct": true
+        },
+        {
+          "text": "Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        },
+        {
+          "text": "Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Chest Physiotherapy (CPT)?",
+      "answers": [
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism",
+          "correct": true
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Chest Physiotherapy (CPT) is to reduce accumulation of pulmonary secretions.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Chest Physiotherapy (CPT)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Chest Physiotherapy (CPT)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Chest Physiotherapy (CPT) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism",
+          "correct": true
+        },
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity"
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        }
+      ]
+    },
+    {
+      "text": "Can Chest Physiotherapy (CPT) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Chest Physiotherapy (CPT)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis. Contraindications: Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism. Goals: Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension. Contraindications: Patients not experiencing pulmonary hypertension. Goals: Act as a pulmonary vasodilator to improve blood flow."
+        },
+        {
+          "text": "Indications: Low-flow oxygen delivery (historical/rarely used today). Contraindications: Nasal septum deviation, mucosal congestion, nasal polyps. Goals: Deliver oxygen at 1-5 Lpm (FiO2 22-35%)."
+        },
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Chest Physiotherapy (CPT) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Yes, indications include: Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Yes, indications include: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Postural Drainage (PD)?",
+      "answers": [
+        {
+          "text": "Utilize gravity to enhance mobilization of secretions from small to large airways",
+          "correct": true
+        },
+        {
+          "text": "Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse"
+        },
+        {
+          "text": "Increase expiratory flow and clear secretions by applying external pressure"
+        },
+        {
+          "text": "Keep glottis open during exhalation to push secretions toward upper airway"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Postural Drainage (PD)?",
+      "answers": [
+        {
+          "text": "Inability to clear secretions, CF, bronchiectasis",
+          "correct": true
+        },
+        {
+          "text": "Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)"
+        },
+        {
+          "text": "Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension"
+        },
+        {
+          "text": "Low-flow oxygen delivery (historical/rarely used today)"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Postural Drainage (PD)?",
+      "answers": [
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP",
+          "correct": true
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        },
+        {
+          "text": "Untreated pneumothorax, active hemoptysis"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Postural Drainage (PD) is to utilize gravity to enhance mobilization of secretions from small to large airways.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Postural Drainage (PD)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Postural Drainage (PD)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Postural Drainage (PD) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP",
+          "correct": true
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        }
+      ]
+    },
+    {
+      "text": "Can Postural Drainage (PD) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Postural Drainage (PD)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Inability to clear secretions, CF, bronchiectasis. Contraindications: Unstable spinal cord injuries, active hemoptysis, increased ICP. Goals: Utilize gravity to enhance mobilization of secretions from small to large airways.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm. Contraindications: Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB. Goals: Deliver short duration lung expansion, improve cough effectiveness."
+        },
+        {
+          "text": "Indications: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery. Contraindications: Uncooperative patients, patients unable to perform the maneuver. Goals: Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse."
+        },
+        {
+          "text": "Indications: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles. Contraindications: Abdominal pathology, pregnancy, unhealed abdominal hernia. Goals: Increase expiratory flow and clear secretions by applying external pressure."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Postural Drainage (PD) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Inability to clear secretions, CF, bronchiectasis",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery"
+        },
+        {
+          "text": "Yes, indications include: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)"
+        },
+        {
+          "text": "Yes, indications include: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Positive Expiratory Pressure (PEP)?",
+      "answers": [
+        {
+          "text": "Splint airways open, reduce air trapping, enhance mobilization of secretions",
+          "correct": true
+        },
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work"
+        },
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles"
+        },
+        {
+          "text": "Act as a pulmonary vasodilator to improve blood flow"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Positive Expiratory Pressure (PEP)?",
+      "answers": [
+        {
+          "text": "Need for lung expansion and secretion mobilization",
+          "correct": true
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        },
+        {
+          "text": "Inability to clear secretions, CF, bronchiectasis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Positive Expiratory Pressure (PEP)?",
+      "answers": [
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis",
+          "correct": true
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        },
+        {
+          "text": "Inability to control breathing"
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Positive Expiratory Pressure (PEP) is to splint airways open.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Positive Expiratory Pressure (PEP)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Positive Expiratory Pressure (PEP)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Positive Expiratory Pressure (PEP) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis",
+          "correct": true
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Can Positive Expiratory Pressure (PEP) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Positive Expiratory Pressure (PEP)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Need for lung expansion and secretion mobilization. Contraindications: Untreated pneumothorax, severe epistaxis, active hemoptysis. Goals: Splint airways open, reduce air trapping, enhance mobilization of secretions.",
+          "correct": true
+        },
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand."
+        },
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work."
+        },
+        {
+          "text": "Indications: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD). Contraindications: Conditions requiring high FiO2 (since Heliox limits max O2 delivery). Goals: Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Positive Expiratory Pressure (PEP) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Yes, indications include: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Yes, indications include: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Intrapulmonary Percussive Ventilation (IPV)?",
+      "answers": [
+        {
+          "text": "Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions",
+          "correct": true
+        },
+        {
+          "text": "Deliver oxygen at 1-5 Lpm (FiO2 22-35%)"
+        },
+        {
+          "text": "Provide FiO2 of 30-60% at 5-10 Lpm"
+        },
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Intrapulmonary Percussive Ventilation (IPV)?",
+      "answers": [
+        {
+          "text": "Retained secretions, atelectasis, cystic fibrosis",
+          "correct": true
+        },
+        {
+          "text": "Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        },
+        {
+          "text": "Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Intrapulmonary Percussive Ventilation (IPV)?",
+      "answers": [
+        {
+          "text": "Untreated pneumothorax, active hemoptysis",
+          "correct": true
+        },
+        {
+          "text": "Ineffective in restrictive disorders"
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Intrapulmonary Percussive Ventilation (IPV) is to expand airways.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Intrapulmonary Percussive Ventilation (IPV)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Intrapulmonary Percussive Ventilation (IPV)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Intrapulmonary Percussive Ventilation (IPV) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Untreated pneumothorax, active hemoptysis",
+          "correct": true
+        },
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity"
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        }
+      ]
+    },
+    {
+      "text": "Can Intrapulmonary Percussive Ventilation (IPV) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Intrapulmonary Percussive Ventilation (IPV)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Retained secretions, atelectasis, cystic fibrosis. Contraindications: Untreated pneumothorax, active hemoptysis. Goals: Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension. Contraindications: Patients not experiencing pulmonary hypertension. Goals: Act as a pulmonary vasodilator to improve blood flow."
+        },
+        {
+          "text": "Indications: Low-flow oxygen delivery (historical/rarely used today). Contraindications: Nasal septum deviation, mucosal congestion, nasal polyps. Goals: Deliver oxygen at 1-5 Lpm (FiO2 22-35%)."
+        },
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Intrapulmonary Percussive Ventilation (IPV) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Retained secretions, atelectasis, cystic fibrosis",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Inability to clear secretions, CF, bronchiectasis"
+        },
+        {
+          "text": "Yes, indications include: Need for lung expansion and secretion mobilization"
+        },
+        {
+          "text": "Yes, indications include: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of High Frequency Chest Wall Oscillation (Vest)?",
+      "answers": [
+        {
+          "text": "Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways",
+          "correct": true
+        },
+        {
+          "text": "Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time"
+        },
+        {
+          "text": "Strengthen the diaphragm, decrease WOB, reduce oxygen demand"
+        },
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for High Frequency Chest Wall Oscillation (Vest)?",
+      "answers": [
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually",
+          "correct": true
+        },
+        {
+          "text": "Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        },
+        {
+          "text": "Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with High Frequency Chest Wall Oscillation (Vest)?",
+      "answers": [
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax",
+          "correct": true
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of High Frequency Chest Wall Oscillation (Vest) is to transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for High Frequency Chest Wall Oscillation (Vest)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using High Frequency Chest Wall Oscillation (Vest)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: High Frequency Chest Wall Oscillation (Vest) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax",
+          "correct": true
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        }
+      ]
+    },
+    {
+      "text": "Can High Frequency Chest Wall Oscillation (Vest) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches High Frequency Chest Wall Oscillation (Vest)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually. Contraindications: Unstable chest wall, active hemoptysis, untreated pneumothorax. Goals: Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Patients with thick, retained secretions (CF, bronchiectasis). Contraindications: Uncooperative or cognitively impaired patients. Goals: Mobilize secretions using controlled breathing at various lung volumes."
+        },
+        {
+          "text": "Indications: Severe COPD, dyspnea, dynamic hyperinflation. Contraindications: Ineffective in restrictive disorders. Goals: Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time."
+        },
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is High Frequency Chest Wall Oscillation (Vest) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Yes, indications include: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        },
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Intermittent Positive Pressure Breathing (IPPB)?",
+      "answers": [
+        {
+          "text": "Deliver short duration lung expansion, improve cough effectiveness",
+          "correct": true
+        },
+        {
+          "text": "Increase expiratory flow and clear secretions by applying external pressure"
+        },
+        {
+          "text": "Keep glottis open during exhalation to push secretions toward upper airway"
+        },
+        {
+          "text": "Mobilize secretions using controlled breathing at various lung volumes"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Intermittent Positive Pressure Breathing (IPPB)?",
+      "answers": [
+        {
+          "text": "Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension"
+        },
+        {
+          "text": "Low-flow oxygen delivery (historical/rarely used today)"
+        },
+        {
+          "text": "Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Intermittent Positive Pressure Breathing (IPPB)?",
+      "answers": [
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB",
+          "correct": true
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        },
+        {
+          "text": "Untreated pneumothorax, active hemoptysis"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Intermittent Positive Pressure Breathing (IPPB) is to deliver short duration lung expansion.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Intermittent Positive Pressure Breathing (IPPB)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Intermittent Positive Pressure Breathing (IPPB)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Intermittent Positive Pressure Breathing (IPPB) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB",
+          "correct": true
+        },
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened"
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        },
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)"
+        }
+      ]
+    },
+    {
+      "text": "Can Intermittent Positive Pressure Breathing (IPPB) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Intermittent Positive Pressure Breathing (IPPB)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm. Contraindications: Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB. Goals: Deliver short duration lung expansion, improve cough effectiveness.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery. Contraindications: Uncooperative patients, patients unable to perform the maneuver. Goals: Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse."
+        },
+        {
+          "text": "Indications: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles. Contraindications: Abdominal pathology, pregnancy, unhealed abdominal hernia. Goals: Increase expiratory flow and clear secretions by applying external pressure."
+        },
+        {
+          "text": "Indications: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough. Contraindications: Inability to control breathing. Goals: Keep glottis open during exhalation to push secretions toward upper airway."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Intermittent Positive Pressure Breathing (IPPB) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)"
+        },
+        {
+          "text": "Yes, indications include: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension"
+        },
+        {
+          "text": "Yes, indications include: Low-flow oxygen delivery (historical/rarely used today)"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Incentive Spirometry (IS)?",
+      "answers": [
+        {
+          "text": "Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse",
+          "correct": true
+        },
+        {
+          "text": "Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate"
+        },
+        {
+          "text": "Promote localized mucosal vasoconstriction, reduce inflammation, relieve upper airway discomfort, reduce WOB"
+        },
+        {
+          "text": "Preserve mucociliary escalator motility, maintain mucosal hydration"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Incentive Spirometry (IS)?",
+      "answers": [
+        {
+          "text": "Prevent or resolve atelectasis, post-op thoracic or abdominal surgery",
+          "correct": true
+        },
+        {
+          "text": "Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        },
+        {
+          "text": "Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm"
+        },
+        {
+          "text": "Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Incentive Spirometry (IS)?",
+      "answers": [
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver",
+          "correct": true
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        },
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)"
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Incentive Spirometry (IS) is to facilitate sustained maximal inspiration (smi) to expand lungs and prevent alveolar collapse.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Incentive Spirometry (IS)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Incentive Spirometry (IS)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Incentive Spirometry (IS) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver",
+          "correct": true
+        },
+        {
+          "text": "Unstable spinal cord injuries, active hemoptysis, increased ICP"
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        },
+        {
+          "text": "Untreated pneumothorax, active hemoptysis"
+        }
+      ]
+    },
+    {
+      "text": "Can Incentive Spirometry (IS) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Incentive Spirometry (IS)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery. Contraindications: Uncooperative patients, patients unable to perform the maneuver. Goals: Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction). Contraindications: Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk). Goals: Provide FiO2 of 30-60% at 5-10 Lpm."
+        },
+        {
+          "text": "Indications: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%). Contraindications: Situations where air entrainment ports might be obstructed. Goals: Deliver a precise, fixed FiO2 regardless of patient's inspiratory flow rate."
+        },
+        {
+          "text": "Indications: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis. Contraindications: History of hyperresponsiveness or bronchospasm. Goals: Promote localized mucosal vasoconstriction, reduce inflammation, relieve upper airway discomfort, reduce WOB."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Incentive Spirometry (IS) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Retained secretions, atelectasis, cystic fibrosis"
+        },
+        {
+          "text": "Yes, indications include: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually"
+        },
+        {
+          "text": "Yes, indications include: Atelectasis (when other therapies fail), ineffective cough, neuromuscular disorders, severe bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Manually Assisted Coughing?",
+      "answers": [
+        {
+          "text": "Increase expiratory flow and clear secretions by applying external pressure",
+          "correct": true
+        },
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work"
+        },
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles"
+        },
+        {
+          "text": "Act as a pulmonary vasodilator to improve blood flow"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Manually Assisted Coughing?",
+      "answers": [
+        {
+          "text": "Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles",
+          "correct": true
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        },
+        {
+          "text": "Inability to clear secretions, CF, bronchiectasis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Manually Assisted Coughing?",
+      "answers": [
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia",
+          "correct": true
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        },
+        {
+          "text": "Inability to control breathing"
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Manually Assisted Coughing is to increase expiratory flow and clear secretions by applying external pressure.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Manually Assisted Coughing?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Manually Assisted Coughing?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Manually Assisted Coughing is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia",
+          "correct": true
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        }
+      ]
+    },
+    {
+      "text": "Can Manually Assisted Coughing be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Manually Assisted Coughing's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles. Contraindications: Abdominal pathology, pregnancy, unhealed abdominal hernia. Goals: Increase expiratory flow and clear secretions by applying external pressure.",
+          "correct": true
+        },
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand."
+        },
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work."
+        },
+        {
+          "text": "Indications: Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD). Contraindications: Conditions requiring high FiO2 (since Heliox limits max O2 delivery). Goals: Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Manually Assisted Coughing appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Yes, indications include: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Yes, indications include: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Forced Expiratory Technique (Huff Cough)?",
+      "answers": [
+        {
+          "text": "Keep glottis open during exhalation to push secretions toward upper airway",
+          "correct": true
+        },
+        {
+          "text": "Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching"
+        },
+        {
+          "text": "Utilize gravity to enhance mobilization of secretions from small to large airways"
+        },
+        {
+          "text": "Splint airways open, reduce air trapping, enhance mobilization of secretions"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Forced Expiratory Technique (Huff Cough)?",
+      "answers": [
+        {
+          "text": "COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough",
+          "correct": true
+        },
+        {
+          "text": "Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles"
+        },
+        {
+          "text": "Patients with thick, retained secretions (CF, bronchiectasis)"
+        },
+        {
+          "text": "Severe COPD, dyspnea, dynamic hyperinflation"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Forced Expiratory Technique (Huff Cough)?",
+      "answers": [
+        {
+          "text": "Inability to control breathing",
+          "correct": true
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Forced Expiratory Technique (Huff Cough) is to keep glottis open during exhalation to push secretions toward upper airway.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Forced Expiratory Technique (Huff Cough)?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Forced Expiratory Technique (Huff Cough)?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Forced Expiratory Technique (Huff Cough) is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Inability to control breathing",
+          "correct": true
+        },
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax"
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        }
+      ]
+    },
+    {
+      "text": "Can Forced Expiratory Technique (Huff Cough) be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Forced Expiratory Technique (Huff Cough)'s indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough. Contraindications: Inability to control breathing. Goals: Keep glottis open during exhalation to push secretions toward upper airway.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas. Contraindications: Patients with hyperthermia or excessive airway reactivity. Goals: Preserve mucociliary escalator motility, maintain mucosal hydration."
+        },
+        {
+          "text": "Indications: Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis. Contraindications: Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism. Goals: Reduce accumulation of pulmonary secretions, decrease airway resistance, improve V/Q matching."
+        },
+        {
+          "text": "Indications: Inability to clear secretions, CF, bronchiectasis. Contraindications: Unstable spinal cord injuries, active hemoptysis, increased ICP. Goals: Utilize gravity to enhance mobilization of secretions from small to large airways."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Forced Expiratory Technique (Huff Cough) appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery"
+        },
+        {
+          "text": "Yes, indications include: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles"
+        },
+        {
+          "text": "Yes, indications include: Patients with thick, retained secretions (CF, bronchiectasis)"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Autogenic Drainage?",
+      "answers": [
+        {
+          "text": "Mobilize secretions using controlled breathing at various lung volumes",
+          "correct": true
+        },
+        {
+          "text": "Strengthen the diaphragm, decrease WOB, reduce oxygen demand"
+        },
+        {
+          "text": "Treat hypoxemia, decrease work of breathing, decrease myocardial work"
+        },
+        {
+          "text": "Increase peak flows, decrease respiratory rate, decrease work of breathing, decrease use of accessory muscles"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Autogenic Drainage?",
+      "answers": [
+        {
+          "text": "Patients with thick, retained secretions (CF, bronchiectasis)",
+          "correct": true
+        },
+        {
+          "text": "Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        },
+        {
+          "text": "Copious secretions, acute lobar atelectasis, V/Q mismatch, CF, bronchiectasis, chronic bronchitis"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Autogenic Drainage?",
+      "answers": [
+        {
+          "text": "Uncooperative or cognitively impaired patients",
+          "correct": true
+        },
+        {
+          "text": "Pneumothorax, ICP > 15 mmHg, nausea, bleb, active hemoptysis, active untreated TB"
+        },
+        {
+          "text": "Uncooperative patients, patients unable to perform the maneuver"
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Autogenic Drainage is to mobilize secretions using controlled breathing at various lung volumes.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Autogenic Drainage?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Autogenic Drainage?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Autogenic Drainage is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Uncooperative or cognitively impaired patients",
+          "correct": true
+        },
+        {
+          "text": "Nasal septum deviation, mucosal congestion, nasal polyps"
+        },
+        {
+          "text": "Patients needing exact FiO2, prone to CO2 retention, or flows < 5 Lpm (asphyxiation risk)"
+        },
+        {
+          "text": "Situations where air entrainment ports might be obstructed"
+        }
+      ]
+    },
+    {
+      "text": "Can Autogenic Drainage be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Autogenic Drainage's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Patients with thick, retained secretions (CF, bronchiectasis). Contraindications: Uncooperative or cognitively impaired patients. Goals: Mobilize secretions using controlled breathing at various lung volumes.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Severe COPD, dyspnea, dynamic hyperinflation. Contraindications: Ineffective in restrictive disorders. Goals: Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time."
+        },
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand."
+        },
+        {
+          "text": "Indications: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery. Contraindications: No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction. Goals: Treat hypoxemia, decrease work of breathing, decrease myocardial work."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Autogenic Drainage appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Patients with thick, retained secretions (CF, bronchiectasis)",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        },
+        {
+          "text": "Yes, indications include: Upper airway inflammation resulting from intubation, trauma, croup, or epiglottitis"
+        },
+        {
+          "text": "Yes, indications include: Bypassed upper airways (e.g., tracheostomy patients), prevent injury from dry gas"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Pursed-Lips Breathing?",
+      "answers": [
+        {
+          "text": "Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time",
+          "correct": true
+        },
+        {
+          "text": "Increase expiratory flow and clear secretions by applying external pressure"
+        },
+        {
+          "text": "Keep glottis open during exhalation to push secretions toward upper airway"
+        },
+        {
+          "text": "Mobilize secretions using controlled breathing at various lung volumes"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Pursed-Lips Breathing?",
+      "answers": [
+        {
+          "text": "Severe COPD, dyspnea, dynamic hyperinflation",
+          "correct": true
+        },
+        {
+          "text": "Low-flow oxygen delivery (historical/rarely used today)"
+        },
+        {
+          "text": "Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        },
+        {
+          "text": "Patients with high or changing ventilatory demands, COPD patients requiring precise FiO2 (24-35%)"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Pursed-Lips Breathing?",
+      "answers": [
+        {
+          "text": "Ineffective in restrictive disorders",
+          "correct": true
+        },
+        {
+          "text": "Untreated pneumothorax, severe epistaxis, active hemoptysis"
+        },
+        {
+          "text": "Untreated pneumothorax, active hemoptysis"
+        },
+        {
+          "text": "Unstable chest wall, active hemoptysis, untreated pneumothorax"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Pursed-Lips Breathing is to create expiratory resistance to splint airways open.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Pursed-Lips Breathing?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Pursed-Lips Breathing?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Pursed-Lips Breathing is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Ineffective in restrictive disorders",
+          "correct": true
+        },
+        {
+          "text": "No absolute contraindications when indications are present; Nasal cannulas/catheters contraindicated in pediatric/neonatal patients with nasal obstruction"
+        },
+        {
+          "text": "Conditions requiring high FiO2 (since Heliox limits max O2 delivery)"
+        },
+        {
+          "text": "Patients not experiencing pulmonary hypertension"
+        }
+      ]
+    },
+    {
+      "text": "Can Pursed-Lips Breathing be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Pursed-Lips Breathing's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: Severe COPD, dyspnea, dynamic hyperinflation. Contraindications: Ineffective in restrictive disorders. Goals: Create expiratory resistance to splint airways open, prevent air-trapping, and prolong exhalation time.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Prevent or resolve atelectasis, post-op thoracic or abdominal surgery. Contraindications: Uncooperative patients, patients unable to perform the maneuver. Goals: Facilitate sustained maximal inspiration (SMI) to expand lungs and prevent alveolar collapse."
+        },
+        {
+          "text": "Indications: Neuromuscular weakness, spinal cord injury (quadriplegia), weak expiratory muscles. Contraindications: Abdominal pathology, pregnancy, unhealed abdominal hernia. Goals: Increase expiratory flow and clear secretions by applying external pressure."
+        },
+        {
+          "text": "Indications: COPD, CF, bronchiectasis, patients prone to airway collapse during normal cough. Contraindications: Inability to control breathing. Goals: Keep glottis open during exhalation to push secretions toward upper airway."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Pursed-Lips Breathing appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: Severe COPD, dyspnea, dynamic hyperinflation",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Treatment of persistent pulmonary hypertension of the newborn (PPHN), acute/primary pulmonary hypertension"
+        },
+        {
+          "text": "Yes, indications include: Low-flow oxygen delivery (historical/rarely used today)"
+        },
+        {
+          "text": "Yes, indications include: Need for moderate oxygen delivery when nasal cannula is not appropriate (e.g., nasal obstruction)"
+        }
+      ]
+    },
+    {
+      "text": "Which best states the primary goal of Diaphragmatic Breathing?",
+      "answers": [
+        {
+          "text": "Strengthen the diaphragm, decrease WOB, reduce oxygen demand",
+          "correct": true
+        },
+        {
+          "text": "Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions"
+        },
+        {
+          "text": "Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways"
+        },
+        {
+          "text": "Deliver short duration lung expansion, improve cough effectiveness"
+        }
+      ]
+    },
+    {
+      "text": "Which primary indications are listed for Diaphragmatic Breathing?",
+      "answers": [
+        {
+          "text": "COPD, excessive accessory muscle use, high work of breathing",
+          "correct": true
+        },
+        {
+          "text": "Severe COPD, dyspnea, dynamic hyperinflation"
+        },
+        {
+          "text": "Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery"
+        },
+        {
+          "text": "Upper airway obstruction (croup, tumors, vocal cord inflammation), lower airway obstruction (acute asthma, COPD)"
+        }
+      ]
+    },
+    {
+      "text": "Which contraindications are associated with Diaphragmatic Breathing?",
+      "answers": [
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened",
+          "correct": true
+        },
+        {
+          "text": "History of hyperresponsiveness or bronchospasm"
+        },
+        {
+          "text": "Patients with hyperthermia or excessive airway reactivity"
+        },
+        {
+          "text": "Elevated ICP, unstable head/neck injury, active hemorrhage, pulmonary embolism"
+        }
+      ]
+    },
+    {
+      "text": "True or False: A goal of Diaphragmatic Breathing is to strengthen the diaphragm.",
+      "answers": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        },
+        {
+          "text": "Only if this is listed as a contraindication"
+        },
+        {
+          "text": "Not identified as a goal in this therapy review"
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is the listed presentation a potential indication for Diaphragmatic Breathing?",
+      "answers": [
+        {
+          "text": "Yes",
+          "correct": true
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Only if the presentation is listed as a contraindication"
+        },
+        {
+          "text": "Only if the presentation is unrelated to this therapy"
+        }
+      ]
+    },
+    {
+      "text": "Why is the listed contraindication a major concern when using Diaphragmatic Breathing?",
+      "answers": [
+        {
+          "text": "Because it is an absolute or relative contraindication for this therapy.",
+          "correct": true
+        },
+        {
+          "text": "Because it is the primary goal of this therapy."
+        },
+        {
+          "text": "Because it is the routine indication for this therapy."
+        },
+        {
+          "text": "Because it describes the standard delivery device setup."
+        }
+      ]
+    },
+    {
+      "text": "Fill in the blank: Diaphragmatic Breathing is explicitly contraindicated in patients with ________.",
+      "answers": [
+        {
+          "text": "Severe hyperinflation where diaphragm is completely flattened",
+          "correct": true
+        },
+        {
+          "text": "Abdominal pathology, pregnancy, unhealed abdominal hernia"
+        },
+        {
+          "text": "Inability to control breathing"
+        },
+        {
+          "text": "Uncooperative or cognitively impaired patients"
+        }
+      ]
+    },
+    {
+      "text": "Can Diaphragmatic Breathing be used for the listed primary therapeutic goal?",
+      "answers": [
+        {
+          "text": "Yes, that aligns with its primary therapeutic goal.",
+          "correct": true
+        },
+        {
+          "text": "No, that does not align with its primary therapeutic goal."
+        },
+        {
+          "text": "Only if it is also listed as a contraindication."
+        },
+        {
+          "text": "Only if it describes an unrelated therapy."
+        }
+      ]
+    },
+    {
+      "text": "Which summary correctly matches Diaphragmatic Breathing's indications, contraindications, and goals?",
+      "answers": [
+        {
+          "text": "Indications: COPD, excessive accessory muscle use, high work of breathing. Contraindications: Severe hyperinflation where diaphragm is completely flattened. Goals: Strengthen the diaphragm, decrease WOB, reduce oxygen demand.",
+          "correct": true
+        },
+        {
+          "text": "Indications: Need for lung expansion and secretion mobilization. Contraindications: Untreated pneumothorax, severe epistaxis, active hemoptysis. Goals: Splint airways open, reduce air trapping, enhance mobilization of secretions."
+        },
+        {
+          "text": "Indications: Retained secretions, atelectasis, cystic fibrosis. Contraindications: Untreated pneumothorax, active hemoptysis. Goals: Expand airways, break mucus loose from airway walls, reduce adhesive/cohesive forces of secretions."
+        },
+        {
+          "text": "Indications: Chronic secretion retention (CF, bronchiectasis), inability to clear secretions manually. Contraindications: Unstable chest wall, active hemoptysis, untreated pneumothorax. Goals: Transmit pressure pulses to chest wall to loosen mucus and mobilize it to larger airways."
+        }
+      ]
+    },
+    {
+      "text": "According to the therapy review, is Diaphragmatic Breathing appropriate for its listed indication?",
+      "answers": [
+        {
+          "text": "Yes, indications include: COPD, excessive accessory muscle use, high work of breathing",
+          "correct": true
+        },
+        {
+          "text": "Yes, indications include: Patients with thick, retained secretions (CF, bronchiectasis)"
+        },
+        {
+          "text": "Yes, indications include: Severe COPD, dyspnea, dynamic hyperinflation"
+        },
+        {
+          "text": "Yes, indications include: Documented hypoxemia (PaO2 < 60mmHg, SaO2 < 90%), severe trauma, acute myocardial infarction, short-term therapy like post-anesthesia recovery"
+        }
+      ]
+    }
+  ]
+}
