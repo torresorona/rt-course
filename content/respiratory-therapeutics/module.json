@@ -1,6 +1,6 @@
 {
   "title": "Respiratory Therapeutics",
-  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery, oxygen delivery devices, humidification systems, medication delivery devices, aerosol therapy, controlled breathing, airway clearance, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, and oxygen concentrators.",
+  "description": "Medical record documentation, physician orders, EMR workflows, therapeutic respiratory gases, medical gas storage and delivery, oxygen delivery devices, humidification systems, medication delivery devices, aerosol therapy, controlled breathing, hyperinflation therapy, airway clearance, flow metering, air-oxygen blending, cylinder duration, Heliox delivery, oxygen concentrators, and module exam preparation.",
   "order": 11,
   "lessons": [
     {
@@ -39,6 +39,23 @@
       "title": "Controlled Breathing & Airway Clearance Techniques",
       "description": "Directed cough techniques, normal cough phases, manually assisted cough, huff cough, autogenic drainage, pursed-lips breathing, diaphragmatic breathing, and mechanical insufflation-exsufflation.",
       "audio": "/audio/respiratory-therapeutics/Manual_overrides_for_failing_lungs.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-7",
+      "title": "Hyperinflation Therapy",
+      "description": "IPPB indications, contraindications, disadvantages, therapeutic settings, administration procedure, incentive spirometry, and sustained maximal inspiration coaching.",
+      "audio": "/audio/respiratory-therapeutics/How_medicine_forces_lungs_to_expand.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-8",
+      "title": "Airway Clearance Therapy",
+      "description": "Chest physiotherapy, postural drainage, percussion, vibration, PEP devices, vibratory expiratory resistance, IPV, and high-frequency chest wall oscillation.",
+      "audio": "/audio/respiratory-therapeutics/The_Mechanical_Engineering_of_Airway_Clearance.m4a"
+    },
+    {
+      "slug": "respiratory-therapeutics/lesson-9",
+      "title": "Module Exam",
+      "description": "Comprehensive 50-question module exam covering respiratory documentation, gases, oxygen delivery, humidification, medication delivery, controlled breathing, hyperinflation therapy, and airway clearance."
     }
   ],
   "audio": [
@@ -65,6 +82,14 @@
     {
       "title": "Manual Overrides for Failing Lungs",
       "src": "/audio/respiratory-therapeutics/Manual_overrides_for_failing_lungs.m4a"
+    },
+    {
+      "title": "How Medicine Forces Lungs to Expand",
+      "src": "/audio/respiratory-therapeutics/How_medicine_forces_lungs_to_expand.m4a"
+    },
+    {
+      "title": "The Mechanical Engineering of Airway Clearance",
+      "src": "/audio/respiratory-therapeutics/The_Mechanical_Engineering_of_Airway_Clearance.m4a"
     }
   ],
   "resources": []

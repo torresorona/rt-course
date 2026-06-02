@@ -1,0 +1,455 @@
+{
+  "title": "Respiratory Therapeutics Module Exam",
+  "questions": [
+    {
+      "text": "A respiratory treatment ordered TID during awake hours should follow which example schedule from the lesson?",
+      "answers": [
+        { "text": "08:00, 14:00, and 20:00", "correct": true },
+        { "text": "08:00 and 20:00" },
+        { "text": "Every hour" },
+        { "text": "Only when the patient asks" }
+      ]
+    },
+    {
+      "text": "Which set describes essential medical record documentation components?",
+      "answers": [
+        { "text": "Consistent, current, complete", "correct": true },
+        { "text": "Brief, optional, delayed" },
+        { "text": "Verbal, casual, estimated" },
+        { "text": "Color-coded, handwritten, erased" }
+      ]
+    },
+    {
+      "text": "A respiratory documentation entry should include which sputum details?",
+      "answers": [
+        { "text": "Consistency, volume, and color", "correct": true },
+        { "text": "Only room number" },
+        { "text": "Only meal preference" },
+        { "text": "Only cylinder color" }
+      ]
+    },
+    {
+      "text": "Verbal and telephone physician orders must be countersigned within:",
+      "answers": [
+        { "text": "24 hours", "correct": true },
+        { "text": "2 minutes" },
+        { "text": "5 days" },
+        { "text": "Only at discharge" }
+      ]
+    },
+    {
+      "text": "Which item is one of the Five Rights for verifying physician orders?",
+      "answers": [
+        { "text": "Modality", "correct": true },
+        { "text": "Cylinder paint age" },
+        { "text": "Room decoration" },
+        { "text": "Meal schedule" }
+      ]
+    },
+    {
+      "text": "An EMR hard stop requires the clinician to:",
+      "answers": [
+        { "text": "Complete an important documentation entry before proceeding", "correct": true },
+        { "text": "Skip incomplete entries" },
+        { "text": "Delete physician orders" },
+        { "text": "Use paper only" }
+      ]
+    },
+    {
+      "text": "Compressed air is clinically used to:",
+      "answers": [
+        { "text": "Dilute 100% O2 to produce therapeutic FiO2", "correct": true },
+        { "text": "Support combustion as a fuel source" },
+        { "text": "Deliver Ribavirin only" },
+        { "text": "Replace all humidification" }
+      ]
+    },
+    {
+      "text": "At STPD, oxygen is described as colorless, tasteless, non-flammable, and:",
+      "answers": [
+        { "text": "Slightly heavier than air", "correct": true },
+        { "text": "Unable to support combustion" },
+        { "text": "Brown/green in cylinders" },
+        { "text": "Only used for research" }
+      ]
+    },
+    {
+      "text": "Heliox promotes laminar flow because it has:",
+      "answers": [
+        { "text": "Lower density and higher viscosity", "correct": true },
+        { "text": "Higher density and lower viscosity" },
+        { "text": "No oxygen component" },
+        { "text": "Only carbon dioxide" }
+      ]
+    },
+    {
+      "text": "Which condition is listed as an upper-airway indication for Heliox?",
+      "answers": [
+        { "text": "Croup", "correct": true },
+        { "text": "Postoperative documentation" },
+        { "text": "Need for a dose counter" },
+        { "text": "Passive humidity transport" }
+      ]
+    },
+    {
+      "text": "Nitric oxide dose is delivered in:",
+      "answers": [
+        { "text": "Parts per million", "correct": true },
+        { "text": "Centimeters of water only" },
+        { "text": "Millimeters of mercury only" },
+        { "text": "Cycles per minute only" }
+      ]
+    },
+    {
+      "text": "In liquid oxygen storage, 1 liter of liquid O2 equals how much gaseous O2?",
+      "answers": [
+        { "text": "860 liters", "correct": true },
+        { "text": "50 liters" },
+        { "text": "2015 liters" },
+        { "text": "3358 liters" }
+      ]
+    },
+    {
+      "text": "Which safety system is used with small cylinders such as D and E cylinders?",
+      "answers": [
+        { "text": "Pin Index Safety System", "correct": true },
+        { "text": "American Standard Safety System" },
+        { "text": "Diameter Index Safety System only" },
+        { "text": "Isothermic Saturation Boundary" }
+      ]
+    },
+    {
+      "text": "Documented hypoxemia on room air is defined as PaO2 less than 60 mmHg or:",
+      "answers": [
+        { "text": "SaO2 less than 90%", "correct": true },
+        { "text": "SaO2 greater than 100%" },
+        { "text": "FiO2 less than 10%" },
+        { "text": "Flow greater than 100 L/min" }
+      ]
+    },
+    {
+      "text": "Low-flow oxygen devices are characterized by:",
+      "answers": [
+        { "text": "Variable FiO2 that depends on the patient", "correct": true },
+        { "text": "Fixed FiO2 at all patient inspiratory flows" },
+        { "text": "Flow rates always greater than 100 L/min" },
+        { "text": "No air entrainment around the device" }
+      ]
+    },
+    {
+      "text": "Using the Rule of Fours, 4 L/min by nasal cannula estimates which FiO2?",
+      "answers": [
+        { "text": "36%", "correct": true },
+        { "text": "24%" },
+        { "text": "44%" },
+        { "text": "60%" }
+      ]
+    },
+    {
+      "text": "All enclosed oxygen mask systems must run above 5 L/min primarily to:",
+      "answers": [
+        { "text": "Wash out exhaled CO2", "correct": true },
+        { "text": "Reduce every FiO2 to room air" },
+        { "text": "Activate a dose counter" },
+        { "text": "Stop all air entrainment" }
+      ]
+    },
+    {
+      "text": "Which flow and FiO2 range is listed for a non-rebreathing mask?",
+      "answers": [
+        { "text": "10 to greater than 15 L/min and 60% to 80%", "correct": true },
+        { "text": "0 to 6 L/min and 22% to 35%" },
+        { "text": "5 to 10 L/min and 21% to 24%" },
+        { "text": "1 to 5 L/min and fixed 100%" }
+      ]
+    },
+    {
+      "text": "For a Venturi mask, occluding the air entrainment ports will:",
+      "answers": [
+        { "text": "Increase FiO2 while decreasing total flow", "correct": true },
+        { "text": "Decrease FiO2 while increasing total flow" },
+        { "text": "Keep total flow unchanged" },
+        { "text": "Convert it into an HME" }
+      ]
+    },
+    {
+      "text": "Two-point oxygen analyzer calibration uses which FiO2 values?",
+      "answers": [
+        { "text": "21% and 100%", "correct": true },
+        { "text": "24% and 40%" },
+        { "text": "50% and 60%" },
+        { "text": "80% and 20%" }
+      ]
+    },
+    {
+      "text": "BTPS means body temperature 37 degrees C, ambient pressure, and gas:",
+      "answers": [
+        { "text": "Saturated with water vapor", "correct": true },
+        { "text": "Completely dry" },
+        { "text": "Stored as liquid oxygen" },
+        { "text": "Mixed with helium only" }
+      ]
+    },
+    {
+      "text": "The isothermic saturation boundary is located approximately:",
+      "answers": [
+        { "text": "5 cm below the carina", "correct": true },
+        { "text": "At the oxygen cylinder valve" },
+        { "text": "Inside the MDI canister" },
+        { "text": "At the Flutter Valve ball" }
+      ]
+    },
+    {
+      "text": "Which device is a passive humidifier?",
+      "answers": [
+        { "text": "Heat moisture exchanger", "correct": true },
+        { "text": "Bubble humidifier" },
+        { "text": "Wick humidifier" },
+        { "text": "Large volume nebulizer" }
+      ]
+    },
+    {
+      "text": "Which situation is a contraindication for HME use?",
+      "answers": [
+        { "text": "Thick, copious, or bloody secretions", "correct": true },
+        { "text": "Short-term ventilated patient transport" },
+        { "text": "Need for reduced bacterial colonization" },
+        { "text": "Dry, intact upper airway function" }
+      ]
+    },
+    {
+      "text": "A pass-over humidifier at 37 degrees C provides:",
+      "answers": [
+        { "text": "44 mg H2O/L", "correct": true },
+        { "text": "20 mg H2O/L at all times" },
+        { "text": "0% humidity" },
+        { "text": "10 to 25 cmH2O" }
+      ]
+    },
+    {
+      "text": "Cool bland aerosol therapy is primarily used to:",
+      "answers": [
+        { "text": "Treat upper airway inflammation and promote localized vasoconstriction", "correct": true },
+        { "text": "Deliver nitric oxide in PPM" },
+        { "text": "Replace all oxygen analyzers" },
+        { "text": "Increase dry gas exposure to artificial airways" }
+      ]
+    },
+    {
+      "text": "A metered dose inhaler is powered by:",
+      "answers": [
+        { "text": "An HFA propellant", "correct": true },
+        { "text": "A pulse generator" },
+        { "text": "A metal ball" },
+        { "text": "A passive HME" }
+      ]
+    },
+    {
+      "text": "Spacers should always be used with:",
+      "answers": [
+        { "text": "MDIs", "correct": true },
+        { "text": "Dry powder inhalers" },
+        { "text": "HFCWO vests" },
+        { "text": "Oxygen analyzers" }
+      ]
+    },
+    {
+      "text": "In a pneumatic jet nebulizer, the baffle creates:",
+      "answers": [
+        { "text": "A particulate mist small enough to reach lower airways", "correct": true },
+        { "text": "A passive humidity reservoir" },
+        { "text": "A pressure pulse through a vest" },
+        { "text": "A cylinder indexing system" }
+      ]
+    },
+    {
+      "text": "A breath-actuated nebulizer reduces waste because nebulization stops during:",
+      "answers": [
+        { "text": "Exhalation", "correct": true },
+        { "text": "Inspiration" },
+        { "text": "Dose loading" },
+        { "text": "Patient assessment" }
+      ]
+    },
+    {
+      "text": "Which medication delivery device cannot be used for mechanically ventilated patients according to the lesson?",
+      "answers": [
+        { "text": "DPI", "correct": true },
+        { "text": "MDI adapter" },
+        { "text": "Nebulizer adapter" },
+        { "text": "Collapsible holding chamber" }
+      ]
+    },
+    {
+      "text": "SPAG is used to deliver Ribavirin for RSV and:",
+      "answers": [
+        { "text": "Parainfluenza virus", "correct": true },
+        { "text": "Cystic fibrosis" },
+        { "text": "Atelectasis only" },
+        { "text": "Upper-airway obstruction only" }
+      ]
+    },
+    {
+      "text": "Normal airway clearance requires a patent airway, functional mucociliary escalator, and:",
+      "answers": [
+        { "text": "Strong effective cough", "correct": true },
+        { "text": "An HFA propellant" },
+        { "text": "A cylinder duration formula" },
+        { "text": "A passive HME only" }
+      ]
+    },
+    {
+      "text": "Which sequence lists the four phases of normal cough?",
+      "answers": [
+        { "text": "Irritation, inspiration, compression, expulsion", "correct": true },
+        { "text": "Unsticking, collecting, evacuation, dosing" },
+        { "text": "Humidity, oxygen, helium, nitric oxide" },
+        { "text": "Setup, storage, transport, discharge" }
+      ]
+    },
+    {
+      "text": "Forced expiratory technique is also called:",
+      "answers": [
+        { "text": "Huff cough", "correct": true },
+        { "text": "SPAG" },
+        { "text": "PISS" },
+        { "text": "LVN" }
+      ]
+    },
+    {
+      "text": "Pursed-lips breathing creates expiratory resistance and back pressure to:",
+      "answers": [
+        { "text": "Splint the airways open", "correct": true },
+        { "text": "Clump dry powder" },
+        { "text": "Close the glottis during huff cough" },
+        { "text": "Increase air trapping intentionally" }
+      ]
+    },
+    {
+      "text": "Diaphragmatic breathing is intended to strengthen the diaphragm and:",
+      "answers": [
+        { "text": "Decrease work of breathing and oxygen demand", "correct": true },
+        { "text": "Increase dose counting" },
+        { "text": "Replace humidity for trach patients" },
+        { "text": "Prevent any exhalation" }
+      ]
+    },
+    {
+      "text": "IPPB is best described as:",
+      "answers": [
+        { "text": "Short-duration lung expansion therapy", "correct": true },
+        { "text": "Passive humidity capture" },
+        { "text": "A dry powder inhaler technique" },
+        { "text": "A documentation hard stop" }
+      ]
+    },
+    {
+      "text": "Which finding is an indication for IPPB?",
+      "answers": [
+        { "text": "Evidence of atelectasis on chest X-ray", "correct": true },
+        { "text": "Recent skull surgery" },
+        { "text": "Active untreated tuberculosis" },
+        { "text": "Radiographic evidence of a bleb" }
+      ]
+    },
+    {
+      "text": "Which condition is listed as an IPPB contraindication?",
+      "answers": [
+        { "text": "Active hemoptysis", "correct": true },
+        { "text": "Ineffective non-productive cough" },
+        { "text": "Muscle fatigue" },
+        { "text": "Kyphoscoliosis with decreased lung volumes" }
+      ]
+    },
+    {
+      "text": "Initial IPPB peak inspiratory pressure should be:",
+      "answers": [
+        { "text": "15 to 20 cmH2O", "correct": true },
+        { "text": "25 to 40 mmHg" },
+        { "text": "5 to 25 Hz" },
+        { "text": "100 to 300 breaths/min" }
+      ]
+    },
+    {
+      "text": "Initial IPPB flow is 30 L/min and is adjusted to provide inspiratory time between:",
+      "answers": [
+        { "text": "2 and 5 seconds", "correct": true },
+        { "text": "5 and 15 minutes" },
+        { "text": "20 and 30 minutes" },
+        { "text": "100 and 300 breaths/min" }
+      ]
+    },
+    {
+      "text": "SMI is a slow, deep inspiration from FRC to TLC followed by:",
+      "answers": [
+        { "text": "A breath hold", "correct": true },
+        { "text": "Immediate equipment storage" },
+        { "text": "A Venturi ratio calculation" },
+        { "text": "A pressure hose connection" }
+      ]
+    },
+    {
+      "text": "Which chronic condition is listed as an airway clearance indication?",
+      "answers": [
+        { "text": "Bronchiectasis", "correct": true },
+        { "text": "Nasal septum deviation" },
+        { "text": "Dose counter absence" },
+        { "text": "Oxygen analyzer calibration" }
+      ]
+    },
+    {
+      "text": "Postural drainage works primarily by:",
+      "answers": [
+        { "text": "Using gravity to move secretions toward larger airways", "correct": true },
+        { "text": "Adding HFA propellant" },
+        { "text": "Replacing patient cough" },
+        { "text": "Reducing all FiO2 to room air" }
+      ]
+    },
+    {
+      "text": "Manual vibration is performed over the affected segment with rapid shaking motion during:",
+      "answers": [
+        { "text": "Exhalation", "correct": true },
+        { "text": "MDI canister loading" },
+        { "text": "Oxygen analyzer calibration" },
+        { "text": "Cylinder pressure testing" }
+      ]
+    },
+    {
+      "text": "During vibratory expiratory resistance therapy, the patient inhales slowly, holds 3 seconds, exhales steadily, and then:",
+      "answers": [
+        { "text": "Repeats the technique up to 15 minutes followed by productive coughing", "correct": true },
+        { "text": "Avoids coughing for 24 hours" },
+        { "text": "Removes all resistance from the device" },
+        { "text": "Converts the therapy into passive humidification" }
+      ]
+    },
+    {
+      "text": "IPV delivers pressurized pulsating dense aerosolized gas to:",
+      "answers": [
+        { "text": "Break mucus loose and move it toward large airways", "correct": true },
+        { "text": "Block secretion movement into larger airways" },
+        { "text": "Replace all oxygen delivery devices" },
+        { "text": "Stop spontaneous breathing patterns" }
+      ]
+    },
+    {
+      "text": "HFCWO uses which three-part system?",
+      "answers": [
+        { "text": "Inflatable vest, variable pulse generator, and pressure hoses", "correct": true },
+        { "text": "MDI, spacer, and dose counter" },
+        { "text": "PISS, ASSS, and DISS" },
+        { "text": "Bubble, passover, and wick humidifiers" }
+      ]
+    },
+    {
+      "text": "HFCWO pressure and frequency are adjusted for:",
+      "answers": [
+        { "text": "Effect and patient comfort", "correct": true },
+        { "text": "Cylinder color matching" },
+        { "text": "DPI clumping" },
+        { "text": "EMR hard stops" }
+      ]
+    }
+  ]
+}

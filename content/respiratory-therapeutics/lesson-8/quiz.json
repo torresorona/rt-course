@@ -1,0 +1,185 @@
+{
+  "title": "Airway Clearance Therapy Quiz",
+  "questions": [
+    {
+      "text": "Which therapy modality uses gravity to enhance secretion movement from small airways toward larger airways?",
+      "answers": [
+        { "text": "Postural drainage", "correct": true },
+        { "text": "Dose counting" },
+        { "text": "Pin Index Safety System" },
+        { "text": "Dry powder inhaler loading" }
+      ]
+    },
+    {
+      "text": "Which acute condition is listed as an indication for airway clearance therapy?",
+      "answers": [
+        { "text": "Acute lobar atelectasis with V/Q mismatch from mucus plugging", "correct": true },
+        { "text": "Need for HFA propellant" },
+        { "text": "Routine use of a dose counter" },
+        { "text": "Use of an oxygen analyzer only" }
+      ]
+    },
+    {
+      "text": "Which chronic condition is listed as an airway clearance indication?",
+      "answers": [
+        { "text": "Cystic fibrosis", "correct": true },
+        { "text": "Nausea during IPPB" },
+        { "text": "Recent skull surgery" },
+        { "text": "Bleomycin exposure" }
+      ]
+    },
+    {
+      "text": "For retained secretions, the source specifically says to view the chest X-ray to determine:",
+      "answers": [
+        { "text": "Appropriateness of the airway clearance order", "correct": true },
+        { "text": "The color of the oxygen cylinder" },
+        { "text": "The exact MDI dose counter reading" },
+        { "text": "The Heliox tank factor" }
+      ]
+    },
+    {
+      "text": "One goal of chest physiotherapy is to:",
+      "answers": [
+        { "text": "Improve mobilization and removal of retained secretions", "correct": true },
+        { "text": "Eliminate the need for all coughing" },
+        { "text": "Prevent all air entrainment" },
+        { "text": "Deliver Ribavirin through SPAG only" }
+      ]
+    },
+    {
+      "text": "During postural drainage, affected areas must be positioned:",
+      "answers": [
+        { "text": "Above large airways", "correct": true },
+        { "text": "Below the stomach" },
+        { "text": "Inside a dry powder inhaler" },
+        { "text": "Under the dose counter" }
+      ]
+    },
+    {
+      "text": "Manual percussion is performed by striking the chest wall, back, or ribs with:",
+      "answers": [
+        { "text": "Cupped hands", "correct": true },
+        { "text": "A nasal catheter" },
+        { "text": "A dose-counting canister" },
+        { "text": "A Venturi adapter" }
+      ]
+    },
+    {
+      "text": "During percussion, a folded towel is applied over the percussion area to:",
+      "answers": [
+        { "text": "Prevent pain", "correct": true },
+        { "text": "Occlude all airflow" },
+        { "text": "Decrease oxygen cylinder pressure" },
+        { "text": "Increase air entrainment into a Venturi mask" }
+      ]
+    },
+    {
+      "text": "Manual vibration is applied during which phase?",
+      "answers": [
+        { "text": "Exhalation", "correct": true },
+        { "text": "Before any breath in" },
+        { "text": "Only during MDI actuation" },
+        { "text": "Only during oxygen analyzer calibration" }
+      ]
+    },
+    {
+      "text": "Manual vibration should be repeated several times for at least:",
+      "answers": [
+        { "text": "5 minutes", "correct": true },
+        { "text": "2 seconds" },
+        { "text": "30 seconds" },
+        { "text": "24 hours" }
+      ]
+    },
+    {
+      "text": "Threshold PEP devices provide resistance:",
+      "answers": [
+        { "text": "On exhalation only", "correct": true },
+        { "text": "Only during inhalation" },
+        { "text": "Only through a medication canister" },
+        { "text": "Only by humidifying gas" }
+      ]
+    },
+    {
+      "text": "Which device is listed as a vibratory expiratory resistance device?",
+      "answers": [
+        { "text": "Acapella", "correct": true },
+        { "text": "ASSS" },
+        { "text": "PISS" },
+        { "text": "DISS" }
+      ]
+    },
+    {
+      "text": "The goal of expiratory resistance and vibration therapy is to splint airways open and:",
+      "answers": [
+        { "text": "Enhance mobilization of secretions", "correct": true },
+        { "text": "Stop all secretion movement" },
+        { "text": "Eliminate breath holding from the procedure" },
+        { "text": "Replace all medication delivery devices" }
+      ]
+    },
+    {
+      "text": "During vibratory PEP therapy, the patient performs a breath hold of:",
+      "answers": [
+        { "text": "3 seconds", "correct": true },
+        { "text": "30 seconds" },
+        { "text": "15 minutes" },
+        { "text": "20 minutes" }
+      ]
+    },
+    {
+      "text": "The Flutter Valve produces PEP in what range?",
+      "answers": [
+        { "text": "10 to 25 cmH2O", "correct": true },
+        { "text": "15 to 20 cmH2O" },
+        { "text": "25 to 40 mmHg" },
+        { "text": "100 to 300 breaths/min" }
+      ]
+    },
+    {
+      "text": "IPV augments the patient's spontaneous breathing pattern with:",
+      "answers": [
+        { "text": "Pressurized, pulsating, dense aerosolized gas", "correct": true },
+        { "text": "A passive artificial nose only" },
+        { "text": "A dry powder inhaler propellant" },
+        { "text": "A dose counter" }
+      ]
+    },
+    {
+      "text": "During IPV, dense aerosol reduces which forces of retained secretions?",
+      "answers": [
+        { "text": "Adhesive and cohesive forces", "correct": true },
+        { "text": "Electrical and magnetic forces" },
+        { "text": "Legal and documentation forces" },
+        { "text": "Cylinder and regulator forces" }
+      ]
+    },
+    {
+      "text": "IPV respiratory rates range from 100 to 300 breaths/min, averaging:",
+      "answers": [
+        { "text": "180 breaths/min", "correct": true },
+        { "text": "30 breaths/min" },
+        { "text": "60 breaths/min" },
+        { "text": "1500 breaths/min" }
+      ]
+    },
+    {
+      "text": "HFCWO vest therapy minimum treatment time is:",
+      "answers": [
+        { "text": "30 minutes", "correct": true },
+        { "text": "3 seconds" },
+        { "text": "5 minutes" },
+        { "text": "15 minutes" }
+      ]
+    },
+    {
+      "text": "The HFCWO pressure and frequency ranges listed are:",
+      "answers": [
+        { "text": "25 to 40 mmHg and 5 to 25 Hz", "correct": true },
+        { "text": "15 to 20 cmH2O and 2 to 5 seconds" },
+        { "text": "10 to 25 cmH2O and 24 hours" },
+        { "text": "50 psig and 0 to 6 L/min" }
+      ]
+    }
+  ]
+}

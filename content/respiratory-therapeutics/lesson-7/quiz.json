@@ -1,0 +1,185 @@
+{
+  "title": "Hyperinflation Therapy Quiz",
+  "questions": [
+    {
+      "text": "IPPB is used to deliver short-duration lung expansion therapy, also called:",
+      "answers": [
+        { "text": "Hyperinflation therapy", "correct": true },
+        { "text": "Dry powder inhalation" },
+        { "text": "Passive humidity" },
+        { "text": "Dose counting" }
+      ]
+    },
+    {
+      "text": "Which finding is listed as an indication for IPPB?",
+      "answers": [
+        { "text": "Evidence of atelectasis on chest X-ray", "correct": true },
+        { "text": "Retina not vascularized completely" },
+        { "text": "Need for MDI dose counting" },
+        { "text": "Use of a passive HME during transport" }
+      ]
+    },
+    {
+      "text": "IPPB should be used only as a last resort because:",
+      "answers": [
+        { "text": "It has not shown benefit greater than other lung expansion techniques", "correct": true },
+        { "text": "It always replaces incentive spirometry" },
+        { "text": "It is the only treatment for all atelectasis" },
+        { "text": "It cannot deliver pressurized breaths" }
+      ]
+    },
+    {
+      "text": "Which condition is an IPPB contraindication from the source?",
+      "answers": [
+        { "text": "Pneumothorax", "correct": true },
+        { "text": "Productive cough only" },
+        { "text": "Postoperative non-ambulatory status" },
+        { "text": "Need for visual inspiratory feedback" }
+      ]
+    },
+    {
+      "text": "The source lists intracranial pressure greater than what value as a contraindication for IPPB?",
+      "answers": [
+        { "text": "15 mmHg", "correct": true },
+        { "text": "5 mmHg" },
+        { "text": "25 mmHg" },
+        { "text": "50 mmHg" }
+      ]
+    },
+    {
+      "text": "The mechanical effects of IPPB last approximately:",
+      "answers": [
+        { "text": "15 minutes per treatment", "correct": true },
+        { "text": "2 to 3 seconds" },
+        { "text": "5 to 15 seconds" },
+        { "text": "24 hours" }
+      ]
+    },
+    {
+      "text": "Compared with a simple handheld nebulizer, IPPB delivers how much less medication according to the source?",
+      "answers": [
+        { "text": "32% less", "correct": true },
+        { "text": "5% less" },
+        { "text": "10% more" },
+        { "text": "100% more" }
+      ]
+    },
+    {
+      "text": "During IPPB setup with a mouthpiece, the patient must:",
+      "answers": [
+        { "text": "Seal the lips around the mouthpiece", "correct": true },
+        { "text": "Exhale into a dry powder inhaler" },
+        { "text": "Keep the mask loose over the mouth" },
+        { "text": "Occlude Venturi entrainment ports" }
+      ]
+    },
+    {
+      "text": "Inspiratory sensitivity determines:",
+      "answers": [
+        { "text": "The effort required to trigger the machine breath", "correct": true },
+        { "text": "The water vapor held by warm gas" },
+        { "text": "The color of the cylinder" },
+        { "text": "The amount of medication left in an MDI" }
+      ]
+    },
+    {
+      "text": "The initial peak inspiratory pressure for IPPB is:",
+      "answers": [
+        { "text": "15 to 20 cmH2O", "correct": true },
+        { "text": "1 to 5 L/min" },
+        { "text": "25 to 40 mmHg" },
+        { "text": "100 to 300 breaths/min" }
+      ]
+    },
+    {
+      "text": "IPPB flow rate should initially be set around:",
+      "answers": [
+        { "text": "30 L/min", "correct": true },
+        { "text": "6 L/min" },
+        { "text": "2 L/min" },
+        { "text": "100 L/min" }
+      ]
+    },
+    {
+      "text": "Flow rate during IPPB is adjusted to provide an inspiratory time of:",
+      "answers": [
+        { "text": "2 to 5 seconds", "correct": true },
+        { "text": "15 minutes" },
+        { "text": "30 minutes" },
+        { "text": "24 hours" }
+      ]
+    },
+    {
+      "text": "A slower IPPB flow rate has which effect?",
+      "answers": [
+        { "text": "More time to reach peak pressure", "correct": true },
+        { "text": "Less time to reach peak pressure" },
+        { "text": "No effect on inspiratory time" },
+        { "text": "Immediate breath termination before triggering" }
+      ]
+    },
+    {
+      "text": "Incentive spirometry facilitates SMI using:",
+      "answers": [
+        { "text": "Visual indicators of inspiratory effort", "correct": true },
+        { "text": "A metal ball vibrating in a pipe-shaped PEP device" },
+        { "text": "A dose counter on an inhaler" },
+        { "text": "A passive heat moisture exchanger" }
+      ]
+    },
+    {
+      "text": "SMI is a slow, deep inspiration from FRC to TLC followed by:",
+      "answers": [
+        { "text": "A breath hold of at least 5 seconds", "correct": true },
+        { "text": "Immediate forceful exhalation into an MDI" },
+        { "text": "A 30-minute vest treatment" },
+        { "text": "A 24-hour countersignature" }
+      ]
+    },
+    {
+      "text": "Which patient is listed as an incentive spirometry candidate?",
+      "answers": [
+        { "text": "Postoperative thoracic or abdominal surgical patient", "correct": true },
+        { "text": "Patient unable to understand the maneuver" },
+        { "text": "Patient with active untreated tuberculosis" },
+        { "text": "Patient with recent skull surgery" }
+      ]
+    },
+    {
+      "text": "IS is contraindicated when the patient is:",
+      "answers": [
+        { "text": "Uncooperative or unable to understand and perform the maneuver", "correct": true },
+        { "text": "Predisposed to atelectasis after surgery" },
+        { "text": "Able to use visual feedback" },
+        { "text": "Positioned in high Fowler's" }
+      ]
+    },
+    {
+      "text": "Before IS, the source says to position the patient in high Fowler's or:",
+      "answers": [
+        { "text": "Semi-Fowler's", "correct": true },
+        { "text": "Trendelenburg only" },
+        { "text": "Prone only" },
+        { "text": "Flat with no assessment" }
+      ]
+    },
+    {
+      "text": "During IS instruction, inspiratory time should be coached for:",
+      "answers": [
+        { "text": "5 to 15 seconds", "correct": true },
+        { "text": "2 to 5 minutes" },
+        { "text": "30 minutes" },
+        { "text": "100 to 300 breaths/min" }
+      ]
+    },
+    {
+      "text": "Between IS breaths, the patient should be encouraged to:",
+      "answers": [
+        { "text": "Cough forcefully to mobilize and expel secretions", "correct": true },
+        { "text": "Avoid all coughing" },
+        { "text": "Remove all visual feedback" },
+        { "text": "Hold the device upside down" }
+      ]
+    }
+  ]
+}
