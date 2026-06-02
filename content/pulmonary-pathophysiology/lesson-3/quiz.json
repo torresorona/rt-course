@@ -1,0 +1,140 @@
+{
+  "title": "Restrictive Pulmonary Disorders Quiz",
+  "questions": [
+    {
+      "text": "How does the source define restrictive lung disease?",
+      "answers": [
+        { "text": "Diseases that restrict lung expansion, causing decreased lung volume and increased work of breathing", "correct": true },
+        { "text": "Diseases with airflow limitation that is not fully reversible" },
+        { "text": "Repeated episodes of no airflow during sleep" },
+        { "text": "Sudden blockage of a pulmonary artery" }
+      ]
+    },
+    {
+      "text": "In the source mnemonic PAINT, what does P represent?",
+      "answers": [
+        { "text": "Pleural disorders", "correct": true },
+        { "text": "Pulmonary hypertension" },
+        { "text": "Pneumonia only" },
+        { "text": "Peak flow" }
+      ]
+    },
+    {
+      "text": "What is the primary PFT test to diagnose restrictive disease in the source?",
+      "answers": [
+        { "text": "Lung volumes", "correct": true },
+        { "text": "Sweat chloride" },
+        { "text": "D-dimer ELISA" },
+        { "text": "Polysomnography" }
+      ]
+    },
+    {
+      "text": "A pleural effusion is:",
+      "answers": [
+        { "text": "Any abnormal, excessive amount of fluid in the pleural space", "correct": true },
+        { "text": "Air entering the pleural space after an airway rupture" },
+        { "text": "Blood in the pulmonary artery" },
+        { "text": "Inflammation of the alveoli from infection only" }
+      ]
+    },
+    {
+      "text": "Which pairing correctly matches pleural effusion type and protein pattern?",
+      "answers": [
+        { "text": "Transudative effusion has decreased proteins; exudative effusion has increased proteins", "correct": true },
+        { "text": "Transudative effusion has increased proteins; exudative effusion has decreased proteins" },
+        { "text": "Both transudative and exudative effusions have no proteins" },
+        { "text": "Protein pattern is used only for sleep apnea" }
+      ]
+    },
+    {
+      "text": "Which finding is listed for pleural effusion diagnosis?",
+      "answers": [
+        { "text": "Tracheal deviation away from the affected lung", "correct": true },
+        { "text": "Tracheal deviation toward the affected lung in every case" },
+        { "text": "A positive sweat chloride test" },
+        { "text": "A crescendo-decrescendo breathing pattern" }
+      ]
+    },
+    {
+      "text": "Which patient pattern matches primary spontaneous pneumothorax in the source?",
+      "answers": [
+        { "text": "Late teens to early twenties, tall, thin, male, without underlying lung disease", "correct": true },
+        { "text": "Hospitalized for 2 days within the last 90 days" },
+        { "text": "Positive PPD with no symptoms" },
+        { "text": "COPD with coexisting OSA" }
+      ]
+    },
+    {
+      "text": "Why can tension pneumothorax rapidly become fatal?",
+      "answers": [
+        { "text": "Mediastinal shift can prevent venous return, eliminating cardiac output", "correct": true },
+        { "text": "It always causes increased sweat chloride" },
+        { "text": "It blocks apoptosis in lung cells" },
+        { "text": "It only causes mild daytime sleepiness" }
+      ]
+    },
+    {
+      "text": "Bronchopleural fistula is described as a pneumothorax involving:",
+      "answers": [
+        { "text": "A large airway such as mainstem, lobar, or segmental airway", "correct": true },
+        { "text": "Only the pharyngeal airway during sleep" },
+        { "text": "Only the pulmonary artery" },
+        { "text": "Only a lymph node granuloma" }
+      ]
+    },
+    {
+      "text": "Interstitial lung disease is characterized by:",
+      "answers": [
+        { "text": "Fibrosis and/or inflammation affecting the lung parenchyma", "correct": true },
+        { "text": "Only upper airway closure during sleep" },
+        { "text": "Only a clot from a lower extremity vein" },
+        { "text": "Only productive cough for 3 months per year" }
+      ]
+    },
+    {
+      "text": "Sarcoidosis is described in the source as:",
+      "answers": [
+        { "text": "An idiopathic multisystem disorder with inflammatory cells collecting in granulomas", "correct": true },
+        { "text": "A venous clot blocking a pulmonary artery" },
+        { "text": "An acute lower respiratory tract infection only" },
+        { "text": "A traumatic blood collection in the pleural space" }
+      ]
+    },
+    {
+      "text": "Which diagnostic pattern is listed for interstitial lung disease?",
+      "answers": [
+        { "text": "Restrictive pattern on FVC and plethysmography with decreased DLCO", "correct": true },
+        { "text": "Increased FEV1/FVC with positive IGRA only" },
+        { "text": "AHI greater than 30 events/hr only" },
+        { "text": "Sweat chloride less than 40 mEq/L" }
+      ]
+    },
+    {
+      "text": "Myasthenia gravis is caused by antibodies that block or destroy:",
+      "answers": [
+        { "text": "Nicotinic acetylcholine receptors at the nerve-muscle junction", "correct": true },
+        { "text": "Pulmonary artery catheter balloons" },
+        { "text": "Endotracheal tube biofilms" },
+        { "text": "Upper airway dilator muscles only during sleep" }
+      ]
+    },
+    {
+      "text": "Guillain-Barre syndrome involves immune attack on:",
+      "answers": [
+        { "text": "The myelin sheath of peripheral nerves", "correct": true },
+        { "text": "The pleural space by hydrostatic pressure" },
+        { "text": "The CFTR protein in sweat glands" },
+        { "text": "Cancer cells through apoptosis" }
+      ]
+    },
+    {
+      "text": "During a sniff test for phrenic nerve damage, paradoxical movement means:",
+      "answers": [
+        { "text": "The affected side moves upward during vigorous inspiration", "correct": true },
+        { "text": "The patient has an AHI less than 5" },
+        { "text": "The P/F ratio rises above 400" },
+        { "text": "The sputum culture becomes positive" }
+      ]
+    }
+  ]
+}

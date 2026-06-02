@@ -1,0 +1,31 @@
+# NotebookLM Source: Sleep-Related Breathing Disorders
+
+## Audio Overview Instructions
+
+Create an audio overview that the student can use while reading the paired lesson page. Walk through the lesson in the same order as the MDX headings, announce each major section before explaining it, and keep the wording close enough that the listener can follow along visually.
+
+Use a conversational tutor style for a respiratory therapy student preparing for an exam. Add source-based insight by connecting sleep-disorder categories, apnea definitions, OSA and CSA mechanisms, overlap syndrome features, PSG parameters, AHI grading, and treatment choices. Do not add outside facts, guidelines, or terminology that are not in this source.
+
+At natural transitions, test the listener with short recall or application checks. Ask the question, give a brief pause cue, then answer and explain using only this source. Keep the checks practical, such as distinguishing obstructive from central apnea, calculating or grading AHI, identifying PSG channels, or matching CPAP and oral appliances to the source indications.
+
+This lesson covers sleep disorder definitions, pathophysiology, symptoms and clinical features, diagnostic testing, and treatment. The source classifies sleep disorders into insomnias, parasomnias, hypersomnias, circadian rhythm disorders, sleep movement disorders, and sleep-related breathing disorders.
+
+Insomnias are difficulty falling or staying asleep. Parasomnias include sleepwalking, sleep eating, sleep paralysis, and sleep terrors. Hypersomnias include narcolepsy. Circadian rhythm disorders include shift work. Sleep movement disorders include restless leg syndrome and bruxism, or grinding teeth. Sleep-related breathing disorders include obstructive sleep apnea, central sleep apnea, child sleep apnea, and infant sleep apnea.
+
+Sleep apnea is repeated episodes of no airflow for at least 10 seconds during sleep. Obstructive apnea is caused by upper airway closure. Central apnea is caused by lack of ventilatory effort. Obstructive sleep apnea syndrome is recurrent apneas during sleep despite persistent respiratory effort due to upper airway obstruction. Hypopnea is decreased breathing without complete airflow cessation, specifically a 30 percent decrease in airflow and 4 percent decrease in SaO2. Overlap syndrome is COPD with coexisting OSA. Mixed apnea has elements of obstructive and central apnea.
+
+In obstructive sleep apnea, the primary causes are small or unstable pharyngeal airways. Contributing factors include obesity, tonsillar hypertrophy, and small chin. During sleep, upper airway dilator muscles relax, allowing narrowing or closure at potentially multiple sites in the upper airway.
+
+Adverse consequences of OSA include cardiopulmonary, neurobehavioral, and metabolic effects. Cardiopulmonary consequences include nocturnal arrhythmias, diurnal hypertension, pulmonary hypertension, right or left ventricular failure, MI, and stroke. Neurobehavioral effects include excessive daytime sleepiness, diminished quality of life, and motor vehicle accidents. Metabolic effects include insulin resistance and altered lipid metabolism.
+
+Central sleep apnea includes a heterogeneous group of disorders characterized by periodic breathing. Features include waxing and waning respiratory drive and alternating increases and decreases in respiratory rate and tidal volume. After apnea, increased central ventilatory drive may increase tidal volume. Cheyne-Stokes respiration is often seen in CHF or stroke and is a severe type of periodic breathing. It has a crescendo-decrescendo pattern with hyperneas alternating with apneas.
+
+Overlap syndrome is COPD with coexisting OSA. Patients are often obese smokers with moderate to severe nocturnal oxyhemoglobin desaturations. Desaturations are more severe during REM sleep. The source notes that prognosis and ABG results are worse than in OSA only. Symptoms include excessive daytime sleepiness, routine loud snoring, abrupt awakenings with choking or gasping, observed periods of apnea, awakening with dry mouth or sore throat, nocturia, chronic nasal obstruction, hypertension, morning headache, and symptoms of depression.
+
+Overlap clinical features include male sex, which is twice as likely as women in the source, age greater than 40, overweight with upper body obesity and neck greater than 16.5 inches, right heart failure secondary to pulmonary hypertension, and increased risk for cardiac arrhythmias associated with moderate to severe desaturations.
+
+Diagnostic testing uses polysomnogram. PSG is an overnight study required for definitive diagnosis. The patient answers a questionnaire about sleep habits. Monitored parameters include EEG for brain waves and sleep stages, eye leads for eye movement, cannula for airflow at the nose and mouth, tracheal microphone for snoring, chest and abdominal bands for respiratory efforts, pulse oximeter for blood oxygen saturation, capnography for exhaled carbon dioxide, and limb leads for leg movements.
+
+Severity is based on apnea-hypopnea index, or AHI. AHI is the sum of apneas and hypopneas each hour. Events must last at least 10 seconds to count. AHI is calculated by dividing the total number of events by the number of hours of sleep. Less than 5 events per hour is normal. Mild is 5 to 15 events per hour. Moderate is 15 to 30 events per hour. Severe is greater than 30 events per hour.
+
+Treatment includes behavioral interventions and risk counseling, positional therapy, medical interventions, and surgical interventions. Behavioral interventions include sleep hygiene, weight loss, and avoiding alcohol, sedatives, hypnotics, muscle relaxants, and sleep deprivation. Positional therapy is used if obstruction occurs when supine and may include elevating the head of the bed or tennis ball technique. Medical interventions include CPAP, oral appliances, and medications. CPAP is indicated for moderate to severe AHI. Oral appliances are good for mild AHI and patients who will not wear a CPAP mask. Medications are generally ineffective. Surgical interventions include bypassing the upper airway with tracheostomy, uvulopalatopharyngoplasty, and maxillofacial surgery.

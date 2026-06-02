@@ -1,0 +1,113 @@
+{
+  "title": "Sleep-Related Breathing Disorders Quiz",
+  "questions": [
+    {
+      "text": "Insomnia is described in the source as:",
+      "answers": [
+        { "text": "Difficulty falling or staying asleep", "correct": true },
+        { "text": "COPD with coexisting OSA" },
+        { "text": "No airflow for at least 10 seconds" },
+        { "text": "A sudden pulmonary artery blockage" }
+      ]
+    },
+    {
+      "text": "Sleep apnea is defined as repeated episodes of no airflow for:",
+      "answers": [
+        { "text": "At least 10 seconds during sleep", "correct": true },
+        { "text": "At least 3 months per year" },
+        { "text": "At least 48 hours after admission" },
+        { "text": "At least 6 to 12 months" }
+      ]
+    },
+    {
+      "text": "What distinguishes obstructive apnea from central apnea?",
+      "answers": [
+        { "text": "Obstructive apnea is upper airway closure; central apnea is lack of ventilatory effort", "correct": true },
+        { "text": "Obstructive apnea is lack of effort; central apnea is upper airway closure" },
+        { "text": "Both are caused only by CFTR mutation" },
+        { "text": "Both require a positive PPD" }
+      ]
+    },
+    {
+      "text": "What is a primary cause of OSA in the source?",
+      "answers": [
+        { "text": "Small or unstable pharyngeal airways", "correct": true },
+        { "text": "Mean pulmonary artery pressure greater than 25 mmHg" },
+        { "text": "Caseous necrosis" },
+        { "text": "Permanent dilation of bronchi" }
+      ]
+    },
+    {
+      "text": "Which cardiopulmonary consequence of OSA is listed?",
+      "answers": [
+        { "text": "Nocturnal arrhythmias", "correct": true },
+        { "text": "False-positive PPD" },
+        { "text": "Positive sweat chloride" },
+        { "text": "Patchy consolidation" }
+      ]
+    },
+    {
+      "text": "Cheyne-Stokes respiration is described as:",
+      "answers": [
+        { "text": "A crescendo-decrescendo pattern with hyperneas alternating with apneas", "correct": true },
+        { "text": "A productive cough for 3 months per year" },
+        { "text": "A positive sweat chloride result" },
+        { "text": "A pneumothorax involving a large airway" }
+      ]
+    },
+    {
+      "text": "Overlap syndrome means:",
+      "answers": [
+        { "text": "COPD with coexisting OSA", "correct": true },
+        { "text": "Pneumonia with tuberculosis only" },
+        { "text": "ARDS with lung cancer only" },
+        { "text": "Hemothorax with bronchopleural fistula only" }
+      ]
+    },
+    {
+      "text": "Which symptom is listed for overlap syndrome?",
+      "answers": [
+        { "text": "Abrupt awakenings with choking or gasping", "correct": true },
+        { "text": "Barrel chest only" },
+        { "text": "Blood-streaked sputum only" },
+        { "text": "Swollen mediastinal lymph nodes only" }
+      ]
+    },
+    {
+      "text": "What diagnostic study is required for definitive diagnosis in the source?",
+      "answers": [
+        { "text": "Overnight polysomnogram", "correct": true },
+        { "text": "Sweat chloride test" },
+        { "text": "Pulmonary angiography only" },
+        { "text": "Bronchoalveolar lavage only" }
+      ]
+    },
+    {
+      "text": "During PSG, chest and abdominal bands monitor:",
+      "answers": [
+        { "text": "Respiratory efforts", "correct": true },
+        { "text": "Brain waves and sleep stages" },
+        { "text": "Snoring only" },
+        { "text": "Leg movements only" }
+      ]
+    },
+    {
+      "text": "How is AHI calculated?",
+      "answers": [
+        { "text": "Total apneas and hypopneas divided by hours of sleep", "correct": true },
+        { "text": "PaO2 divided by FiO2" },
+        { "text": "Post value minus pre value divided by pre value" },
+        { "text": "FRC plus IC" }
+      ]
+    },
+    {
+      "text": "Which AHI value is severe in the source?",
+      "answers": [
+        { "text": "Greater than 30 events/hr", "correct": true },
+        { "text": "Less than 5 events/hr" },
+        { "text": "5-15 events/hr" },
+        { "text": "15-30 events/hr" }
+      ]
+    }
+  ]
+}

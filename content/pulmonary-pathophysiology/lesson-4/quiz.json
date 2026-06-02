@@ -1,0 +1,113 @@
+{
+  "title": "ARDS & Lung Cancer Quiz",
+  "questions": [
+    {
+      "text": "Which phrase best matches the source definition of ARDS?",
+      "answers": [
+        { "text": "Acute diffuse inflammatory lung injury with increased vascular permeability and loss of aerated lung tissue", "correct": true },
+        { "text": "A genetic CFTR disorder causing thick secretions" },
+        { "text": "A sleep disorder caused by upper airway closure" },
+        { "text": "A chronic productive cough for two consecutive years" }
+      ]
+    },
+    {
+      "text": "Which timing is part of the ARDS key components in the source?",
+      "answers": [
+        { "text": "Acute onset within 1 week or less", "correct": true },
+        { "text": "Symptoms only months to years after TB exposure" },
+        { "text": "Cough for at least 3 weeks" },
+        { "text": "Sleep events lasting 10 seconds only" }
+      ]
+    },
+    {
+      "text": "A patient has PaO2 80 mmHg on FiO2 0.40. What is the P/F ratio from the source formula?",
+      "answers": [
+        { "text": "200", "correct": true },
+        { "text": "75" },
+        { "text": "285" },
+        { "text": "476" }
+      ]
+    },
+    {
+      "text": "What P/F ratio is listed as normal in the source?",
+      "answers": [
+        { "text": "Greater than 400", "correct": true },
+        { "text": "Less than 300" },
+        { "text": "Less than 100" },
+        { "text": "Exactly 21" }
+      ]
+    },
+    {
+      "text": "In ARDS pathophysiology, inflammatory injury leads to:",
+      "answers": [
+        { "text": "Pulmonary edema, hyaline membrane formation, surfactant loss, and decreased compliance", "correct": true },
+        { "text": "Upper airway dilator muscle relaxation only" },
+        { "text": "Increased sweat chloride collection only" },
+        { "text": "Thymus antibodies improving muscle strength" }
+      ]
+    },
+    {
+      "text": "Which direct ARDS injury is listed in the source?",
+      "answers": [
+        { "text": "Gastric aspiration", "correct": true },
+        { "text": "Bedding not washed weekly" },
+        { "text": "Positive BCG vaccination" },
+        { "text": "Small chin" }
+      ]
+    },
+    {
+      "text": "Which sign or finding is common for ARDS and CHF in the source?",
+      "answers": [
+        { "text": "Diffuse alveolar and interstitial infiltrates on x-ray", "correct": true },
+        { "text": "Positive sweat chloride test" },
+        { "text": "AFB negative with normal imaging" },
+        { "text": "Permanent airway dilation" }
+      ]
+    },
+    {
+      "text": "Which finding supports ARDS rather than CHF in the source comparison?",
+      "answers": [
+        { "text": "PCWP less than 18 mmHg", "correct": true },
+        { "text": "PCWP greater than 25 mmHg in all cases" },
+        { "text": "AHI greater than 30 events/hr" },
+        { "text": "Sweat chloride greater than 60 mEq/L" }
+      ]
+    },
+    {
+      "text": "Which route of cancer spread is listed in the source?",
+      "answers": [
+        { "text": "Lymphatic system through lymph vessels to other parts of the body", "correct": true },
+        { "text": "Only through endotracheal tube biofilm" },
+        { "text": "Only by positive-pressure ventilation" },
+        { "text": "Only through sweat glands" }
+      ]
+    },
+    {
+      "text": "Which classification breakdown matches the source?",
+      "answers": [
+        { "text": "Small cell carcinoma 20%; non-small cell carcinoma 80%", "correct": true },
+        { "text": "Small cell carcinoma 80%; non-small cell carcinoma 20%" },
+        { "text": "Adenocarcinoma 5%; squamous cell carcinoma 95%" },
+        { "text": "All lung cancer is classified as tuberculosis" }
+      ]
+    },
+    {
+      "text": "Which symptom is listed for lung cancer?",
+      "answers": [
+        { "text": "Hemoptysis", "correct": true },
+        { "text": "Tennis ball technique" },
+        { "text": "Paradoxical sniff test movement" },
+        { "text": "Borderline sweat chloride" }
+      ]
+    },
+    {
+      "text": "Which treatment is listed for non-small cell lung cancer?",
+      "answers": [
+        { "text": "Surgical resection, radiation therapy, and chemotherapy", "correct": true },
+        { "text": "CPAP and oral appliances only" },
+        { "text": "Pyrazinamide, ethambutol, rifampin, and isoniazide only" },
+        { "text": "Thoracentesis only" }
+      ]
+    }
+  ]
+}
