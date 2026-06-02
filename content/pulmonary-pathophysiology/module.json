@@ -1,0 +1,135 @@
+{
+  "title": "Pulmonary Pathophysiology",
+  "description": "Infectious, obstructive, restrictive, inflammatory, malignant, vascular, and sleep-related pulmonary disorders with diagnosis, signs and symptoms, treatment, and respiratory therapy considerations.",
+  "order": 4,
+  "lessons": [
+    {
+      "slug": "pulmonary-pathophysiology/lesson-1",
+      "title": "Infectious Pulmonary Diseases",
+      "description": "Pneumonia and tuberculosis: causes, classifications, pathogenesis, signs and symptoms, diagnosis, treatment, and infection control concerns.",
+      "audio": "/audio/pulmonary-pathophysiology/How_Pneumonia_and_Tuberculosis_Attack_the_Lungs.m4a"
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-2",
+      "title": "Obstructive Pulmonary Diseases",
+      "description": "COPD, cystic fibrosis, chronic bronchitis, asthma, bronchiectasis, and emphysema, including PFT patterns, structural changes, symptoms, diagnosis, and treatment.",
+      "audio": "/audio/pulmonary-pathophysiology/Breathing_Through_a_Cocktail_Straw.m4a",
+      "resources": [
+        {
+          "title": "Sweat Chloride Test Demonstration",
+          "description": "Video reference linked in the source material for cystic fibrosis sweat chloride testing.",
+          "url": "https://www.youtube.com/watch?v=8UCWoz6gUp8",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-3",
+      "title": "Restrictive Pulmonary Disorders",
+      "description": "Restrictive disease patterns, pleural disorders, interstitial lung disease, neuromuscular causes, stroke-related respiratory complications, and chest wall disorders.",
+      "audio": "/audio/pulmonary-pathophysiology/The_Mechanics_of_Restrictive_Lung_Disease.m4a",
+      "resources": [
+        {
+          "title": "Tension Pneumothorax Signs",
+          "description": "Video reference linked in the source material for tension pneumothorax assessment.",
+          "url": "https://www.youtube.com/watch?v=84AzA_SmLaQ",
+          "type": "video"
+        },
+        {
+          "title": "Bronchopleural Fistula",
+          "description": "Video reference linked in the source material for bronchopleural fistula and large air leaks.",
+          "url": "https://www.youtube.com/watch?v=K5zDUbrTRwE",
+          "type": "video"
+        },
+        {
+          "title": "Ocular Myasthenia Tensilon Test",
+          "description": "Reference linked in the source material for the Tensilon test in myasthenia gravis.",
+          "url": "https://morancore.utah.edu/section-05-neuro-ophthalmology/ocular-myasthenia-tensilon-test/",
+          "type": "reference"
+        },
+        {
+          "title": "Respiratory Muscle Monitoring",
+          "description": "Video reference linked in the source material for VC, MIP, and MEP monitoring.",
+          "url": "https://www.youtube.com/watch?v=HM-kaL0dDdU",
+          "type": "video"
+        },
+        {
+          "title": "Neurologic Diagnostic Tests",
+          "description": "Reference linked in the source material for spinal tap, electromyography, and nerve conduction studies.",
+          "url": "https://www.msdmanuals.com/home/brain,-spinal-cord,-and-nerve-disorders/diagnosis-of-brain,-spinal-cord,-and-nerve-disorders/tests-for-brain-spinal-cord-and-nerve-disorders#v41278450",
+          "type": "reference"
+        },
+        {
+          "title": "Sniff Test",
+          "description": "Reference linked in the source material for fluoroscopic sniff testing in phrenic nerve damage.",
+          "url": "https://radiopaedia.org/articles/sniff-test?lang=us",
+          "type": "reference"
+        },
+        {
+          "title": "Diaphragmatic Plication",
+          "description": "Reference linked in the source material for surgical plication of the affected diaphragm.",
+          "url": "https://www.ctsnet.org/article/laparoscopic-diaphragmatic-plication",
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-4",
+      "title": "ARDS & Lung Cancer",
+      "description": "Acute respiratory distress syndrome, P/F ratio interpretation, ARDS vs CHF patterns, lung cancer spread, classification, diagnosis, staging, and treatment.",
+      "audio": "/audio/pulmonary-pathophysiology/How_ARDS_and_Lung_Cancer_Sabotage_Breathing.m4a"
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-5",
+      "title": "Pulmonary Vascular Disease",
+      "description": "Pulmonary embolism and pulmonary hypertension: definitions, risk factors, signs and symptoms, diagnosis, and treatment.",
+      "audio": "/audio/pulmonary-pathophysiology/The_mechanics_of_lung_clots_and_pressure.m4a",
+      "resources": [
+        {
+          "title": "Pulmonary Hypertension Overview",
+          "description": "Video reference linked in the source material for pulmonary hypertension.",
+          "url": "https://www.youtube.com/watch?v=fvMEoc7Voa0&ab_channel=OsmosisfromElsevier",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-6",
+      "title": "Sleep-Related Breathing Disorders",
+      "description": "Sleep disorder classifications, sleep apnea definitions, OSA, CSA, overlap syndrome, polysomnography, AHI severity, and treatment.",
+      "audio": "/audio/pulmonary-pathophysiology/Why_You_Stop_Breathing_During_Sleep.m4a"
+    },
+    {
+      "slug": "pulmonary-pathophysiology/lesson-7",
+      "title": "Module Exam",
+      "description": "Comprehensive 50-question module exam covering infectious, obstructive, restrictive, ARDS, lung cancer, vascular, and sleep-related pulmonary pathophysiology."
+    }
+  ],
+  "audio": [
+    {
+      "title": "How Pneumonia and Tuberculosis Attack the Lungs",
+      "src": "/audio/pulmonary-pathophysiology/How_Pneumonia_and_Tuberculosis_Attack_the_Lungs.m4a"
+    },
+    {
+      "title": "Breathing Through a Cocktail Straw",
+      "src": "/audio/pulmonary-pathophysiology/Breathing_Through_a_Cocktail_Straw.m4a"
+    },
+    {
+      "title": "The Mechanics of Restrictive Lung Disease",
+      "src": "/audio/pulmonary-pathophysiology/The_Mechanics_of_Restrictive_Lung_Disease.m4a"
+    },
+    {
+      "title": "How ARDS and Lung Cancer Sabotage Breathing",
+      "src": "/audio/pulmonary-pathophysiology/How_ARDS_and_Lung_Cancer_Sabotage_Breathing.m4a"
+    },
+    {
+      "title": "The Mechanics of Lung Clots and Pressure",
+      "src": "/audio/pulmonary-pathophysiology/The_mechanics_of_lung_clots_and_pressure.m4a"
+    },
+    {
+      "title": "Why You Stop Breathing During Sleep",
+      "src": "/audio/pulmonary-pathophysiology/Why_You_Stop_Breathing_During_Sleep.m4a"
+    }
+  ],
+  "resources": []
+}

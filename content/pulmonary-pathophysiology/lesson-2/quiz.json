@@ -1,0 +1,140 @@
+{
+  "title": "Obstructive Pulmonary Diseases Quiz",
+  "questions": [
+    {
+      "text": "What does the source mnemonic CBABE represent?",
+      "answers": [
+        { "text": "Cystic fibrosis, bronchitis, asthma, bronchiectasis, emphysema", "correct": true },
+        { "text": "Cancer, bronchitis, ARDS, bronchoscopy, embolism" },
+        { "text": "Compliance, blood gas, airway, breathing, exercise" },
+        { "text": "Cough, bronchiolitis, alveolitis, BAL, edema" }
+      ]
+    },
+    {
+      "text": "The ATS definition in the source describes COPD as airflow limitation that is:",
+      "answers": [
+        { "text": "Not fully reversible and usually progressive", "correct": true },
+        { "text": "Always fully reversible without treatment" },
+        { "text": "Caused only by tuberculosis" },
+        { "text": "Defined only by reduced TLC" }
+      ]
+    },
+    {
+      "text": "What is the primary test for diagnosing obstructive lung disease in the source?",
+      "answers": [
+        { "text": "Spirometry", "correct": true },
+        { "text": "Polysomnogram" },
+        { "text": "PPD skin test" },
+        { "text": "Pulmonary artery catheterization" }
+      ]
+    },
+    {
+      "text": "Which airway resistance and compliance pattern is listed for obstructive disease?",
+      "answers": [
+        { "text": "High airway resistance with normal or high compliance", "correct": true },
+        { "text": "Low airway resistance with low compliance only" },
+        { "text": "Normal airway resistance with no compliance change" },
+        { "text": "Absent airway resistance with fixed compliance" }
+      ]
+    },
+    {
+      "text": "Cystic fibrosis is caused by mutations affecting which protein?",
+      "answers": [
+        { "text": "CFTR", "correct": true },
+        { "text": "IgE" },
+        { "text": "Alpha-fetoprotein" },
+        { "text": "Hemoglobin S" }
+      ]
+    },
+    {
+      "text": "Which pulmonary manifestation is listed for cystic fibrosis?",
+      "answers": [
+        { "text": "Thick mucoid secretions that trap bacteria and cause recurring infections", "correct": true },
+        { "text": "Mean pulmonary artery pressure greater than 25 mmHg" },
+        { "text": "Pleural space filled with blood after trauma" },
+        { "text": "No airflow for at least 10 seconds during sleep" }
+      ]
+    },
+    {
+      "text": "Which sweat chloride result is positive for cystic fibrosis in the source?",
+      "answers": [
+        { "text": "Greater than 60 mEq/L", "correct": true },
+        { "text": "Less than 40 mEq/L" },
+        { "text": "Exactly 21 mEq/L" },
+        { "text": "Less than 5 events/hr" }
+      ]
+    },
+    {
+      "text": "How is chronic bronchitis defined in the source?",
+      "answers": [
+        { "text": "Productive cough for at least 3 months per year for two consecutive years", "correct": true },
+        { "text": "Sudden pulmonary artery blockage by a clot" },
+        { "text": "Permanent enlargement beyond the terminal bronchioles" },
+        { "text": "Repeated episodes of no airflow during sleep" }
+      ]
+    },
+    {
+      "text": "Which cause is shared by chronic bronchitis and emphysema in the source?",
+      "answers": [
+        { "text": "Cigarette smoke", "correct": true },
+        { "text": "BCG vaccination" },
+        { "text": "Narrow upper airway during sleep" },
+        { "text": "Positive IGRA" }
+      ]
+    },
+    {
+      "text": "The source's 'blue bloater' description is associated with:",
+      "answers": [
+        { "text": "Chronic bronchitis", "correct": true },
+        { "text": "Sarcoidosis" },
+        { "text": "Tension pneumothorax" },
+        { "text": "Small cell carcinoma" }
+      ]
+    },
+    {
+      "text": "Asthma airway obstruction is described as:",
+      "answers": [
+        { "text": "Partially or completely reversible either spontaneously or with treatment", "correct": true },
+        { "text": "Never reversible under any circumstance" },
+        { "text": "Only caused by pleural fluid" },
+        { "text": "Only diagnosed by AFB culture" }
+      ]
+    },
+    {
+      "text": "In asthma pathogenesis, IgE on mast cells leads to release of which mediators?",
+      "answers": [
+        { "text": "Histamine, leukotrienes, prostaglandins, and platelet-activating factor", "correct": true },
+        { "text": "Pyrazinamide, ethambutol, rifampin, and isoniazide" },
+        { "text": "Heparin, Eliquis, and tenecteplase" },
+        { "text": "FRC, TLC, RV, and DLCO" }
+      ]
+    },
+    {
+      "text": "Bronchiectasis is best defined as:",
+      "answers": [
+        { "text": "Abnormal permanent dilation and thickening of airways from recurring infections", "correct": true },
+        { "text": "Fluid collecting in the pleural space from hydrostatic pressure" },
+        { "text": "A genetic defect in sweat chloride testing only" },
+        { "text": "A crescendo-decrescendo breathing pattern" }
+      ]
+    },
+    {
+      "text": "What is the standard diagnostic test for bronchiectasis in the source?",
+      "answers": [
+        { "text": "High-resolution CT", "correct": true },
+        { "text": "Tensilon test" },
+        { "text": "D-dimer ELISA" },
+        { "text": "IGRA blood test" }
+      ]
+    },
+    {
+      "text": "Which pattern fits emphysema in the source?",
+      "answers": [
+        { "text": "Decreased FEV1/FVC and DLCO with increased lung volumes", "correct": true },
+        { "text": "Normal lung volumes and normal DLCO only" },
+        { "text": "Positive sweat chloride test as the only diagnostic finding" },
+        { "text": "AFB negative with normal imaging" }
+      ]
+    }
+  ]
+}

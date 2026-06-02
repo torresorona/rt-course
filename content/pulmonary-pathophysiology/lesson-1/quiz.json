@@ -1,0 +1,140 @@
+{
+  "title": "Infectious Pulmonary Diseases Quiz",
+  "questions": [
+    {
+      "text": "How does the source define pneumonia?",
+      "answers": [
+        { "text": "A lower respiratory tract infection that inflames the alveoli", "correct": true },
+        { "text": "A chronic genetic disorder of chloride transport" },
+        { "text": "A permanent enlargement of airspaces beyond terminal bronchioles" },
+        { "text": "A mean pulmonary artery pressure above 25 mmHg" }
+      ]
+    },
+    {
+      "text": "Which statement best distinguishes lobar pneumonia from bronchopneumonia?",
+      "answers": [
+        { "text": "Lobar pneumonia affects an entire lobe or lung; bronchopneumonia has patchy foci of consolidation", "correct": true },
+        { "text": "Lobar pneumonia is always viral; bronchopneumonia is always fungal" },
+        { "text": "Lobar pneumonia is latent; bronchopneumonia is never infectious" },
+        { "text": "Lobar pneumonia is obstructive; bronchopneumonia is restrictive" }
+      ]
+    },
+    {
+      "text": "Which patient is in a pneumonia risk group listed in the source?",
+      "answers": [
+        { "text": "A smoker older than 65", "correct": true },
+        { "text": "A patient with no respiratory history and no exposures" },
+        { "text": "A patient with normal immunity and no infections" },
+        { "text": "A patient whose only finding is mild scoliosis" }
+      ]
+    },
+    {
+      "text": "Which organism is listed as a typical acute community-acquired pneumonia pathogen?",
+      "answers": [
+        { "text": "Streptococcus pneumoniae", "correct": true },
+        { "text": "Mycobacterium tuberculosis" },
+        { "text": "Histoplasma capsulatum" },
+        { "text": "Pneumocystis jiroveci" }
+      ]
+    },
+    {
+      "text": "Which history matches health care-associated pneumonia (HCAP) in the source?",
+      "answers": [
+        { "text": "Hospitalized in acute care for 2 or more days within the last 90 days", "correct": true },
+        { "text": "Intubated for less than 12 hours with no symptoms" },
+        { "text": "No health care exposure and symptoms beginning at home" },
+        { "text": "Only a positive PPD without symptoms" }
+      ]
+    },
+    {
+      "text": "Hospital-acquired pneumonia develops when?",
+      "answers": [
+        { "text": "More than 48 hours after hospital admission, after CAP is ruled out", "correct": true },
+        { "text": "Within minutes of bronchodilator therapy" },
+        { "text": "Only after discharge from a long-term care facility" },
+        { "text": "Only after a positive IGRA test" }
+      ]
+    },
+    {
+      "text": "Ventilator-associated pneumonia is defined by infection developing:",
+      "answers": [
+        { "text": "More than 48-72 hours after intubation", "correct": true },
+        { "text": "Before endotracheal intubation" },
+        { "text": "Only during spontaneous breathing without an airway" },
+        { "text": "Only months to years after exposure" }
+      ]
+    },
+    {
+      "text": "Which mechanism is listed as a pneumonia pathogenesis route?",
+      "answers": [
+        { "text": "Aspiration from the oropharynx during sleep or impaired gag reflex", "correct": true },
+        { "text": "Increased pulmonary artery pressure alone" },
+        { "text": "Small unstable pharyngeal airway during sleep only" },
+        { "text": "A thymus antibody destroying acetylcholine receptors" }
+      ]
+    },
+    {
+      "text": "A patient reports sudden sharp chest pain when inhaling and exhaling. Which pneumonia sign does this match?",
+      "answers": [
+        { "text": "Pleuritic chest pain", "correct": true },
+        { "text": "Orthopnea from emphysema" },
+        { "text": "Pulsus paradoxus" },
+        { "text": "Diplopia" }
+      ]
+    },
+    {
+      "text": "Which lab finding category is listed for pneumonia diagnosis?",
+      "answers": [
+        { "text": "ABG showing low oxygenation values", "correct": true },
+        { "text": "Sweat chloride greater than 60 mEq/L only" },
+        { "text": "AHI greater than 30 events/hr" },
+        { "text": "Mean pulmonary artery pressure greater than 25 mmHg" }
+      ]
+    },
+    {
+      "text": "What is the purpose of sputum sensitivity testing?",
+      "answers": [
+        { "text": "To determine whether a specific antibiotic or antifungal is likely to stop organism growth", "correct": true },
+        { "text": "To calculate the P/F ratio" },
+        { "text": "To measure total lung capacity" },
+        { "text": "To determine sleep stages" }
+      ]
+    },
+    {
+      "text": "Which bronchoscopy sampling method is listed for suspected pneumonia when expectorated samples are nondiagnostic?",
+      "answers": [
+        { "text": "Bronchoalveolar lavage", "correct": true },
+        { "text": "Polysomnogram" },
+        { "text": "Sniff test" },
+        { "text": "Tensilon test" }
+      ]
+    },
+    {
+      "text": "Tuberculosis is caused by which organism?",
+      "answers": [
+        { "text": "Mycobacterium tuberculosis", "correct": true },
+        { "text": "Staphylococcus aureus" },
+        { "text": "Pseudomonas aeruginosa" },
+        { "text": "Aspergillus" }
+      ]
+    },
+    {
+      "text": "Which finding best matches latent tuberculosis in the source?",
+      "answers": [
+        { "text": "No symptoms, not infectious, positive PPD and IGRA, AFB negative", "correct": true },
+        { "text": "Symptomatic, infectious, and always AFB positive" },
+        { "text": "Negative PPD, negative IGRA, and abnormal imaging" },
+        { "text": "Only GI symptoms with no respiratory findings" }
+      ]
+    },
+    {
+      "text": "Which infection control setup is required for suspected or confirmed hospitalized TB?",
+      "answers": [
+        { "text": "Private negative-pressure room with N95 mask for room entry", "correct": true },
+        { "text": "Routine room with no respiratory protection" },
+        { "text": "Open bay room with surgical mask for staff only" },
+        { "text": "Positive-pressure room with no mask requirement" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "title": "Pulmonary Pathophysiology Module Exam",
+  "questions": [
+    {
+      "text": "Pneumonia is also referred to in the source as:",
+      "answers": [
+        { "text": "Lower respiratory tract infection", "correct": true },
+        { "text": "Pulmonary vascular disease" },
+        { "text": "Sleep movement disorder" },
+        { "text": "Thoracic/extrathoracic disease only" }
+      ]
+    },
+    {
+      "text": "Which pneumonia pattern is characterized by patchy foci of consolidation scattered in one or more lobes?",
+      "answers": [
+        { "text": "Bronchopneumonia", "correct": true },
+        { "text": "Lobar pneumonia" },
+        { "text": "Pleural effusion" },
+        { "text": "Pulmonary hypertension" }
+      ]
+    },
+    {
+      "text": "Which organism is listed as a bacterial cause of pneumonia?",
+      "answers": [
+        { "text": "Haemophilus influenzae", "correct": true },
+        { "text": "Alpha1-antitrypsin" },
+        { "text": "IgE" },
+        { "text": "Flolan" }
+      ]
+    },
+    {
+      "text": "VAP can develop because the endotracheal tube:",
+      "answers": [
+        { "text": "Impairs cough and allows microaspiration around the cuff", "correct": true },
+        { "text": "Always prevents biofilm formation" },
+        { "text": "Eliminates lower airway access to pathogens" },
+        { "text": "Raises sweat chloride above 60 mEq/L" }
+      ]
+    },
+    {
+      "text": "Which testing sequence is listed for TB sputum samples?",
+      "answers": [
+        { "text": "Morning samples on 3 consecutive days", "correct": true },
+        { "text": "One sample only after CPAP titration" },
+        { "text": "One sample only after plication" },
+        { "text": "Hourly samples for 24 hours" }
+      ]
+    },
+    {
+      "text": "Which TB medication is bacteriostatic and stops reproduction in the source?",
+      "answers": [
+        { "text": "Ethambutol", "correct": true },
+        { "text": "Streptokinase" },
+        { "text": "Flolan" },
+        { "text": "Tobramycin" }
+      ]
+    },
+    {
+      "text": "A hospitalized patient with suspected TB should be placed in:",
+      "answers": [
+        { "text": "Respiratory isolation with airborne precautions", "correct": true },
+        { "text": "A room requiring no mask" },
+        { "text": "A routine sleep lab room only" },
+        { "text": "A positive-pressure OR only" }
+      ]
+    },
+    {
+      "text": "What does BCG vaccination do to PPD testing according to the source?",
+      "answers": [
+        { "text": "Causes a false positive PPD", "correct": true },
+        { "text": "Always makes PPD negative" },
+        { "text": "Replaces AFB culture" },
+        { "text": "Confirms VAP" }
+      ]
+    },
+    {
+      "text": "In obstructive disease, PaCO2 primarily reflects:",
+      "answers": [
+        { "text": "Ventilation", "correct": true },
+        { "text": "Oxygenation only" },
+        { "text": "Pleural protein level" },
+        { "text": "Sleep stage" }
+      ]
+    },
+    {
+      "text": "A cystic fibrosis patient commonly has recurring infections because:",
+      "answers": [
+        { "text": "Thick mucoid secretions clog airways and trap bacteria", "correct": true },
+        { "text": "The pulmonary artery is blocked by a clot" },
+        { "text": "Upper airway muscles relax during sleep" },
+        { "text": "A pleural catheter removes fluid" }
+      ]
+    },
+    {
+      "text": "Which sweat chloride result is borderline and should be repeated?",
+      "answers": [
+        { "text": "40-60 mEq/L", "correct": true },
+        { "text": "Less than 5 events/hr" },
+        { "text": "Greater than 400" },
+        { "text": "8-20 mmHg" }
+      ]
+    },
+    {
+      "text": "Which chronic bronchitis pathologic change is listed?",
+      "answers": [
+        { "text": "Hypersecretion of mucus", "correct": true },
+        { "text": "Caseous granuloma" },
+        { "text": "Pleural protein decrease only" },
+        { "text": "Upper airway dilator relaxation" }
+      ]
+    },
+    {
+      "text": "Which trigger is listed for asthma?",
+      "answers": [
+        { "text": "Cold dry air", "correct": true },
+        { "text": "BCG vaccination" },
+        { "text": "Mean pulmonary artery pressure" },
+        { "text": "Negative-pressure room" }
+      ]
+    },
+    {
+      "text": "Asthma management includes routine monitoring using:",
+      "answers": [
+        { "text": "Peak flow", "correct": true },
+        { "text": "PPD only" },
+        { "text": "Pleural catheter only" },
+        { "text": "PET scan only" }
+      ]
+    },
+    {
+      "text": "Bronchiectasis treatment includes:",
+      "answers": [
+        { "text": "Antibiotics and airway clearance", "correct": true },
+        { "text": "Only BCG vaccination" },
+        { "text": "Only positional sleep therapy" },
+        { "text": "Only pulmonary embolectomy" }
+      ]
+    },
+    {
+      "text": "The protease-antiprotease theory is used in the source to explain:",
+      "answers": [
+        { "text": "Emphysema", "correct": true },
+        { "text": "Sleep apnea" },
+        { "text": "Pneumonia classification" },
+        { "text": "Pulmonary hypertension classification" }
+      ]
+    },
+    {
+      "text": "Which x-ray finding is listed for emphysema?",
+      "answers": [
+        { "text": "Flattened diaphragms", "correct": true },
+        { "text": "Blunting of the costophrenic angle only" },
+        { "text": "Bilateral peripheral infiltrates only" },
+        { "text": "Thumb sign only" }
+      ]
+    },
+    {
+      "text": "The source describes emphysema skin color as:",
+      "answers": [
+        { "text": "Pink and not cyanotic", "correct": true },
+        { "text": "Always blue cyanotic" },
+        { "text": "Always jaundiced" },
+        { "text": "Always pale with no dyspnea" }
+      ]
+    },
+    {
+      "text": "Restrictive disease causes decreased lung volume and:",
+      "answers": [
+        { "text": "Increased work of breathing", "correct": true },
+        { "text": "Fully reversible bronchospasm only" },
+        { "text": "Increased AHI only" },
+        { "text": "Only increased sputum production" }
+      ]
+    },
+    {
+      "text": "In PAINT, N represents:",
+      "answers": [
+        { "text": "Neuromuscular", "correct": true },
+        { "text": "N95" },
+        { "text": "Night sweats" },
+        { "text": "Narcotic use" }
+      ]
+    },
+    {
+      "text": "Which condition is a pleural disease listed in the source?",
+      "answers": [
+        { "text": "Hemothorax", "correct": true },
+        { "text": "Asthma" },
+        { "text": "Small cell carcinoma" },
+        { "text": "Insomnia" }
+      ]
+    },
+    {
+      "text": "Which pleural effusion cause is transudative in the source?",
+      "answers": [
+        { "text": "CHF", "correct": true },
+        { "text": "Cancer" },
+        { "text": "TB" },
+        { "text": "Viral infection" }
+      ]
+    },
+    {
+      "text": "An open pneumothorax is also called:",
+      "answers": [
+        { "text": "Sucking chest wound", "correct": true },
+        { "text": "Overlap syndrome" },
+        { "text": "Caseous granuloma" },
+        { "text": "Blue bloater" }
+      ]
+    },
+    {
+      "text": "Which sign is listed for tension pneumothorax?",
+      "answers": [
+        { "text": "Jugular venous distension", "correct": true },
+        { "text": "Positive IGRA only" },
+        { "text": "Swollen ankles from sarcoidosis only" },
+        { "text": "AHI less than 5" }
+      ]
+    },
+    {
+      "text": "A bronchopleural fistula may require monitoring of:",
+      "answers": [
+        { "text": "Tidal volume, airway pressure, and PEEP", "correct": true },
+        { "text": "Sleep stages, eye leads, and limb leads only" },
+        { "text": "PPD, IGRA, and AFB only" },
+        { "text": "Sweat weight and chloride only" }
+      ]
+    },
+    {
+      "text": "Hypersensitivity pneumonitis is described as:",
+      "answers": [
+        { "text": "A cell-mediated immune reaction to inhaled antigens", "correct": true },
+        { "text": "A sudden pulmonary artery blockage" },
+        { "text": "A lack of ventilatory effort during sleep" },
+        { "text": "A chronic productive cough definition" }
+      ]
+    },
+    {
+      "text": "Which occupational ILD exposure is listed?",
+      "answers": [
+        { "text": "Asbestos causing asbestosis", "correct": true },
+        { "text": "Cold dry air causing OSA" },
+        { "text": "Eliquis causing pneumonia" },
+        { "text": "Tracheostomy causing CF" }
+      ]
+    },
+    {
+      "text": "Sarcoidosis most commonly affects the lungs and:",
+      "answers": [
+        { "text": "Lymph nodes", "correct": true },
+        { "text": "Pulmonary artery catheter only" },
+        { "text": "Sweat glands only" },
+        { "text": "Endotracheal tube cuff only" }
+      ]
+    },
+    {
+      "text": "Which monitoring threshold is listed for myasthenia gravis and Guillain-Barre?",
+      "answers": [
+        { "text": "Vital capacity less than 20 mL/kg or 30% of baseline", "correct": true },
+        { "text": "AHI greater than 30 events/hr" },
+        { "text": "P/F ratio greater than 400" },
+        { "text": "Mean PAP 8-20 mmHg" }
+      ]
+    },
+    {
+      "text": "Flail chest occurs when:",
+      "answers": [
+        { "text": "Multiple adjacent ribs fracture in two or more places", "correct": true },
+        { "text": "Macrophages collect in alveoli only" },
+        { "text": "The upper airway closes during sleep" },
+        { "text": "An embolus originates in a lower extremity vein" }
+      ]
+    },
+    {
+      "text": "ARDS requires bilateral opacities consistent with:",
+      "answers": [
+        { "text": "Pulmonary edema", "correct": true },
+        { "text": "Cystic fibrosis" },
+        { "text": "Pulmonary embolism only" },
+        { "text": "Sleep movement disorder" }
+      ]
+    },
+    {
+      "text": "Which P/F ratio meets the source criterion for acute hypoxemic respiratory failure on oxygen?",
+      "answers": [
+        { "text": "Less than 300", "correct": true },
+        { "text": "Greater than 400" },
+        { "text": "Exactly 8-20" },
+        { "text": "Less than 5" }
+      ]
+    },
+    {
+      "text": "Which ARDS injury is listed as direct?",
+      "answers": [
+        { "text": "Near drowning", "correct": true },
+        { "text": "Small chin" },
+        { "text": "GERD" },
+        { "text": "Shift work" }
+      ]
+    },
+    {
+      "text": "ARDS management listed in the source includes:",
+      "answers": [
+        { "text": "Lung protective strategies", "correct": true },
+        { "text": "Sweat chloride testing" },
+        { "text": "Oral appliances only" },
+        { "text": "BCG vaccination" }
+      ]
+    },
+    {
+      "text": "Cancer cells spread to secondary sites through:",
+      "answers": [
+        { "text": "Metastasis", "correct": true },
+        { "text": "Pleurodesis" },
+        { "text": "Caseation" },
+        { "text": "Sniff testing" }
+      ]
+    },
+    {
+      "text": "Which lung cancer type is part of non-small cell carcinoma in the source?",
+      "answers": [
+        { "text": "Adenocarcinoma", "correct": true },
+        { "text": "Endobronchial tuberculosis" },
+        { "text": "Central sleep apnea" },
+        { "text": "Primary spontaneous pneumothorax" }
+      ]
+    },
+    {
+      "text": "Stage IV lung cancer means:",
+      "answers": [
+        { "text": "Cancer is advanced and has spread to other areas of the body", "correct": true },
+        { "text": "Cancer is limited to one lobe only" },
+        { "text": "The patient has a normal P/F ratio" },
+        { "text": "The patient has mild AHI" }
+      ]
+    },
+    {
+      "text": "Small cell lung cancer treatment listed in the source includes:",
+      "answers": [
+        { "text": "Chemotherapy and radiation therapy", "correct": true },
+        { "text": "Thoracentesis and pleurodesis only" },
+        { "text": "CPAP and tennis ball technique only" },
+        { "text": "Ethambutol and isoniazid only" }
+      ]
+    },
+    {
+      "text": "Pulmonary emboli occur more often in which lung according to the source?",
+      "answers": [
+        { "text": "Right lung", "correct": true },
+        { "text": "Left lung only" },
+        { "text": "Both lungs equally in every case" },
+        { "text": "Only upper lobes of both lungs" }
+      ]
+    },
+    {
+      "text": "Which PE risk factor is listed?",
+      "answers": [
+        { "text": "Previous DVT", "correct": true },
+        { "text": "Washing bedding weekly" },
+        { "text": "Negative pressure room" },
+        { "text": "Warm-blooded pets only" }
+      ]
+    },
+    {
+      "text": "Which PE treatment category includes Activase in the source?",
+      "answers": [
+        { "text": "t-PA class thrombolytics", "correct": true },
+        { "text": "Oral appliances" },
+        { "text": "Anticholinesterases" },
+        { "text": "Mediator modifiers" }
+      ]
+    },
+    {
+      "text": "Pulmonary hypertension signs include:",
+      "answers": [
+        { "text": "Loud second heart sound", "correct": true },
+        { "text": "Positive sweat chloride" },
+        { "text": "Patchy consolidation" },
+        { "text": "Low-grade fever only" }
+      ]
+    },
+    {
+      "text": "Which diagnostic test is listed for pulmonary hypertension?",
+      "answers": [
+        { "text": "Echocardiogram", "correct": true },
+        { "text": "Mini BAL only" },
+        { "text": "PPD only" },
+        { "text": "Tennis ball technique" }
+      ]
+    },
+    {
+      "text": "Which pulmonary hypertension treatment is listed?",
+      "answers": [
+        { "text": "Prostanoids such as Flolan", "correct": true },
+        { "text": "DNase only" },
+        { "text": "BCG vaccine only" },
+        { "text": "Routine brushing only" }
+      ]
+    },
+    {
+      "text": "Which sleep disorder category includes sleepwalking and sleep terrors?",
+      "answers": [
+        { "text": "Parasomnias", "correct": true },
+        { "text": "Hypersomnias" },
+        { "text": "Pulmonary vascular disorders" },
+        { "text": "Pleural diseases" }
+      ]
+    },
+    {
+      "text": "Hypopnea in the source includes a 30% decrease in airflow and:",
+      "answers": [
+        { "text": "4% decrease in SaO2", "correct": true },
+        { "text": "P/F ratio greater than 400" },
+        { "text": "Mean PAP greater than 25 mmHg" },
+        { "text": "Sweat chloride less than 40 mEq/L" }
+      ]
+    },
+    {
+      "text": "Which OSA contributing factor is listed?",
+      "answers": [
+        { "text": "Tonsillar hypertrophy", "correct": true },
+        { "text": "Caseous necrosis" },
+        { "text": "Right heart bacterial endocarditis" },
+        { "text": "AFB culture" }
+      ]
+    },
+    {
+      "text": "Overlap syndrome patients are often:",
+      "answers": [
+        { "text": "Obese smokers with moderate to severe nocturnal desaturations", "correct": true },
+        { "text": "Only infants with RSV" },
+        { "text": "Only late teens with primary spontaneous pneumothorax" },
+        { "text": "Only patients with BCG vaccination" }
+      ]
+    },
+    {
+      "text": "Which PSG parameter monitors snoring?",
+      "answers": [
+        { "text": "Tracheal microphone", "correct": true },
+        { "text": "Liver function panel" },
+        { "text": "Pleural catheter" },
+        { "text": "Swan-Ganz catheter" }
+      ]
+    },
+    {
+      "text": "CPAP is indicated for which AHI severity range in the source?",
+      "answers": [
+        { "text": "Moderate to severe AHI", "correct": true },
+        { "text": "Normal AHI only" },
+        { "text": "Only borderline sweat chloride" },
+        { "text": "Only positive PPD" }
+      ]
+    }
+  ]
+}
