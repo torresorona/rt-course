@@ -1,0 +1,473 @@
+{
+  "title": "Rehabilitation, Patient Education & Health Promotion Quiz",
+  "questions": [
+    {
+      "text": "What is the overall goal of rehabilitation in this lesson?",
+      "answers": [
+        {
+          "text": "Maximize functional ability and minimize the impact of disability",
+          "correct": true
+        },
+        {
+          "text": "Replace all home oxygen equipment"
+        },
+        {
+          "text": "Eliminate the need for follow-up"
+        },
+        {
+          "text": "Limit care to classroom education only"
+        }
+      ]
+    },
+    {
+      "text": "Poor conditioning of muscles leads to inefficient oxygen use and:",
+      "answers": [
+        {
+          "text": "Excess acid production",
+          "correct": true
+        },
+        {
+          "text": "Automatic weight loss"
+        },
+        {
+          "text": "Improved ventilation without exercise"
+        },
+        {
+          "text": "A required chest cuirass"
+        }
+      ]
+    },
+    {
+      "text": "Why is psychosocial support included in pulmonary rehabilitation?",
+      "answers": [
+        {
+          "text": "COPD can reduce motivation and is often associated with anxiety and stress",
+          "correct": true
+        },
+        {
+          "text": "It replaces the need for exercise testing"
+        },
+        {
+          "text": "It is used only to assign oxygen cylinder size"
+        },
+        {
+          "text": "It eliminates the need for patient education"
+        }
+      ]
+    },
+    {
+      "text": "Additional pulmonary rehab tests may include PFTs and exercise tests to establish:",
+      "answers": [
+        {
+          "text": "A baseline and degree of hypoxia or desaturation",
+          "correct": true
+        },
+        {
+          "text": "Only the class size"
+        },
+        {
+          "text": "Only the parking plan"
+        },
+        {
+          "text": "Only the brand of nebulizer"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is listed as a contraindication to exercise testing?",
+      "answers": [
+        {
+          "text": "Unstable angina",
+          "correct": true
+        },
+        {
+          "text": "Stable patient motivation"
+        },
+        {
+          "text": "Completed follow-up"
+        },
+        {
+          "text": "Access to public transportation"
+        }
+      ]
+    },
+    {
+      "text": "In an open-ended pulmonary rehabilitation program design, patients progress until:",
+      "answers": [
+        {
+          "text": "Goals are reached",
+          "correct": true
+        },
+        {
+          "text": "A fixed calendar date arrives"
+        },
+        {
+          "text": "All education is removed"
+        },
+        {
+          "text": "Oxygen prescriptions expire"
+        }
+      ]
+    },
+    {
+      "text": "For most pulmonary rehab patients, the initial target heart rate is:",
+      "answers": [
+        {
+          "text": "20 beats per minute above resting rate",
+          "correct": true
+        },
+        {
+          "text": "40% below resting rate"
+        },
+        {
+          "text": "The same as the oxygen flow rate"
+        },
+        {
+          "text": "Determined only by class size"
+        }
+      ]
+    },
+    {
+      "text": "Which item belongs in the pulmonary rehab exercise prescription?",
+      "answers": [
+        {
+          "text": "Timed walking such as a 6- or 12-minute walk",
+          "correct": true
+        },
+        {
+          "text": "Only written examinations"
+        },
+        {
+          "text": "Only Pap smears"
+        },
+        {
+          "text": "Only spirometry demonstrations"
+        }
+      ]
+    },
+    {
+      "text": "What should be available in the room for pulmonary rehabilitation physical reconditioning?",
+      "answers": [
+        {
+          "text": "Emergency O2",
+          "correct": true
+        },
+        {
+          "text": "An iron lung"
+        },
+        {
+          "text": "A polysomnogram report for every class"
+        },
+        {
+          "text": "A home oxygen invoice"
+        }
+      ]
+    },
+    {
+      "text": "Cardiac rehabilitation is designed for patients with:",
+      "answers": [
+        {
+          "text": "Cardiovascular diseases",
+          "correct": true
+        },
+        {
+          "text": "Only obstructive sleep apnea"
+        },
+        {
+          "text": "Only tracheostomy tube changes"
+        },
+        {
+          "text": "Only durable medical equipment issues"
+        }
+      ]
+    },
+    {
+      "text": "Which goal is listed for cardiac rehabilitation programs?",
+      "answers": [
+        {
+          "text": "Improve heart health and work capacity",
+          "correct": true
+        },
+        {
+          "text": "Eliminate all education sessions"
+        },
+        {
+          "text": "Avoid multidisciplinary care"
+        },
+        {
+          "text": "Use only ventilatory muscle training"
+        }
+      ]
+    },
+    {
+      "text": "Exercise regimens in cardiac rehabilitation should be customized to the patient's condition, fitness ability, and:",
+      "answers": [
+        {
+          "text": "Overall health",
+          "correct": true
+        },
+        {
+          "text": "Classroom projector type"
+        },
+        {
+          "text": "Home oxygen cylinder size"
+        },
+        {
+          "text": "Polysomnogram appointment time"
+        }
+      ]
+    },
+    {
+      "text": "Cardiac rehab education includes disease management topics such as symptoms, risk factors, and:",
+      "answers": [
+        {
+          "text": "Prevention strategies",
+          "correct": true
+        },
+        {
+          "text": "Oxygen tank backup only"
+        },
+        {
+          "text": "Tracheostomy tube changes only"
+        },
+        {
+          "text": "Autogenic drainage only"
+        }
+      ]
+    },
+    {
+      "text": "Monitoring and support systems may use wearable devices and mobile apps to monitor:",
+      "answers": [
+        {
+          "text": "Activity levels and health metrics",
+          "correct": true
+        },
+        {
+          "text": "Only classroom attendance"
+        },
+        {
+          "text": "Only oxygen cylinder labels"
+        },
+        {
+          "text": "Only spirometry vocabulary"
+        }
+      ]
+    },
+    {
+      "text": "Which professional is listed as part of the cardiac rehabilitation multidisciplinary team?",
+      "answers": [
+        {
+          "text": "Dietitian",
+          "correct": true
+        },
+        {
+          "text": "Durable medical equipment supplier only"
+        },
+        {
+          "text": "Transportation coordinator only"
+        },
+        {
+          "text": "Accreditation surveyor only"
+        }
+      ]
+    },
+    {
+      "text": "Which statement correctly compares pulmonary and cardiac rehabilitation from the lessons?",
+      "answers": [
+        {
+          "text": "Both use a multidisciplinary approach with exercise, education, and support",
+          "correct": true
+        },
+        {
+          "text": "Only cardiac rehabilitation includes any patient education"
+        },
+        {
+          "text": "Only pulmonary rehabilitation uses any program goals"
+        },
+        {
+          "text": "Both programs avoid follow-up"
+        }
+      ]
+    },
+    {
+      "text": "Why is patient education important in respiratory care?",
+      "answers": [
+        {
+          "text": "It is an essential component of patient care",
+          "correct": true
+        },
+        {
+          "text": "It replaces all ordered treatment"
+        },
+        {
+          "text": "It is used only for classroom staff"
+        },
+        {
+          "text": "It removes the need to verify understanding"
+        }
+      ]
+    },
+    {
+      "text": "Which cause is listed as one of the four central preventable causes of major diseases?",
+      "answers": [
+        {
+          "text": "Tobacco use",
+          "correct": true
+        },
+        {
+          "text": "Chest X-ray testing"
+        },
+        {
+          "text": "Pulmonary rehabilitation"
+        },
+        {
+          "text": "Basic Life Support instruction"
+        }
+      ]
+    },
+    {
+      "text": "In the lesson, culture is defined as:",
+      "answers": [
+        {
+          "text": "The way patients view health and the need for care interventions",
+          "correct": true
+        },
+        {
+          "text": "The patient's oxygen flow rate"
+        },
+        {
+          "text": "The patient's exercise target heart rate"
+        },
+        {
+          "text": "The accreditation status of a facility"
+        }
+      ]
+    },
+    {
+      "text": "Health literacy supports the ability to obtain, process, and understand health information in order to:",
+      "answers": [
+        {
+          "text": "Make appropriate health decisions",
+          "correct": true
+        },
+        {
+          "text": "Choose a classroom projector"
+        },
+        {
+          "text": "Determine liquid oxygen temperature"
+        },
+        {
+          "text": "Avoid all patient questions"
+        }
+      ]
+    },
+    {
+      "text": "Which learning domain focuses on physical skill needed to perform specific treatments?",
+      "answers": [
+        {
+          "text": "Psychomotor",
+          "correct": true
+        },
+        {
+          "text": "Cognitive"
+        },
+        {
+          "text": "Affective"
+        },
+        {
+          "text": "Vocational"
+        }
+      ]
+    },
+    {
+      "text": "Which teaching tip is included in the lesson?",
+      "answers": [
+        {
+          "text": "Address the patient's immediate concerns first",
+          "correct": true
+        },
+        {
+          "text": "Keep sessions long and unfocused"
+        },
+        {
+          "text": "Avoid practice for psychomotor skills"
+        },
+        {
+          "text": "Evaluate in a threatening manner"
+        }
+      ]
+    },
+    {
+      "text": "Adult learners are described as:",
+      "answers": [
+        {
+          "text": "Internally motivated and self-directed",
+          "correct": true
+        },
+        {
+          "text": "Externally motivated and directed by others"
+        },
+        {
+          "text": "Trusting the teacher without questions"
+        },
+        {
+          "text": "Learning only for the future"
+        }
+      ]
+    },
+    {
+      "text": "What is the goal of health education?",
+      "answers": [
+        {
+          "text": "Behavior change",
+          "correct": true
+        },
+        {
+          "text": "Eliminating patient responsibility"
+        },
+        {
+          "text": "Avoiding disease prevention"
+        },
+        {
+          "text": "Replacing all health promotion campaigns"
+        }
+      ]
+    },
+    {
+      "text": "Which example belongs under early detection?",
+      "answers": [
+        {
+          "text": "Mammograms",
+          "correct": true
+        },
+        {
+          "text": "Exercise"
+        },
+        {
+          "text": "Healthy diet"
+        },
+        {
+          "text": "Pulmonary rehabilitation"
+        }
+      ]
+    },
+    {
+      "text": "Which setting and example are correctly matched for respiratory therapist education?",
+      "answers": [
+        {
+          "text": "Community - smoking cessation programs and Basic Life Support instruction",
+          "correct": true
+        },
+        {
+          "text": "Home - anti-smoking educational experiences for teenagers only"
+        },
+        {
+          "text": "Work site - only pulmonary rehabilitation"
+        },
+        {
+          "text": "Educational institutions - only PFT/BP screening"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "title": "Alternative Care Settings Quiz",
+  "questions": [
+    {
+      "text": "Which goal best matches the respiratory therapist's role in alternative care settings after the Affordable Care Act?",
+      "answers": [
+        {
+          "text": "Reduce cost and achieve better patient outcomes",
+          "correct": true
+        },
+        {
+          "text": "Eliminate home care follow-up visits"
+        },
+        {
+          "text": "Replace all durable medical equipment suppliers"
+        },
+        {
+          "text": "Limit care to acute hospital units"
+        }
+      ]
+    },
+    {
+      "text": "Which respiratory care service is listed as the most common in non-acute and post-acute care facilities?",
+      "answers": [
+        {
+          "text": "Continuous O2 therapy",
+          "correct": true
+        },
+        {
+          "text": "Iron lung ventilation"
+        },
+        {
+          "text": "Routine lung compliance testing"
+        },
+        {
+          "text": "Daily ABG sampling for every patient"
+        }
+      ]
+    },
+    {
+      "text": "Which alternative care setting is identified as the most common?",
+      "answers": [
+        {
+          "text": "Home care",
+          "correct": true
+        },
+        {
+          "text": "Subacute facility"
+        },
+        {
+          "text": "Rehabilitation facility"
+        },
+        {
+          "text": "Skilled nursing facility"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is listed as a common clinical condition treated at home?",
+      "answers": [
+        {
+          "text": "COPD",
+          "correct": true
+        },
+        {
+          "text": "Untreated unstable asthma only"
+        },
+        {
+          "text": "Unstable angina only"
+        },
+        {
+          "text": "Severe pulmonary hypertension only"
+        }
+      ]
+    },
+    {
+      "text": "Standards for respiratory care in subacute and home settings are derived from AARC guidelines, laws, and:",
+      "answers": [
+        {
+          "text": "Private-sector accreditation standards",
+          "correct": true
+        },
+        {
+          "text": "Only local class schedules"
+        },
+        {
+          "text": "Only oxygen cylinder size charts"
+        },
+        {
+          "text": "Only patient preference forms"
+        }
+      ]
+    },
+    {
+      "text": "Which organization is identified as the primary organization responsible for patient care standards in subacute care?",
+      "answers": [
+        {
+          "text": "The Joint Commission",
+          "correct": true
+        },
+        {
+          "text": "A durable medical equipment supplier"
+        },
+        {
+          "text": "A home oxygen concentrator manufacturer"
+        },
+        {
+          "text": "A local transport service"
+        }
+      ]
+    },
+    {
+      "text": "Compared with traditional acute care, RTs in alternative care settings commonly:",
+      "answers": [
+        {
+          "text": "Work more independently with fewer resources",
+          "correct": true
+        },
+        {
+          "text": "Have more equipment and no paperwork"
+        },
+        {
+          "text": "Avoid team-based care"
+        },
+        {
+          "text": "Never work on-call"
+        }
+      ]
+    },
+    {
+      "text": "For discharge to home, which preparation is specifically required?",
+      "answers": [
+        {
+          "text": "Caregivers must be trained and prepared",
+          "correct": true
+        },
+        {
+          "text": "All ABGs must be checked daily forever"
+        },
+        {
+          "text": "The patient must be placed on liquid oxygen"
+        },
+        {
+          "text": "The home care team must exclude the DME supplier"
+        }
+      ]
+    },
+    {
+      "text": "Which item must be included in an oxygen therapy prescription?",
+      "answers": [
+        {
+          "text": "Flow rate and/or concentration",
+          "correct": true
+        },
+        {
+          "text": "Classroom equipment list"
+        },
+        {
+          "text": "Ideal class size"
+        },
+        {
+          "text": "Counseling room schedule"
+        }
+      ]
+    },
+    {
+      "text": "Which oxygen delivery system is the most common for long-term care?",
+      "answers": [
+        {
+          "text": "Nasal cannula",
+          "correct": true
+        },
+        {
+          "text": "Chest cuirass"
+        },
+        {
+          "text": "Pneumosuit"
+        },
+        {
+          "text": "Iron lung"
+        }
+      ]
+    },
+    {
+      "text": "Demand-flow oxygen systems are also known as:",
+      "answers": [
+        {
+          "text": "Pulsed-dose systems",
+          "correct": true
+        },
+        {
+          "text": "Volume-cycled systems"
+        },
+        {
+          "text": "Chest cuirass systems"
+        },
+        {
+          "text": "Polysomnograms"
+        }
+      ]
+    },
+    {
+      "text": "A backup ventilator is required for a patient who cannot maintain spontaneous ventilation for more than:",
+      "answers": [
+        {
+          "text": "4 hours",
+          "correct": true
+        },
+        {
+          "text": "20 minutes"
+        },
+        {
+          "text": "24 hours"
+        },
+        {
+          "text": "7 days"
+        }
+      ]
+    },
+    {
+      "text": "What is the biggest challenge with noninvasive positive-pressure ventilation in the lesson?",
+      "answers": [
+        {
+          "text": "Getting a good, comfortable, leak-free interface",
+          "correct": true
+        },
+        {
+          "text": "Finding a room for counseling"
+        },
+        {
+          "text": "Choosing a class size"
+        },
+        {
+          "text": "Writing a Pap smear schedule"
+        }
+      ]
+    },
+    {
+      "text": "Which finding should be monitored daily during ventilator support follow-up?",
+      "answers": [
+        {
+          "text": "Vital signs, lung sounds, and sputum production",
+          "correct": true
+        },
+        {
+          "text": "ABGs and lung compliance for every visit"
+        },
+        {
+          "text": "Only oxygen cylinder pressure"
+        },
+        {
+          "text": "Only diet and recreation counseling"
+        }
+      ]
+    },
+    {
+      "text": "For Medicare reimbursement of nasal CPAP for obstructive sleep apnea, the diagnosis must be confirmed by:",
+      "answers": [
+        {
+          "text": "A polysomnogram",
+          "correct": true
+        },
+        {
+          "text": "A chest cuirass fitting"
+        },
+        {
+          "text": "A durable medical equipment invoice"
+        },
+        {
+          "text": "A timed walk alone"
+        }
+      ]
+    }
+  ]
+}
