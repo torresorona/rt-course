@@ -1,0 +1,905 @@
+{
+  "title": "Community Health Module Exam",
+  "questions": [
+    {
+      "text": "The Affordable Care Act was implemented in what year?",
+      "answers": [
+        {
+          "text": "2010",
+          "correct": true
+        },
+        {
+          "text": "2001"
+        },
+        {
+          "text": "2019"
+        },
+        {
+          "text": "2021"
+        }
+      ]
+    },
+    {
+      "text": "In alternative care settings, the respiratory therapist's role includes helping to:",
+      "answers": [
+        {
+          "text": "Reduce cost and achieve better patient outcomes",
+          "correct": true
+        },
+        {
+          "text": "Eliminate discharge planning"
+        },
+        {
+          "text": "Replace all provider orders"
+        },
+        {
+          "text": "Avoid patient education"
+        }
+      ]
+    },
+    {
+      "text": "Which respiratory care service is most common in non-acute and post-acute care facilities?",
+      "answers": [
+        {
+          "text": "Continuous O2 therapy",
+          "correct": true
+        },
+        {
+          "text": "Negative-pressure ventilation"
+        },
+        {
+          "text": "Daily lung compliance testing"
+        },
+        {
+          "text": "Routine polysomnography"
+        }
+      ]
+    },
+    {
+      "text": "Which alternative care setting is identified as the most common?",
+      "answers": [
+        {
+          "text": "Home care",
+          "correct": true
+        },
+        {
+          "text": "Subacute facility"
+        },
+        {
+          "text": "Rehabilitation facility"
+        },
+        {
+          "text": "Skilled nursing facility"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is listed as commonly treated at home?",
+      "answers": [
+        {
+          "text": "Cystic fibrosis",
+          "correct": true
+        },
+        {
+          "text": "Unstable angina only"
+        },
+        {
+          "text": "Untreated unstable asthma only"
+        },
+        {
+          "text": "Severe pulmonary hypertension only"
+        }
+      ]
+    },
+    {
+      "text": "Standards for subacute and home respiratory care are derived from AARC guidelines, laws, and:",
+      "answers": [
+        {
+          "text": "Private-sector accreditation standards",
+          "correct": true
+        },
+        {
+          "text": "Only oxygen cylinder manuals"
+        },
+        {
+          "text": "Only class rosters"
+        },
+        {
+          "text": "Only patient preference surveys"
+        }
+      ]
+    },
+    {
+      "text": "Which payer plays a major role in setting standards for care outside the hospital?",
+      "answers": [
+        {
+          "text": "Medicare",
+          "correct": true
+        },
+        {
+          "text": "A classroom equipment vendor"
+        },
+        {
+          "text": "A transport service"
+        },
+        {
+          "text": "A textbook publisher"
+        }
+      ]
+    },
+    {
+      "text": "Which organization is identified as the primary organization responsible for patient care standards in subacute care?",
+      "answers": [
+        {
+          "text": "The Joint Commission",
+          "correct": true
+        },
+        {
+          "text": "The DME supplier"
+        },
+        {
+          "text": "The oxygen concentrator manufacturer"
+        },
+        {
+          "text": "The local transport service"
+        }
+      ]
+    },
+    {
+      "text": "Compared with traditional acute care, RTs in alternative care settings commonly:",
+      "answers": [
+        {
+          "text": "Work more independently with less equipment and fewer resources",
+          "correct": true
+        },
+        {
+          "text": "Have more equipment and no paperwork"
+        },
+        {
+          "text": "Avoid team care"
+        },
+        {
+          "text": "Never work on-call"
+        }
+      ]
+    },
+    {
+      "text": "For discharge to home, which preparation is specifically required?",
+      "answers": [
+        {
+          "text": "Caregivers must be trained and prepared",
+          "correct": true
+        },
+        {
+          "text": "All ABGs must be checked daily forever"
+        },
+        {
+          "text": "The patient must use liquid oxygen"
+        },
+        {
+          "text": "The DME supplier must be excluded"
+        }
+      ]
+    },
+    {
+      "text": "Which item must be included in an oxygen therapy prescription?",
+      "answers": [
+        {
+          "text": "Diagnosis",
+          "correct": true
+        },
+        {
+          "text": "Classroom schedule"
+        },
+        {
+          "text": "Ideal class size"
+        },
+        {
+          "text": "Counseling room color"
+        }
+      ]
+    },
+    {
+      "text": "Which oxygen delivery system is most common for long-term care?",
+      "answers": [
+        {
+          "text": "Nasal cannula",
+          "correct": true
+        },
+        {
+          "text": "Chest cuirass"
+        },
+        {
+          "text": "Pneumosuit"
+        },
+        {
+          "text": "Iron lung"
+        }
+      ]
+    },
+    {
+      "text": "Transtracheal O2 therapy is used in select patients because it:",
+      "answers": [
+        {
+          "text": "Conserves O2 and has cosmetic advantages",
+          "correct": true
+        },
+        {
+          "text": "Replaces all ventilator support"
+        },
+        {
+          "text": "Requires daily polysomnography"
+        },
+        {
+          "text": "Is the same as a chest cuirass"
+        }
+      ]
+    },
+    {
+      "text": "Demand-flow oxygen systems are also known as:",
+      "answers": [
+        {
+          "text": "Pulsed-dose systems",
+          "correct": true
+        },
+        {
+          "text": "Volume-cycled systems"
+        },
+        {
+          "text": "Closed-design systems"
+        },
+        {
+          "text": "Polysomnograms"
+        }
+      ]
+    },
+    {
+      "text": "Liquid O2 is approximately:",
+      "answers": [
+        {
+          "text": "-300 degrees F",
+          "correct": true
+        },
+        {
+          "text": "20 degrees F"
+        },
+        {
+          "text": "40 degrees F"
+        },
+        {
+          "text": "300 degrees F"
+        }
+      ]
+    },
+    {
+      "text": "The most common oxygen concentrator in use is based on:",
+      "answers": [
+        {
+          "text": "A molecular sieve",
+          "correct": true
+        },
+        {
+          "text": "A pneumosuit"
+        },
+        {
+          "text": "A closed program design"
+        },
+        {
+          "text": "A polysomnogram"
+        }
+      ]
+    },
+    {
+      "text": "Noninvasive ventilator support is described as increasing in popularity partly because patients are cooperative and FiO2 is:",
+      "answers": [
+        {
+          "text": "40% or lower",
+          "correct": true
+        },
+        {
+          "text": "60% or higher"
+        },
+        {
+          "text": "Always 100%"
+        },
+        {
+          "text": "Not considered"
+        }
+      ]
+    },
+    {
+      "text": "A backup ventilator is required for patients who cannot maintain spontaneous ventilation for more than:",
+      "answers": [
+        {
+          "text": "4 hours",
+          "correct": true
+        },
+        {
+          "text": "20 minutes"
+        },
+        {
+          "text": "24 hours"
+        },
+        {
+          "text": "7 days"
+        }
+      ]
+    },
+    {
+      "text": "Most patients, especially those with COPD, prefer which positive-pressure ventilator style?",
+      "answers": [
+        {
+          "text": "Pressure-limited ventilation",
+          "correct": true
+        },
+        {
+          "text": "Volume-cycled ventilation"
+        },
+        {
+          "text": "Iron lung ventilation"
+        },
+        {
+          "text": "Chest cuirass ventilation"
+        }
+      ]
+    },
+    {
+      "text": "The biggest challenge with NPPV is getting:",
+      "answers": [
+        {
+          "text": "A good, comfortable, leak-free interface",
+          "correct": true
+        },
+        {
+          "text": "A classroom projector"
+        },
+        {
+          "text": "A mammogram"
+        },
+        {
+          "text": "A reward system"
+        }
+      ]
+    },
+    {
+      "text": "Which values should be monitored daily during home ventilator follow-up?",
+      "answers": [
+        {
+          "text": "Vital signs, lung sounds, and sputum production",
+          "correct": true
+        },
+        {
+          "text": "ABGs and lung compliance for every visit"
+        },
+        {
+          "text": "Only cylinder labels"
+        },
+        {
+          "text": "Only class attendance"
+        }
+      ]
+    },
+    {
+      "text": "For Medicare reimbursement of nasal CPAP for obstructive sleep apnea, the diagnosis must be confirmed by:",
+      "answers": [
+        {
+          "text": "A polysomnogram",
+          "correct": true
+        },
+        {
+          "text": "A chest X-ray alone"
+        },
+        {
+          "text": "A DME invoice"
+        },
+        {
+          "text": "A timed walk alone"
+        }
+      ]
+    },
+    {
+      "text": "Palliative care in home care focuses on maximizing comfort and controlling symptoms such as:",
+      "answers": [
+        {
+          "text": "Pain and dyspnea",
+          "correct": true
+        },
+        {
+          "text": "Only oxygen cylinder pressure"
+        },
+        {
+          "text": "Only test scheduling"
+        },
+        {
+          "text": "Only class size"
+        }
+      ]
+    },
+    {
+      "text": "Rehabilitation is defined as restoration of the individual to the fullest medical, mental, emotional, social, and:",
+      "answers": [
+        {
+          "text": "Vocational potential",
+          "correct": true
+        },
+        {
+          "text": "Accreditation potential"
+        },
+        {
+          "text": "Cylinder potential"
+        },
+        {
+          "text": "Polysomnogram potential"
+        }
+      ]
+    },
+    {
+      "text": "The overall goal of rehabilitation is to maximize functional ability and:",
+      "answers": [
+        {
+          "text": "Minimize the impact of disability",
+          "correct": true
+        },
+        {
+          "text": "Remove all education"
+        },
+        {
+          "text": "Require oxygen for every patient"
+        },
+        {
+          "text": "Avoid follow-up"
+        }
+      ]
+    },
+    {
+      "text": "Poor muscle conditioning leads to inefficient oxygen use and:",
+      "answers": [
+        {
+          "text": "Excess acid production",
+          "correct": true
+        },
+        {
+          "text": "Automatic stress reduction"
+        },
+        {
+          "text": "Improved desaturation"
+        },
+        {
+          "text": "No change in oxygen demand"
+        }
+      ]
+    },
+    {
+      "text": "Pulmonary rehabilitation aims to strengthen essential muscle groups, enhance cardiovascular response, increase exercise tolerance, and:",
+      "answers": [
+        {
+          "text": "Improve overall O2 utilization",
+          "correct": true
+        },
+        {
+          "text": "Remove the need for education"
+        },
+        {
+          "text": "Avoid psychosocial support"
+        },
+        {
+          "text": "Replace all home visits"
+        }
+      ]
+    },
+    {
+      "text": "Psychosocial support is important in pulmonary rehab because COPD can reduce motivation and patients often have:",
+      "answers": [
+        {
+          "text": "Anxiety and stress",
+          "correct": true
+        },
+        {
+          "text": "Only increased class attendance"
+        },
+        {
+          "text": "Only equipment questions"
+        },
+        {
+          "text": "Only improved outlook"
+        }
+      ]
+    },
+    {
+      "text": "Which item belongs in pulmonary rehab patient evaluation?",
+      "answers": [
+        {
+          "text": "Chest X-ray, CBC, and ECG",
+          "correct": true
+        },
+        {
+          "text": "Only oxygen invoice review"
+        },
+        {
+          "text": "Only support group attendance"
+        },
+        {
+          "text": "Only smoking policy review"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is listed as a contraindication to exercise testing?",
+      "answers": [
+        {
+          "text": "Severe pulmonary hypertension",
+          "correct": true
+        },
+        {
+          "text": "Completed follow-up"
+        },
+        {
+          "text": "Adequate parking"
+        },
+        {
+          "text": "Basic life support certification"
+        }
+      ]
+    },
+    {
+      "text": "In an open-ended pulmonary rehab design, patients progress until:",
+      "answers": [
+        {
+          "text": "Goals are reached",
+          "correct": true
+        },
+        {
+          "text": "A set time period expires"
+        },
+        {
+          "text": "Education is removed"
+        },
+        {
+          "text": "Monitoring is stopped"
+        }
+      ]
+    },
+    {
+      "text": "For most pulmonary rehab patients, the initial target heart rate is:",
+      "answers": [
+        {
+          "text": "20 beats per minute above resting rate",
+          "correct": true
+        },
+        {
+          "text": "Equal to the oxygen flow rate"
+        },
+        {
+          "text": "40% or lower"
+        },
+        {
+          "text": "Determined by class size only"
+        }
+      ]
+    },
+    {
+      "text": "Which activity belongs in the pulmonary rehabilitation exercise prescription?",
+      "answers": [
+        {
+          "text": "Upper extremity aerobic exercises",
+          "correct": true
+        },
+        {
+          "text": "Only written exams"
+        },
+        {
+          "text": "Only mammograms"
+        },
+        {
+          "text": "Only smoke cessation counseling"
+        }
+      ]
+    },
+    {
+      "text": "Which topic belongs in pulmonary rehabilitation education?",
+      "answers": [
+        {
+          "text": "Bronchial hygiene techniques",
+          "correct": true
+        },
+        {
+          "text": "Only cylinder color coding"
+        },
+        {
+          "text": "Only DME contracts"
+        },
+        {
+          "text": "Only app setup"
+        }
+      ]
+    },
+    {
+      "text": "Cardiac rehabilitation is a comprehensive exercise and educational program for patients with:",
+      "answers": [
+        {
+          "text": "Cardiovascular diseases",
+          "correct": true
+        },
+        {
+          "text": "Only thick secretions"
+        },
+        {
+          "text": "Only tracheostomy tubes"
+        },
+        {
+          "text": "Only chronic restrictive disease"
+        }
+      ]
+    },
+    {
+      "text": "Which goal belongs to cardiac rehabilitation?",
+      "answers": [
+        {
+          "text": "Improve heart health and work capacity",
+          "correct": true
+        },
+        {
+          "text": "Eliminate lifestyle education"
+        },
+        {
+          "text": "Remove dietary guidance"
+        },
+        {
+          "text": "Avoid return-to-work planning"
+        }
+      ]
+    },
+    {
+      "text": "Cardiac rehabilitation exercise regimens may include cardiovascular, strength, and:",
+      "answers": [
+        {
+          "text": "Flexibility exercises",
+          "correct": true
+        },
+        {
+          "text": "Forced exhalation only"
+        },
+        {
+          "text": "Autogenic drainage only"
+        },
+        {
+          "text": "Suctioning only"
+        }
+      ]
+    },
+    {
+      "text": "Cardiac rehabilitation educational sessions include lifestyle modification such as healthy eating, stress management, and:",
+      "answers": [
+        {
+          "text": "Smoking cessation",
+          "correct": true
+        },
+        {
+          "text": "Liquid oxygen pressure"
+        },
+        {
+          "text": "Chest cuirass fitting"
+        },
+        {
+          "text": "Polysomnogram scoring"
+        }
+      ]
+    },
+    {
+      "text": "Which professional is listed as part of the cardiac rehabilitation multidisciplinary team?",
+      "answers": [
+        {
+          "text": "Psychologist",
+          "correct": true
+        },
+        {
+          "text": "Oxygen cylinder vendor only"
+        },
+        {
+          "text": "Classroom projector technician only"
+        },
+        {
+          "text": "Transport driver only"
+        }
+      ]
+    },
+    {
+      "text": "Which statement correctly compares pulmonary and cardiac rehabilitation?",
+      "answers": [
+        {
+          "text": "Both are multidisciplinary and include exercise, education, and support",
+          "correct": true
+        },
+        {
+          "text": "Only pulmonary rehab includes any education"
+        },
+        {
+          "text": "Only cardiac rehab includes goals"
+        },
+        {
+          "text": "Both avoid follow-up"
+        }
+      ]
+    },
+    {
+      "text": "Respiratory therapists frequently educate patients, families, and caregivers about disease, ordered treatment, health promotion, diagnostic testing, and:",
+      "answers": [
+        {
+          "text": "Adequate home care",
+          "correct": true
+        },
+        {
+          "text": "Only parking rules"
+        },
+        {
+          "text": "Only accreditation surveys"
+        },
+        {
+          "text": "Only equipment brand names"
+        }
+      ]
+    },
+    {
+      "text": "Which item is listed as one of the four central preventable causes of major diseases?",
+      "answers": [
+        {
+          "text": "Poor diet",
+          "correct": true
+        },
+        {
+          "text": "Pulmonary rehabilitation"
+        },
+        {
+          "text": "Basic spirometry"
+        },
+        {
+          "text": "Physical exams"
+        }
+      ]
+    },
+    {
+      "text": "Culture is described as the way patients view health and:",
+      "answers": [
+        {
+          "text": "The need for care interventions",
+          "correct": true
+        },
+        {
+          "text": "The oxygen flowmeter"
+        },
+        {
+          "text": "The class schedule"
+        },
+        {
+          "text": "The DME invoice"
+        }
+      ]
+    },
+    {
+      "text": "Health literacy is the capacity to obtain, process, and understand health information and services in order to:",
+      "answers": [
+        {
+          "text": "Make appropriate health decisions",
+          "correct": true
+        },
+        {
+          "text": "Choose a ventilator brand"
+        },
+        {
+          "text": "Avoid patient questions"
+        },
+        {
+          "text": "Skip ordered treatment"
+        }
+      ]
+    },
+    {
+      "text": "Which learning domain involves attitudes and motivation that influence the patient's ability to learn?",
+      "answers": [
+        {
+          "text": "Affective",
+          "correct": true
+        },
+        {
+          "text": "Cognitive"
+        },
+        {
+          "text": "Psychomotor"
+        },
+        {
+          "text": "Vocational"
+        }
+      ]
+    },
+    {
+      "text": "Which teaching strategy is listed in the lesson?",
+      "answers": [
+        {
+          "text": "Keep sessions short and to the point",
+          "correct": true
+        },
+        {
+          "text": "Avoid repeating important information"
+        },
+        {
+          "text": "Prevent psychomotor practice"
+        },
+        {
+          "text": "Evaluate in a threatening manner"
+        }
+      ]
+    },
+    {
+      "text": "Adult learners are described as internally motivated, self-directed, and:",
+      "answers": [
+        {
+          "text": "Problem oriented",
+          "correct": true
+        },
+        {
+          "text": "Directed by others"
+        },
+        {
+          "text": "Externally motivated"
+        },
+        {
+          "text": "Subject oriented"
+        }
+      ]
+    },
+    {
+      "text": "Health education helps patients make decisions and take responsibility for their health. Its goal is:",
+      "answers": [
+        {
+          "text": "Behavior change",
+          "correct": true
+        },
+        {
+          "text": "No patient responsibility"
+        },
+        {
+          "text": "No disease prevention"
+        },
+        {
+          "text": "Only written exams"
+        }
+      ]
+    },
+    {
+      "text": "Which example belongs under tertiary prevention?",
+      "answers": [
+        {
+          "text": "Chronic disease management",
+          "correct": true
+        },
+        {
+          "text": "Immunizations"
+        },
+        {
+          "text": "Exercise"
+        },
+        {
+          "text": "Pap smears"
+        }
+      ]
+    },
+    {
+      "text": "Which respiratory therapist education setting is correctly matched with its example?",
+      "answers": [
+        {
+          "text": "Work site - PFT/BP screening, stress management, and nicotine intervention",
+          "correct": true
+        },
+        {
+          "text": "Home - classroom projectors and video screens"
+        },
+        {
+          "text": "Community - only mammograms"
+        },
+        {
+          "text": "Educational institutions - oxygen concentrator repair only"
+        }
+      ]
+    }
+  ]
+}

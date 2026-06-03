@@ -1,0 +1,35 @@
+{
+  "title": "Community Health",
+  "description": "Alternative and post-acute respiratory care settings, home oxygen and ventilator support, pulmonary and cardiac rehabilitation, patient education, health promotion, and disease prevention.",
+  "order": 12,
+  "lessons": [
+    {
+      "slug": "community-health/lesson-1",
+      "title": "Alternative Care Settings",
+      "description": "Recent trends in respiratory care outside the hospital, home and subacute care goals, discharge planning, oxygen therapy, ventilator support, airway care, CPAP, documentation, and palliative care.",
+      "audio": "/audio/community-health/Life_Support_in_the_Living_Room.m4a"
+    },
+    {
+      "slug": "community-health/lesson-2",
+      "title": "Rehabilitation, Patient Education & Health Promotion",
+      "description": "Pulmonary and cardiac rehabilitation goals and structures, multidisciplinary care, patient education, culture and health literacy, learning domains, health promotion, disease prevention, and respiratory therapist education settings.",
+      "audio": "/audio/community-health/Restoring_your_life_with_cardiopulmonary_rehab.m4a"
+    },
+    {
+      "slug": "community-health/lesson-3",
+      "title": "Module Exam",
+      "description": "Comprehensive module exam covering alternative care settings, oxygen and ventilator support, pulmonary and cardiac rehabilitation, patient education, health promotion, disease prevention, and RT education settings."
+    }
+  ],
+  "audio": [
+    {
+      "title": "Life Support in the Living Room",
+      "src": "/audio/community-health/Life_Support_in_the_Living_Room.m4a"
+    },
+    {
+      "title": "Restoring Your Life with Cardiopulmonary Rehab",
+      "src": "/audio/community-health/Restoring_your_life_with_cardiopulmonary_rehab.m4a"
+    }
+  ],
+  "resources": []
+}
