@@ -55,14 +55,7 @@
     {
       "slug": "respiratory-therapeutics/lesson-9",
       "title": "Module Exam",
-      "description": "Comprehensive 50-question module exam covering respiratory documentation, gases, oxygen delivery, humidification, medication delivery, controlled breathing, hyperinflation therapy, and airway clearance, plus a focused therapy review exam covering goals, indications, and contraindications.",
-      "quizzes": [
-        {
-          "slug": "therapy-review",
-          "view": "therapy-review-exam",
-          "label": "Therapy Review Exam"
-        }
-      ]
+      "description": "Comprehensive 50-question module exam covering respiratory documentation, gases, oxygen delivery, humidification, medication delivery, controlled breathing, hyperinflation therapy, and airway clearance."
     }
   ],
   "audio": [
