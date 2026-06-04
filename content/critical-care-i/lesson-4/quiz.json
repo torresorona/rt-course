@@ -1,0 +1,365 @@
+{
+  "title": "Extubation, Airway Emergencies & Patient Positioning Quiz",
+  "questions": [
+    {
+      "text": "Extubation is indicated when the condition requiring airway protection or mechanical ventilation:",
+      "answers": [
+        {
+          "text": "Is no longer present",
+          "correct": true
+        },
+        {
+          "text": "Has worsened and ventilation is inadequate"
+        },
+        {
+          "text": "Requires a new chest tube"
+        },
+        {
+          "text": "Requires ICP monitoring"
+        }
+      ]
+    },
+    {
+      "text": "Which patient ability is required before extubation?",
+      "answers": [
+        {
+          "text": "Adequate cough strength to clear secretions",
+          "correct": true
+        },
+        {
+          "text": "Inability to swallow"
+        },
+        {
+          "text": "No central inspiratory drive"
+        },
+        {
+          "text": "No laryngeal function"
+        }
+      ]
+    },
+    {
+      "text": "Which is an extubation hazard?",
+      "answers": [
+        {
+          "text": "Upper airway obstruction from laryngospasm",
+          "correct": true
+        },
+        {
+          "text": "Improved airway patency from obstruction"
+        },
+        {
+          "text": "Lower chance of vocal cord damage"
+        },
+        {
+          "text": "Guaranteed improved oxygenation"
+        }
+      ]
+    },
+    {
+      "text": "The source MIP criterion for extubation is:",
+      "answers": [
+        {
+          "text": "More negative than or equal to -20 cm H2O",
+          "correct": true
+        },
+        {
+          "text": "Exactly 20 mm Hg"
+        },
+        {
+          "text": "Greater than 40 torr"
+        },
+        {
+          "text": "Less than 0.4 L daily"
+        }
+      ]
+    },
+    {
+      "text": "The source tidal volume criterion for extubation is:",
+      "answers": [
+        {
+          "text": "More than 5 mL/kg ideal body weight",
+          "correct": true
+        },
+        {
+          "text": "Less than 2 mL/kg ideal body weight"
+        },
+        {
+          "text": "Exactly 15 L/min"
+        },
+        {
+          "text": "More than 3 L daily"
+        }
+      ]
+    },
+    {
+      "text": "The source vital capacity criterion for extubation is:",
+      "answers": [
+        {
+          "text": "More than 15 mL/kg ideal body weight or about 1.5 L",
+          "correct": true
+        },
+        {
+          "text": "Less than 5 mL/kg ideal body weight"
+        },
+        {
+          "text": "Exactly 10 mL saline"
+        },
+        {
+          "text": "80 to 100 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "For an 80 kg ideal body weight patient, the minimum tidal volume from the source example is:",
+      "answers": [
+        {
+          "text": "400 mL",
+          "correct": true
+        },
+        {
+          "text": "1200 mL"
+        },
+        {
+          "text": "80 mL"
+        },
+        {
+          "text": "9 L/min"
+        }
+      ]
+    },
+    {
+      "text": "Before extubation, the source says to administer 100% oxygen for:",
+      "answers": [
+        {
+          "text": "5 minutes",
+          "correct": true
+        },
+        {
+          "text": "15 seconds"
+        },
+        {
+          "text": "48 hours"
+        },
+        {
+          "text": "3 weeks"
+        }
+      ]
+    },
+    {
+      "text": "During tube removal, the source says to remove the tube at maximal inhalation to help prevent:",
+      "answers": [
+        {
+          "text": "Vocal cord damage",
+          "correct": true
+        },
+        {
+          "text": "Polyuria"
+        },
+        {
+          "text": "A-a gradient widening"
+        },
+        {
+          "text": "Water seal bubbling"
+        }
+      ]
+    },
+    {
+      "text": "A common post-extubation complication heard over the larynx is:",
+      "answers": [
+        {
+          "text": "Stridor",
+          "correct": true
+        },
+        {
+          "text": "Polyuria"
+        },
+        {
+          "text": "Jaundice"
+        },
+        {
+          "text": "Mottling"
+        }
+      ]
+    },
+    {
+      "text": "If wheezing is heard after extubation, the source associates it with:",
+      "answers": [
+        {
+          "text": "Bronchospasm",
+          "correct": true
+        },
+        {
+          "text": "Secretions"
+        },
+        {
+          "text": "Kidney perfusion"
+        },
+        {
+          "text": "Liver detoxification"
+        }
+      ]
+    },
+    {
+      "text": "If rhonchi are heard after extubation, the source associates them with:",
+      "answers": [
+        {
+          "text": "Secretions",
+          "correct": true
+        },
+        {
+          "text": "Bronchospasm"
+        },
+        {
+          "text": "ICP compression"
+        },
+        {
+          "text": "Normal capnography"
+        }
+      ]
+    },
+    {
+      "text": "A tube obstruction may be caused by:",
+      "answers": [
+        {
+          "text": "Mucus or blood",
+          "correct": true
+        },
+        {
+          "text": "Adequate suctioning only"
+        },
+        {
+          "text": "Low liver enzymes"
+        },
+        {
+          "text": "Normal cuff pressure"
+        }
+      ]
+    },
+    {
+      "text": "For partial or complete tube obstruction, the first source troubleshooting step is to:",
+      "answers": [
+        {
+          "text": "Attempt to remove the obstruction by suctioning",
+          "correct": true
+        },
+        {
+          "text": "Immediately place a chest tube"
+        },
+        {
+          "text": "Score APACHE II"
+        },
+        {
+          "text": "Clean the speaking valve with bleach"
+        }
+      ]
+    },
+    {
+      "text": "Which clinical sign suggests a cuff leak?",
+      "answers": [
+        {
+          "text": "Decreased delivered tidal volumes",
+          "correct": true
+        },
+        {
+          "text": "Increased water seal depth"
+        },
+        {
+          "text": "Improved cuff seal"
+        },
+        {
+          "text": "Increased urine output"
+        }
+      ]
+    },
+    {
+      "text": "Which is a cause of unplanned extubation listed in the source?",
+      "answers": [
+        {
+          "text": "Sedation holidays",
+          "correct": true
+        },
+        {
+          "text": "Stable tube securement and no patient movement"
+        },
+        {
+          "text": "Normal renal perfusion"
+        },
+        {
+          "text": "Normal shunt fraction"
+        }
+      ]
+    },
+    {
+      "text": "When repositioning an ETT, the source says to first note current placement by markings at the:",
+      "answers": [
+        {
+          "text": "Teeth or gums",
+          "correct": true
+        },
+        {
+          "text": "Second intercostal space"
+        },
+        {
+          "text": "Lateral ventricle"
+        },
+        {
+          "text": "Water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "The primary purpose of patient positioning is to promote lung expansion, improve oxygenation, and:",
+      "answers": [
+        {
+          "text": "Prevent retention of secretions",
+          "correct": true
+        },
+        {
+          "text": "Increase gastric insufflation"
+        },
+        {
+          "text": "Increase airway obstruction"
+        },
+        {
+          "text": "Stop all mobility"
+        }
+      ]
+    },
+    {
+      "text": "Which is an absolute contraindication to positioning from the source?",
+      "answers": [
+        {
+          "text": "Unstable spinal cord injury",
+          "correct": true
+        },
+        {
+          "text": "Need to improve oxygenation"
+        },
+        {
+          "text": "Need to prevent secretions"
+        },
+        {
+          "text": "High Fowler's for a floor patient"
+        }
+      ]
+    },
+    {
+      "text": "For unilateral lung injury, the source recommends lateral decubitus with:",
+      "answers": [
+        {
+          "text": "The good lung down",
+          "correct": true
+        },
+        {
+          "text": "The affected lung down only"
+        },
+        {
+          "text": "Both lungs elevated above the head"
+        },
+        {
+          "text": "The head lower than the feet for every patient"
+        }
+      ]
+    }
+  ]
+}

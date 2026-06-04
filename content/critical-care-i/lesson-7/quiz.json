@@ -1,0 +1,905 @@
+{
+  "title": "Critical Care I Module Exam",
+  "questions": [
+    {
+      "text": "A manual breathing device is used to provide:",
+      "answers": [
+        {
+          "text": "Positive pressure ventilation to patients not breathing adequately",
+          "correct": true
+        },
+        {
+          "text": "Pleural fluid drainage"
+        },
+        {
+          "text": "ICP monitoring"
+        },
+        {
+          "text": "Liver detoxification"
+        }
+      ]
+    },
+    {
+      "text": "The source adult BVM ventilation rate is:",
+      "answers": [
+        {
+          "text": "10 to 12 breaths per minute",
+          "correct": true
+        },
+        {
+          "text": "1 to 2 breaths per minute"
+        },
+        {
+          "text": "25 to 35 breaths per minute"
+        },
+        {
+          "text": "80 to 100 breaths per minute"
+        }
+      ]
+    },
+    {
+      "text": "Which is an advantage of a self-inflating resuscitation bag?",
+      "answers": [
+        {
+          "text": "It does not need a gas source to operate",
+          "correct": true
+        },
+        {
+          "text": "It only inflates when gas flow is on"
+        },
+        {
+          "text": "It always provides blow-by oxygen"
+        },
+        {
+          "text": "It is used only for neonates"
+        }
+      ]
+    },
+    {
+      "text": "A flow-inflating resuscitation bag requires gas flow and:",
+      "answers": [
+        {
+          "text": "A sealed opening to inflate",
+          "correct": true
+        },
+        {
+          "text": "A water seal chamber"
+        },
+        {
+          "text": "An epidural sensor"
+        },
+        {
+          "text": "A chest tube"
+        }
+      ]
+    },
+    {
+      "text": "Positive pressure ventilation can decrease cardiac output by:",
+      "answers": [
+        {
+          "text": "Increasing intrathoracic pressure and decreasing venous return",
+          "correct": true
+        },
+        {
+          "text": "Increasing renal filtration only"
+        },
+        {
+          "text": "Reducing airway pressure to zero"
+        },
+        {
+          "text": "Increasing cerebral perfusion pressure"
+        }
+      ]
+    },
+    {
+      "text": "An OPA is indicated for an unconscious patient when:",
+      "answers": [
+        {
+          "text": "The tongue may obstruct the oropharynx",
+          "correct": true
+        },
+        {
+          "text": "The patient is conscious with intact airway reflexes"
+        },
+        {
+          "text": "There is oral cavity trauma"
+        },
+        {
+          "text": "A foreign body blocks the oral cavity"
+        }
+      ]
+    },
+    {
+      "text": "An OPA is contraindicated in:",
+      "answers": [
+        {
+          "text": "Conscious or semiconscious patients",
+          "correct": true
+        },
+        {
+          "text": "Unconscious patients"
+        },
+        {
+          "text": "Intubated patients needing a bite block"
+        },
+        {
+          "text": "Patients with tongue obstruction and no consciousness"
+        }
+      ]
+    },
+    {
+      "text": "NPA sizing measures from the patient's earlobe to the:",
+      "answers": [
+        {
+          "text": "Tip of the nose",
+          "correct": true
+        },
+        {
+          "text": "Angle of the jaw"
+        },
+        {
+          "text": "Second intercostal space"
+        },
+        {
+          "text": "Upper incisors"
+        }
+      ]
+    },
+    {
+      "text": "A laryngeal mask airway forms a seal around the:",
+      "answers": [
+        {
+          "text": "Glottis",
+          "correct": true
+        },
+        {
+          "text": "Pleural cavity"
+        },
+        {
+          "text": "Lateral ventricle"
+        },
+        {
+          "text": "Water seal bottle"
+        }
+      ]
+    },
+    {
+      "text": "Which patient fits a King tube indication from the source?",
+      "answers": [
+        {
+          "text": "Unconscious, no gag reflex, and unable to undergo endotracheal intubation",
+          "correct": true
+        },
+        {
+          "text": "Responsive with an intact gag reflex"
+        },
+        {
+          "text": "Known esophageal disease"
+        },
+        {
+          "text": "Caustic substance ingestion"
+        }
+      ]
+    },
+    {
+      "text": "The esophageal tracheal Combitube is:",
+      "answers": [
+        {
+          "text": "A prehospital or emergency airway, not a long-term airway",
+          "correct": true
+        },
+        {
+          "text": "A permanent tracheostomy button"
+        },
+        {
+          "text": "A capnography waveform"
+        },
+        {
+          "text": "A renal monitoring index"
+        }
+      ]
+    },
+    {
+      "text": "All airway equipment uses the standard ETT connector size of:",
+      "answers": [
+        {
+          "text": "15 mm",
+          "correct": true
+        },
+        {
+          "text": "2 cm"
+        },
+        {
+          "text": "5 to 8 cm"
+        },
+        {
+          "text": "20 to 25 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "A CASS or Hi-Lo endotracheal tube has a suction port:",
+      "answers": [
+        {
+          "text": "Just above the cuff",
+          "correct": true
+        },
+        {
+          "text": "Inside the water seal bottle"
+        },
+        {
+          "text": "At the distal end of a Heimlich valve"
+        },
+        {
+          "text": "In the lateral ventricle"
+        }
+      ]
+    },
+    {
+      "text": "After laryngectomy, the patient cannot be:",
+      "answers": [
+        {
+          "text": "Orally or nasally intubated",
+          "correct": true
+        },
+        {
+          "text": "Ventilated with any airway device"
+        },
+        {
+          "text": "Given oxygen through a stoma"
+        },
+        {
+          "text": "Monitored for airway patency"
+        }
+      ]
+    },
+    {
+      "text": "The major immediate tracheostomy hazard is:",
+      "answers": [
+        {
+          "text": "Bleeding",
+          "correct": true
+        },
+        {
+          "text": "Polyuria"
+        },
+        {
+          "text": "Hyperventilation"
+        },
+        {
+          "text": "Mottling"
+        }
+      ]
+    },
+    {
+      "text": "A tracheal speaking valve must not be used unless the cuff is:",
+      "answers": [
+        {
+          "text": "Deflated",
+          "correct": true
+        },
+        {
+          "text": "Inflated"
+        },
+        {
+          "text": "Connected to suction"
+        },
+        {
+          "text": "Filled with foam by syringe"
+        }
+      ]
+    },
+    {
+      "text": "Suctioning is used to maintain airway patency, collect sputum, and:",
+      "answers": [
+        {
+          "text": "Stimulate cough",
+          "correct": true
+        },
+        {
+          "text": "Calculate CPP"
+        },
+        {
+          "text": "Seal the glottis"
+        },
+        {
+          "text": "Drain cerebrospinal fluid"
+        }
+      ]
+    },
+    {
+      "text": "Adult suction vacuum pressure should be:",
+      "answers": [
+        {
+          "text": "120 to 150 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "80 to 100 mm Hg"
+        },
+        {
+          "text": "25 to 35 cm H2O"
+        },
+        {
+          "text": "3% to 5%"
+        }
+      ]
+    },
+    {
+      "text": "Using the source suction sizing method, a 7.0 mm ID tube should use:",
+      "answers": [
+        {
+          "text": "12 French catheter",
+          "correct": true
+        },
+        {
+          "text": "14 French catheter"
+        },
+        {
+          "text": "7 French catheter"
+        },
+        {
+          "text": "20 French catheter"
+        }
+      ]
+    },
+    {
+      "text": "Endotracheal suctioning requires pre- and post-suctioning oxygenation with:",
+      "answers": [
+        {
+          "text": "100% oxygen for at least 1 to 2 minutes",
+          "correct": true
+        },
+        {
+          "text": "Room air for 15 seconds"
+        },
+        {
+          "text": "No oxygen"
+        },
+        {
+          "text": "Only blow-by from a self-inflating bag"
+        }
+      ]
+    },
+    {
+      "text": "Which is an intubation indication?",
+      "answers": [
+        {
+          "text": "Respiratory failure",
+          "correct": true
+        },
+        {
+          "text": "Normal airway protection"
+        },
+        {
+          "text": "Routine trach valve cleaning"
+        },
+        {
+          "text": "Normal urine output"
+        }
+      ]
+    },
+    {
+      "text": "When giving medication through an ETT, the source says to:",
+      "answers": [
+        {
+          "text": "Double the normal IV dose, flush with 10 mL saline, and hyperventilate for 30 seconds",
+          "correct": true
+        },
+        {
+          "text": "Use half the IV dose and avoid ventilation"
+        },
+        {
+          "text": "Place a chest tube before each dose"
+        },
+        {
+          "text": "Deflate all cuffs for 48 hours"
+        }
+      ]
+    },
+    {
+      "text": "Which finding suggests a difficult airway?",
+      "answers": [
+        {
+          "text": "Bull neck",
+          "correct": true
+        },
+        {
+          "text": "Normal mouth opening"
+        },
+        {
+          "text": "Normal neck range of motion"
+        },
+        {
+          "text": "No tracheal deviation"
+        }
+      ]
+    },
+    {
+      "text": "No more than how long should be devoted to an intubation attempt?",
+      "answers": [
+        {
+          "text": "30 seconds",
+          "correct": true
+        },
+        {
+          "text": "15 minutes"
+        },
+        {
+          "text": "5 minutes"
+        },
+        {
+          "text": "48 hours"
+        }
+      ]
+    },
+    {
+      "text": "The ETT tip should be located:",
+      "answers": [
+        {
+          "text": "2 to 3 cm above the carina",
+          "correct": true
+        },
+        {
+          "text": "At the second intercostal space"
+        },
+        {
+          "text": "Inside the water seal chamber"
+        },
+        {
+          "text": "At the earlobe"
+        }
+      ]
+    },
+    {
+      "text": "The source MIP criterion for extubation is:",
+      "answers": [
+        {
+          "text": "More negative than or equal to -20 cm H2O",
+          "correct": true
+        },
+        {
+          "text": "Exactly 20 mm Hg"
+        },
+        {
+          "text": "Less than 0.4 L/day"
+        },
+        {
+          "text": "More than 300 torr"
+        }
+      ]
+    },
+    {
+      "text": "The source extubation tidal volume criterion is:",
+      "answers": [
+        {
+          "text": "More than 5 mL/kg ideal body weight",
+          "correct": true
+        },
+        {
+          "text": "Less than 2 mL/kg ideal body weight"
+        },
+        {
+          "text": "Exactly 1 mL/lb ideal body weight"
+        },
+        {
+          "text": "Exactly 2 cm water seal"
+        }
+      ]
+    },
+    {
+      "text": "Before extubation, the source says to oxygenate with 100% oxygen for:",
+      "answers": [
+        {
+          "text": "5 minutes",
+          "correct": true
+        },
+        {
+          "text": "15 seconds"
+        },
+        {
+          "text": "30 seconds"
+        },
+        {
+          "text": "3 to 6 weeks"
+        }
+      ]
+    },
+    {
+      "text": "A clinical sign of cuff leak is:",
+      "answers": [
+        {
+          "text": "Decreased delivered tidal volumes",
+          "correct": true
+        },
+        {
+          "text": "Increased water seal depth"
+        },
+        {
+          "text": "Increased urine volume only"
+        },
+        {
+          "text": "Yellow colorimetric CO2"
+        }
+      ]
+    },
+    {
+      "text": "Which complication is associated with unplanned extubation?",
+      "answers": [
+        {
+          "text": "Aspiration pneumonia",
+          "correct": true
+        },
+        {
+          "text": "Improved airway stability"
+        },
+        {
+          "text": "Lower ICU stay for all patients"
+        },
+        {
+          "text": "Normal APACHE II score"
+        }
+      ]
+    },
+    {
+      "text": "For partial or complete tube obstruction, the source first recommends:",
+      "answers": [
+        {
+          "text": "Attempting to remove obstruction by suctioning",
+          "correct": true
+        },
+        {
+          "text": "Cleaning the speaking valve"
+        },
+        {
+          "text": "Calculating CaO2"
+        },
+        {
+          "text": "Measuring liver function"
+        }
+      ]
+    },
+    {
+      "text": "Prone positioning is used to improve oxygenation in:",
+      "answers": [
+        {
+          "text": "ARDS",
+          "correct": true
+        },
+        {
+          "text": "Routine OPA insertion"
+        },
+        {
+          "text": "Normal kidney function"
+        },
+        {
+          "text": "Speaking valve cleaning"
+        }
+      ]
+    },
+    {
+      "text": "For unilateral lung injury, position the patient with:",
+      "answers": [
+        {
+          "text": "Good lung down",
+          "correct": true
+        },
+        {
+          "text": "Bad lung down"
+        },
+        {
+          "text": "Head lower than feet for every case"
+        },
+        {
+          "text": "No lateral positioning"
+        }
+      ]
+    },
+    {
+      "text": "CaO2 is the best index of:",
+      "answers": [
+        {
+          "text": "Oxygen transport",
+          "correct": true
+        },
+        {
+          "text": "Chest tube suction"
+        },
+        {
+          "text": "ICP treatment"
+        },
+        {
+          "text": "Tracheostomy tie security"
+        }
+      ]
+    },
+    {
+      "text": "CvO2 decreases when:",
+      "answers": [
+        {
+          "text": "Cardiac output decreases",
+          "correct": true
+        },
+        {
+          "text": "Speaking valve is removed"
+        },
+        {
+          "text": "OPA is sized correctly"
+        },
+        {
+          "text": "Water seal stops bubbling"
+        }
+      ]
+    },
+    {
+      "text": "The A-a gradient is calculated as:",
+      "answers": [
+        {
+          "text": "PAO2 - PaO2",
+          "correct": true
+        },
+        {
+          "text": "MAP - ICP"
+        },
+        {
+          "text": "Tube ID x 2"
+        },
+        {
+          "text": "RR x VT"
+        }
+      ]
+    },
+    {
+      "text": "On 100% oxygen, an A-a gradient greater than 300 torr indicates:",
+      "answers": [
+        {
+          "text": "Shunting",
+          "correct": true
+        },
+        {
+          "text": "Normal oxygenation"
+        },
+        {
+          "text": "Oliguria"
+        },
+        {
+          "text": "Resolved tube obstruction"
+        }
+      ]
+    },
+    {
+      "text": "A P/F ratio less than 300 torr indicates:",
+      "answers": [
+        {
+          "text": "Acute lung injury",
+          "correct": true
+        },
+        {
+          "text": "Normal"
+        },
+        {
+          "text": "Resolved shunting"
+        },
+        {
+          "text": "Normal GCS"
+        }
+      ]
+    },
+    {
+      "text": "An increasing oxygenation index means:",
+      "answers": [
+        {
+          "text": "The patient's condition is worsening",
+          "correct": true
+        },
+        {
+          "text": "The chest tube can drain fluid"
+        },
+        {
+          "text": "The NPA is sized correctly"
+        },
+        {
+          "text": "The speaking valve is clean"
+        }
+      ]
+    },
+    {
+      "text": "Normal VD/VT is:",
+      "answers": [
+        {
+          "text": "20% to 40%",
+          "correct": true
+        },
+        {
+          "text": "3% to 5%"
+        },
+        {
+          "text": "80% to 100%"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "Capnometry is a:",
+      "answers": [
+        {
+          "text": "Numeric display of CO2 measurements from the airway",
+          "correct": true
+        },
+        {
+          "text": "Graphic display of CO2 measurements from the airway"
+        },
+        {
+          "text": "Chest drainage device"
+        },
+        {
+          "text": "Tracheostomy tube type"
+        }
+      ]
+    },
+    {
+      "text": "During CPR, a sudden rise in EtCO2 suggests:",
+      "answers": [
+        {
+          "text": "Return of spontaneous circulation",
+          "correct": true
+        },
+        {
+          "text": "Cuff leak"
+        },
+        {
+          "text": "Oliguria"
+        },
+        {
+          "text": "Liver failure"
+        }
+      ]
+    },
+    {
+      "text": "The Glasgow Coma Scale uses eye response, motor response, and:",
+      "answers": [
+        {
+          "text": "Verbal response",
+          "correct": true
+        },
+        {
+          "text": "Urine response"
+        },
+        {
+          "text": "Chest tube response"
+        },
+        {
+          "text": "Cuff response"
+        }
+      ]
+    },
+    {
+      "text": "Normal ICP in a supine patient is:",
+      "answers": [
+        {
+          "text": "10 to 15 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "83 to 93 mm Hg"
+        },
+        {
+          "text": "17 to 20 vol%"
+        },
+        {
+          "text": "120 to 150 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "CPP is calculated as:",
+      "answers": [
+        {
+          "text": "MAP - ICP",
+          "correct": true
+        },
+        {
+          "text": "PAO2 - PaO2"
+        },
+        {
+          "text": "PaO2 / FiO2"
+        },
+        {
+          "text": "Tube ID x 2"
+        }
+      ]
+    },
+    {
+      "text": "The source recommends initiating ICP treatment when ICP is greater than:",
+      "answers": [
+        {
+          "text": "20 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "2 cm water seal"
+        },
+        {
+          "text": "3% shunt"
+        },
+        {
+          "text": "5 mL/kg"
+        }
+      ]
+    },
+    {
+      "text": "Hyperventilation therapy to reduce ICP targets PaCO2 of:",
+      "answers": [
+        {
+          "text": "25 to 30 torr",
+          "correct": true
+        },
+        {
+          "text": "66 to 300 torr"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        },
+        {
+          "text": "17 to 20 vol%"
+        }
+      ]
+    },
+    {
+      "text": "A higher APACHE II score means:",
+      "answers": [
+        {
+          "text": "More severe illness and higher risk of death",
+          "correct": true
+        },
+        {
+          "text": "Lower severity and no ICU risk"
+        },
+        {
+          "text": "Normal tracheal cuff pressure"
+        },
+        {
+          "text": "Resolved pneumothorax"
+        }
+      ]
+    },
+    {
+      "text": "Needle decompression for tension pneumothorax is performed at the:",
+      "answers": [
+        {
+          "text": "Second intercostal space mid-clavicular",
+          "correct": true
+        },
+        {
+          "text": "Fifth intercostal space posterior axillary for every case"
+        },
+        {
+          "text": "Corner of mouth to angle of jaw"
+        },
+        {
+          "text": "Pulmonary artery catheter tip"
+        }
+      ]
+    },
+    {
+      "text": "For an air-filled pleural space, chest tube placement is at the:",
+      "answers": [
+        {
+          "text": "Third or fourth intercostal space anterior of the axillary line",
+          "correct": true
+        },
+        {
+          "text": "Fifth, sixth, or seventh intercostal space posterior of the axillary line"
+        },
+        {
+          "text": "Second intercostal space mid-clavicular only"
+        },
+        {
+          "text": "Lateral ventricle"
+        }
+      ]
+    }
+  ]
+}

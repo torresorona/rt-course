@@ -1,0 +1,455 @@
+{
+  "title": "Tracheal Airways, Laryngectomy & Tracheostomy Care Quiz",
+  "questions": [
+    {
+      "text": "A laryngeal mask airway forms a seal around the:",
+      "answers": [
+        {
+          "text": "Glottis",
+          "correct": true
+        },
+        {
+          "text": "Pleural space"
+        },
+        {
+          "text": "Pulmonary artery"
+        },
+        {
+          "text": "Water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "Which is an indication for a laryngeal mask airway?",
+      "answers": [
+        {
+          "text": "Difficult intubation",
+          "correct": true
+        },
+        {
+          "text": "Complete upper airway obstruction"
+        },
+        {
+          "text": "Pleural effusion drainage"
+        },
+        {
+          "text": "Measuring urine output"
+        }
+      ]
+    },
+    {
+      "text": "The King tube is inserted blindly into the:",
+      "answers": [
+        {
+          "text": "Esophagus",
+          "correct": true
+        },
+        {
+          "text": "Lateral ventricle"
+        },
+        {
+          "text": "Pleural space"
+        },
+        {
+          "text": "Water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "Which patient meets a source indication for King tube use?",
+      "answers": [
+        {
+          "text": "Unconscious patient with no gag reflex when endotracheal intubation cannot be performed",
+          "correct": true
+        },
+        {
+          "text": "Responsive patient with an intact gag reflex"
+        },
+        {
+          "text": "Patient with known esophageal disease"
+        },
+        {
+          "text": "Patient who ingested caustic substances"
+        }
+      ]
+    },
+    {
+      "text": "The esophageal tracheal Combitube is described as:",
+      "answers": [
+        {
+          "text": "A prehospital or emergency airway, not a long-term airway",
+          "correct": true
+        },
+        {
+          "text": "A permanent laryngectomy tube"
+        },
+        {
+          "text": "A chest drainage system"
+        },
+        {
+          "text": "A device for measuring CvO2"
+        }
+      ]
+    },
+    {
+      "text": "In the most common Combitube placement, ventilation is provided through the:",
+      "answers": [
+        {
+          "text": "Blue lumen",
+          "correct": true
+        },
+        {
+          "text": "Water seal chamber"
+        },
+        {
+          "text": "Pilot balloon only"
+        },
+        {
+          "text": "Pulmonary artery catheter"
+        }
+      ]
+    },
+    {
+      "text": "Which ETT feature is standard for all airway equipment connection?",
+      "answers": [
+        {
+          "text": "15-mm connector or adapter",
+          "correct": true
+        },
+        {
+          "text": "Three-bottle suction system"
+        },
+        {
+          "text": "Intraventricular catheter"
+        },
+        {
+          "text": "Heimlich flutter valve"
+        }
+      ]
+    },
+    {
+      "text": "The air-filled tracheal cuff helps:",
+      "answers": [
+        {
+          "text": "Seal the trachea during positive pressure ventilation and protect the lower airway",
+          "correct": true
+        },
+        {
+          "text": "Drain cerebrospinal fluid"
+        },
+        {
+          "text": "Measure barometric pressure"
+        },
+        {
+          "text": "Create a water seal at 2 cm"
+        }
+      ]
+    },
+    {
+      "text": "Uncuffed endotracheal tubes are primarily used in:",
+      "answers": [
+        {
+          "text": "Neonatal and pediatric patients",
+          "correct": true
+        },
+        {
+          "text": "Adult chest tube drainage"
+        },
+        {
+          "text": "Liver function testing"
+        },
+        {
+          "text": "APACHE II scoring"
+        }
+      ]
+    },
+    {
+      "text": "A wire-reinforced ETT is also called a/an:",
+      "answers": [
+        {
+          "text": "Anode tube",
+          "correct": true
+        },
+        {
+          "text": "Heimlich valve"
+        },
+        {
+          "text": "Bivona button"
+        },
+        {
+          "text": "Subdural bolt"
+        }
+      ]
+    },
+    {
+      "text": "Subglottic suction ETTs are used to reduce the incidence of:",
+      "answers": [
+        {
+          "text": "Ventilator-acquired or ventilator-associated pneumonia",
+          "correct": true
+        },
+        {
+          "text": "Polyuria"
+        },
+        {
+          "text": "Jaundice"
+        },
+        {
+          "text": "Pleural effusion"
+        }
+      ]
+    },
+    {
+      "text": "A double-lumen ETT is indicated for:",
+      "answers": [
+        {
+          "text": "Unilateral lung disease or independent lung ventilation",
+          "correct": true
+        },
+        {
+          "text": "Routine OPA sizing"
+        },
+        {
+          "text": "Daily speaking valve cleaning"
+        },
+        {
+          "text": "Measuring the Glasgow verbal score"
+        }
+      ]
+    },
+    {
+      "text": "After laryngectomy, the patient:",
+      "answers": [
+        {
+          "text": "No longer has a connection between upper and lower respiratory tract",
+          "correct": true
+        },
+        {
+          "text": "Can be orally intubated normally"
+        },
+        {
+          "text": "Requires a water seal chamber"
+        },
+        {
+          "text": "Must never use a stoma"
+        }
+      ]
+    },
+    {
+      "text": "If positive pressure ventilation is required in a laryngectomy patient with a laryngectomy tube, the source says to:",
+      "answers": [
+        {
+          "text": "Replace it with a cuffed endotracheal tube",
+          "correct": true
+        },
+        {
+          "text": "Inflate the laryngectomy tube cuff"
+        },
+        {
+          "text": "Insert an OPA through the mouth"
+        },
+        {
+          "text": "Use a Heimlich valve"
+        }
+      ]
+    },
+    {
+      "text": "A tracheotomy is the:",
+      "answers": [
+        {
+          "text": "Surgical procedure creating an opening through the neck into the trachea",
+          "correct": true
+        },
+        {
+          "text": "Opening or stoma created by the procedure"
+        },
+        {
+          "text": "One-way speaking valve"
+        },
+        {
+          "text": "Graphic display of CO2"
+        }
+      ]
+    },
+    {
+      "text": "A tracheostomy is the:",
+      "answers": [
+        {
+          "text": "Opening or stoma that results from tracheotomy",
+          "correct": true
+        },
+        {
+          "text": "Surgical procedure to create the opening"
+        },
+        {
+          "text": "Calculation of shunt fraction"
+        },
+        {
+          "text": "Suction control bottle"
+        }
+      ]
+    },
+    {
+      "text": "Which is an indication for a tracheostomy tube?",
+      "answers": [
+        {
+          "text": "Long-term ventilation",
+          "correct": true
+        },
+        {
+          "text": "Normal spontaneous breathing with no airway issue"
+        },
+        {
+          "text": "Routine liver detoxification"
+        },
+        {
+          "text": "A-a gradient calculation"
+        }
+      ]
+    },
+    {
+      "text": "Which immediate tracheostomy complication is listed as the major hazard?",
+      "answers": [
+        {
+          "text": "Bleeding",
+          "correct": true
+        },
+        {
+          "text": "Polyuria"
+        },
+        {
+          "text": "Mottling"
+        },
+        {
+          "text": "V/Q mismatch"
+        }
+      ]
+    },
+    {
+      "text": "An uncuffed tracheostomy tube should not be used in:",
+      "answers": [
+        {
+          "text": "Unconscious patients",
+          "correct": true
+        },
+        {
+          "text": "Adults needing frequent suctioning without positive ventilation"
+        },
+        {
+          "text": "Primarily pediatric patients"
+        },
+        {
+          "text": "Patients who can protect the airway"
+        }
+      ]
+    },
+    {
+      "text": "Before plugging a fenestrated tracheostomy tube, the clinician should:",
+      "answers": [
+        {
+          "text": "Deflate the cuff, remove the inner cannula, and then plug the tube",
+          "correct": true
+        },
+        {
+          "text": "Inflate the cuff with a syringe"
+        },
+        {
+          "text": "Leave the cuff inflated and add oxygen by chest tube"
+        },
+        {
+          "text": "Remove the stoma dressing permanently"
+        }
+      ]
+    },
+    {
+      "text": "A foam-cuffed tube is also called:",
+      "answers": [
+        {
+          "text": "Bivona",
+          "correct": true
+        },
+        {
+          "text": "Murphy eye"
+        },
+        {
+          "text": "Macintosh"
+        },
+        {
+          "text": "APACHE"
+        }
+      ]
+    },
+    {
+      "text": "A tracheal speaking valve requires that the cuff be:",
+      "answers": [
+        {
+          "text": "Deflated",
+          "correct": true
+        },
+        {
+          "text": "Inflated to 35 cm H2O"
+        },
+        {
+          "text": "Removed from the tracheostomy tube"
+        },
+        {
+          "text": "Connected to a water seal"
+        }
+      ]
+    },
+    {
+      "text": "Which instruction is correct for tracheal speaking valve use?",
+      "answers": [
+        {
+          "text": "Do not use the valve while sleeping",
+          "correct": true
+        },
+        {
+          "text": "Use the valve during aerosol treatments"
+        },
+        {
+          "text": "Use the valve with the cuff inflated"
+        },
+        {
+          "text": "Clean the valve with bleach"
+        }
+      ]
+    },
+    {
+      "text": "The tracheostomy cuff should be kept inflated whenever the patient is:",
+      "answers": [
+        {
+          "text": "Eating or receiving positive pressure ventilation",
+          "correct": true
+        },
+        {
+          "text": "Sleeping without airway support"
+        },
+        {
+          "text": "Having a GCS score recorded"
+        },
+        {
+          "text": "Measuring urine output"
+        }
+      ]
+    },
+    {
+      "text": "During tracheostomy care, the stoma should be inspected for redness, swelling, pus, and:",
+      "answers": [
+        {
+          "text": "Foul smell",
+          "correct": true
+        },
+        {
+          "text": "Capnography phase III"
+        },
+        {
+          "text": "Pulmonary artery pressure"
+        },
+        {
+          "text": "A-a gradient"
+        }
+      ]
+    }
+  ]
+}

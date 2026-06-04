@@ -1,0 +1,157 @@
+{
+  "title": "Critical Care I",
+  "description": "Airway management, manual ventilation, artificial airways, tracheostomy care, suctioning, intubation, extubation, airway emergencies, ICU oxygenation and ventilation monitoring, neurologic and systemic monitoring, and pleural emergency procedures.",
+  "order": 13,
+  "lessons": [
+    {
+      "slug": "critical-care-i/lesson-1",
+      "title": "Manual Breathing Devices & Pharyngeal Airways",
+      "description": "Bag-valve-mask ventilation, self-inflating and flow-inflating resuscitation bags, one- and two-person techniques, troubleshooting, OPA and NPA indications, contraindications, sizing, and insertion.",
+      "audio": "/audio/critical-care-i/The_Dangerous_Physics_of_Manual_Breathing.m4a",
+      "resources": [
+        {
+          "title": "Oral Airway Insertion",
+          "description": "Elsevier Egan's Chapter 37 airway insertion animation referenced in the source.",
+          "url": "https://coursewareobjects.elsevier.com/objects/elr/Egans12e/animations/?ch=37#",
+          "type": "courseware"
+        },
+        {
+          "title": "Nasopharyngeal Airway",
+          "description": "Source-provided video reference for nasopharyngeal airway placement.",
+          "url": "https://www.youtube.com/watch?v=_hri0MCSFYM",
+          "type": "video"
+        },
+        {
+          "title": "Death Rattle Example",
+          "description": "Source-provided video reference associated with frequent nasotracheal suctioning.",
+          "url": "https://www.youtube.com/watch?v=ysSIjklb6D4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-i/lesson-2",
+      "title": "Tracheal Airways, Laryngectomy & Tracheostomy Care",
+      "description": "LMA, King tube, Combitube, endotracheal tube designs and types, laryngectomy tubes, tracheostomy indications and complications, speaking valves, cuff rules, and tracheostomy care.",
+      "audio": "/audio/critical-care-i/The_mechanics_of_artificial_medical_airways.m4a",
+      "resources": [
+        {
+          "title": "Airway Management Animations",
+          "description": "Elsevier Egan's Chapter 37 animations referenced for laryngeal mask airway insertion and tracheotomy.",
+          "url": "https://coursewareobjects.elsevier.com/objects/elr/Egans12e/animations/?ch=37#",
+          "type": "courseware"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-i/lesson-3",
+      "title": "Suctioning & Endotracheal Intubation",
+      "description": "Oral, nasotracheal, and endotracheal suctioning, suction catheter sizing and pressures, mini-BAL, intubation indications, routes, difficult airway signs, equipment, placement confirmation, cuff pressure, and stabilization.",
+      "audio": "/audio/critical-care-i/Physics_of_Airway_Suctioning_and_Intubation.m4a",
+      "resources": [
+        {
+          "title": "Mini-Bronchoalveolar Lavage",
+          "description": "Source-provided video reference for mini-BAL sampling.",
+          "url": "https://www.youtube.com/watch?v=HzD5F6NioXw",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-i/lesson-4",
+      "title": "Extubation, Airway Emergencies & Patient Positioning",
+      "description": "Extubation criteria and procedure, post-extubation assessment, tube obstruction, cuff leaks, unplanned extubation, ETT repositioning, common patient positions, and disease-specific positioning.",
+      "audio": "/audio/critical-care-i/The_high_stakes_mechanics_of_extubation.m4a",
+      "resources": [
+        {
+          "title": "Racemic Epinephrine Reference",
+          "description": "Source-provided video reference associated with post-extubation stridor management.",
+          "url": "https://www.youtube.com/watch?v=vDdJo0RPKa8",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-i/lesson-5",
+      "title": "ICU Oxygenation & Ventilation Monitoring",
+      "description": "Oxygenation values and calculations, oxygen content, A-a gradient, P/F ratio, oxygenation index, shunt equation, Murray Lung Score, PaCO2, dead space, capnometry, capnography, waveform interpretation, and ETCO2 during CPR.",
+      "audio": "/audio/critical-care-i/How_exhaled_breath_signals_a_heartbeat.m4a"
+    },
+    {
+      "slug": "critical-care-i/lesson-6",
+      "title": "Neurological, Systemic & Pleural Monitoring",
+      "description": "Neurologic exam, GCS, ICP and CPP, ICP monitoring techniques and treatment concepts, renal and liver monitoring, APACHE, tension pneumothorax, needle decompression, chest tubes, drainage systems, Heimlich valve, and post-procedure monitoring.",
+      "audio": "/audio/critical-care-i/Pressure_and_Plumbing_in_the_ICU.m4a",
+      "resources": [
+        {
+          "title": "Chest Tube Insertion",
+          "description": "Elsevier Egan's animation referenced for chest tube insertion.",
+          "url": "https://coursewareobjects.elsevier.com/objects/elr/Egans12e/animations/?ch=37#",
+          "type": "courseware"
+        },
+        {
+          "title": "Needle Decompression Reference",
+          "description": "Source-provided video reference for needle decompression.",
+          "url": "https://www.youtube.com/watch?v=38rHuxIhf6I",
+          "type": "video"
+        },
+        {
+          "title": "PJ Needle Chest Decompression",
+          "description": "Source-provided Military.com reference for needle chest decompression.",
+          "url": "https://www.military.com/video/forces/special-operations-forces/pj-needle-chest-decompression/2209791890001",
+          "type": "video"
+        },
+        {
+          "title": "Needle Decompression Additional Reference",
+          "description": "Additional source-provided video reference for needle decompression.",
+          "url": "https://www.youtube.com/watch?v=co9_RLN78IY",
+          "type": "video"
+        },
+        {
+          "title": "Needle Thoracentesis Review",
+          "description": "Source-provided review video for needle thoracentesis.",
+          "url": "https://youtu.be/M3J3yxf7e-M",
+          "type": "video"
+        },
+        {
+          "title": "Percutaneous Thoracotomy Review",
+          "description": "Source-provided NEJM procedure reference.",
+          "url": "http://www.nejm.org/doi/full/10.1056/NEJMvcm071974",
+          "type": "article"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-i/lesson-7",
+      "title": "Module Exam",
+      "description": "Comprehensive 50-question module exam covering airway management, artificial airways, suctioning, intubation, extubation, airway emergencies, positioning, ICU monitoring, neurologic and systemic monitoring, and pleural procedures."
+    }
+  ],
+  "audio": [
+    {
+      "title": "The Dangerous Physics of Manual Breathing",
+      "src": "/audio/critical-care-i/The_Dangerous_Physics_of_Manual_Breathing.m4a"
+    },
+    {
+      "title": "The Mechanics of Artificial Medical Airways",
+      "src": "/audio/critical-care-i/The_mechanics_of_artificial_medical_airways.m4a"
+    },
+    {
+      "title": "Physics of Airway Suctioning and Intubation",
+      "src": "/audio/critical-care-i/Physics_of_Airway_Suctioning_and_Intubation.m4a"
+    },
+    {
+      "title": "The High Stakes Mechanics of Extubation",
+      "src": "/audio/critical-care-i/The_high_stakes_mechanics_of_extubation.m4a"
+    },
+    {
+      "title": "How Exhaled Breath Signals a Heartbeat",
+      "src": "/audio/critical-care-i/How_exhaled_breath_signals_a_heartbeat.m4a"
+    },
+    {
+      "title": "Pressure and Plumbing in the ICU",
+      "src": "/audio/critical-care-i/Pressure_and_Plumbing_in_the_ICU.m4a"
+    }
+  ],
+  "resources": []
+}

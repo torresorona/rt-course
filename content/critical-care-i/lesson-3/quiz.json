@@ -1,0 +1,455 @@
+{
+  "title": "Suctioning & Endotracheal Intubation Quiz",
+  "questions": [
+    {
+      "text": "Suctioning is defined as applying negative pressure to the airways through:",
+      "answers": [
+        {
+          "text": "A collecting tube such as a flexible catheter or suction tip",
+          "correct": true
+        },
+        {
+          "text": "A water seal chamber"
+        },
+        {
+          "text": "An epidural sensor"
+        },
+        {
+          "text": "A laryngectomy stoma"
+        }
+      ]
+    },
+    {
+      "text": "Which is a purpose of suctioning?",
+      "answers": [
+        {
+          "text": "Maintain airway patency",
+          "correct": true
+        },
+        {
+          "text": "Calculate oxygenation index"
+        },
+        {
+          "text": "Lower the diaphragm for chest tube insertion"
+        },
+        {
+          "text": "Measure liver detoxification"
+        }
+      ]
+    },
+    {
+      "text": "Which ventilator finding is listed as a suctioning indication?",
+      "answers": [
+        {
+          "text": "Sawtooth pattern on ventilator graphics",
+          "correct": true
+        },
+        {
+          "text": "Normal waveform baseline and no secretions"
+        },
+        {
+          "text": "Normal oxygenation index"
+        },
+        {
+          "text": "Stable GCS"
+        }
+      ]
+    },
+    {
+      "text": "The source lists which condition as a contraindication to suctioning?",
+      "answers": [
+        {
+          "text": "Epiglottitis or croup",
+          "correct": true
+        },
+        {
+          "text": "Accumulated secretions"
+        },
+        {
+          "text": "Visible secretions in the airway"
+        },
+        {
+          "text": "Obstructed airway"
+        }
+      ]
+    },
+    {
+      "text": "The most common suctioning hazard listed is:",
+      "answers": [
+        {
+          "text": "Trauma to mucosa",
+          "correct": true
+        },
+        {
+          "text": "Cerebral ischemia"
+        },
+        {
+          "text": "Chylothorax"
+        },
+        {
+          "text": "Jaundice"
+        }
+      ]
+    },
+    {
+      "text": "The most severe suctioning hazard listed is hypoxemia leading to:",
+      "answers": [
+        {
+          "text": "Tachycardia and arrhythmias",
+          "correct": true
+        },
+        {
+          "text": "Improved oxygen transport"
+        },
+        {
+          "text": "Lower airway resistance"
+        },
+        {
+          "text": "Increased water seal depth"
+        }
+      ]
+    },
+    {
+      "text": "Suction should be applied while withdrawing the catheter for no more than:",
+      "answers": [
+        {
+          "text": "15 seconds",
+          "correct": true
+        },
+        {
+          "text": "30 minutes"
+        },
+        {
+          "text": "5 minutes"
+        },
+        {
+          "text": "48 hours"
+        }
+      ]
+    },
+    {
+      "text": "Adult suction vacuum pressure should be:",
+      "answers": [
+        {
+          "text": "120 to 150 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "80 to 100 mm Hg"
+        },
+        {
+          "text": "25 to 35 cm H2O"
+        },
+        {
+          "text": "3% to 5%"
+        }
+      ]
+    },
+    {
+      "text": "Infant suction vacuum pressure should be:",
+      "answers": [
+        {
+          "text": "80 to 100 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "120 to 150 mm Hg"
+        },
+        {
+          "text": "20 to 25 mm Hg"
+        },
+        {
+          "text": "25 to 65 torr"
+        }
+      ]
+    },
+    {
+      "text": "For suction catheter sizing, multiply tube ID by 2 and then:",
+      "answers": [
+        {
+          "text": "Use the next smallest even catheter size",
+          "correct": true
+        },
+        {
+          "text": "Use the next largest odd catheter size"
+        },
+        {
+          "text": "Use the exact number as the cuff pressure"
+        },
+        {
+          "text": "Convert the result to an APACHE score"
+        }
+      ]
+    },
+    {
+      "text": "What suction catheter size is appropriate for an 8.0 mm ID endotracheal tube using the source method?",
+      "answers": [
+        {
+          "text": "14 French",
+          "correct": true
+        },
+        {
+          "text": "16 French"
+        },
+        {
+          "text": "8 French"
+        },
+        {
+          "text": "20 French"
+        }
+      ]
+    },
+    {
+      "text": "During nasotracheal suctioning, the catheter should be directed through the nostril toward the:",
+      "answers": [
+        {
+          "text": "Septum and floor of the nasal cavity",
+          "correct": true
+        },
+        {
+          "text": "Upper incisors"
+        },
+        {
+          "text": "Second intercostal space"
+        },
+        {
+          "text": "Water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "Endotracheal suctioning usually uses which technique?",
+      "answers": [
+        {
+          "text": "Closed suctioning",
+          "correct": true
+        },
+        {
+          "text": "Needle decompression"
+        },
+        {
+          "text": "Glasgow Coma Scale scoring"
+        },
+        {
+          "text": "Fenestrated plugging"
+        }
+      ]
+    },
+    {
+      "text": "Before and after endotracheal suctioning, the source requires:",
+      "answers": [
+        {
+          "text": "100% oxygen for at least 1 to 2 minutes",
+          "correct": true
+        },
+        {
+          "text": "Room air for 30 seconds"
+        },
+        {
+          "text": "No oxygen because suctioning improves saturation"
+        },
+        {
+          "text": "Only blow-by oxygen from a self-inflating bag"
+        }
+      ]
+    },
+    {
+      "text": "A mini-BAL is used to guide antibiotic therapy for patients with:",
+      "answers": [
+        {
+          "text": "Ventilator-associated pneumonia",
+          "correct": true
+        },
+        {
+          "text": "Stable home oxygen therapy"
+        },
+        {
+          "text": "Uncomplicated laryngectomy stoma healing"
+        },
+        {
+          "text": "Normal renal function"
+        }
+      ]
+    },
+    {
+      "text": "Endotracheal intubation establishes an artificial airway by placing a tube through the mouth or nose, through the glottis, and into the:",
+      "answers": [
+        {
+          "text": "Trachea",
+          "correct": true
+        },
+        {
+          "text": "Pleural space"
+        },
+        {
+          "text": "Lateral ventricle"
+        },
+        {
+          "text": "Water seal bottle"
+        }
+      ]
+    },
+    {
+      "text": "Which is an indication for intubation?",
+      "answers": [
+        {
+          "text": "Respiratory failure requiring mechanical ventilation",
+          "correct": true
+        },
+        {
+          "text": "Normal airway protection with adequate ventilation"
+        },
+        {
+          "text": "Routine cleaning of a speaking valve"
+        },
+        {
+          "text": "Daily urine output documentation"
+        }
+      ]
+    },
+    {
+      "text": "When giving medication through an endotracheal tube, the source says to double the normal IV dose, flush with 10 mL saline, and:",
+      "answers": [
+        {
+          "text": "Hyperventilate for 30 seconds",
+          "correct": true
+        },
+        {
+          "text": "Clamp the chest tube"
+        },
+        {
+          "text": "Deflate the speaking valve"
+        },
+        {
+          "text": "Prone the patient for 48 hours"
+        }
+      ]
+    },
+    {
+      "text": "The most serious intubation complication listed is:",
+      "answers": [
+        {
+          "text": "Laryngospasm",
+          "correct": true
+        },
+        {
+          "text": "Mild salivation"
+        },
+        {
+          "text": "Increased learning motivation"
+        },
+        {
+          "text": "Improved airway resistance"
+        }
+      ]
+    },
+    {
+      "text": "Which is an advantage of oral intubation?",
+      "answers": [
+        {
+          "text": "A larger tube can be placed",
+          "correct": true
+        },
+        {
+          "text": "Less effective suctioning"
+        },
+        {
+          "text": "More difficult procedure"
+        },
+        {
+          "text": "Increased airway resistance"
+        }
+      ]
+    },
+    {
+      "text": "Which is a disadvantage of nasal intubation?",
+      "answers": [
+        {
+          "text": "Sinusitis",
+          "correct": true
+        },
+        {
+          "text": "Improved oral care"
+        },
+        {
+          "text": "More secure airway"
+        },
+        {
+          "text": "Less salivation"
+        }
+      ]
+    },
+    {
+      "text": "Which finding suggests a difficult airway?",
+      "answers": [
+        {
+          "text": "Mallampati Class III or IV",
+          "correct": true
+        },
+        {
+          "text": "Normal mouth opening and no airway deviation"
+        },
+        {
+          "text": "Normal water seal oscillation"
+        },
+        {
+          "text": "Polyuria above 3 L daily"
+        }
+      ]
+    },
+    {
+      "text": "The source lists adult female ETT size as:",
+      "answers": [
+        {
+          "text": "7.0 to 7.5 mm",
+          "correct": true
+        },
+        {
+          "text": "2.5 to 3.0 mm"
+        },
+        {
+          "text": "3.0 to 3.5 mm"
+        },
+        {
+          "text": "8.0 to 8.5 mm"
+        }
+      ]
+    },
+    {
+      "text": "The source lists adult male ETT size as:",
+      "answers": [
+        {
+          "text": "8.0 to 8.5 mm",
+          "correct": true
+        },
+        {
+          "text": "2.5 to 3.0 mm"
+        },
+        {
+          "text": "3.0 to 3.5 mm"
+        },
+        {
+          "text": "7.0 to 7.5 mm"
+        }
+      ]
+    },
+    {
+      "text": "The ETT tip should be positioned how far above the carina on chest x-ray?",
+      "answers": [
+        {
+          "text": "2 to 3 cm",
+          "correct": true
+        },
+        {
+          "text": "5 to 8 cm"
+        },
+        {
+          "text": "21 to 25 cm"
+        },
+        {
+          "text": "30 to 35 cm"
+        }
+      ]
+    }
+  ]
+}
