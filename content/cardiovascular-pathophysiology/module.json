@@ -1,0 +1,65 @@
+{
+  "title": "Cardiovascular Pathophysiology",
+  "description": "Congenital heart defects, valvular dysfunctions, cardiomyopathies, inflammatory heart diseases, and coronary artery disease with pathophysiology, clinical manifestations, diagnostics, and treatment concepts.",
+  "order": 5,
+  "lessons": [
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-1",
+      "title": "Congenital Heart Defects",
+      "description": "Congenital cardiovascular disease and malformation, acyanotic and cyanotic defects, shunt direction, duct-dependent circulation, diagnostics, and correction.",
+      "audio": "/audio/cardiovascular-pathophysiology/When_Heart_Defects_Become_Lifelines.m4a"
+    },
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-2",
+      "title": "Valvular Dysfunctions",
+      "description": "Stenosis, regurgitation, and prolapse across aortic, mitral, tricuspid, and pulmonic valves with causes, pathophysiology, symptoms, diagnostics, and treatment.",
+      "audio": "/audio/cardiovascular-pathophysiology/The_Mechanics_of_Heart_Valve_Failure.m4a"
+    },
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-3",
+      "title": "Cardiomyopathies",
+      "description": "Dilated, restrictive, infiltrative, and hypertrophic cardiomyopathies, including mechanical and electrical dysfunction, causes, symptoms, and diagnostics.",
+      "audio": "/audio/cardiovascular-pathophysiology/Structural_failure_of_the_heart_muscle.m4a"
+    },
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-4",
+      "title": "Inflammatory Heart Diseases",
+      "description": "Endocarditis, myocarditis, pericarditis, pericardial effusion, tamponade, and constrictive pericarditis with clinical manifestations, diagnostics, and treatment.",
+      "audio": "/audio/cardiovascular-pathophysiology/Bacterial_vegetation_and_shrinking_heart_armor.m4a"
+    },
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-5",
+      "title": "Coronary Artery Disease & Atherosclerosis",
+      "description": "Plaque development, artery structure, atherosclerotic complications, ischemia, infarction, cardiac biomarkers, and atherothrombotic risk factors.",
+      "audio": "/audio/cardiovascular-pathophysiology/Why_Your_Arteries_Turn_Into_Bone.m4a"
+    },
+    {
+      "slug": "cardiovascular-pathophysiology/lesson-6",
+      "title": "Module Exam",
+      "description": "Comprehensive 50-question module exam covering congenital heart defects, valvular dysfunctions, cardiomyopathies, inflammatory heart diseases, and coronary artery disease."
+    }
+  ],
+  "audio": [
+    {
+      "title": "When Heart Defects Become Lifelines",
+      "src": "/audio/cardiovascular-pathophysiology/When_Heart_Defects_Become_Lifelines.m4a"
+    },
+    {
+      "title": "The Mechanics of Heart Valve Failure",
+      "src": "/audio/cardiovascular-pathophysiology/The_Mechanics_of_Heart_Valve_Failure.m4a"
+    },
+    {
+      "title": "Structural Failure of the Heart Muscle",
+      "src": "/audio/cardiovascular-pathophysiology/Structural_failure_of_the_heart_muscle.m4a"
+    },
+    {
+      "title": "Bacterial Vegetation and Shrinking Heart Armor",
+      "src": "/audio/cardiovascular-pathophysiology/Bacterial_vegetation_and_shrinking_heart_armor.m4a"
+    },
+    {
+      "title": "Why Your Arteries Turn Into Bone",
+      "src": "/audio/cardiovascular-pathophysiology/Why_Your_Arteries_Turn_Into_Bone.m4a"
+    }
+  ],
+  "resources": []
+}

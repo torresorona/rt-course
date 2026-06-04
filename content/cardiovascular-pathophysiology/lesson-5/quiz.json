@@ -1,0 +1,185 @@
+{
+  "title": "Coronary Artery Disease & Atherosclerosis Quiz",
+  "questions": [
+    {
+      "text": "Atherogenesis is described as a process that promotes:",
+      "answers": [
+        { "text": "Hardening of the arteries due to fatty plaque deposits", "correct": true },
+        { "text": "Closure of septal defects" },
+        { "text": "Pericardial sac decompression" },
+        { "text": "Normal fetal shunting" }
+      ]
+    },
+    {
+      "text": "Atherosclerosis is:",
+      "answers": [
+        { "text": "Hardening and narrowing of the arteries due to fatty plaques", "correct": true },
+        { "text": "Inflammation of the pericardium" },
+        { "text": "Absence of the tricuspid valve" },
+        { "text": "Backflow across the mitral valve" }
+      ]
+    },
+    {
+      "text": "The source links atherogenesis mainly to:",
+      "answers": [
+        { "text": "Sedentary lifestyle with increased high-fat diet", "correct": true },
+        { "text": "Low cholesterol intake only" },
+        { "text": "Normal prostaglandin decrease after birth" },
+        { "text": "TTE imaging alone" }
+      ]
+    },
+    {
+      "text": "Endothelial cells normally resist plaque buildup partly by:",
+      "answers": [
+        { "text": "Helping keep thrombin and blood cells from binding to the wall", "correct": true },
+        { "text": "Producing bacterial biofilm" },
+        { "text": "Opening the ductus arteriosus" },
+        { "text": "Creating right-to-left shunts" }
+      ]
+    },
+    {
+      "text": "The tunica intima is:",
+      "answers": [
+        { "text": "The inner lining with endothelial cells in contact with blood", "correct": true },
+        { "text": "The external covering containing collagen fibrils only" },
+        { "text": "The heart muscle layer" },
+        { "text": "The pericardial lining" }
+      ]
+    },
+    {
+      "text": "The tunica media includes:",
+      "answers": [
+        { "text": "Smooth muscle that allows arteries to contract and relax", "correct": true },
+        { "text": "Atrial septal tissue only" },
+        { "text": "Pericardial fluid only" },
+        { "text": "Bacterial vegetation only" }
+      ]
+    },
+    {
+      "text": "Early lipid accumulation begins when small lipoproteins accumulate in the:",
+      "answers": [
+        { "text": "Intima", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Pulmonary valve" },
+        { "text": "Pleural space" }
+      ]
+    },
+    {
+      "text": "As lipoproteins enter the tunica intima, the source describes a complicated:",
+      "answers": [
+        { "text": "Immune response", "correct": true },
+        { "text": "Fetal shunt response" },
+        { "text": "Valve replacement response" },
+        { "text": "Pericardiocentesis response" }
+      ]
+    },
+    {
+      "text": "Plaque growth can cause turbulent flow and increased likelihood of:",
+      "answers": [
+        { "text": "Clot formation", "correct": true },
+        { "text": "Normal endothelial resistance" },
+        { "text": "Permanent oxygenation improvement" },
+        { "text": "Closure of all congenital defects" }
+      ]
+    },
+    {
+      "text": "A stenosis greater than what percent can cause flow limitation during increased demand?",
+      "answers": [
+        { "text": "60%", "correct": true },
+        { "text": "5%" },
+        { "text": "15%" },
+        { "text": "100% only" }
+      ]
+    },
+    {
+      "text": "Plaque disruption causes most:",
+      "answers": [
+        { "text": "Coronary events", "correct": true },
+        { "text": "PDA closures" },
+        { "text": "Pericardial rubs" },
+        { "text": "Valve replacements" }
+      ]
+    },
+    {
+      "text": "Ischemia is:",
+      "answers": [
+        { "text": "Insufficient blood supply to an organ, usually due to a blocked artery", "correct": true },
+        { "text": "Tissue necrosis only after venous return improves" },
+        { "text": "A normal fetal opening" },
+        { "text": "A type of valve prolapse" }
+      ]
+    },
+    {
+      "text": "Infarction is tissue necrosis caused by impaired blood supply from factors such as emboli, thrombi, or:",
+      "answers": [
+        { "text": "Plaque", "correct": true },
+        { "text": "HDL only" },
+        { "text": "Fetal echo only" },
+        { "text": "Normal valve clicks" }
+      ]
+    },
+    {
+      "text": "The primary molecular indicator of an acute coronary event in the source is:",
+      "answers": [
+        { "text": "Troponin", "correct": true },
+        { "text": "HDL" },
+        { "text": "Prostaglandin" },
+        { "text": "Creatinine only" }
+      ]
+    },
+    {
+      "text": "Troponin is typically elevated after AMI onset within:",
+      "answers": [
+        { "text": "4 to 6 hours", "correct": true },
+        { "text": "1 to 2 minutes" },
+        { "text": "18 to 24 days" },
+        { "text": "8 to 12 weeks" }
+      ]
+    },
+    {
+      "text": "CK2 typically returns to baseline after:",
+      "answers": [
+        { "text": "48 hours", "correct": true },
+        { "text": "8 to 12 days" },
+        { "text": "5 months" },
+        { "text": "3 to 6 months" }
+      ]
+    },
+    {
+      "text": "Other than advanced age, the source calls the single most important CAD risk factor:",
+      "answers": [
+        { "text": "Smoking", "correct": true },
+        { "text": "HDL transport" },
+        { "text": "PDA closure" },
+        { "text": "TEE imaging" }
+      ]
+    },
+    {
+      "text": "Hypertension is determined by cardiac output and:",
+      "answers": [
+        { "text": "Resistance to blood flow in systemic arteries", "correct": true },
+        { "text": "Pericardial friction rub" },
+        { "text": "Foramen ovale fusion only" },
+        { "text": "Valve vegetation size only" }
+      ]
+    },
+    {
+      "text": "The best-established plasma-based atherothrombotic risk factor linked to MI and cardiovascular death is:",
+      "answers": [
+        { "text": "LDL cholesterol", "correct": true },
+        { "text": "HDL only" },
+        { "text": "Prostaglandin only" },
+        { "text": "Fetal hemoglobin only" }
+      ]
+    },
+    {
+      "text": "HDL helps because it moves LDL to the:",
+      "answers": [
+        { "text": "Liver for breakdown", "correct": true },
+        { "text": "Pericardial sac" },
+        { "text": "Right ventricle for shunting" },
+        { "text": "Pulmonary valve for calcification" }
+      ]
+    }
+  ]
+}

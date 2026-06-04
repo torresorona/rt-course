@@ -1,0 +1,140 @@
+{
+  "title": "Cardiomyopathies Quiz",
+  "questions": [
+    {
+      "text": "Cardiomyopathies are diseases of the:",
+      "answers": [
+        { "text": "Myocardium", "correct": true },
+        { "text": "Pleura" },
+        { "text": "Tunica adventitia only" },
+        { "text": "Upper airway only" }
+      ]
+    },
+    {
+      "text": "The source describes dilated cardiomyopathy with which simple cue?",
+      "answers": [
+        { "text": "Too thin", "correct": true },
+        { "text": "Stiffen" },
+        { "text": "Thicken" },
+        { "text": "Backflow" }
+      ]
+    },
+    {
+      "text": "The source describes restrictive cardiomyopathy with which simple cue?",
+      "answers": [
+        { "text": "Stiffen", "correct": true },
+        { "text": "Too thin" },
+        { "text": "Regurgitate" },
+        { "text": "Shunt left-to-right" }
+      ]
+    },
+    {
+      "text": "Which is listed as a possible cardiomyopathy cause?",
+      "answers": [
+        { "text": "Chronic hypertension", "correct": true },
+        { "text": "Normal foramen ovale closure" },
+        { "text": "High HDL removal of LDL" },
+        { "text": "Resolved pericardial rub" }
+      ]
+    },
+    {
+      "text": "Dilated cardiomyopathy often begins in the:",
+      "answers": [
+        { "text": "Left ventricle", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Pulmonary valve only" },
+        { "text": "Pericardial sac" }
+      ]
+    },
+    {
+      "text": "Dilated cardiomyopathy causes muscle fibers in the wall to:",
+      "answers": [
+        { "text": "Thin as the chamber dilates and stretches", "correct": true },
+        { "text": "Mineralize like bone" },
+        { "text": "Form bacterial vegetation" },
+        { "text": "Close the ductus arteriosus" }
+      ]
+    },
+    {
+      "text": "A symptom of dilated cardiomyopathy listed in the source is:",
+      "answers": [
+        { "text": "Edema of the feet, legs, abdomen, and jugular veins", "correct": true },
+        { "text": "Always asymptomatic until valve replacement" },
+        { "text": "Lower extremity cyanosis only" },
+        { "text": "Hemoptysis only after mitral stenosis" }
+      ]
+    },
+    {
+      "text": "Restrictive cardiomyopathy primarily impairs:",
+      "answers": [
+        { "text": "Diastolic filling", "correct": true },
+        { "text": "Normal endothelial resistance to plaque only" },
+        { "text": "Ductus arteriosus closure only" },
+        { "text": "Fetal right-to-left shunting only" }
+      ]
+    },
+    {
+      "text": "Restrictive cardiomyopathy is described as the:",
+      "answers": [
+        { "text": "Rarest form of cardiomyopathy", "correct": true },
+        { "text": "Most common ASD type" },
+        { "text": "Primary PDA treatment" },
+        { "text": "Only cause of endocarditis" }
+      ]
+    },
+    {
+      "text": "Which cause is listed for restrictive cardiomyopathy?",
+      "answers": [
+        { "text": "Amyloidosis", "correct": true },
+        { "text": "Patent foramen ovale" },
+        { "text": "Aortic boot sign" },
+        { "text": "Normal valve leaflet closure" }
+      ]
+    },
+    {
+      "text": "Infiltrative cardiomyopathy causes ventricular walls to become progressively rigid because of:",
+      "answers": [
+        { "text": "Deposition of abnormal substances", "correct": true },
+        { "text": "Improved HDL transport" },
+        { "text": "Normal systolic flow" },
+        { "text": "Surgical PDA closure" }
+      ]
+    },
+    {
+      "text": "Hypertrophic cardiomyopathy most commonly thickens the:",
+      "answers": [
+        { "text": "Septum", "correct": true },
+        { "text": "Pericardial sac" },
+        { "text": "Tunica adventitia" },
+        { "text": "Ductus arteriosus" }
+      ]
+    },
+    {
+      "text": "In HCM, narrowing that reduces blood flow from the left ventricle to the aorta is called:",
+      "answers": [
+        { "text": "Outflow tract obstruction", "correct": true },
+        { "text": "Paradoxical embolism" },
+        { "text": "Atrioventricular canal defect" },
+        { "text": "Pericardial tamponade" }
+      ]
+    },
+    {
+      "text": "Mitral valve changes in HCM can cause:",
+      "answers": [
+        { "text": "Mitral regurgitation into the left atrium", "correct": true },
+        { "text": "Permanent closure of the mitral valve" },
+        { "text": "Pulmonary atresia correction" },
+        { "text": "Reduced ventricular arrhythmia risk by definition" }
+      ]
+    },
+    {
+      "text": "Myocyte disorganization in HCM can lead to:",
+      "answers": [
+        { "text": "Ventricular arrhythmia", "correct": true },
+        { "text": "Normal electrical signaling only" },
+        { "text": "Lower left ventricular stiffness" },
+        { "text": "Reduced need for cardiac imaging" }
+      ]
+    }
+  ]
+}

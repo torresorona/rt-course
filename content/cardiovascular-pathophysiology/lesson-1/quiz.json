@@ -1,0 +1,230 @@
+{
+  "title": "Congenital Heart Defects Quiz",
+  "questions": [
+    {
+      "text": "Congenital heart disease is defined in the source as an abnormality in cardiocirculatory structure or function that is:",
+      "answers": [
+        { "text": "Present at birth, even if discovered much later", "correct": true },
+        { "text": "Always caused by adult hypertension" },
+        { "text": "Only present after myocardial infarction" },
+        { "text": "Always limited to valve calcification" }
+      ]
+    },
+    {
+      "text": "Congenital heart malformations usually result from:",
+      "answers": [
+        { "text": "Altered embryonic development or failure to progress beyond an early developmental stage", "correct": true },
+        { "text": "Plaque erosion inside the tunica intima" },
+        { "text": "Acute bacterial vegetation on prosthetic valves" },
+        { "text": "High LDL exposure in older adults only" }
+      ]
+    },
+    {
+      "text": "Which maternal or prenatal factor is listed as a possible contributor to congenital heart defects?",
+      "answers": [
+        { "text": "Maternal diabetes", "correct": true },
+        { "text": "High HDL balance" },
+        { "text": "Pericardiocentesis" },
+        { "text": "Chronic stable angina" }
+      ]
+    },
+    {
+      "text": "The source identifies the required diagnostic tool for congenital heart defects as:",
+      "answers": [
+        { "text": "Fetal echocardiogram", "correct": true },
+        { "text": "Sputum culture" },
+        { "text": "Sleep study" },
+        { "text": "Pleural needle decompression" }
+      ]
+    },
+    {
+      "text": "Which condition is listed as acyanotic?",
+      "answers": [
+        { "text": "Atrial septal defect", "correct": true },
+        { "text": "Tetralogy of Fallot" },
+        { "text": "Tricuspid atresia" },
+        { "text": "Transposition of the great arteries" }
+      ]
+    },
+    {
+      "text": "ASD pathophysiology primarily includes:",
+      "answers": [
+        { "text": "Left-to-right shunt", "correct": true },
+        { "text": "Two completely closed circulatory circuits" },
+        { "text": "Absence of the pulmonary valve only" },
+        { "text": "Coronary plaque mineralization" }
+      ]
+    },
+    {
+      "text": "The most common ASD type listed in the source is:",
+      "answers": [
+        { "text": "Ostium secundum", "correct": true },
+        { "text": "Coronary sinus ASD" },
+        { "text": "Sinus venosus" },
+        { "text": "Ostium primum" }
+      ]
+    },
+    {
+      "text": "The foramen ovale is normal in fetal circulation because it allows blood to flow:",
+      "answers": [
+        { "text": "From the right atrium to the left atrium", "correct": true },
+        { "text": "From the left ventricle to the aorta only after birth" },
+        { "text": "From the pulmonary artery to the tunica intima" },
+        { "text": "From the pericardial sac to the ventricles" }
+      ]
+    },
+    {
+      "text": "A transient right-to-left shunt through a PFO may lead to:",
+      "answers": [
+        { "text": "Paradoxical embolism", "correct": true },
+        { "text": "Improved systemic oxygen saturation" },
+        { "text": "Closure of the PDA by prostaglandins" },
+        { "text": "Aortic root calcification" }
+      ]
+    },
+    {
+      "text": "A VSD allows oxygenated blood to be pumped:",
+      "answers": [
+        { "text": "Back to the lungs instead of out to the body", "correct": true },
+        { "text": "Only into the pericardial sac" },
+        { "text": "Only through the coronary sinus" },
+        { "text": "Away from the lungs through a chest tube" }
+      ]
+    },
+    {
+      "text": "A large VSD may produce which manifestation?",
+      "answers": [
+        { "text": "Pulmonary hypertension", "correct": true },
+        { "text": "Low LDL exposure" },
+        { "text": "Decreased right ventricular workload" },
+        { "text": "Resolution of all shunting" }
+      ]
+    },
+    {
+      "text": "An atrioventricular septal defect may involve defects between the atria, ventricles, and:",
+      "answers": [
+        { "text": "Mitral and tricuspid valves", "correct": true },
+        { "text": "Tunica media and adventitia" },
+        { "text": "Pericardial and pleural sacs" },
+        { "text": "Coronary arteries and biomarkers" }
+      ]
+    },
+    {
+      "text": "The ductus arteriosus normally closes shortly after birth partly because:",
+      "answers": [
+        { "text": "Blood oxygen levels increase and prostaglandin levels decrease", "correct": true },
+        { "text": "Pulmonary vascular resistance becomes greater than systemic vascular resistance" },
+        { "text": "The foramen ovale becomes a VSD" },
+        { "text": "Troponin remains elevated for 8 to 12 days" }
+      ]
+    },
+    {
+      "text": "Which PDA risk factor is listed in the source?",
+      "answers": [
+        { "text": "Premature birth", "correct": true },
+        { "text": "Bovine valve replacement" },
+        { "text": "Pericardial rub" },
+        { "text": "Endurance training" }
+      ]
+    },
+    {
+      "text": "A classic PDA clinical manifestation listed in the source is:",
+      "answers": [
+        { "text": "Bounding peripheral pulses with wide pulse pressure", "correct": true },
+        { "text": "Muffled heart sounds with hypotension only" },
+        { "text": "Ventricular myocyte disorganization" },
+        { "text": "Left ventricular outflow tract obstruction" }
+      ]
+    },
+    {
+      "text": "Some PDAs are described as duct dependent because they may:",
+      "answers": [
+        { "text": "Be necessary for survivability in certain defects", "correct": true },
+        { "text": "Always close within two days" },
+        { "text": "Prevent all congenital cyanosis permanently" },
+        { "text": "Eliminate the need for prostaglandins" }
+      ]
+    },
+    {
+      "text": "Tetralogy of Fallot includes pulmonary stenosis, right ventricular hypertrophy, outlet VSD, and:",
+      "answers": [
+        { "text": "Overriding aorta", "correct": true },
+        { "text": "Mitral valve prolapse" },
+        { "text": "Aortic root calcification" },
+        { "text": "Pericardial effusion" }
+      ]
+    },
+    {
+      "text": "In TOF, severe RVOT obstruction may force blood from the right ventricle into the left ventricle, causing:",
+      "answers": [
+        { "text": "Right-to-left shunt and cyanosis", "correct": true },
+        { "text": "Normal systemic saturation" },
+        { "text": "Closure of all septal defects" },
+        { "text": "Low pulmonary vascular resistance only" }
+      ]
+    },
+    {
+      "text": "TOF chest x-ray may show an enlarged right ventricle described as:",
+      "answers": [
+        { "text": "Boot sign", "correct": true },
+        { "text": "Crunchy snow sign" },
+        { "text": "Water bottle sign" },
+        { "text": "Atheroma sign" }
+      ]
+    },
+    {
+      "text": "HLHS is characterized by:",
+      "answers": [
+        { "text": "Severely underdeveloped left-sided heart structures", "correct": true },
+        { "text": "Isolated mitral valve calcification in older adults" },
+        { "text": "A single bacterial vegetation on the tricuspid valve only" },
+        { "text": "Normal duct-independent systemic blood flow" }
+      ]
+    },
+    {
+      "text": "For HLHS, prostaglandin is used to:",
+      "answers": [
+        { "text": "Prevent closure of the PDA", "correct": true },
+        { "text": "Block all pulmonary blood flow" },
+        { "text": "Mineralize plaque deposits" },
+        { "text": "Create atrial fibrillation" }
+      ]
+    },
+    {
+      "text": "Post-ductal coarctation is associated with:",
+      "answers": [
+        { "text": "High blood pressure in the upper extremities and low blood pressure in the lower extremities", "correct": true },
+        { "text": "Open PDA with cyanosis in the upper extremities only" },
+        { "text": "Aortic valve regurgitation from endocarditis only" },
+        { "text": "Normal upper and lower body pressures" }
+      ]
+    },
+    {
+      "text": "Truncus arteriosus is always accompanied by:",
+      "answers": [
+        { "text": "VSD", "correct": true },
+        { "text": "Pericardial tamponade" },
+        { "text": "Mitral stenosis" },
+        { "text": "Chronic active myocarditis" }
+      ]
+    },
+    {
+      "text": "Transposition of the great arteries creates two circuits in which systemic venous blood is pumped:",
+      "answers": [
+        { "text": "Back to the body through the aorta", "correct": true },
+        { "text": "Directly into the liver for HDL breakdown" },
+        { "text": "Only through the pulmonary veins" },
+        { "text": "Into the pericardial sac" }
+      ]
+    },
+    {
+      "text": "Eisenmenger syndrome develops when persistent left-to-right shunting leads to pulmonary arterial hypertension and eventual:",
+      "answers": [
+        { "text": "Right-to-left shunt with hypoxemia and cyanosis", "correct": true },
+        { "text": "Permanent left-to-right shunt without cyanosis" },
+        { "text": "Mitral valve leaflet prolapse only" },
+        { "text": "Troponin elevation without heart dysfunction" }
+      ]
+    }
+  ]
+}

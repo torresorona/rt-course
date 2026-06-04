@@ -1,0 +1,185 @@
+{
+  "title": "Inflammatory Heart Diseases Quiz",
+  "questions": [
+    {
+      "text": "Endocarditis is inflammation of the:",
+      "answers": [
+        { "text": "Inner lining of the heart chambers", "correct": true },
+        { "text": "Outer lining of the heart only" },
+        { "text": "Heart muscle only" },
+        { "text": "Arterial tunica media" }
+      ]
+    },
+    {
+      "text": "Myocarditis is inflammation of the:",
+      "answers": [
+        { "text": "Heart muscle", "correct": true },
+        { "text": "Pericardial sac only" },
+        { "text": "Aortic valve only" },
+        { "text": "Ductus arteriosus" }
+      ]
+    },
+    {
+      "text": "Pericarditis is inflammation of the:",
+      "answers": [
+        { "text": "Outer lining of the heart", "correct": true },
+        { "text": "Inner chamber lining only" },
+        { "text": "Myocardial myocytes only" },
+        { "text": "Coronary plaque cap" }
+      ]
+    },
+    {
+      "text": "In infective endocarditis, bacterial biofilm can create:",
+      "answers": [
+        { "text": "Vegetation and large growths within the heart", "correct": true },
+        { "text": "Normal valve closure" },
+        { "text": "Reduced thrombosis risk" },
+        { "text": "Permanent protection from turbulent flow" }
+      ]
+    },
+    {
+      "text": "Which history is listed as typical in patients with infective endocarditis?",
+      "answers": [
+        { "text": "Intravenous drug abuse", "correct": true },
+        { "text": "Low-density lipoprotein removal by HDL only" },
+        { "text": "Normal fetal circulation only" },
+        { "text": "Resolved mitral valve prolapse only" }
+      ]
+    },
+    {
+      "text": "First-line detection for endocarditis is:",
+      "answers": [
+        { "text": "Echocardiography", "correct": true },
+        { "text": "Cardiac enzyme timing only" },
+        { "text": "Auscultation of breath sounds only" },
+        { "text": "Sleep study" }
+      ]
+    },
+    {
+      "text": "TEE may be preferred in endocarditis because it:",
+      "answers": [
+        { "text": "Gives a better view of valves and improves detection of lesions and vegetation", "correct": true },
+        { "text": "Always replaces antibiotics" },
+        { "text": "Measures LDL directly in the tunica intima" },
+        { "text": "Closes septal defects" }
+      ]
+    },
+    {
+      "text": "White blood cell levels in infective endocarditis may:",
+      "answers": [
+        { "text": "Stay the same, making infection difficult to detect", "correct": true },
+        { "text": "Always become the only needed diagnostic" },
+        { "text": "Always replace blood cultures" },
+        { "text": "Always prove valve dehiscence" }
+      ]
+    },
+    {
+      "text": "Myocarditis may be caused by external antigens such as:",
+      "answers": [
+        { "text": "Bacteria, viruses, drugs, or toxins", "correct": true },
+        { "text": "Normal HDL transport only" },
+        { "text": "Closed PDA only" },
+        { "text": "Bovine valve replacement only" }
+      ]
+    },
+    {
+      "text": "Fulminant myocarditis is characterized by:",
+      "answers": [
+        { "text": "Abrupt onset within days of viral illness with hemodynamic compromise", "correct": true },
+        { "text": "Slow plaque mineralization over years only" },
+        { "text": "No hypotension or mechanical support need" },
+        { "text": "A congenital left-to-right shunt only" }
+      ]
+    },
+    {
+      "text": "Giant cell myocarditis may require:",
+      "answers": [
+        { "text": "Cardiac transplantation or mechanical support", "correct": true },
+        { "text": "PDA coil closure only" },
+        { "text": "Balloon valvuloplasty only" },
+        { "text": "HDL balancing only" }
+      ]
+    },
+    {
+      "text": "Eosinophilic myocarditis typically results from:",
+      "answers": [
+        { "text": "A foreign antigen, usually a drug", "correct": true },
+        { "text": "Normal fetal circulation" },
+        { "text": "Low blood pressure in lower extremities" },
+        { "text": "Bicuspid valve calcification only" }
+      ]
+    },
+    {
+      "text": "The only definitive method often needed to identify myocarditis is:",
+      "answers": [
+        { "text": "Histological examination of the heart", "correct": true },
+        { "text": "Pulse pressure alone" },
+        { "text": "Lower extremity SpO2 alone" },
+        { "text": "Sputum culture alone" }
+      ]
+    },
+    {
+      "text": "A helpful myocarditis diagnostic finding is:",
+      "answers": [
+        { "text": "Otherwise unexplained rise in troponin", "correct": true },
+        { "text": "Always normal troponin" },
+        { "text": "PDA dependency" },
+        { "text": "High HDL alone" }
+      ]
+    },
+    {
+      "text": "Acute pericarditis pain is generally relieved by:",
+      "answers": [
+        { "text": "Having the patient sit forward", "correct": true },
+        { "text": "Lying flat without movement" },
+        { "text": "Closing the PDA" },
+        { "text": "Increasing plaque buildup" }
+      ]
+    },
+    {
+      "text": "The pericardial rub in uncomplicated acute pericarditis is described as sounding like:",
+      "answers": [
+        { "text": "Crunchy snow", "correct": true },
+        { "text": "A boot sign" },
+        { "text": "A widened pulse pressure" },
+        { "text": "A tunnel-like space" }
+      ]
+    },
+    {
+      "text": "EKG in acute pericarditis may show:",
+      "answers": [
+        { "text": "ST segment elevation", "correct": true },
+        { "text": "Only axis deviation from ASD" },
+        { "text": "Only ventricular hypertrophy from TOF" },
+        { "text": "No possible cardiac changes" }
+      ]
+    },
+    {
+      "text": "Beck's triad in tamponade includes hypotension, muffled heart sounds, and:",
+      "answers": [
+        { "text": "Elevated jugular venous pressure", "correct": true },
+        { "text": "Boot sign" },
+        { "text": "Widened pulse pressure only" },
+        { "text": "Left-to-right shunt only" }
+      ]
+    },
+    {
+      "text": "The most common closed pericardiocentesis approach listed is:",
+      "answers": [
+        { "text": "Subxiphoid needle insertion under echocardiographic guidance", "correct": true },
+        { "text": "Femoral pulse comparison" },
+        { "text": "PDA coil closure" },
+        { "text": "Balloon dilation of the aorta" }
+      ]
+    },
+    {
+      "text": "Constrictive pericarditis impedes the heart's ability to:",
+      "answers": [
+        { "text": "Fill the heart chambers", "correct": true },
+        { "text": "Generate LDL" },
+        { "text": "Close the mitral valve only" },
+        { "text": "Produce fetal circulation" }
+      ]
+    }
+  ]
+}

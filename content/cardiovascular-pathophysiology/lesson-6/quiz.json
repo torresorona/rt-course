@@ -1,0 +1,455 @@
+{
+  "title": "Cardiovascular Pathophysiology Module Exam",
+  "questions": [
+    {
+      "text": "Congenital heart disease is present at birth even if it is:",
+      "answers": [
+        { "text": "Discovered much later", "correct": true },
+        { "text": "Always symptomatic immediately" },
+        { "text": "Only caused by adult plaque" },
+        { "text": "Always limited to the valves" }
+      ]
+    },
+    {
+      "text": "Which finding is listed for detecting cardiac defects in neonates and infants?",
+      "answers": [
+        { "text": "Ascites", "correct": true },
+        { "text": "High HDL transport" },
+        { "text": "Pericardial rub only" },
+        { "text": "Stable angina only" }
+      ]
+    },
+    {
+      "text": "The source says fetal echocardiography should be offered to mothers with:",
+      "answers": [
+        { "text": "Increased risk for fetal cardiac anomalies", "correct": true },
+        { "text": "Only normal fetal movement" },
+        { "text": "Only adult aortic stenosis" },
+        { "text": "Only chronic active myocarditis" }
+      ]
+    },
+    {
+      "text": "ASD is a hole between the:",
+      "answers": [
+        { "text": "Right and left atria", "correct": true },
+        { "text": "Left ventricle and aorta" },
+        { "text": "Right ventricle and pulmonary artery only" },
+        { "text": "Pericardium and pleura" }
+      ]
+    },
+    {
+      "text": "ASD may produce right-sided heart failure because of:",
+      "answers": [
+        { "text": "Left-to-right shunt", "correct": true },
+        { "text": "Normal coronary artery flow only" },
+        { "text": "Reduced pulmonary blood return only" },
+        { "text": "Pericardial scarring only" }
+      ]
+    },
+    {
+      "text": "PFO is a tunnel-like space between the septum secundum and:",
+      "answers": [
+        { "text": "Septum primum", "correct": true },
+        { "text": "Tunica media" },
+        { "text": "Aortic valve" },
+        { "text": "Pericardial sac" }
+      ]
+    },
+    {
+      "text": "A VSD can cause oxygenated blood to:",
+      "answers": [
+        { "text": "Return to the lungs instead of the body", "correct": true },
+        { "text": "Bypass the heart completely" },
+        { "text": "Remain only in the left atrium" },
+        { "text": "Drain through the pericardium" }
+      ]
+    },
+    {
+      "text": "Patent ductus arteriosus is a ductus arteriosus that:",
+      "answers": [
+        { "text": "Remains open after birth", "correct": true },
+        { "text": "Closes before fetal circulation begins" },
+        { "text": "Is always unrelated to prematurity" },
+        { "text": "Is a valve leaflet problem only" }
+      ]
+    },
+    {
+      "text": "Which clinical manifestation is associated with PDA?",
+      "answers": [
+        { "text": "Systolic murmur", "correct": true },
+        { "text": "Crunchy snow rub only" },
+        { "text": "Orthopnea only" },
+        { "text": "Absent pulses in all extremities only" }
+      ]
+    },
+    {
+      "text": "TOF starts with narrowing of the right ventricular outflow tract into the:",
+      "answers": [
+        { "text": "Pulmonary artery", "correct": true },
+        { "text": "Coronary sinus" },
+        { "text": "Left atrium" },
+        { "text": "Tunica intima" }
+      ]
+    },
+    {
+      "text": "A TOF symptom listed in the source is:",
+      "answers": [
+        { "text": "Digital clubbing from chronic hypoxemia", "correct": true },
+        { "text": "Widened pulse pressure only" },
+        { "text": "Coughing up blood from mitral stenosis only" },
+        { "text": "Normal oxygen saturation during all activity" }
+      ]
+    },
+    {
+      "text": "HLHS is duct dependent because systemic blood flow depends on:",
+      "answers": [
+        { "text": "PDA and ASD preventing infant death", "correct": true },
+        { "text": "Immediate closure of all fetal openings" },
+        { "text": "Troponin remaining elevated" },
+        { "text": "Bacterial vegetation" }
+      ]
+    },
+    {
+      "text": "Pre-ductal coarctation with PDA may show:",
+      "answers": [
+        { "text": "Reduced lower extremity SpO2", "correct": true },
+        { "text": "No oxygen saturation difference by definition" },
+        { "text": "Only upper extremity cyanosis" },
+        { "text": "Pericardial tamponade" }
+      ]
+    },
+    {
+      "text": "Pulmonary atresia can produce persistent fetal circulation because:",
+      "answers": [
+        { "text": "Pulmonary vascular resistance remains greater than systemic vascular resistance", "correct": true },
+        { "text": "All septal defects close immediately" },
+        { "text": "The left ventricle becomes the only issue" },
+        { "text": "LDL is moved to the liver" }
+      ]
+    },
+    {
+      "text": "VSD is listed as the most common cause of:",
+      "answers": [
+        { "text": "Eisenmenger syndrome", "correct": true },
+        { "text": "Mitral valve prolapse" },
+        { "text": "Acute pericarditis" },
+        { "text": "Calcific aortic stenosis" }
+      ]
+    },
+    {
+      "text": "Valvular prolapse means valve leaflets:",
+      "answers": [
+        { "text": "Slip or are pushed out of place", "correct": true },
+        { "text": "Always calcify and narrow only" },
+        { "text": "Inflame the myocardium" },
+        { "text": "Create arterial plaque" }
+      ]
+    },
+    {
+      "text": "Severe aortic stenosis can lead to death without:",
+      "answers": [
+        { "text": "Treatment", "correct": true },
+        { "text": "Sputum sampling" },
+        { "text": "Sleep apnea scoring" },
+        { "text": "HDL removal" }
+      ]
+    },
+    {
+      "text": "Rheumatic aortic stenosis is caused by:",
+      "answers": [
+        { "text": "Rheumatic fever", "correct": true },
+        { "text": "PDA dependency" },
+        { "text": "Pulmonary atresia" },
+        { "text": "Pericardiocentesis" }
+      ]
+    },
+    {
+      "text": "Aortic stenosis symptoms include syncope, angina, dyspnea, weak pulses, decreased pulse pressure, systolic murmur, and:",
+      "answers": [
+        { "text": "Arrhythmias such as atrial fibrillation", "correct": true },
+        { "text": "Guaranteed normal oxygen supply" },
+        { "text": "Only asymptomatic presentation" },
+        { "text": "Permanent PDA opening" }
+      ]
+    },
+    {
+      "text": "Mitral stenosis reduces blood flow into the:",
+      "answers": [
+        { "text": "Left ventricle", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Aorta from the right ventricle" },
+        { "text": "Pericardial sac" }
+      ]
+    },
+    {
+      "text": "Tricuspid stenosis pathophysiology includes right atrial dilation, ascites, hepatomegaly, pedal edema, and:",
+      "answers": [
+        { "text": "Atrial fibrillation or atrial flutter", "correct": true },
+        { "text": "Left ventricular outflow obstruction only" },
+        { "text": "Closure of the foramen ovale only" },
+        { "text": "Decreased systemic venous pressure only" }
+      ]
+    },
+    {
+      "text": "Aortic regurgitation increases left ventricular end-diastolic volume because blood leaks back from the:",
+      "answers": [
+        { "text": "Aorta", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Pulmonary vein only" },
+        { "text": "Pericardial sac" }
+      ]
+    },
+    {
+      "text": "Mitral regurgitation may progress to heart failure because the heart:",
+      "answers": [
+        { "text": "Works harder to pump blood to the body", "correct": true },
+        { "text": "Stops all ventricular filling" },
+        { "text": "Has no left atrial dilation" },
+        { "text": "Eliminates pulmonary hypertension" }
+      ]
+    },
+    {
+      "text": "Ebstein anomaly in tricuspid regurgitation includes a tricuspid valve that:",
+      "answers": [
+        { "text": "Sits lower than normal", "correct": true },
+        { "text": "Always sits above the aortic valve" },
+        { "text": "Closes the ductus arteriosus" },
+        { "text": "Prevents right atrial enlargement" }
+      ]
+    },
+    {
+      "text": "Transesophageal echocardiogram is useful in valvular dysfunction because it:",
+      "answers": [
+        { "text": "Gives a better view of valves and upper chambers", "correct": true },
+        { "text": "Always replaces valve treatment" },
+        { "text": "Measures only troponin" },
+        { "text": "Shows only lower extremity cyanosis" }
+      ]
+    },
+    {
+      "text": "Bioprosthetic valves may be:",
+      "answers": [
+        { "text": "Bovine, porcine, or cadaver valves", "correct": true },
+        { "text": "Only synthetic with lifelong anticoagulation by definition" },
+        { "text": "Only used for septal closure" },
+        { "text": "Only used in pericardiocentesis" }
+      ]
+    },
+    {
+      "text": "Cardiomyopathies are associated with mechanical and/or electrical dysfunction and usually show inappropriate ventricular:",
+      "answers": [
+        { "text": "Hypertrophy or dilation", "correct": true },
+        { "text": "Absence only" },
+        { "text": "Pericardial effusion only" },
+        { "text": "Plaque mineralization only" }
+      ]
+    },
+    {
+      "text": "A source-listed cardiomyopathy cause is:",
+      "answers": [
+        { "text": "Heart valve problems", "correct": true },
+        { "text": "Resolved ASDs only" },
+        { "text": "Normal arterial endothelial resistance" },
+        { "text": "Low troponin after AMI" }
+      ]
+    },
+    {
+      "text": "Dilated cardiomyopathy has systolic dysfunction not caused by ischemic or:",
+      "answers": [
+        { "text": "Valvular heart disease", "correct": true },
+        { "text": "Genetic factors ever" },
+        { "text": "Chronic hypertension ever" },
+        { "text": "Fluid retention ever" }
+      ]
+    },
+    {
+      "text": "Restrictive cardiomyopathy may have normal systolic function but abnormal:",
+      "answers": [
+        { "text": "Diastolic function", "correct": true },
+        { "text": "Fetal circulation" },
+        { "text": "Valve biofilm" },
+        { "text": "LDL receptor mutation only" }
+      ]
+    },
+    {
+      "text": "Hemochromatosis is listed as a restrictive cardiomyopathy cause because it involves:",
+      "answers": [
+        { "text": "Excess iron in the heart", "correct": true },
+        { "text": "Excess air in the lungs" },
+        { "text": "Aortic transposition" },
+        { "text": "PDA closure" }
+      ]
+    },
+    {
+      "text": "Hypertrophic obstructive cardiomyopathy occurs when thickening causes:",
+      "answers": [
+        { "text": "Left ventricular outflow tract obstruction", "correct": true },
+        { "text": "No ventricular stiffness" },
+        { "text": "Improved mitral valve function only" },
+        { "text": "Complete absence of arrhythmias" }
+      ]
+    },
+    {
+      "text": "Functional limitation in HCM may be due to exertional dyspnea or:",
+      "answers": [
+        { "text": "Fatigue", "correct": true },
+        { "text": "High HDL only" },
+        { "text": "Scalp edema only" },
+        { "text": "Wide pulse pressure only" }
+      ]
+    },
+    {
+      "text": "Infective endocarditis vegetation may cause tissue breakdown, valve obstruction, turbulent flow, and higher incidence of:",
+      "answers": [
+        { "text": "Thrombosis", "correct": true },
+        { "text": "Normal valve opening" },
+        { "text": "HDL breakdown" },
+        { "text": "Ductus closure only" }
+      ]
+    },
+    {
+      "text": "A patient with suspected endocarditis and a prosthetic valve may receive:",
+      "answers": [
+        { "text": "TEE or TTE", "correct": true },
+        { "text": "Only HDL testing" },
+        { "text": "Only BVM ventilation" },
+        { "text": "Only sleep apnea scoring" }
+      ]
+    },
+    {
+      "text": "Treatment of infective endocarditis includes antibiotics based on:",
+      "answers": [
+        { "text": "The specific infection", "correct": true },
+        { "text": "The patient's LDL level only" },
+        { "text": "PDA closure timing only" },
+        { "text": "Normal fetal circulation only" }
+      ]
+    },
+    {
+      "text": "Acute myocarditis commonly includes fatigue, dyspnea on exertion, arrhythmias, palpitations, and:",
+      "answers": [
+        { "text": "Chest pain", "correct": true },
+        { "text": "PDA dependency only" },
+        { "text": "Lower extremity cyanosis only" },
+        { "text": "Valve calcification only" }
+      ]
+    },
+    {
+      "text": "Chronic active myocarditis can produce chronic myopathic changes with fibrosis and:",
+      "answers": [
+        { "text": "Myocyte dropout", "correct": true },
+        { "text": "PDA closure" },
+        { "text": "Aortic overriding" },
+        { "text": "LDL removal" }
+      ]
+    },
+    {
+      "text": "Peripartum cardiomyopathy occurs in the last month of pregnancy or within:",
+      "answers": [
+        { "text": "5 months of delivery", "correct": true },
+        { "text": "48 hours after infarction" },
+        { "text": "8 to 12 days after AMI" },
+        { "text": "3 to 6 months after Glenn correction" }
+      ]
+    },
+    {
+      "text": "Acute pericarditis is pericardial inflammation of no more than:",
+      "answers": [
+        { "text": "1 to 2 weeks", "correct": true },
+        { "text": "8 to 12 days after AMI only" },
+        { "text": "18 months to 4 years" },
+        { "text": "The entire lifespan by definition" }
+      ]
+    },
+    {
+      "text": "Tamponade occurs when pressure within the pericardial sac affects:",
+      "answers": [
+        { "text": "The heart's ability to work", "correct": true },
+        { "text": "Only LDL transport" },
+        { "text": "Only fetal atrial shunting" },
+        { "text": "Only aortic valve calcification" }
+      ]
+    },
+    {
+      "text": "Effusive-constrictive pericarditis combines elements of effusion or tamponade with:",
+      "answers": [
+        { "text": "Constriction", "correct": true },
+        { "text": "Atherogenesis" },
+        { "text": "PDA dependency" },
+        { "text": "Valve prolapse only" }
+      ]
+    },
+    {
+      "text": "Atheroma leads to restricted circulation and increased risk of thrombosis or:",
+      "answers": [
+        { "text": "Complete blockage of the artery", "correct": true },
+        { "text": "Normal oxygenation only" },
+        { "text": "Pericardial rub only" },
+        { "text": "Septal closure only" }
+      ]
+    },
+    {
+      "text": "The tunica adventitia is the:",
+      "answers": [
+        { "text": "External covering of the artery", "correct": true },
+        { "text": "Inner endothelial lining only" },
+        { "text": "Heart muscle layer" },
+        { "text": "Fetal shunt opening" }
+      ]
+    },
+    {
+      "text": "As plaque grows, mineralization may occur in deposits that have been present for:",
+      "answers": [
+        { "text": "An extended period of time", "correct": true },
+        { "text": "Only one heartbeat" },
+        { "text": "Only during fetal life" },
+        { "text": "Only after valve replacement" }
+      ]
+    },
+    {
+      "text": "Chronic stable angina can occur when coronary stenosis causes flow limitation during:",
+      "answers": [
+        { "text": "Increased demand", "correct": true },
+        { "text": "Complete rest only" },
+        { "text": "Fetal circulation only" },
+        { "text": "Pericardial decompression only" }
+      ]
+    },
+    {
+      "text": "CAD identification is typically done through EKG, biomarkers, or:",
+      "answers": [
+        { "text": "Cardiac catheterization", "correct": true },
+        { "text": "PDA auscultation only" },
+        { "text": "GCS scoring only" },
+        { "text": "Nasotracheal suctioning only" }
+      ]
+    },
+    {
+      "text": "Troponin remains elevated after AMI for:",
+      "answers": [
+        { "text": "8 to 12 days", "correct": true },
+        { "text": "48 minutes" },
+        { "text": "18 to 24 months" },
+        { "text": "3 to 6 months" }
+      ]
+    },
+    {
+      "text": "Smoking affects coronary risk partly through unfavorable effects on blood pressure, sympathetic tone, and:",
+      "answers": [
+        { "text": "Reduction of myocardial oxygen supply", "correct": true },
+        { "text": "Closure of bacterial vegetation" },
+        { "text": "Improved ventricular filling only" },
+        { "text": "Increased HDL breakdown only" }
+      ]
+    },
+    {
+      "text": "Insulin resistance promotes atherosclerosis:",
+      "answers": [
+        { "text": "Even before frank diabetes", "correct": true },
+        { "text": "Only after valve replacement" },
+        { "text": "Only when HDL is absent" },
+        { "text": "Only during fetal circulation" }
+      ]
+    }
+  ]
+}

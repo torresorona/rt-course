@@ -1,0 +1,185 @@
+{
+  "title": "Valvular Dysfunctions Quiz",
+  "questions": [
+    {
+      "text": "Valvular stenosis is defined as:",
+      "answers": [
+        { "text": "Abnormal narrowing or contraction of a passage or opening", "correct": true },
+        { "text": "Backflow of blood into the previous chamber only" },
+        { "text": "Inflammation of the myocardium" },
+        { "text": "Accumulation of fatty deposits in the tunica intima" }
+      ]
+    },
+    {
+      "text": "Regurgitation is:",
+      "answers": [
+        { "text": "Backflow of blood into the previous chamber", "correct": true },
+        { "text": "A normal fetal shunt" },
+        { "text": "Narrowing of a coronary artery by plaque only" },
+        { "text": "Scar tissue in the pericardium" }
+      ]
+    },
+    {
+      "text": "Aortic stenosis reduces blood flow from the left ventricle through the:",
+      "answers": [
+        { "text": "Aorta", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Pulmonary veins" },
+        { "text": "Pericardial sac" }
+      ]
+    },
+    {
+      "text": "The most common adult cause of aortic stenosis listed in the source is:",
+      "answers": [
+        { "text": "Calcific aortic valve", "correct": true },
+        { "text": "Peripartum myocarditis" },
+        { "text": "Low LDL cholesterol" },
+        { "text": "Patent foramen ovale" }
+      ]
+    },
+    {
+      "text": "Aortic stenosis pathophysiology includes:",
+      "answers": [
+        { "text": "Left ventricular hypertrophy and increased left atrial pressure", "correct": true },
+        { "text": "Decreased left ventricular filling pressure only" },
+        { "text": "Improved coronary oxygen supply" },
+        { "text": "Absence of murmur or arrhythmia" }
+      ]
+    },
+    {
+      "text": "The most common listed cause of mitral stenosis is:",
+      "answers": [
+        { "text": "Rheumatic fever", "correct": true },
+        { "text": "High HDL balance" },
+        { "text": "PDA closure" },
+        { "text": "Needle pericardiocentesis" }
+      ]
+    },
+    {
+      "text": "Mitral stenosis can lead to blood clots because of:",
+      "answers": [
+        { "text": "Atrial fibrillation", "correct": true },
+        { "text": "Pulmonary valve replacement with cadaver tissue" },
+        { "text": "Normal fetal circulation" },
+        { "text": "Spontaneous PDA closure" }
+      ]
+    },
+    {
+      "text": "Tricuspid stenosis is narrowing or calcification of the valve between the:",
+      "answers": [
+        { "text": "Right atrium and right ventricle", "correct": true },
+        { "text": "Left atrium and left ventricle" },
+        { "text": "Left ventricle and aorta" },
+        { "text": "Pulmonary artery and aorta" }
+      ]
+    },
+    {
+      "text": "Which finding is listed with tricuspid stenosis pathophysiology?",
+      "answers": [
+        { "text": "Jugular venous distension", "correct": true },
+        { "text": "Boot sign" },
+        { "text": "Pericardial rub only" },
+        { "text": "Low troponin for 8 to 12 days" }
+      ]
+    },
+    {
+      "text": "The most common form of pulmonic stenosis is listed as:",
+      "answers": [
+        { "text": "Congenital pulmonic stenosis", "correct": true },
+        { "text": "Idiopathic pericarditis" },
+        { "text": "Acute myocardial infarction" },
+        { "text": "Mitral valve prolapse" }
+      ]
+    },
+    {
+      "text": "Pulmonic stenosis pathophysiology includes:",
+      "answers": [
+        { "text": "Reduced blood flow to the lungs and right ventricular hypertrophy", "correct": true },
+        { "text": "Increased left ventricular end-diastolic volume only" },
+        { "text": "Left atrial dilation only" },
+        { "text": "Atherosclerotic plaque fracture" }
+      ]
+    },
+    {
+      "text": "Aortic regurgitation is backflow from the aorta into the:",
+      "answers": [
+        { "text": "Left ventricle", "correct": true },
+        { "text": "Right atrium" },
+        { "text": "Pulmonary artery" },
+        { "text": "Coronary sinus" }
+      ]
+    },
+    {
+      "text": "A source-listed symptom of aortic regurgitation is:",
+      "answers": [
+        { "text": "Widened pulse pressure", "correct": true },
+        { "text": "Lower extremity cyanosis only" },
+        { "text": "Hemoptysis from mitral stenosis only" },
+        { "text": "Chronic productive cough only" }
+      ]
+    },
+    {
+      "text": "Mitral regurgitation sends blood backward into the:",
+      "answers": [
+        { "text": "Left atrium", "correct": true },
+        { "text": "Right ventricle" },
+        { "text": "Pulmonary artery" },
+        { "text": "Aortic arch" }
+      ]
+    },
+    {
+      "text": "A cause of mitral regurgitation listed in the source is:",
+      "answers": [
+        { "text": "Damaged chordae tendineae", "correct": true },
+        { "text": "High HDL cholesterol" },
+        { "text": "Open ductus arteriosus in utero" },
+        { "text": "Normal mitral valve closure" }
+      ]
+    },
+    {
+      "text": "Tricuspid regurgitation may be caused by IV drug abuse through:",
+      "answers": [
+        { "text": "Endocarditis from S. aureus infection", "correct": true },
+        { "text": "Reduced platelet aggregation" },
+        { "text": "Improved right ventricular filling" },
+        { "text": "Lower systemic vascular resistance only" }
+      ]
+    },
+    {
+      "text": "Pulmonic regurgitation is found mostly in patients with:",
+      "answers": [
+        { "text": "Congenital heart diseases or surgeries", "correct": true },
+        { "text": "Normal valves and no prior disease" },
+        { "text": "Isolated diabetes without cardiac disease only" },
+        { "text": "Resolved fetal circulation only" }
+      ]
+    },
+    {
+      "text": "Mitral valve prolapse is also called:",
+      "answers": [
+        { "text": "Barlow syndrome", "correct": true },
+        { "text": "Eisenmenger syndrome" },
+        { "text": "Norwood-Sano palliation" },
+        { "text": "Beck's triad" }
+      ]
+    },
+    {
+      "text": "The best diagnostic tool for identifying valvular dysfunction in the source is:",
+      "answers": [
+        { "text": "Transthoracic echocardiogram", "correct": true },
+        { "text": "Sputum culture" },
+        { "text": "Sleep apnea index" },
+        { "text": "Needle decompression" }
+      ]
+    },
+    {
+      "text": "A mechanical valve replacement is associated with:",
+      "answers": [
+        { "text": "Remaining on anticoagulants for life", "correct": true },
+        { "text": "No need for anticoagulants in any patient" },
+        { "text": "Porcine, bovine, or cadaver tissue only" },
+        { "text": "Treatment of pericardial effusion only" }
+      ]
+    }
+  ]
+}
