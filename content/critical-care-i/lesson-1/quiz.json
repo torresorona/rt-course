@@ -1,0 +1,365 @@
+{
+  "title": "Manual Breathing Devices & Pharyngeal Airways Quiz",
+  "questions": [
+    {
+      "text": "A manual breathing device is used primarily to:",
+      "answers": [
+        {
+          "text": "Provide positive pressure ventilation to patients not breathing adequately",
+          "correct": true
+        },
+        {
+          "text": "Measure intracranial pressure"
+        },
+        {
+          "text": "Drain pleural fluid"
+        },
+        {
+          "text": "Measure mixed venous oxygen content"
+        }
+      ]
+    },
+    {
+      "text": "When should supplemental oxygen be attached to the BVM?",
+      "answers": [
+        {
+          "text": "As soon as appropriate and when enough resources are available",
+          "correct": true
+        },
+        {
+          "text": "Only after chest x-ray confirmation"
+        },
+        {
+          "text": "Only after the patient is extubated"
+        },
+        {
+          "text": "Only when a flow-inflating bag is unavailable"
+        }
+      ]
+    },
+    {
+      "text": "Which situation is an indication for manual ventilation?",
+      "answers": [
+        {
+          "text": "Spontaneous breathing is absent or insufficient for gas exchange",
+          "correct": true
+        },
+        {
+          "text": "The patient has normal spontaneous ventilation and no distress"
+        },
+        {
+          "text": "The patient needs a routine neurologic history"
+        },
+        {
+          "text": "The patient needs a daily tracheal speaking valve cleaning"
+        }
+      ]
+    },
+    {
+      "text": "Why can positive pressure ventilation decrease cardiac output?",
+      "answers": [
+        {
+          "text": "It increases intrathoracic pressure and decreases venous return",
+          "correct": true
+        },
+        {
+          "text": "It increases urine output above 3 L/day"
+        },
+        {
+          "text": "It lowers barometric pressure"
+        },
+        {
+          "text": "It removes the need for oxygenation"
+        }
+      ]
+    },
+    {
+      "text": "Gastric insufflation during manual ventilation increases the risk for:",
+      "answers": [
+        {
+          "text": "Regurgitation and aspiration",
+          "correct": true
+        },
+        {
+          "text": "Improved venous return"
+        },
+        {
+          "text": "Reduced airway pressure"
+        },
+        {
+          "text": "Lower secretion volume"
+        }
+      ]
+    },
+    {
+      "text": "Which advantage belongs to a self-inflating manual resuscitation bag?",
+      "answers": [
+        {
+          "text": "It does not need a gas source to operate",
+          "correct": true
+        },
+        {
+          "text": "It always requires a sealed gas source to inflate"
+        },
+        {
+          "text": "It is only used for chest tube drainage"
+        },
+        {
+          "text": "It cannot be used during CPR"
+        }
+      ]
+    },
+    {
+      "text": "At 15 L/min, a self-inflating manual resuscitation bag can deliver approximately:",
+      "answers": [
+        {
+          "text": "95% to 100% oxygen",
+          "correct": true
+        },
+        {
+          "text": "20% to 40% oxygen"
+        },
+        {
+          "text": "3% to 5% oxygen"
+        },
+        {
+          "text": "25 to 35 cm H2O oxygen"
+        }
+      ]
+    },
+    {
+      "text": "A flow-inflating resuscitation bag is mainly used:",
+      "answers": [
+        {
+          "text": "In the operating room by anesthesia and with neonates",
+          "correct": true
+        },
+        {
+          "text": "Only for adult chest tube drainage"
+        },
+        {
+          "text": "Only after laryngectomy tube removal"
+        },
+        {
+          "text": "Only for Glasgow Coma Scale scoring"
+        }
+      ]
+    },
+    {
+      "text": "Peak inspiratory pressure with a flow-inflating bag is controlled by flow, valve adjustment, and:",
+      "answers": [
+        {
+          "text": "How hard the bag is squeezed",
+          "correct": true
+        },
+        {
+          "text": "The patient's urine volume"
+        },
+        {
+          "text": "The water seal chamber"
+        },
+        {
+          "text": "The Glasgow verbal response"
+        }
+      ]
+    },
+    {
+      "text": "Which disadvantage belongs to a flow-inflating bag?",
+      "answers": [
+        {
+          "text": "It inflates only when the gas source is on and the opening is sealed",
+          "correct": true
+        },
+        {
+          "text": "It cannot provide blow-by oxygen"
+        },
+        {
+          "text": "It never delivers 100% oxygen"
+        },
+        {
+          "text": "It cannot let the user feel lung compliance"
+        }
+      ]
+    },
+    {
+      "text": "A PEEP valve is especially important during manual ventilation when:",
+      "answers": [
+        {
+          "text": "The ventilator PEEP setting is high, especially over 5 cm H2O",
+          "correct": true
+        },
+        {
+          "text": "The patient has no need for oxygen"
+        },
+        {
+          "text": "The patient is being scored with APACHE II"
+        },
+        {
+          "text": "The chest tube water seal is bubbling"
+        }
+      ]
+    },
+    {
+      "text": "The head-tilt/chin-lift technique opens the airway by:",
+      "answers": [
+        {
+          "text": "Pressing the forehead down while lifting the bony underside of the chin",
+          "correct": true
+        },
+        {
+          "text": "Lowering the head of bed and raising the feet"
+        },
+        {
+          "text": "Inflating the tracheal cuff"
+        },
+        {
+          "text": "Placing a chest tube in the fifth intercostal space"
+        }
+      ]
+    },
+    {
+      "text": "Which maneuver is preferred when head, neck, or spinal injury is suspected?",
+      "answers": [
+        {
+          "text": "Modified jaw-thrust maneuver",
+          "correct": true
+        },
+        {
+          "text": "Trendelenburg positioning"
+        },
+        {
+          "text": "Cuff leak test"
+        },
+        {
+          "text": "Suction catheter sizing"
+        }
+      ]
+    },
+    {
+      "text": "The source gives the adult manual ventilation rate as:",
+      "answers": [
+        {
+          "text": "10 to 12 breaths per minute",
+          "correct": true
+        },
+        {
+          "text": "1 to 2 breaths per minute"
+        },
+        {
+          "text": "25 to 35 breaths per minute"
+        },
+        {
+          "text": "80 to 100 breaths per minute"
+        }
+      ]
+    },
+    {
+      "text": "During adult BVM ventilation, the bag is depressed about halfway to deliver:",
+      "answers": [
+        {
+          "text": "400 to 700 mL",
+          "correct": true
+        },
+        {
+          "text": "10 to 20 mm Hg"
+        },
+        {
+          "text": "3 to 5 vol%"
+        },
+        {
+          "text": "5 to 8 cm"
+        }
+      ]
+    },
+    {
+      "text": "In two-person BVM technique, Provider 1 primarily:",
+      "answers": [
+        {
+          "text": "Maintains the mask seal and open airway with both hands",
+          "correct": true
+        },
+        {
+          "text": "Calculates the P/F ratio"
+        },
+        {
+          "text": "Places the chest tube"
+        },
+        {
+          "text": "Changes the water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "An oropharyngeal airway is designed to:",
+      "answers": [
+        {
+          "text": "Prevent the tongue from obstructing the hypopharynx",
+          "correct": true
+        },
+        {
+          "text": "Drain blood from the pleural space"
+        },
+        {
+          "text": "Measure CO2 graphically"
+        },
+        {
+          "text": "Seal the esophagus with a distal cuff"
+        }
+      ]
+    },
+    {
+      "text": "Which patient is an OPA contraindicated for?",
+      "answers": [
+        {
+          "text": "A conscious or semiconscious patient",
+          "correct": true
+        },
+        {
+          "text": "An unconscious patient with tongue obstruction"
+        },
+        {
+          "text": "An intubated patient needing a bite block"
+        },
+        {
+          "text": "A patient with no gag reflex"
+        }
+      ]
+    },
+    {
+      "text": "Correct OPA sizing measures from the corner of the mouth to the:",
+      "answers": [
+        {
+          "text": "Angle of the jaw",
+          "correct": true
+        },
+        {
+          "text": "Second intercostal space"
+        },
+        {
+          "text": "Upper incisors"
+        },
+        {
+          "text": "Mid-axillary line"
+        }
+      ]
+    },
+    {
+      "text": "Which condition is an absolute contraindication for NPA insertion?",
+      "answers": [
+        {
+          "text": "Trauma to the nasal region",
+          "correct": true
+        },
+        {
+          "text": "Need to assist with bagging"
+        },
+        {
+          "text": "Frequent nasotracheal suctioning"
+        },
+        {
+          "text": "Need for an airway tolerated by a conscious patient"
+        }
+      ]
+    }
+  ]
+}

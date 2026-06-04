@@ -1,0 +1,455 @@
+{
+  "title": "Neurological, Systemic & Pleural Monitoring Quiz",
+  "questions": [
+    {
+      "text": "Which item is part of the neurologic exam listed in the source?",
+      "answers": [
+        {
+          "text": "Pupillary response",
+          "correct": true
+        },
+        {
+          "text": "Water seal depth"
+        },
+        {
+          "text": "Suction catheter French size"
+        },
+        {
+          "text": "FiO2 blender calibration"
+        }
+      ]
+    },
+    {
+      "text": "The Glasgow Coma Scale is based on eye response, motor response, and:",
+      "answers": [
+        {
+          "text": "Verbal response",
+          "correct": true
+        },
+        {
+          "text": "Urine volume"
+        },
+        {
+          "text": "Chest tube size"
+        },
+        {
+          "text": "Cuff pressure"
+        }
+      ]
+    },
+    {
+      "text": "Intracranial pressure measures pressure of cerebrospinal fluid between the skull and:",
+      "answers": [
+        {
+          "text": "Brain",
+          "correct": true
+        },
+        {
+          "text": "Pleural space"
+        },
+        {
+          "text": "Tracheal cuff"
+        },
+        {
+          "text": "Water seal chamber"
+        }
+      ]
+    },
+    {
+      "text": "Which is an indication for ICP monitoring?",
+      "answers": [
+        {
+          "text": "Life-threatening intracranial hypertension",
+          "correct": true
+        },
+        {
+          "text": "Routine OPA placement"
+        },
+        {
+          "text": "Normal home oxygen use"
+        },
+        {
+          "text": "Clean tracheal speaking valve"
+        }
+      ]
+    },
+    {
+      "text": "The most accurate ICP monitoring method listed is:",
+      "answers": [
+        {
+          "text": "Intraventricular catheter",
+          "correct": true
+        },
+        {
+          "text": "Heimlich valve"
+        },
+        {
+          "text": "Yankauer catheter"
+        },
+        {
+          "text": "Macintosh blade"
+        }
+      ]
+    },
+    {
+      "text": "Normal ICP in a supine patient is:",
+      "answers": [
+        {
+          "text": "10 to 15 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "83 to 93 mm Hg"
+        },
+        {
+          "text": "3% to 5%"
+        },
+        {
+          "text": "25 to 35 cm H2O"
+        }
+      ]
+    },
+    {
+      "text": "Cerebral perfusion pressure is calculated as:",
+      "answers": [
+        {
+          "text": "MAP - ICP",
+          "correct": true
+        },
+        {
+          "text": "PAO2 - PaO2"
+        },
+        {
+          "text": "Tube ID x 2"
+        },
+        {
+          "text": "RR x VT"
+        }
+      ]
+    },
+    {
+      "text": "The source recommends initiating treatment when ICP is:",
+      "answers": [
+        {
+          "text": "Greater than 20 mm Hg",
+          "correct": true
+        },
+        {
+          "text": "Less than 5 mm Hg"
+        },
+        {
+          "text": "Exactly 3% to 5%"
+        },
+        {
+          "text": "Equal to 2 cm water seal"
+        }
+      ]
+    },
+    {
+      "text": "Hyperventilation to reduce ICP targets a PaCO2 of:",
+      "answers": [
+        {
+          "text": "25 to 30 torr",
+          "correct": true
+        },
+        {
+          "text": "66 to 300 torr"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        },
+        {
+          "text": "17 to 20 vol%"
+        }
+      ]
+    },
+    {
+      "text": "To lower jugular venous pressure, the source says to avoid:",
+      "answers": [
+        {
+          "text": "Neck flexion, head turning, and tight trach ties",
+          "correct": true
+        },
+        {
+          "text": "Head of bed elevation"
+        },
+        {
+          "text": "Minimizing straining"
+        },
+        {
+          "text": "Avoiding hypotension"
+        }
+      ]
+    },
+    {
+      "text": "Which osmotic agent is listed for therapy to reduce ICP?",
+      "answers": [
+        {
+          "text": "Mannitol",
+          "correct": true
+        },
+        {
+          "text": "Racemic epinephrine only"
+        },
+        {
+          "text": "Hydrogen peroxide"
+        },
+        {
+          "text": "Gastric acid"
+        }
+      ]
+    },
+    {
+      "text": "Renal monitoring includes BUN, creatinine, potassium, HCO3, and:",
+      "answers": [
+        {
+          "text": "Urine volume",
+          "correct": true
+        },
+        {
+          "text": "Murphy eye"
+        },
+        {
+          "text": "Macintosh blade"
+        },
+        {
+          "text": "Tracheal button"
+        }
+      ]
+    },
+    {
+      "text": "Polyuria is defined in the source as urine output greater than:",
+      "answers": [
+        {
+          "text": "3 L daily",
+          "correct": true
+        },
+        {
+          "text": "0.4 L daily"
+        },
+        {
+          "text": "1.5 L vital capacity"
+        },
+        {
+          "text": "2 cm water seal"
+        }
+      ]
+    },
+    {
+      "text": "The liver detoxifies waste from metabolism, digestion, and:",
+      "answers": [
+        {
+          "text": "Poisons",
+          "correct": true
+        },
+        {
+          "text": "ETT cuffs"
+        },
+        {
+          "text": "Water seal bottles"
+        },
+        {
+          "text": "OPA flanges"
+        }
+      ]
+    },
+    {
+      "text": "APACHE II is designed to measure severity of disease for adult patients admitted to:",
+      "answers": [
+        {
+          "text": "Intensive care units",
+          "correct": true
+        },
+        {
+          "text": "Home oxygen programs"
+        },
+        {
+          "text": "Routine dental visits"
+        },
+        {
+          "text": "Only outpatient pulmonary rehab"
+        }
+      ]
+    },
+    {
+      "text": "Higher APACHE II scores mean:",
+      "answers": [
+        {
+          "text": "More severe illness and higher risk of death",
+          "correct": true
+        },
+        {
+          "text": "Resolved illness and lower monitoring need"
+        },
+        {
+          "text": "Normal chest tube drainage"
+        },
+        {
+          "text": "A clean tracheal valve"
+        }
+      ]
+    },
+    {
+      "text": "Needle decompression is indicated for:",
+      "answers": [
+        {
+          "text": "Tension pneumothorax",
+          "correct": true
+        },
+        {
+          "text": "Stable nasal airway placement"
+        },
+        {
+          "text": "Routine suction catheter sizing"
+        },
+        {
+          "text": "Normal oxygenation index"
+        }
+      ]
+    },
+    {
+      "text": "The needle decompression site from the source is:",
+      "answers": [
+        {
+          "text": "Second intercostal space mid-clavicular",
+          "correct": true
+        },
+        {
+          "text": "Fifth intercostal space posterior axillary only"
+        },
+        {
+          "text": "Lateral ventricle"
+        },
+        {
+          "text": "Corner of mouth to angle of jaw"
+        }
+      ]
+    },
+    {
+      "text": "During needle decompression, the clinician goes over the top of the rib because:",
+      "answers": [
+        {
+          "text": "Veins, arteries, and nerves run beneath the ribs",
+          "correct": true
+        },
+        {
+          "text": "The lower rib edge improves oxygenation"
+        },
+        {
+          "text": "The water seal is above the rib"
+        },
+        {
+          "text": "The cuff pressure is below the rib"
+        }
+      ]
+    },
+    {
+      "text": "A chest tube thoracostomy places a tube into the pleural space to remove air, blood, or:",
+      "answers": [
+        {
+          "text": "Pleural fluid",
+          "correct": true
+        },
+        {
+          "text": "Cerebrospinal fluid"
+        },
+        {
+          "text": "Tracheal cuff air"
+        },
+        {
+          "text": "Gastric contents"
+        }
+      ]
+    },
+    {
+      "text": "Which is an indication for chest tube thoracostomy?",
+      "answers": [
+        {
+          "text": "Any pneumothorax in a patient on positive pressure ventilation",
+          "correct": true
+        },
+        {
+          "text": "Normal spontaneous breathing without pneumothorax"
+        },
+        {
+          "text": "Routine Glasgow Coma Scale scoring"
+        },
+        {
+          "text": "Clean speaking valve replacement"
+        }
+      ]
+    },
+    {
+      "text": "The water seal chamber is a component of the:",
+      "answers": [
+        {
+          "text": "Chest drainage system",
+          "correct": true
+        },
+        {
+          "text": "Oropharyngeal airway"
+        },
+        {
+          "text": "Capnography waveform"
+        },
+        {
+          "text": "ICP catheter"
+        }
+      ]
+    },
+    {
+      "text": "In a three-bottle chest drainage system, suction is controlled by:",
+      "answers": [
+        {
+          "text": "Depth of water in the suction bottle",
+          "correct": true
+        },
+        {
+          "text": "The reading on the vacuum regulator"
+        },
+        {
+          "text": "The OPA flange"
+        },
+        {
+          "text": "The Glasgow verbal score"
+        }
+      ]
+    },
+    {
+      "text": "A Heimlich valve can only drain:",
+      "answers": [
+        {
+          "text": "Air",
+          "correct": true
+        },
+        {
+          "text": "Fluid"
+        },
+        {
+          "text": "CSF"
+        },
+        {
+          "text": "Secretions from the mouth"
+        }
+      ]
+    },
+    {
+      "text": "When pneumothorax resolves, bubbling in the water-seal chamber:",
+      "answers": [
+        {
+          "text": "Stops",
+          "correct": true
+        },
+        {
+          "text": "Becomes continuous"
+        },
+        {
+          "text": "Always increases"
+        },
+        {
+          "text": "Turns yellow"
+        }
+      ]
+    }
+  ]
+}

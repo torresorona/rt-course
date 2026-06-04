@@ -1,0 +1,455 @@
+{
+  "title": "ICU Oxygenation & Ventilation Monitoring Quiz",
+  "questions": [
+    {
+      "text": "PaO2 is the partial pressure of oxygen:",
+      "answers": [
+        {
+          "text": "Dissolved in plasma",
+          "correct": true
+        },
+        {
+          "text": "Inside the water seal chamber"
+        },
+        {
+          "text": "In the cerebral ventricles"
+        },
+        {
+          "text": "Only inside the tracheal cuff"
+        }
+      ]
+    },
+    {
+      "text": "C(a-v)O2 measures:",
+      "answers": [
+        {
+          "text": "Oxygen consumption by the tissues",
+          "correct": true
+        },
+        {
+          "text": "Chest tube drainage volume"
+        },
+        {
+          "text": "Airway cuff pressure"
+        },
+        {
+          "text": "Glasgow verbal response"
+        }
+      ]
+    },
+    {
+      "text": "The normal C(a-v)O2 value is:",
+      "answers": [
+        {
+          "text": "4 to 5 vol%",
+          "correct": true
+        },
+        {
+          "text": "17 to 20 vol%"
+        },
+        {
+          "text": "25 to 65 torr"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "CaO2 is described as the best index of:",
+      "answers": [
+        {
+          "text": "Oxygen transport",
+          "correct": true
+        },
+        {
+          "text": "Suction catheter size"
+        },
+        {
+          "text": "ETT depth"
+        },
+        {
+          "text": "Speaking valve cleaning"
+        }
+      ]
+    },
+    {
+      "text": "The CaO2 formula includes hemoglobin, SaO2, PaO2, and:",
+      "answers": [
+        {
+          "text": "1.34 and 0.003",
+          "correct": true
+        },
+        {
+          "text": "2 cm water seal only"
+        },
+        {
+          "text": "5 to 8 cm needle length only"
+        },
+        {
+          "text": "MIP and MEP only"
+        }
+      ]
+    },
+    {
+      "text": "The normal CaO2 value is:",
+      "answers": [
+        {
+          "text": "17 to 20 vol%",
+          "correct": true
+        },
+        {
+          "text": "3% to 5%"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        },
+        {
+          "text": "80 to 100 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "Mixed venous oxygen content is measured from blood drawn through a:",
+      "answers": [
+        {
+          "text": "Swan-Ganz catheter in the pulmonary artery",
+          "correct": true
+        },
+        {
+          "text": "Yankauer suction catheter in the mouth"
+        },
+        {
+          "text": "Chest tube in the pleural space"
+        },
+        {
+          "text": "Tracheal speaking valve"
+        }
+      ]
+    },
+    {
+      "text": "CvO2 values decrease when:",
+      "answers": [
+        {
+          "text": "Cardiac output decreases",
+          "correct": true
+        },
+        {
+          "text": "The speaking valve is cleaned"
+        },
+        {
+          "text": "The patient is placed in low Fowler's"
+        },
+        {
+          "text": "The cuff is deflated for a leak test"
+        }
+      ]
+    },
+    {
+      "text": "The A-a gradient formula is:",
+      "answers": [
+        {
+          "text": "PAO2 - PaO2",
+          "correct": true
+        },
+        {
+          "text": "MAP - ICP"
+        },
+        {
+          "text": "Tube ID x 2"
+        },
+        {
+          "text": "RR x VT"
+        }
+      ]
+    },
+    {
+      "text": "On 100% oxygen, an A-a gradient of 66 to 300 torr indicates:",
+      "answers": [
+        {
+          "text": "V/Q mismatch",
+          "correct": true
+        },
+        {
+          "text": "Normal"
+        },
+        {
+          "text": "Resolved pneumothorax"
+        },
+        {
+          "text": "Polyuria"
+        }
+      ]
+    },
+    {
+      "text": "On 100% oxygen, an A-a gradient greater than 300 torr indicates:",
+      "answers": [
+        {
+          "text": "Shunting",
+          "correct": true
+        },
+        {
+          "text": "Normal"
+        },
+        {
+          "text": "Only airway cuff leak"
+        },
+        {
+          "text": "Normal urine output"
+        }
+      ]
+    },
+    {
+      "text": "The P/F ratio is calculated as:",
+      "answers": [
+        {
+          "text": "PaO2 / FiO2",
+          "correct": true
+        },
+        {
+          "text": "MAP - ICP"
+        },
+        {
+          "text": "PaCO2 - PECO2 only"
+        },
+        {
+          "text": "Tube ID x 2"
+        }
+      ]
+    },
+    {
+      "text": "A P/F ratio less than 200 torr indicates:",
+      "answers": [
+        {
+          "text": "Acute respiratory distress syndrome",
+          "correct": true
+        },
+        {
+          "text": "Normal oxygenation"
+        },
+        {
+          "text": "Cuff leak"
+        },
+        {
+          "text": "A normal water seal"
+        }
+      ]
+    },
+    {
+      "text": "Oxygenation index measures:",
+      "answers": [
+        {
+          "text": "Ventilatory support required to provide oxygenation",
+          "correct": true
+        },
+        {
+          "text": "Airway catheter French size"
+        },
+        {
+          "text": "Tracheostomy tie tightness"
+        },
+        {
+          "text": "Verbal response on GCS"
+        }
+      ]
+    },
+    {
+      "text": "An increasing oxygenation index indicates:",
+      "answers": [
+        {
+          "text": "The patient's condition is worsening",
+          "correct": true
+        },
+        {
+          "text": "The pneumothorax has resolved"
+        },
+        {
+          "text": "The speaking valve is clean"
+        },
+        {
+          "text": "The chest tube should drain only fluid"
+        }
+      ]
+    },
+    {
+      "text": "The normal shunt equation value is:",
+      "answers": [
+        {
+          "text": "3% to 5%",
+          "correct": true
+        },
+        {
+          "text": "17 to 20 vol%"
+        },
+        {
+          "text": "25 to 35 cm H2O"
+        },
+        {
+          "text": "10 to 20 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "The Murray Lung Score quantifies lung status using gas exchange, radiographic findings, and:",
+      "answers": [
+        {
+          "text": "Mechanics",
+          "correct": true
+        },
+        {
+          "text": "Urine color"
+        },
+        {
+          "text": "Tracheostomy tie type"
+        },
+        {
+          "text": "OPA flange size"
+        }
+      ]
+    },
+    {
+      "text": "PaCO2 is the partial pressure of CO2:",
+      "answers": [
+        {
+          "text": "Dissolved in plasma",
+          "correct": true
+        },
+        {
+          "text": "Inside the water seal only"
+        },
+        {
+          "text": "Inside the pleural drainage bottle"
+        },
+        {
+          "text": "Only in gastric acid"
+        }
+      ]
+    },
+    {
+      "text": "Anatomical dead space is estimated as:",
+      "answers": [
+        {
+          "text": "1 mL/lb ideal body weight",
+          "correct": true
+        },
+        {
+          "text": "15 mL/kg ideal body weight"
+        },
+        {
+          "text": "3 L/day"
+        },
+        {
+          "text": "2 cm water seal"
+        }
+      ]
+    },
+    {
+      "text": "Which disease may cause increased dead space?",
+      "answers": [
+        {
+          "text": "Pulmonary embolism",
+          "correct": true
+        },
+        {
+          "text": "Clean speaking valve"
+        },
+        {
+          "text": "Normal liver function"
+        },
+        {
+          "text": "Correct OPA placement only"
+        }
+      ]
+    },
+    {
+      "text": "Normal VD/VT is:",
+      "answers": [
+        {
+          "text": "20% to 40%",
+          "correct": true
+        },
+        {
+          "text": "3% to 5%"
+        },
+        {
+          "text": "80% to 100%"
+        },
+        {
+          "text": "10 to 15 mm Hg"
+        }
+      ]
+    },
+    {
+      "text": "Capnometry is:",
+      "answers": [
+        {
+          "text": "Numeric display of CO2 measurements from the airway",
+          "correct": true
+        },
+        {
+          "text": "Graphic display of CO2 measurements from the airway"
+        },
+        {
+          "text": "Drainage of air from the pleural space"
+        },
+        {
+          "text": "Surgical creation of a stoma"
+        }
+      ]
+    },
+    {
+      "text": "Capnography is:",
+      "answers": [
+        {
+          "text": "Graphic display of CO2 measurements from the airway",
+          "correct": true
+        },
+        {
+          "text": "Numeric display only"
+        },
+        {
+          "text": "A tracheal speaking valve"
+        },
+        {
+          "text": "A chest tube drainage bottle"
+        }
+      ]
+    },
+    {
+      "text": "Colorimetric CO2 should change to which color to support tube placement?",
+      "answers": [
+        {
+          "text": "Yellow",
+          "correct": true
+        },
+        {
+          "text": "Purple"
+        },
+        {
+          "text": "Blue"
+        },
+        {
+          "text": "Green"
+        }
+      ]
+    },
+    {
+      "text": "During CPR, a sudden rise in EtCO2 is the earliest indicator of:",
+      "answers": [
+        {
+          "text": "Return of spontaneous circulation",
+          "correct": true
+        },
+        {
+          "text": "Tube cuff rupture"
+        },
+        {
+          "text": "Pleural fluid drainage"
+        },
+        {
+          "text": "Oliguria"
+        }
+      ]
+    }
+  ]
+}
