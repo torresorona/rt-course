@@ -3,7 +3,6 @@ import remarkGfm from "remark-gfm";
 import { readFileSync, existsSync } from "fs";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { auth } from "@clerk/nextjs/server";
 import Quiz from "@/components/Quiz";
 import DataTable from "@/components/DataTable";
 import AudioPlayer from "@/components/AudioPlayer";
@@ -50,21 +49,6 @@ function getYouTubeVideoId(url: string) {
   return null;
 }
 
-function SignInQuizPrompt() {
-  return (
-    <div className="mt-6 flex items-center gap-3 rounded-2xl border border-sky-100 bg-sky-100/50 px-5 py-4">
-      <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-sky-500/10 text-sky-600">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" /><polyline points="10 17 15 12 10 7" /><line x1="15" y1="12" x2="3" y2="12" /></svg>
-      </div>
-      <p className="text-sm text-sand-700">
-        <Link href="/sign-in" className="font-semibold text-sky-600 underline decoration-sky-300 underline-offset-2 transition hover:text-sky-700">
-          Sign in
-        </Link>{" "}
-        to take this quiz and track your progress.
-      </p>
-    </div>
-  );
-}
 
 export default async function LessonPage({
   params,
@@ -76,7 +60,6 @@ export default async function LessonPage({
   const { slug } = await params;
   const { view: requestedView = "review" } = await searchParams;
   const slugPath = slug.join("/");
-  const { userId } = await auth();
   const filePath = getLessonMdxPath(slug);
 
   if (!existsSync(filePath)) {
@@ -241,17 +224,11 @@ export default async function LessonPage({
       )}
 
       {/* Default quiz view */}
-      {activeView === "quiz" && (
-        userId ? <Quiz slug={slugPath} /> : <SignInQuizPrompt />
-      )}
+      {activeView === "quiz" && <Quiz slug={slugPath} />}
 
       {/* Extra quiz views (e.g. X-ray Exam) */}
       {activeExtraQuiz && activeView === activeExtraQuiz.view && (
-        userId ? (
-          <Quiz slug={slugPath} name={activeExtraQuiz.slug} />
-        ) : (
-          <SignInQuizPrompt />
-        )
+        <Quiz slug={slugPath} name={activeExtraQuiz.slug} />
       )}
     </div>
   );

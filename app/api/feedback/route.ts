@@ -1,4 +1,3 @@
-import { auth } from "@clerk/nextjs/server";
 import { NextResponse } from "next/server";
 import { db } from "@/db";
 import { feedback } from "@/db/schema";
@@ -102,8 +101,6 @@ async function sendFeedbackAlert({
 }
 
 export async function POST(request: Request) {
-  const { userId } = await auth();
-
   let body: unknown;
   try {
     body = await request.json();
@@ -131,7 +128,7 @@ export async function POST(request: Request) {
   const [row] = await db
     .insert(feedback)
     .values({
-      userId: userId ?? null,
+      userId: null,
       type,
       message,
       pageUrl,
@@ -148,7 +145,7 @@ export async function POST(request: Request) {
       message,
       pageUrl,
       contactEmail,
-      userId: userId ?? null,
+      userId: null,
     });
   } catch (error) {
     console.error("Feedback alert failed:", error);

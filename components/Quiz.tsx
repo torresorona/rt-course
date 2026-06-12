@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 interface Answer {
   id: number;
   text: string;
+  correct: boolean;
 }
 
 interface Question {
@@ -36,41 +37,25 @@ export default function Quiz({ slug, name }: { slug: string; name?: string }) {
   const [responses, setResponses] = useState<Record<string, number>>({});
   const [result, setResult] = useState<ScoreResult | null>(null);
   const [loading, setLoading] = useState(true);
-  const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [imageModal, setImageModal] = useState<string | null>(null);
 
-  // Load quiz data and saved progress on mount
   useEffect(() => {
     async function load() {
       try {
-        const qp = name ? `?slug=${name}` : ""
-        const [quizRes, progressRes] = await Promise.all([
-          fetch(`/api/quiz/${slug}${qp}`),
-          fetch(`/api/progress/${slug}${qp}`),
-        ]);
-
+        const qp = name ? `?slug=${name}` : "";
+        const quizRes = await fetch(`/api/quiz/${slug}${qp}`);
         if (!quizRes.ok) throw new Error("Failed to load quiz");
         setQuiz(await quizRes.json());
 
-        // Restore server-saved results if available
-        if (progressRes.ok) {
-          const saved = await progressRes.json();
-          if (saved.saved && saved.results) {
-            setResponses(saved.responses ?? {});
-            setResult({
-              score: saved.score,
-              correct: saved.results.filter((r: { correct: boolean }) => r.correct).length,
-              total: saved.results.length,
-              results: saved.results,
-            });
-            localStorage.removeItem(storageKey(slug, name, "responses"));
+        try {
+          const savedResult = localStorage.getItem(storageKey(slug, name, "result"));
+          if (savedResult) {
+            const savedResponses = localStorage.getItem(storageKey(slug, name, "responses"));
+            setResult(JSON.parse(savedResult));
+            setResponses(savedResponses ? JSON.parse(savedResponses) : {});
             return;
           }
-        }
-
-        // Fall back to localStorage for in-progress draft answers
-        try {
           const draft = localStorage.getItem(storageKey(slug, name, "responses"));
           if (draft) setResponses(JSON.parse(draft));
         } catch {
@@ -86,44 +71,42 @@ export default function Quiz({ slug, name }: { slug: string; name?: string }) {
     load();
   }, [slug, name]);
 
-  // Persist draft responses to localStorage as user answers
   useEffect(() => {
     if (!result && Object.keys(responses).length > 0) {
       localStorage.setItem(storageKey(slug, name, "responses"), JSON.stringify(responses));
     }
   }, [responses, result, slug, name]);
 
-  async function resetQuiz() {
+  function resetQuiz() {
     setResponses({});
     setResult(null);
     localStorage.removeItem(storageKey(slug, name, "responses"));
-    // Clear server-saved results
-    const qp = name ? `?slug=${name}` : ""
-    fetch(`/api/progress/${slug}${qp}`, { method: "DELETE" }).catch(() => {});
+    localStorage.removeItem(storageKey(slug, name, "result"));
   }
 
-  async function handleSubmit(e: React.FormEvent) {
+  function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!quiz) return;
 
-    setSubmitting(true);
-    setError(null);
+    const results = quiz.questions.map((q) => {
+      const correctAnswer = q.answers.find((a) => a.correct);
+      const selectedId = responses[String(q.id)];
+      const isCorrect = correctAnswer !== undefined && selectedId === correctAnswer.id;
+      return {
+        questionId: q.id,
+        correct: isCorrect,
+        correctAnswerId: correctAnswer?.id ?? 0,
+      };
+    });
 
-    try {
-      const res = await fetch("/api/score", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ moduleSlug: slug, quizSlug: name ?? "default", responses }),
-      });
+    const correct = results.filter((r) => r.correct).length;
+    const total = quiz.questions.length;
+    const score = Math.round((correct / total) * 100);
+    const newResult: ScoreResult = { score, correct, total, results };
 
-      if (!res.ok) throw new Error("Failed to submit quiz");
-      const data: ScoreResult = await res.json();
-      setResult(data);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Submission failed");
-    } finally {
-      setSubmitting(false);
-    }
+    setResult(newResult);
+    localStorage.setItem(storageKey(slug, name, "result"), JSON.stringify(newResult));
+    localStorage.setItem(storageKey(slug, name, "responses"), JSON.stringify(responses));
   }
 
   if (loading) {
@@ -221,7 +204,7 @@ export default function Quiz({ slug, name }: { slug: string; name?: string }) {
                         : "bg-clay-100 text-terracotta-600"
                     }`}
                   >
-                    {r?.correct ? "\u2713" : "\u2717"}
+                    {r?.correct ? "✓" : "✗"}
                   </span>
                   <p className="text-sm text-sand-800">{q.text}</p>
                 </div>
@@ -371,10 +354,10 @@ export default function Quiz({ slug, name }: { slug: string; name?: string }) {
 
         <button
           type="submit"
-          disabled={submitting || answered < total}
+          disabled={answered < total}
           className="mt-6 w-full rounded-xl bg-sand-900 px-5 py-3.5 text-sm font-semibold text-sand-50 transition-all hover:bg-sand-800 disabled:cursor-not-allowed disabled:opacity-40"
         >
-          {submitting ? "Checking answers..." : "Submit answers"}
+          Submit answers
         </button>
       </form>
 

@@ -8,7 +8,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 # RT Course — Antigravity Project Guide
 
-> **Respiratory Therapy Course** — A Next.js 16 learning platform with MDX lessons, interactive quizzes, audio playback, and progress tracking. Built for a military Respiratory Therapy student.
+> **Respiratory Therapy Course** — A Next.js 16 open learning platform with MDX lessons, interactive quizzes, audio playback, and local progress tracking. Built for a military Respiratory Therapy student.
 
 ---
 
@@ -19,7 +19,6 @@ This version has breaking changes — APIs, conventions, and file structure may 
 | Framework | Next.js (App Router) | 16.2.3 |
 | React | React + ReactDOM | 19.2.4 |
 | Styling | Tailwind CSS v4 + `@tailwindcss/typography` | ^4 |
-| Auth | Clerk (`@clerk/nextjs`) | ^7.0.12 |
 | Database | Neon Postgres (serverless) | `@neondatabase/serverless` ^1.0.2 |
 | ORM | Drizzle ORM + Drizzle Kit | ^0.45.2 / ^0.31.10 |
 | Content | MDX via `next-mdx-remote` + `gray-matter` + `remark-gfm` | ^6.0.0 / ^4.0.3 / ^4.0.1 |
@@ -30,8 +29,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 ### Key Notes
 - **Next.js 16** has breaking changes vs training data (see rule above).
 - **Tailwind v4** uses `@theme inline` blocks instead of `tailwind.config.js` — the entire design system is defined in `app/globals.css`.
-- **Clerk v7** uses `<Show when="signed-in">` instead of older conditional components. The `proxy.ts` file at the project root contains the Clerk middleware config (not `middleware.ts`).
-- **No middleware.ts at root** — Clerk middleware is in `proxy.ts`.
+- **No auth** — the site is fully open; no Clerk, no sign-in, no middleware.
+- **No middleware.ts** — there is no middleware file in this project.
 
 ---
 
@@ -40,7 +39,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 ```
 rt-course/
 ├── app/
-│   ├── layout.tsx              # Root layout — ClerkProvider, nav, footer
+│   ├── layout.tsx              # Root layout — nav, footer
 │   ├── page.tsx                # Home — lists all modules from content/
 │   ├── globals.css             # Tailwind v4 theme (sand/terracotta/sage/clay/sky palette)
 │   ├── [...slug]/
@@ -48,12 +47,10 @@ rt-course/
 │   ├── modules/
 │   │   └── [slug]/
 │   │       └── page.tsx        # Module landing — lessons list, audio, resources
-│   ├── api/
-│   │   ├── quiz/[...slug]/route.ts     # GET quiz data (auth required)
-│   │   ├── progress/[...slug]/route.ts # GET/DELETE user progress (auth required)
-│   │   └── score/route.ts              # POST quiz submission + grading (auth required)
-│   ├── sign-in/[[...sign-in]]/page.tsx
-│   └── sign-up/[[...sign-up]]/page.tsx
+│   └── api/
+│       ├── quiz/[...slug]/route.ts     # GET quiz data from filesystem (no auth)
+│       ├── quizlet/[...slug]/route.ts  # GET Quizlet export from filesystem (no auth)
+│       └── feedback/route.ts           # POST feedback to DB
 │
 ├── components/
 │   ├── AudioPlayer.tsx         # Client — custom audio player with speed control
@@ -229,51 +226,37 @@ Set `interactive` on a lesson in `module.json` to one of: `ReceptorTable`, `LabR
 
 ## 5. Database Architecture
 
+The database is used only for the feedback feature. Quiz data and progress are fully filesystem/localStorage-based.
+
 ### Tables (Drizzle schema in `db/schema.ts`)
 
 ```
-modules     → id, slug (unique), title, order
-quizzes     → id, module_slug (FK→modules.slug), title
-questions   → id, quiz_id (FK→quizzes.id), text, order
-answers     → id, question_id (FK→questions.id), text, correct, order
-progress    → id, user_id, module_slug (FK), quiz_score, quiz_responses (jsonb), quiz_results (jsonb), completed_at, updated_at
-             unique index on (user_id, module_slug)
+feedback    → id, user_id (null), type, message, page_url, contact_email, status, user_agent, created_at, updated_at
 ```
-
-### Key Relationships
-- `modules.slug` uses format `module-slug/lesson-N` (e.g., `pharmacology/lesson-1`)
-- Cascade deletes: module → quizzes → questions → answers
-- Progress tracks per-user, per-lesson quiz results
 
 ### Database Commands
 ```bash
 npm run db:push    # Push schema to Neon (drizzle-kit push)
-npm run db:seed    # Seed modules + quizzes from content/ directory
 npm run db:studio  # Open Drizzle Studio GUI
 ```
-
-The seed script (`db/seed.ts`) scans `content/` directories and:
-1. Upserts module entries (one per lesson)
-2. Deletes and re-creates quiz data from `quiz.json` files
 
 ---
 
 ## 6. API Routes
 
-All API routes require Clerk authentication (`auth()` from `@clerk/nextjs/server`).
+No authentication required on any route.
 
 | Route | Method | Purpose |
 |-------|--------|---------|
-| `/api/quiz/[...slug]` | GET | Fetch quiz questions + answers (excludes `correct` field) |
-| `/api/progress/[...slug]` | GET | Get saved quiz results for current user |
-| `/api/progress/[...slug]` | DELETE | Clear quiz results (reset quiz) |
-| `/api/score` | POST | Submit quiz responses, grade, save to progress |
+| `/api/quiz/[...slug]` | GET | Read `quiz.json` from filesystem; returns questions + shuffled answers (includes `correct` field) |
+| `/api/quizlet/[...slug]` | GET | Generate Quizlet tab-delimited export from `quiz.json` |
+| `/api/feedback` | POST | Save feedback to DB |
 
 ### Quiz Flow
-1. Client loads quiz data from `/api/quiz/{slug}` and progress from `/api/progress/{slug}`
+1. Client fetches quiz data from `/api/quiz/{slug}` (reads filesystem JSON, no DB)
 2. Draft answers saved to `localStorage` as user selects
-3. On submit: POST to `/api/score` with `{ moduleSlug, responses }`
-4. Server grades against correct answers, saves to `progress` table
+3. On submit: graded entirely client-side in `Quiz.tsx` using `answer.correct`
+4. Results saved to `localStorage` — key: `quiz:<slug>:<name>:result` / `quiz:<slug>:<name>:responses`
 5. Pass threshold: **80%** (shown in Quiz.tsx results view)
 
 ---
@@ -285,14 +268,12 @@ All API routes require Clerk authentication (`auth()` from `@clerk/nextjs/server
 | `/` | `app/page.tsx` | Home — lists all modules |
 | `/modules/{slug}` | `app/modules/[slug]/page.tsx` | Module landing page |
 | `/{module}/{lesson}` | `app/[...slug]/page.tsx` | Lesson viewer (catch-all) |
-| `/sign-in` | `app/sign-in/[[...sign-in]]/page.tsx` | Clerk sign-in |
-| `/sign-up` | `app/sign-up/[[...sign-up]]/page.tsx` | Clerk sign-up |
 
 ### Lesson Page Views (Tab System)
 The lesson page (`app/[...slug]/page.tsx`) has three views controlled by `?view=` query param:
 - **Review** (default) — MDX content + audio player
 - **Resources** — Interactive study tools (if available for this lesson)
-- **Quiz** — Quiz form (requires auth)
+- **Quiz** — Quiz form (open to all, no auth required)
 
 ---
 
@@ -324,7 +305,8 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 5. Create `quiz.json` in each lesson directory
 6. Create `notebooklm-source.md` for each content lesson (expanded conversational transcript for audio generation via NotebookLM)
 7. Add `"audio": "/audio/..."` to the lesson entry in `module.json` if audio exists
-8. Run `npm run db:seed` to populate the database (validates quiz JSON syntax and loads questions)
+
+No database seeding needed — quiz data is read directly from the filesystem at request time.
 
 ### Adding a New Lesson to an Existing Module
 
@@ -333,7 +315,6 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 3. Add `quiz.json` if needed
 4. Update `content/<module-slug>/module.json` to include the new lesson in the `lessons` array
 5. Add `"audio": "/audio/..."` to the lesson entry in `module.json` if adding audio
-6. Run `npm run db:seed` (validates quiz JSON syntax and loads questions into DB)
 
 ### Adding a New Interactive Resource Component
 
@@ -348,10 +329,9 @@ Some lessons have `notebooklm-source.md` files — these are expanded study guid
 
 ```bash
 npm run dev        # Start Next.js dev server (http://localhost:3000)
-npm run build      # Production build (runs db:seed as postbuild)
+npm run build      # Production build
 npm run lint       # ESLint
-npm run db:push    # Push Drizzle schema to Neon
-npm run db:seed    # Seed database from content/ files
+npm run db:push    # Push Drizzle schema to Neon (feedback table only)
 npm run db:studio  # Open Drizzle Studio
 ```
 
@@ -364,9 +344,9 @@ Required in `.env.local`:
 | Variable | Purpose |
 |----------|---------|
 | `DATABASE_URL` | Neon Postgres connection string |
-| `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` | Clerk frontend key |
-| `CLERK_SECRET_KEY` | Clerk backend key |
 | `GEMINI_API_KEY` | Google Gemini API key (for future AI features) |
+| `RESEND_API_KEY` | Resend API key for feedback email alerts (optional) |
+| `FEEDBACK_ALERT_TO` | Email address to receive feedback alerts (optional) |
 
 ---
 
@@ -377,7 +357,7 @@ Changes must be promoted through explicit, user-approved stages:
 1. **Local / Dev first**
    - Implement and validate changes locally before any remote push.
    - Use `.env.local` for local commands; its values point to the dev Neon branch.
-   - For new lessons/content, run local validation and seed against dev only.
+   - For new lessons/content, validate quiz JSON syntax locally (the build will catch parse errors).
 
 2. **Pre-production next**
    - Only push to the remote `preview` branch after the user explicitly asks.
@@ -416,8 +396,9 @@ Changes must be promoted through explicit, user-approved stages:
 - The home page reads modules from the filesystem using `readdirSync` (reads `module.json` files) — **not** from the database.
 - The module landing page (`/modules/[slug]`) also reads from the filesystem, not DB.
 - The lesson page reads MDX from the filesystem and compiles at request time.
-- Only quizzes and progress use the database.
-- The seed script creates one `modules` DB row **per lesson** (not per module), using `module-slug/lesson-N` as the slug.
+- Quiz data is read from `quiz.json` files on the filesystem — **no DB lookup**.
+- Quiz grading happens client-side in `Quiz.tsx` using the `correct` field returned by `/api/quiz`.
+- Quiz results and responses persist in `localStorage` — no server-side progress storage.
 
 ### Client vs Server Components
 - Components using React state (`useState`, `useEffect`) are marked `"use client"`: `Quiz.tsx`, `AudioPlayer.tsx`, `ReceptorTable.tsx`, `LabRanges.tsx`, `GCSScenarios.tsx`

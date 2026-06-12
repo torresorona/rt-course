@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { ClerkProvider, Show, UserButton } from "@clerk/nextjs";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import FeedbackButton from "@/components/FeedbackButton";
@@ -26,12 +25,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ClerkProvider>
-      <html
-        lang="en"
-        className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-      >
-        <body className="min-h-full flex flex-col">
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+    >
+      <body className="min-h-full flex flex-col">
           <header className="sticky top-0 z-10 border-b border-sand-200 bg-sand-50/80 backdrop-blur-md">
             <nav className="mx-auto flex max-w-3xl items-center justify-between px-6 py-4">
               <Link
@@ -65,9 +63,6 @@ export default function RootLayout({
                   </svg>
                 </Link>
                 <FeedbackButton />
-                <Show when="signed-in">
-                  <UserButton />
-                </Show>
               </div>
             </nav>
           </header>
@@ -78,7 +73,6 @@ export default function RootLayout({
             Built for learning, one module at a time.
           </footer>
         </body>
-      </html>
-    </ClerkProvider>
+    </html>
   );
 }
