@@ -1,0 +1,95 @@
+{
+  "title": "Indications, Goals & Hazards of Mechanical Ventilation Quiz",
+  "questions": [
+    {
+      "text": "A patient has a PaO₂ of 52 mmHg, PaCO₂ of 38 mmHg, and an elevated P(A-a)O₂ gradient. Which type of respiratory failure does this represent?",
+      "answers": [
+        { "text": "Type I — hypoxemic respiratory failure", "correct": true },
+        { "text": "Type II — hypercapnic respiratory failure" },
+        { "text": "Chronic respiratory failure" },
+        { "text": "Impending respiratory failure only" }
+      ]
+    },
+    {
+      "text": "A patient with ARDS receives 100% FiO₂ but the PaO₂ remains critically low. What mechanism best explains this refractory hypoxemia?",
+      "answers": [
+        { "text": "Intrapulmonary shunt — blood bypasses ventilated alveoli", "correct": true },
+        { "text": "V/Q mismatch — perfusion exceeds ventilation" },
+        { "text": "Diffusion impairment — oxygen cannot cross the membrane" },
+        { "text": "Decreased PiO₂ — inspired oxygen partial pressure is too low" }
+      ]
+    },
+    {
+      "text": "What is the normal V/Q ratio and what does a V/Q of zero indicate?",
+      "answers": [
+        { "text": "Normal V/Q = 0.8; V/Q = 0 indicates a shunt (no ventilation)", "correct": true },
+        { "text": "Normal V/Q = 1.0; V/Q = 0 indicates dead space (no perfusion)" },
+        { "text": "Normal V/Q = 0.8; V/Q = 0 indicates dead space (no perfusion)" },
+        { "text": "Normal V/Q = 1.0; V/Q = 0 indicates a shunt (no ventilation)" }
+      ]
+    },
+    {
+      "text": "A 68-year-old patient with a COPD exacerbation has a PaCO₂ of 68 mmHg and pH of 7.22. This most likely represents:",
+      "answers": [
+        { "text": "Type II respiratory failure due to decreased alveolar minute volume", "correct": true },
+        { "text": "Type I respiratory failure due to V/Q mismatch" },
+        { "text": "Metabolic acidosis unrelated to ventilation" },
+        { "text": "Normal compensation for chronic lung disease" }
+      ]
+    },
+    {
+      "text": "Which bedside spirometry finding most strongly indicates the need for mechanical ventilation?",
+      "answers": [
+        { "text": "Vital capacity of 8 mL/kg with a respiratory rate of 38 breaths/min", "correct": true },
+        { "text": "Vital capacity of 14 mL/kg with a respiratory rate of 22 breaths/min" },
+        { "text": "MIP of −30 cmH₂O with a tidal volume of 6 mL/kg" },
+        { "text": "PaCO₂ of 48 mmHg with a pH of 7.34" }
+      ]
+    },
+    {
+      "text": "A patient's MIP is measured at −18 cmH₂O. How should this value be interpreted?",
+      "answers": [
+        { "text": "Inadequate — the threshold for concern is MIP greater than −20 cmH₂O (i.e., weaker than −20)", "correct": true },
+        { "text": "Adequate — −18 cmH₂O is well beyond the −20 cmH₂O threshold" },
+        { "text": "The MIP value is within normal limits and no action is needed" },
+        { "text": "MIP is not a reliable parameter for determining need for mechanical ventilation" }
+      ]
+    },
+    {
+      "text": "Which physiologic measurement indicates increased work of breathing and suggests the need for ventilatory support?",
+      "answers": [
+        { "text": "Minute volume > 10 L/min and VD/Vt > 0.60", "correct": true },
+        { "text": "PaO₂/FiO₂ ratio > 300 and P(A-a)O₂ < 100" },
+        { "text": "PaCO₂ < 35 mmHg and pH > 7.45" },
+        { "text": "Spontaneous tidal volume > 8 mL/kg and RR of 14" }
+      ]
+    },
+    {
+      "text": "Which of the following is a CONTRAINDICATION to initiating mechanical ventilation?",
+      "answers": [
+        { "text": "Patient has a valid DNI order and does not wish to be intubated", "correct": true },
+        { "text": "PaO₂ of 52 mmHg on high-flow oxygen" },
+        { "text": "pH of 7.18 with PaCO₂ of 62 mmHg" },
+        { "text": "Respiratory rate of 38 breaths/min with a Vt of 4 mL/kg" }
+      ]
+    },
+    {
+      "text": "Which of the following correctly describes a GOAL of mechanical ventilation?",
+      "answers": [
+        { "text": "Reduce the work of breathing and restore acid-base balance", "correct": true },
+        { "text": "Eliminate the need for sedation and analgesia" },
+        { "text": "Increase venous return to improve cardiac output" },
+        { "text": "Prevent alveolar recruitment to reduce barotrauma" }
+      ]
+    },
+    {
+      "text": "A mechanically ventilated ICU patient develops worsening oxygenation, decreased blood pressure, and decreased urine output. Which hazards of mechanical ventilation best explain these findings?",
+      "answers": [
+        { "text": "Oxygen toxicity, decreased venous return, and decreased urinary output from reduced cardiac output", "correct": true },
+        { "text": "Auto-PEEP, nosocomial pneumonia, and ventilator-induced lung injury" },
+        { "text": "Barotrauma, atelectasis, and lack of nutrition" },
+        { "text": "Increased intracranial pressure, VILI, and decreased urinary output" }
+      ]
+    }
+  ]
+}

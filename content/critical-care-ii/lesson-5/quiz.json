@@ -1,0 +1,95 @@
+{
+  "title": "Monitoring, Ventilator Graphics & Patient Transport Quiz",
+  "questions": [
+    {
+      "text": "A ventilated patient's PIP increases from 28 to 46 cmH₂O over one hour. A ventilator check reveals Pplat is 27 cmH₂O. What is the most likely cause?",
+      "answers": [
+        { "text": "Increased airway resistance — the large delta (PIP − Pplat = 19 cmH₂O) indicates an obstruction", "correct": true },
+        { "text": "Decreased lung compliance — both PIP and Pplat would be elevated" },
+        { "text": "Auto-PEEP — the baseline pressure would also be elevated" },
+        { "text": "Circuit disconnection — a low-pressure alarm would trigger" }
+      ]
+    },
+    {
+      "text": "How is plateau pressure measured?",
+      "answers": [
+        { "text": "By programming an inspiratory hold, which halts gas flow and allows pressure to equilibrate", "correct": true },
+        { "text": "By measuring the peak pressure during a volume-control breath" },
+        { "text": "By calculating PIP minus PEEP" },
+        { "text": "By measuring pressure at the Y-piece during spontaneous breathing" }
+      ]
+    },
+    {
+      "text": "A patient's static compliance is calculated at 28 mL/cmH₂O. What does this indicate?",
+      "answers": [
+        { "text": "Significantly decreased compliance — normal is 60–100 mL/cmH₂O; this suggests ARDS, atelectasis, or pulmonary fibrosis", "correct": true },
+        { "text": "Normal compliance — no adjustment is needed" },
+        { "text": "Increased airway resistance requiring bronchodilator therapy" },
+        { "text": "Auto-PEEP — the expiratory time must be lengthened" }
+      ]
+    },
+    {
+      "text": "On the flow-time scalar, the expiratory flow waveform does not return to the zero baseline before the next breath begins. What does this indicate?",
+      "answers": [
+        { "text": "Auto-PEEP — gas is still flowing out when the next breath is triggered, indicating trapped gas", "correct": true },
+        { "text": "A circuit leak — volume is escaping the system" },
+        { "text": "Flow starvation — the inspiratory flow is set too low" },
+        { "text": "Normal pattern in pressure-control ventilation" }
+      ]
+    },
+    {
+      "text": "A ventilated patient on volume-control A/C shows a distinct downward dip in the pressure-time scalar during the inspiratory phase. What is the most appropriate intervention?",
+      "answers": [
+        { "text": "Increase the peak inspiratory flow rate — the patient's demand is exceeding the delivered flow (flow starvation)", "correct": true },
+        { "text": "Increase the tidal volume — the patient needs more volume per breath" },
+        { "text": "Switch to pressure control — it will automatically match the patient's flow demand" },
+        { "text": "Increase PEEP — the patient is not being adequately recruited" }
+      ]
+    },
+    {
+      "text": "Which ventilator graphic best detects a circuit leak?",
+      "answers": [
+        { "text": "Volume-time scalar — the tracing does not return to baseline at end-exhalation", "correct": true },
+        { "text": "Pressure-time scalar — baseline pressure rises above PEEP" },
+        { "text": "Flow-time scalar — expiratory flow does not return to zero" },
+        { "text": "P/V loop — the loop becomes wider than normal" }
+      ]
+    },
+    {
+      "text": "How often should a patient-ventilator system check be performed?",
+      "answers": [
+        { "text": "At least every 2 hours on a scheduled basis, and also before ABGs, after setting changes, and after acute deterioration", "correct": true },
+        { "text": "Every 4 hours unless a specific change warrants earlier evaluation" },
+        { "text": "Only when the physician orders it or the patient deteriorates" },
+        { "text": "Every 30 minutes for the first 24 hours, then every 8 hours" }
+      ]
+    },
+    {
+      "text": "What is the maximum transport distance for which a rotary-wing (helicopter) aircraft is typically used?",
+      "answers": [
+        { "text": "80 to 150 miles", "correct": true },
+        { "text": "0 to 80 miles" },
+        { "text": "150 to 300 miles" },
+        { "text": "More than 150 miles" }
+      ]
+    },
+    {
+      "text": "During a CCATT flight at altitude, the ETT cuff pressure should be:",
+      "answers": [
+        { "text": "Checked and adjusted before and after takeoff and landing — the cuff expands at altitude and may deflate during descent", "correct": true },
+        { "text": "Set to maximum pressure before takeoff to prevent aspiration" },
+        { "text": "Deflated completely during flight to prevent tracheal injury" },
+        { "text": "Left unchanged — cuff pressure is not affected by altitude" }
+      ]
+    },
+    {
+      "text": "What is the CCATT, and who are its three core members?",
+      "answers": [
+        { "text": "Critical Care Air Transport Team — Critical Care Physician, Critical Care Nurse, and Respiratory Therapist", "correct": true },
+        { "text": "Comprehensive Combat Aeromedical Transport Team — Trauma Surgeon, Flight Medic, and Pararescueman" },
+        { "text": "Critical Care Ambulatory Transport Team — Intensivist, RN, and EMT-Paramedic" },
+        { "text": "Combat Critical Aeromedical Team — Critical Care Physician, Respiratory Therapist, and Pharmacist" }
+      ]
+    }
+  ]
+}

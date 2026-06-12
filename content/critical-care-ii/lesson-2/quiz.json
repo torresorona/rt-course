@@ -1,0 +1,95 @@
+{
+  "title": "Ventilator Classification & Modes of Ventilation Quiz",
+  "questions": [
+    {
+      "text": "A patient's compliance suddenly decreases while being ventilated in volume-control mode. What change would you expect to see?",
+      "answers": [
+        { "text": "Peak inspiratory pressure increases; tidal volume remains constant", "correct": true },
+        { "text": "Tidal volume decreases; peak pressure remains constant" },
+        { "text": "Both tidal volume and peak pressure decrease" },
+        { "text": "No change — the ventilator adjusts both automatically" }
+      ]
+    },
+    {
+      "text": "In pressure-control mode, a patient develops new-onset bronchospasm. What would you expect?",
+      "answers": [
+        { "text": "Tidal volume decreases; inspiratory pressure remains constant", "correct": true },
+        { "text": "Peak pressure increases; tidal volume remains constant" },
+        { "text": "Both tidal volume and pressure increase equally" },
+        { "text": "Expiratory time shortens and auto-PEEP develops" }
+      ]
+    },
+    {
+      "text": "Which phase variable STARTS inspiration?",
+      "answers": [
+        { "text": "Trigger", "correct": true },
+        { "text": "Target" },
+        { "text": "Cycle" },
+        { "text": "Baseline" }
+      ]
+    },
+    {
+      "text": "Pressure Support Ventilation (PSV) is classified as which breath type?",
+      "answers": [
+        { "text": "Supported — patient triggered, pressure targeted, flow cycled", "correct": true },
+        { "text": "Mandatory — ventilator triggered, pressure targeted, ventilator cycled" },
+        { "text": "Assisted — patient triggered, volume targeted, ventilator cycled" },
+        { "text": "Spontaneous — patient triggered, baseline targeted, patient cycled" }
+      ]
+    },
+    {
+      "text": "In Assist/Control (A/C) mode, the patient triggers extra breaths beyond the set rate. What happens to those extra breaths?",
+      "answers": [
+        { "text": "They are fully supported by the ventilator and cycled by the ventilator", "correct": true },
+        { "text": "They are unsupported — the patient does all the work for extra breaths" },
+        { "text": "Extra breaths are blocked until the next mandatory cycle" },
+        { "text": "They are pressure-supported but patient cycled" }
+      ]
+    },
+    {
+      "text": "Which mode is specifically indicated for refractory hypoxemia in ARDS and uses an inverse I:E ratio with two pressure levels?",
+      "answers": [
+        { "text": "APRV — Airway Pressure Release Ventilation", "correct": true },
+        { "text": "SIMV + PS" },
+        { "text": "PSV at high support levels" },
+        { "text": "CMV in pressure-control mode" }
+      ]
+    },
+    {
+      "text": "What is the primary advantage of SIMV over CMV for a patient who is beginning to recover respiratory muscle function?",
+      "answers": [
+        { "text": "SIMV allows spontaneous breaths between mandatory breaths, exercising respiratory muscles", "correct": true },
+        { "text": "SIMV guarantees a higher tidal volume with each breath" },
+        { "text": "SIMV eliminates the risk of auto-PEEP" },
+        { "text": "SIMV uses pressure control exclusively to reduce barotrauma" }
+      ]
+    },
+    {
+      "text": "What is the control variable, and how many control variables can a ventilator use simultaneously?",
+      "answers": [
+        { "text": "The primary variable the ventilator controls during inspiration; only one at a time", "correct": true },
+        { "text": "The variable that triggers inspiration; multiple can be used simultaneously" },
+        { "text": "The variable that cycles the breath to exhalation; one or two depending on mode" },
+        { "text": "The baseline pressure maintained during exhalation; one per breath type" }
+      ]
+    },
+    {
+      "text": "An ICU ventilator is described as a combination-powered device. What does this mean?",
+      "answers": [
+        { "text": "It requires both a 50 psi gas source and an electrical power source to operate", "correct": true },
+        { "text": "It can switch between pressure and volume control automatically" },
+        { "text": "It uses both pneumatic and fluidic control circuits" },
+        { "text": "It delivers a combination of mandatory and spontaneous breaths simultaneously" }
+      ]
+    },
+    {
+      "text": "In Pressure Support Ventilation, what signals the ventilator to cycle into exhalation?",
+      "answers": [
+        { "text": "Inspiratory flow decelerates to 25% of peak inspiratory flow", "correct": true },
+        { "text": "A preset tidal volume has been delivered" },
+        { "text": "A preset inspiratory time has elapsed" },
+        { "text": "Peak inspiratory pressure reaches the set support level" }
+      ]
+    }
+  ]
+}

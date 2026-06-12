@@ -1,0 +1,113 @@
+{
+  "title": "Initiating & Adjusting Ventilatory Support Quiz",
+  "questions": [
+    {
+      "text": "A 5'6\" female patient is intubated and needs to be placed on mechanical ventilation. What is her IBW and appropriate initial tidal volume range?",
+      "answers": [
+        { "text": "IBW ≈ 58 kg; initial Vt 350–465 mL (6–8 mL/kg)", "correct": true },
+        { "text": "IBW ≈ 58 kg; initial Vt 580–780 mL (10–13 mL/kg)" },
+        { "text": "IBW ≈ 73 kg; initial Vt 440–585 mL (6–8 mL/kg)" },
+        { "text": "Use actual body weight; initial Vt 600–800 mL for any adult female" }
+      ]
+    },
+    {
+      "text": "An ARDS patient's plateau pressure climbs to 33 cmH₂O on a tidal volume of 7 mL/kg IBW. What is the most appropriate next step?",
+      "answers": [
+        { "text": "Reduce tidal volume to 4–6 mL/kg IBW and target Pplat < 28 cmH₂O", "correct": true },
+        { "text": "Increase PEEP to recruit alveoli and lower Pplat" },
+        { "text": "Increase inspiratory flow rate to shorten I-Time" },
+        { "text": "Switch to pressure control to allow Pplat to self-limit" }
+      ]
+    },
+    {
+      "text": "A 6'0\" male patient (IBW = 80 kg) is ventilated at Vt 900 mL, RR 12, PaCO₂ = 40 mmHg. You need to correct his Vt to 480 mL. What new RR maintains the same minute volume?",
+      "answers": [
+        { "text": "RR = 22–23 breaths/min (current MV 10.8 L ÷ 0.480 L)", "correct": true },
+        { "text": "RR = 18 breaths/min" },
+        { "text": "RR = 12 breaths/min — no change needed since PaCO₂ is normal" },
+        { "text": "RR = 16 breaths/min" }
+      ]
+    },
+    {
+      "text": "An adult patient is ventilated with a peak pressure of 40 cmH₂O. Approximately how much volume is lost to circuit compressible volume?",
+      "answers": [
+        { "text": "120 mL (40 cmH₂O × 3 mL/cmH₂O)", "correct": true },
+        { "text": "60 mL (40 cmH₂O × 1.5 mL/cmH₂O)" },
+        { "text": "20 mL (40 cmH₂O × 0.5 mL/cmH₂O)" },
+        { "text": "80 mL — a fixed value for all adult circuits" }
+      ]
+    },
+    {
+      "text": "A patient's VD/Vt ratio is calculated at 0.64. What does this indicate?",
+      "answers": [
+        { "text": "Significant lung disease — 64% of each breath is wasted dead space, predicting high mortality risk", "correct": true },
+        { "text": "Normal dead space fraction — no intervention is needed" },
+        { "text": "The patient is hyperventilating and blowing off too much CO₂" },
+        { "text": "Exercise-induced increase in alveolar ventilation" }
+      ]
+    },
+    {
+      "text": "A patient's PaCO₂ is 55 mmHg on RR 12 and Vt 500 mL. Using the PaCO₂ correction formula, what new RR is needed to achieve a target PaCO₂ of 40 mmHg?",
+      "answers": [
+        { "text": "RR = 16–17 breaths/min (12 × 55/40 = 16.5)", "correct": true },
+        { "text": "RR = 14 breaths/min" },
+        { "text": "RR = 20 breaths/min" },
+        { "text": "Increase tidal volume rather than rate to lower PaCO₂" }
+      ]
+    },
+    {
+      "text": "You are adjusting FiO₂ and PEEP for a patient with refractory hypoxemia. In what order should these settings be adjusted to correct a low PaO₂?",
+      "answers": [
+        { "text": "Increase FiO₂ to 60% first, then add PEEP; if PEEP causes cardiac compromise, return to increasing FiO₂ above 60%", "correct": true },
+        { "text": "Increase PEEP first to 10 cmH₂O, then increase FiO₂" },
+        { "text": "Increase FiO₂ to 100% immediately, then wean PEEP" },
+        { "text": "Adjust PEEP and FiO₂ simultaneously in equal increments" }
+      ]
+    },
+    {
+      "text": "What PEEP contraindication is an immediate safety concern requiring the PEEP to be minimized?",
+      "answers": [
+        { "text": "Untreated tension pneumothorax", "correct": true },
+        { "text": "Mild pulmonary hypertension" },
+        { "text": "ARDS with a P/F ratio of 180" },
+        { "text": "Moderate refractory hypoxemia with FiO₂ already at 60%" }
+      ]
+    },
+    {
+      "text": "Increasing the peak inspiratory flow rate (PIFR) in volume-control ventilation has which combined effect?",
+      "answers": [
+        { "text": "Shortens I-Time, increases E-Time, increases PIP, and worsens gas distribution", "correct": true },
+        { "text": "Lengthens I-Time, decreases E-Time, decreases PIP, and improves gas distribution" },
+        { "text": "Increases tidal volume without changing I-Time or PIP" },
+        { "text": "Decreases PaCO₂ by increasing minute ventilation" }
+      ]
+    },
+    {
+      "text": "A ventilated patient triggers a high-pressure alarm that was set at 45 cmH₂O. The clinician notes PIP is 47 cmH₂O, which is up from 32 cmH₂O an hour ago. Pplat is 28 cmH₂O. What is the most likely cause?",
+      "answers": [
+        { "text": "Increased airway resistance — the large PIP–Pplat gap indicates obstruction (secretions or bronchospasm)", "correct": true },
+        { "text": "Decreased compliance — elevated Pplat would accompany elevated PIP" },
+        { "text": "Circuit disconnection — low pressure alarm would trigger instead" },
+        { "text": "Auto-PEEP — would cause elevated Pplat and baseline pressure" }
+      ]
+    },
+    {
+      "text": "In which clinical scenario is an inversed I:E ratio (2:1) most appropriate?",
+      "answers": [
+        { "text": "ARDS — prolonged inspiration recruits collapsed alveoli and improves oxygenation", "correct": true },
+        { "text": "Severe COPD exacerbation — more time is needed for exhalation to prevent air trapping" },
+        { "text": "Post-operative patient with normal lungs — reduces WOB during early recovery" },
+        { "text": "Drug overdose — shortens I-Time to reduce sedation requirements" }
+      ]
+    },
+    {
+      "text": "What is the purpose of Automatic Tube Compensation (ATC) in pressure support?",
+      "answers": [
+        { "text": "Automatically calculates and applies the minimum PS needed to overcome the resistance of the specific ETT size", "correct": true },
+        { "text": "Compensates for circuit leaks by adjusting tidal volume delivery" },
+        { "text": "Adjusts PEEP automatically based on real-time compliance measurements" },
+        { "text": "Increases IPAP when the patient's spontaneous tidal volume falls below target" }
+      ]
+    }
+  ]
+}

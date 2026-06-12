@@ -1,0 +1,2639 @@
+Unit 1: Mechanical Ventilation
+Unit 2: Non-Invasive Mechanical Ventilation
+Unit 3: Practical exam for NIV (performed at the end of Unit 4)
+Unit 4: Mechanical Ventilation Initiation and Management
+	4.1. Initiating and Adjusting Ventilatory Support
+	4.2. Maintaining & Monitoring Ventilatory Support
+	4.3. Discontinuing Ventilatory Support
+Unit 5: Practical exam Mechanical Ventilator initiation and Check
+Unit 6: Written exam
+Unit 1 Lesson Overview
+Lesson: Fundamentals of Mechanical Ventilation
+Objectives:
+1.1.1 Identify the design features and classification of mechanical ventilators.
+1.1.2 Apply classification of mechanical ventilators.
+
+Unit 1 Lesson Overview
+Indications for mechanical ventilation
+Contraindications for mechanical ventilation
+Goals of mechanical ventilation
+Hazards of mechanical ventilation
+Classification of mechanical ventilators
+Modes of Mechanical Ventilation
+
+Indications
+Respiratory failure
+Type I 
+Type II 
+Impending respiratory failure
+Bedside Ventilatory Parameters 
+Physiologic measurements
+Indications
+Type I Respiratory Failure: Hypoxemic Resp failure
+PaO2 < 60mmHg
+PaCO2 normal or decreased < 50mmHg
+PA-aO2 - increased
+
+	
+
+
+
+
+Indications for Mechanical Ventilation
+Causes of Type 1 failure:
+V/Q mismatch – responds to oxygen
+Shunt – aka. “refractory hypoxemia” 
+Alveolar Hypoventilation
+Diffusion Impairment
+Perfusion/Diffusion Impairment
+Decreased Inspired Oxygen
+Venous admixture or anatomic shunt
+
+
+Ventilation / Perfusion (V/Q)
+Normal V/Q values
+Normal V = 4L/min (aka alveolar min vol)
+Normal Q = 5L/min (aka cardiac output)
+Normal V/Q = 4/5 = 0.8
+V/Q > 0.8 = more ventilation than perfusion (in the apices of the lungs)
+V/Q < 0.8= less ventilation than perfusion (in the bases of the lungs)
+V/Q Mismatch Vs. Shunt
+Mismatch
+Shunt
+V/Q mismatch – Dead Space
+Dead Space – V=4 / Q=0 (V/Q=∞)
+Causes:
+Pulmonary Embolism
+Shock (low cardiac output)
+Hypovolemia
+Excessive PEEP
+
+V/Q mismatch - Shunt
+Shunt - V=0 / Q=5 (V/Q=0)
+Normal anatomic shunt 2 – 3% due to bronchial and thebesian veins
+Physiologic shunt (pathology)
+Intracardiac shunt
+ASD
+VSD
+Intrapulmonary shunt
+Atelectasis
+Pulmonary edema
+Pneumonia
+ARDS
+Indications - Respiratory Failure- Type I 
+Diffusion Impairment
+Interstitial lung disease
+Emphysema (more a V/Q issue)
+Pulmonary vascular diseases 
+Indications - Respiratory Failure Type I
+Perfusion/Diffusion Impairment
+Liver disease with hepatopulmonary syndrome
+Dilated pulmonary capillaries, results in impaired gas exchange.
+
+Indications - Respiratory Failure Type I
+Decreased partial pressure inspired Oxygen
+PiO2 decreases as altitude increases 
+Generally considered an issue above 10,000ft
+
+Indications - Respiratory Failure Type I
+Venous Admixture
+Mixing of shunted non-oxygenated blood w/ re-oxygenated blood distal to the alveoli. 
+Causes
+CHF w/low cardiac output
+
+Indications - Respiratory Failure - Type I
+Disease process that cause Type I failure
+Pneumonia
+Atelectasis
+Non-Cardiogenic pulmonary edema - ALI / ARDS
+Cardiogenic pulmonary edema - CHF
+Pulmonary Embolism
+Interstitial lung disease
+
+Indications - Respiratory Failure - Type I
+Differentiating the cause of hypoxemia
+P(A-a)O2
+Increased gradient 
+V/Q mismatch  
+Shunt 
+Normal gradient 
+Hypoventilation  
+Low partial pressure aka high altitude (CCATT)
+
+Indications - Respiratory Failure - Type II 
+Hypercapnic Resp failure (PaCO2 > 50mmHg)
+Failure to remove CO2
+Decreased alveolar min volume
+Altered respiratory mechanics
+Usually accompanied by hypoxemia that responds to Oxygen 
+
+Diseases
+COPD/Asthma Exacerbation
+Drug OD
+Neurologic disease
+Obesity hypoventilation
+
+Indications - Respiratory Failure Type II
+Exposure to CO2
+Occupational or medical procedures
+Defective CO2 scrubber in anesthesia or PFT machines
+Spelunkers in caves
+Exposure to dry ice
+Indications - Respiratory Failure Type II
+Increased CO2 Production
+Fever
+Agitation
+Exertion
+Shivering
+Hypermetabolism
+Excess caloric intake
+Metabolism of carbohydrates produce the most CO2 for the amount of oxygen used.
+Indications - Respiratory Failure Type II
+Decreased respiratory drive
+The central (medullary) and peripheral (aortic and carotid bodies) chemoreceptors responding to CO2 tension and O2 tension stimulate the drive to breathe. 
+
+
+Indications - Respiratory Failure Type II
+Causes of decrease ventilatory drive 
+Drug overdoses
+Brainstem lesions 
+Incidental resection of the carotid bodies (carotid endarterectomy)
+Reduce the risk of stroke to pt with carotid artery disease.
+Disease of the CNS 
+Multiple sclerosis
+Parkinson disease
+Elevated ICPs
+Hyperthyroidism
+Morbid Obesity
+
+Indications - Respiratory Failure Type II
+Impairment in Exhaling CO2 
+Causes (muscle weakness diseases)
+Guillain-Barre Syndrome
+Charcot-Marie-Tooth disease
+Botulism
+Chronic Respiratory Failure(Type I and Type II)
+Happens w/ pts who are in a chronic state.
+Most common causes:
+COPD
+Obesity-hypoventilation 
+Indications: Impending respiratory failure
+Based on the physicians judgment 
+Considerations:
+Patient appearance
+Patients disease process and history
+Degree of Dyspnea
+Hypoxemia
+Tachypnea 
+
+Indications: Bedside Ventilatory Parameters
+Inadequate alveolar ventilation (ABG)
+PaCO2 > 55mmHg
+pH < 7.20
+
+
+
+
+Indications: Bedside Ventilatory Parameters 
+Inadequate Lung Expansion (bedside spirometry)
+Spontaneous Vt = <5mL/kg
+VC= <10mL/kg
+RR= >35 
+Indications: Bedside Ventilatory Parameters 
+Inadequate Muscle strength (Bedside Spiro/NIF gauge)
+MIP = > -20cmH20
+VC = < 10mL/kg
+
+Indications: Physiologic measurements
+Hypoxemia (ABG)
+PaO2 = 80-100mmHg
+P(A-a)O2 = > 300
+PAO2=[(Patm – PH2O)FiO2 ]– (PaCO2/RQ)
+PaO2/FiO2 = <200
+
+Indications: Physiologic Measurements
+Increased WOB (Bedside Spirometry, EtCO2)
+Min vol. = >10 L/min
+VD/Vt = > 0.6 or 60%
+
+Physiologic measurements
+Physiologic measurements
+Contraindications
+No indication for mechanical ventilation 
+Patient meets indications for NIV
+Contrary to patient’s wishes (DNR / DNI)
+Medically futile therapy 
+
+Goals of Mechanical Ventilation
+Maintain adequate alveolar ventilation
+Maintain adequate oxygen delivery
+Restore acid-base balance
+Reduce the WOB
+Reduce myocardial workload secondary to hypoxemia and increased WOB
+Permit sedation and neuromuscular blockade
+Reduce Intracranial pressure
+Stabilize the chest
+
+
+Hazards of Mechanical Ventilation
+Ventilator-induced lung injury (VILI)
+Barotrauma 
+Nosocomial Pneumonia 
+Atelectasis 
+Oxygen toxicity
+Auto-PEEP
+Decreased Venous Return  
+Decreased Urinary Output
+Lack of Nutrition
+Positive Pressure Ventilation
+Air blown into patients lungs under pressure
+Requires sealed airway
+Non-physiological 
+
+Newtons equation of motion 
+Pressure = Raw x Flow + Volume / Compliance (static)
+Classification of ventilators
+Based on five components
+Input power
+Power conversion and transmission
+Control System
+Control variables
+Phase Variables
+
+
+
+
+
+Input power
+Pneumatic - Only need 50 psi source to operate
+Bird ventilators – IPPB
+Transport ventilators
+MRI ventilators
+Electric - Only need electric source to operate
+Transport ventilators
+Home Ventilators
+Combination
+Most common ICU ventilator
+
+
+
+
+
+
+
+Power Conversion & transmission
+How the ventilator converts input power to output - pressurized gas flow that is delivered to the patient.
+Drive Mechanism
+Bellows
+Piston
+Turbine
+Output control valve
+Inspiratory valve (Aka. Demand valve)
+Can “shape” the flow pattern
+
+
+Control Scheme
+Control Circuit
+Mechanical
+Pneumatic
+Fluidic
+Electric
+Electronic
+Control Variables
+The primary variable that the ventilator targets or controls during inspiration
+
+Only one variable can be controlled at a time
+Pressure
+Volume
+Flow
+Time
+
+
+
+  
+Control Variables
+Pressure
+Inspiration ends when preset pressure is reached
+Pressure constant / Volume variable 
+Volume Decreases with 
+Decreased compliance (worsening)
+Increased resistance
+Volume Increases 
+Increased compliance 
+decreased resistance 
+
+Control Variables
+Volume 
+Inspiration ends when preset volume is reached
+Volume constant / Pressure variable
+Pressure increases 
+Decreased compliance (worsening)
+Increased resistance (worsening)
+Pressure Decreases 
+Increased compliance (Improving)
+Decreased resistance  (Improving)
+
+Control Variables
+Flow 
+Inspiration ends when preset flow is reached (rarely used as a primary)
+
+Time 
+Inspiration ends when preset time is reached (rarely used as a primary)
+
+Phase variables
+Trigger – Starts inspiration  
+
+Target (control variable)
+Volume (most common)
+Pressure (2nd most common) 
+Flow (one breath type)
+Time (neonatal ventilation)
+Cycle – Starts exhalation 
+Volume (most common)
+Pressure (2nd most common) 
+Flow (one breath type)
+Time (neonatal ventilation)
+
+Baseline – what happens after exhalation - PEEP
+
+TriggerThe variable initiates inspiration – “turns breath on”     
+Time trigger
+Breath begins based on frequency (Respiratory Rate)
+
+Example:
+Resp rate of 10 = breath  every 6 seconds
+
+
+
+Pressure - Measured in cm/H2O
+Ventilator senses a drop in baseline pressure
+Flow - Measured in L/min
+Ventilator senses a drop in bias flow
+Patient trigger
+Target
+The variable controlled during the inspiratory phase
+Pressure
+Volume
+Flow 
+Time
+
+Sometimes referred to as “limit” if an alarm condition has been met
+
+Cycle
+The variable causes inspiration to end
+Pressure
+Volume
+Flow
+Time
+Baseline
+The start of expiratory flow to the start of inspiratory flow (next breath)
+Pressure is the most common variable
+Breath type
+The “type” of breath being delivered is determined by changing phase variables.
+How was the breath “Triggered”
+What is the breath “Targeting”
+How is the breath “Cycled” 
+
+Breath types
+Controlled
+Assisted
+Spontaneous
+Supported
+Breath type
+Mandatory (Controlled) Breaths
+Ventilator triggered (resp rate)
+Volume, pressure, time targeted
+Ventilator cycled
+Ventilator assumes all the WOB
+Assisted Breaths 
+Patient triggered 
+
+Volume, pressure, time targeted
+
+Ventilator cycled
+
+The only WOB for the patient is the effort to triggering the breath
+
+
+
+ 
+Spontaneous Breaths 
+
+Patient Triggered
+
+Baseline targeted
+
+Patient cycled
+
+Spontaneous Breaths 
+Patient assumes all the work of breathing (WOB) 
+
+Inspiratory valve opens and patient can draw air through the circuit 
+
+Unsupported spontaneous breaths
+Negative deflection during INSPIRATION 
+Positive during EXPIRATION  
+
+Supported Breaths
+Patient triggered
+
+Pressure targeted
+
+Flow cycled
+Modes of Ventilation
+“Mode” refers to the method of inspiratory support and breath delivery
+
+Combines different breath types and timing algorithms to shift the work of breathing between the patient and the ventilator
+  
+
+CMV: Continuous Mandatory Ventilation
+AKA.  Assist/Control (A/C)
+
+Pt or time triggered
+
+Pressure, Volume or Time targeted 
+
+Ventilator cycled
+
+  
+
+
+Pressure vs Volume Controlled breath
+Synchronized Intermittent Mandatory Ventilation (SIMV) 
+Patient or ventilator triggered
+
+Volume, Pressure, Time or Flow targeted
+
+Volume, Pressure, Time or Flow cycled
+
+Controlled, Assisted and Spontaneous breaths
+
+Weaning mode
+
+SIMV
+Demand valves can sense the patients breaths
+Timing algorithms that “synchronize” breaths in unison with patient effort
+SIMV + Pressure Support
+Spontaneous breaths are “augmented” with positive pressure (Pressure supported)
+
+What pressure support does
+Overcomes RAW induced by the ET tube
+Improves patient ventilator “synchrony”
+Prevents respiratory muscle atrophy
+SIMV vs SIMV+PS
+SIMV
+SIMV+PS
+Continuous Spontaneous Ventilation (CSV)
+AKA: Continuous Positive Airway Pressure(CPAP)
+
+Spontaneous breathing at or above atmospheric pressure
+
+Patient triggered
+Pressure limited (alarm)
+Patient cycled
+Pressure Support Ventilation (PSV)
+Aka.  CPAP+PS
+Spontaneous breathing with inspiratory pressure above baseline
+
+Patient triggered
+Pressure targeted
+Flow cycled
+Airway Pressure Release Ventilation (APRV)
+Time-cycled
+Pressure controlled (Dual)
+Spontaneous breathing  throughout 
+AKA: 
+BiLevel
+BiVent
+BiPhasic
+PCV+
+DuoPAP
+
+
+
+APRV 
+Used to treat refractory hypoxemia (ARDs)
+Essentially CPAP with two pressures:
+Pressure High
+Pressure Low
+Inverse ratio:
+Time high 
+Time low 
+
+More modes and add ons…
+PRVC
+PCIRV
+NAVA
+PAV
+ASV
+HFOV
+HFV-A
+HFV-P
+Vol. Guarantee
+
+
+UNIT 1 Review
+
+Indications for Mechanical Ventilation
+
+Contraindications
+
+Goals of Mechanical Ventilation
+
+Hazards
+
+Classification of Ventilators
+
+Modes of Ventilation 
+Review
+CRITICAL CARE II
+Unit 2
+
+
+
+
+Unit 2
+Non-Invasive Mechanical Ventilation
+Objectives
+2.1.1 - Identify the design features of a non-invasive mechanical ventilator.
+2.1.2 - Initiate mask or nasal CPAP/BiPAP.
+2.1.3 - Apply all features for a non-invasive mechanical ventilator
+Overview
+Indications 
+Goals
+Contraindications
+Hazards / side effects
+Equipment
+Interfaces (masks etc.)
+Non-Invasive Ventilators vs Mechanical Ventilators
+Settings & Management
+Troubleshooting
+Non-Invasive Modes of Ventilation
+
+ 
+
+Non-Invasive Ventilation (NIV)
+Definition:  NIV provides ventilatory support without a  ‘controlled airway’ 
+The pt is not intubated
+IOW positive pressure ventilation via a mask
+
+NIV is understood as both Non-Invasive Positive Pressure Ventilation (NPPV), non-invasive application of Continuous Positive Airway Pressure (CPAP), and High Flow Nasal Cannula (HFNC).
+INDICATIONS: Acute Care
+Hypoxemic Respiratory Failure (Type I)
+Hypercapnic Respiratory Failure (Type II)
+Asthma
+Facilitate Weaning – Patients with COPD
+Acute Cardiogenic Pulmonary Edema
+Pneumonia
+ARDS/ALI
+ARF in immunocompromised patients
+Palliative care
+Post-op respiratory failure 
+Prevent reintubation in high-risk patients
+Post-extubation respiratory failure
+Goals – Acute Care
+Improve Gas Exchange
+Avoid Intubation
+Decrease
+Mortality
+Length of time on a ventilator
+Length of hospitalization
+Ventilator Associated Pneumonia (VAP)
+Contraindications - Acute setting
+Apnea
+Inability to protect airway / High aspiration risk
+Hemodynamic / Cardiac instability
+Lack of patient cooperation
+Excessive Secretions
+Inability to use interface:
+Facial burns
+Trauma
+Abnormal anatomy
+
+Side effects of NIV
+Nasal Irritation
+Nasal Congestion
+Dry mouth/throat
+Eye/skin irritation 	
+Pressure/pain in ears
+Gastric bloating
+Claustrophobia
+Pressure sores
+Excessive air leak 
+
+Interfaces: Nasal Mask
+Interfaces: Nasal Pillows
+Interfaces: Hybrid
+Nasal Masks
+Pro’s
+Well tolerated
+Less claustrophobic
+Communication
+Cough/sputum clearance
+Lower dead space
+Con’s
+Mouth must be kept shut
+Interface: Full Face Mask
+Face Mask
+Pro’s
+Can treat resp failure
+Better seal
+Con’s
+Claustrophobic
+Less tolerated
+Pressure sores
+Aspiration risk
+Interfaces: Total Face Mask
+Total Face Mask
+Pro’s
+Less cooperation needed by patient
+Improved vision
+No pressure sores
+Con’s
+Fewer sizes
+Moisture can fog up mask
+Common Interfaces: Helmet
+
+
+Non-Invasive delivery devices
+Types of Non-Invasive Ventilators
+Non-Invasive Ventilators
+Critical Care Ventilators
+Portable Home Ventilators
+Difference between MV and NIV
+Electrically powered
+Blower driven
+Microprocessor controlled
+Single limb circuit 
+
+Difference between MV and NIV 
+No exhalation valve
+Continuous air leak
+Mask
+Circuit port 
+Whisper Valve
+Whisper Swivel
+Plateau Valve
+
+Difference between MV and NIV 
+Critical Care Ventilators
+Dual limb circuit
+Do not like leaks!!!
+Single limb circuit
+Continuous leak.
+Noninvasive Vents 
+Continuous Positive Airway Pressure (CPAP)
+Spontaneous breathing at above atmospheric pressure
+Modes: Bi-Level Positive Airway Pressure (BiPAP)
+Also called - Bi-Level 
+Two levels of pressure:
+IPAP – Inspiratory Positive Airway Pressure
+EPAP – Expiratory Positive Airway Pressure
+Settings: BiPAP 
+Similar to spontaneous/CPAP with Pressure Support
+IPAP ≈ Pressure Support
+Effects Ventilation/PaCO2
+
+EPAP ≈ PEEP/CPAP 
+Effects Oxygenation / PaO2
+Spontaneous/Timed (S/T)
+Similar to A/C – Pressure Control
+IPAP
+EPAP
+Resp Rate 
+Ensure patients receive a minimum number of breaths per minute if they fail to breathe spontaneously 
+I-Time
+Rise 
+Adjust flow rate between EPAP to IPAP.
+Higher values for patients who are SOB
+
+Average Volume-Assured Pressure Support (AVAPS)
+Targeted Vt.
+IPAP is automatically adjusted to maintain target Vt.
+Regulated by the MinP and MaxP 
+No set IPAP
+Ex shown
+Vt Target = 400mL
+Low IPAP (Min P) = 12cmH20
+High IPAP (Max P) = 20cmH20
+Current IPAP = 18cmH20
+Inhaled Volume = 370mL
+Initial application
+Location with appropriate monitoring
+Elevate the head of the bed > 30°
+Select ventilator and interface
+Set initial settings low or zero
+Hold the mask to the patients face
+Adjust FiO2
+Check for air leak (esp. around the eyes)
+Reassess patient frequently (q30”) esp during the first couple hours after initiating
+Troubleshooting	
+Troubleshooting side effects of CPAP determines success or failure of use of these modes.  When side effects occur, the following should be considered
+
+Nasal Irritation and Dryness –
+Add a humidifier
+Nasal moistening sprays
+Dry Mouth/throat
+Add heated humidifier
+Sips of water
+Moisturizing ointments/solutions
+Troubleshooting	
+Skin Irritation
+
+Strict hygiene of face AND delivery device
+Wipe face and device with ‘baby wipe’ before and after use
+Wash face well to remove oils and open skin pores
+
+Pain or Pressure in ears
+Reduce ventilation pressure (may not be an option)
+Check with MD for other remedies
+Troubleshooting	
+Gastric Bloating
+Anti gas therapy (simethicone)
+Claustrophobia
+Check with MD for possible alternative therapies
+Pressure sores
+Hygiene
+Refrain from over-tightening mask during use
+
+Troubleshooting
+Excessive leaks 	
+Common with patients who are "mouth breathers“
+Use of a chin strap may help 	
+Change to oral/nasal mask 
+
+Feeling too much pressure 	
+Use the “ramp mode”
+Ramp allows pressure to gradually increase over a period of 5 to 45 minutes 	
+Unit 2 Review
+Indications 
+Goals
+Contraindications
+Hazards / side effects
+Equipment
+Interfaces (masks etc.)
+Non-Invasive Ventilators vs Mechanical Ventilators
+Settings & Management
+Troubleshooting
+Non-Invasive Modes of Ventilation
+Initial Set-up and application of NIV
+
+ 
+
+Unit 3: Mechanical Ventilation: Initiation and management
+Unit 3 Initiation and Management
+Lessons:
+
+3.1. - Initiating and Adjusting Ventilatory Support
+3.2. – Maintaining and Monitoring Ventilator Support
+3.3. – Discontinuing Ventilatory Support
+
+Unit 4: Overview
+Mechanical Initiation and Management
+Lesson 4.1 - Initiating and Adjusting Ventilatory Support
+Objective 4.1.1 – Determine initial settings
+Objective 4.1.2. - Input initial ventilator settings
+
+Overview
+Mode
+Tidal Volume
+Peak Inspiratory Pressure
+Respiratory Rate 
+FiO2
+PEEP
+Pressure Support
+Sensitivity
+
+
+
+Peak Inspiratory Flow Rate
+Inspiratory Time
+I:E Ratio
+Flow profile
+Inspiratory Ramp
+Alarms
+
+Mode
+Assist Control Mode
+Initial “rest” mode, Ventilator assumes all or most of WOB
+Synchronized Intermittent Mandatory Ventilation
+Rest / Wean
+Spontaneous / CPAP
+Wean/Evaluate for discontinuing mechanical ventilation
+Tidal Volume (VT)
+Initial Tidal volume - 6-8mL/kg IBW
+
+Predicted ideal body weight (IBW) 
+Male 
+kg = [50 + 2.3 x [Height (inches) – 60]]
+Female 
+kg = [45.5 + 2.3 x [Height (inches) - 60]] 
+
+Valid for 4ft tall or greater
+Example: Tidal Volume (VT)
+Calculate IBW
+Male 5’10” (70inch)
+[50 + 2.3 x (70 – 60)]
+[50 + (2.3 x 10)
+(50+23) = 73kg 
+6 – 8ml/kg
+6 x 73 = 438ml (round up)
+8 x 73 = 584ml (round down)
+450 to 550 ml
+
+Calculate Initial Tidal Volume
+Tidal Volume (VT)
+Adjust:
+To achieve adequate PaCO2   
+Maintain plateau pressure less than 30cmH2O
+Excessively large Vt can over distend the lungs/alveoli.
+Plateau pressure (Pplat) is the common value evaluated to ensure the alveoli are being ventilated at a safe pressure. 
+Tidal Volume in ARDs 
+If Pplat increases to > 30cmH20 
+“Lung Protective Strategies” 
+Decrease Vt to 4-8mL/kg
+Pplat < 28cmH20
+Driving Pressure < 15cmH20 
+Appropriate PEEP levels
+Permissive Hypercapnia 
+PaCO2 > 60mmHg
+pH > 7.15
+Permissive Hypoxemia
+PaO2 > 55mmHg
+Factors that affect Vt delivery
+Mechanical dead space – Circuit & Adaptors
+Anatomic dead space - Airways
+Alveolar dead space – Sick lungs
+
+
+The sum of all three subtracted from Vt = Alveolar Tidal Volume
+
+Mechanical dead space
+Any loss of volume delivered to the patients airway
+Ventilator circuit
+Artificial airway
+Adaptors placed between the airway and circuit
+HME
+In line suction catheter 
+ETCO2
+Aerosol delivery device (HHN or spacer)
+Large bore corrugated tubing placed distal to the circuit wye (intended to increase CO2) treats hyperventilation
+Mechanical dead spaceVentilator circuit
+Compressible volume
+Circuit expands when pressurized and contracts when pressure is released
+Volume lost in the circuit due to expansion is not delivered to the patient 
+
+Mechanical dead space (Ventilator Circuit)
+Compressible volume may be measured as part of the delivered volume depending on where the ventilator measures volumes 
+Measured between the ventilator and the circuit (Insp flow sensor)
+Measured between the circuit and the airway (Prox flow sensor)
+
+Mechanical dead space (Ventilator Circuit)
+Volume loss depends on circuit compliance and the level of pressure in the circuit
+Adult circuit = 3ml/cmH20
+Pediatric circuit = 1.5ml/cmH20
+Neonatal circuit = .5ml/cmH20
+
+Ex. An adult with a peak pressure of 33cmH20 will lose 99ml in the circuit.  (33cmH2o X 3ml = 99ml)
+
+Most modern ventilators can compensate for circuit compliance
+
+Mechanical dead space (adaptors)
+Dead Space (VD)
+Anatomic  (VD)
+Volume of inhaled gas that does not reach the A/C level
+1 mL/lb IBW
+Approx 30% of inhaled tidal volume
+Trachea 
+Upper Bronchioles 
+
+
+Dead Space (VD)
+Alveolar (VD)
+Volume of inhaled gas that reaches the alveoli but does not take part in gas exchange
+Results from lack of perfusion to air-filled alveoli
+Diseases the increase Alveolar dead space
+Pulmonary Embolism
+Emphysema
+Shock
+Pulmonary Hypertension 
+Obstruction of pulmonary vessels by masses
+
+Dead Space (VD)
+Physiologic (VD)
+Sum of anatomic and alveolar VD
+
+Dead Space Ventilation VD/VT
+Physiologic dead space volume to Tidal volume ratio
+Calculated using the Bohr equation
+VD/VT	 = PaCO2 – PECO2
+	        PaCO2
+
+PaCO2 
+ABG
+PECO2 measured from:
+End tidal Capnometry
+Manual collection of exhaled gas via a 60 L Douglas bag and gas sample run through ABG machine
+Dead Space Ventilation VD/VT
+Normal = .30 or 30%
+Exercise = .20 or 20%
+Significant lung disease = >.60 or 60%
+Predicts the chances of mortality of a pt. 
+Calculating Alveolar Tidal Volume
+A 150 pound patient being ventilated with a tidal volume of 500mL and a peak pressure of 33cmH20 and 50mL of alveolar dead space.  
+What would the alveolar tidal volume be?
+500mL – (150mL+99mL+50mL)
+500mL – 299mL = 201mL 
+
+Of the 500mL set Vt only 201mL reached                                              the alveolar level for gas exchange
+
+
+Peak Inspiratory Pressure (PIP)
+PiP during Pressure Controlled modes is the primary determinant of ventilating pressure and Tidal volume delivery.  (pressure constant / volume variable)
+Increase PiP / Increase Tidal Volume
+Decrease PiP / Decreases Tidal Volume
+Initial tidal volume is still calculated the same as volume controlled ventilation however it is not the controlled parameter.
+
+Frequency (f) or Respiratory Rate (RR)
+Initial settings 10-20 breaths/min
+Used to manipulate Minute Volume 
+RR x Vt = Minute Volume 
+Set and adjusted based on PaCO2 levels 
+
+Primary control for manipulating PaCO2 
+Increase rate = increases min vol = decreases PaCO2
+Decrease rate = decreases min vol = increases PaCO2
+
+Resp Rate and Cycle Time 
+Cycle time
+The period of time between the start of ventilator controlled (mandatory) breaths
+60 sec ÷ Resp rate b/min
+A resp rate of 10b/min = a mandatory delivered breath every 6 seconds
+
+Peak Inspiratory Flow Rate
+Speed of gas flow at which the breath is delivered
+Usually measured in L/min      (mL/Sec in Neonates)
+Set parameter in Volume Controlled modes/breaths
+Variable parameter in Pressure Controlled modes/breaths
+
+Average setting: 60 L/min (40 – 80L/min)
+Used in conjunction with I-Time to determine a preset Tidal Vol
+PIFR x I-Time = Tidal Volume
+(30Lpm/60) x 1sec = .500L
+			.5Lps x 1sec = .500L
+
+
+
+Peak Inspiratory Flow Rate
+Changing flow rate can alter the Inspiratory Time (I-Time)
+Increasing PIFR decreases I-Time results in 
+Increased Expiratory Time (E-Time)
+Increased Airway resistance (RAW)
+Increased PIP 
+Poor gas distribution 
+Decreasing PIFR increases I-Time results in 
+Decreased Expiratory Time (E-Time)
+Decreased RAW
+Decreased PIP 
+Improved gas distribution – lungs fill more evenly
+However low PIFR can lead to excessively long I-times and air trapping / Auto PEEP
+
+
+
+Inspiratory Flow Pattern
+Adjustable setting on some ventilators
+Volume controlled breaths typically a square or sine
+Pressure controlled breaths are always descending
+Ramp shaped patterns lengthen I-time in volume controlled modes
+
+Inspiratory Time
+Normal I-time 0.75 - 1.5 seconds (adults)   
+Used in conjunction with Peak Inspiratory Flow (PIFR) to determine a preset Tidal Volume
+I-Time X PIFR = Tidal Volume
+1Sec x 60Lpm = 1L Vt
+
+Changing I-Time can alter the PIFR and I:E ratio
+Increasing (longer I-time) requires lower PIFR to deliver preset Vt and results in 
+Decreased E-Time
+Decreased RAW
+Decreased PIP 
+Improved gas distribution 
+However long I-Times to  air trapping / Auto PEEP
+Decreasing I-Time (shorter I-time) requires higher PIFR to deliver preset Vt and results in 
+Increased E-Time
+Increased Airway resistance (RAW)
+Increased Peak Inspiratory Pressures (PiP) 
+Poor gas distribution 
+
+
+Calculating I-Time
+Using cycle time and I:E
+I time = Cycle Time ÷ sum of I:E ratio
+Cycle time = 60 ÷ Resp rate
+Example:
+RR - 10b/min (Cycle time = 6sec) 
+I:E = 1:2
+6 ÷ 3 = 2sec I-Time
+
+Using tidal volume and flow rate
+I-Time = Vt (L) / Flow rate (L/min)
+.5L ÷ (60L/min ÷ 60) converts L/min to L/Sec
+.5L ÷ 1L/sec = .5 second I-time
+I:E Ratio
+The ratio of I-time to E-time
+Normal I:E 
+Adult-  1:2 - 1:3
+Infant- 1:1
+Changed based on disease process
+Obstructive disease may need high ratio ex.  1:6 
+ARDS may use INVERSED ratio ex 2:1
+
+ 
+
+I:E Ratio
+I:E knob (uncommon) 
+I:E is manipulated using other ventilator controls
+Rate
+Increasing the resp rate decreases E-Time
+Decreasing the resp rate increases E-Time
+I-time
+Increasing the I-time decreases E-Time
+Decreasing the I-Time Increases the E-Time
+Peak Inspiratory Flow Rate (PIFR)
+Increasing PIFR decreases I-time thus Increases the E-Time
+Decreasing PIFR increases I-time thus Decreases the E-Time
+
+
+Changing Vt in Volume Controlled ventilation
+Vt increased each breath
+PIFR is constant at 30Lpm
+As Vt increases it takes a longer I-Time to deliver
+30Lpm x .6sec = .300L
+30Lpm x 1.2sec = .600L
+30Lpm x 1.8sec = .900L
+Peak airway pressure (Paw) increases as Vt increases
+Effects on delivered Vt changing Insp. Press. in PCV
+Inspiratory Pressure is increased each breath
+I time is held constant
+Vt increases as Insp. Press is increased.
+
+Effects on Vt when changing I-Time in Press. Cont.
+Inspiratory Pressure (red) is set at a constant 20cmH20
+I-Time is increased each breath
+Vt increases each breath because the 20cmH20 is being applied over a longer time during each breath
+Volume Control Influence Diagram
+Three relationships
+Vt X RR = Min Vol
+Flow X I-Time = Vt
+60/RR = Cycle time 
+Cycle time – I-time = E-time
+Pressure Control Influence Diagram
+Grey circles are variable
+White circles are constants (ie Settings)
+Positive End Expiratory Pressure (PEEP)
+End expiratory pressure maintained at above atmospheric levels in the airway
+
+Produced by the ventilators expiratory valve.
+Flow resistor (PEEP valve on manual resuscitator)
+Threshold resistor 
+PEEPhttps://www.youtube.com/watch?v=oKH7CtsEgHw
+Pressure graphic of PEEP
+Effect of PEEP on alveoli
+Indications for PEEP
+Improve oxygenation in patients with refractory hypoxemia 
+Atelectasis
+V/Q mismatching
+Pulmonary edema
+PaO2 < 50/60mmHg with FiO2 > 50%
+
+Used in conjunction with FiO2 to manipulate PaO2
+Reducing FiO2 to non-toxic levels (<60%)
+
+
+Contraindications for PEEP
+Untreated tension pneumothorax
+Head trauma with increased ICP
+Hemodynamically unstable
+Bronchopleural fistula
+
+Hazards of PEEP
+Alveolar over-distension and barotrauma
+Decreased cardiac output
+Decreased renal function
+Increased intracranial pressure
+
+Determining “Optimal” PEEP
+In general: lowest amount of PEEP needed to achieve adequate oxygenation at a non-toxic FiO2 (<60%)
+
+Oxygen Delivery (DO2 = Qt x CaO2)
+Compliance
+Pressure Volume Curves
+Esophageal manometry
+Lung Recruitment Maneuver
+Definition: A sustained increase in airway pressure with the goal to open collapsed alveoli, after which sufficient PEEP is applied to keep the lungs open.
+
+Goals:
+Part of lung protection strategy 
+Recruit collapsed alveoli
+Improve oxygenation
+Lung Recruitment Maneuver
+Multiple protocols:
+Manual inflation via BVM vs mechanical ventilator
+Increase airway pressure for an extended period of time:
+30cmH20 for 30 seconds
+40cmH20 for 40 seconds
+“Step-up” – pressure increased by 5-10cmH20 then held at a high pressure
+Programmed “sigh” during mechanical ventilation
+
+Lung Recruitment Maneuver
+Mode – CPAP
+Increase CPAP pressure to 30-40cmH2O 
+30-40 seconds
+Closely monitor patient for adverse effects
+Hemodynamic compromise (hypotension)
+Desaturation
+Return to previous mode and settings
+Likely with higher PEEP levels than previous 
+
+Fraction of Inspired Oxygen (FiO2)
+Adjustable from 21% to 100%
+First setting weaned to avoid oxygen toxicity 
+Used in conjunction with PEEP to manipulate PaO2 
+
+How to adjust FiO2 (TEST WORLD)
+Correcting for hypoxemia: Low PaO2
+FiO2 Initially increase up to 60%
+Once FiO2 is 60%, PEEP is added or increased
+Continue increasing PEEP until adverse cardiac effect
+Decreased Cardiac Output
+Hypotension
+Return to increasing FiO2 from 60% - 100%
+
+Weaning FiO2 and PEEP
+FiO2 is reduced first to 60% 
+Then begin decreasing PEEP in increments of 2 – 5cmH20 
+
+ARDSnet FiO2/PEEP ladder
+Pressure Support (PS) 
+Mode or breath type
+Patient triggered, 
+Ventilator assisted (pressure controlled)
+Patient Cycled (Flow cycled) when inspiratory flow decelerates to 25% of PIFR the breath ends.
+
+PS is active in modes with spontaneous breathing: 
+  SIMV
+  CPAP / Spontaneous / PSV
+  APRV   
+
+Goals/benefits
+Reduces the work of breathing
+Overcome RAW induced by the endotracheal tube
+Increase spontaneous Vt
+Improve patient-ventilator synchrony  
+
+
+Pressure Support (PS) 
+Management techniques
+Low level PS = 5-10cmH20
+Just enough to overcome the WOB caused by the ET Tube and ventilator circuit
+Modern ventilators have an automated setting that determines a minimum PS base on ET tube size. 
+Automatic Tube Compensation (ATC)  
+
+High Level PS = 10cmH20 or greater
+Adjusted to deliver up to 10-12mL/kg tidal volumes
+Used for patients with adequate respiratory drive but fatigued respiratory muscles.
+Weaning technique
+Sensitivity
+Varies the effort required to trigger a breath 
+Flow triggering 
+Pressure triggering
+
+Pressure triggering
+The amount of negative pressure the patient must generate to trigger a breath from the ventilator
+Adjustable between  (- 0.5 to - 2.0 cm H20)
+Normal (-2.0cmH2O) 
+Automatically adjusted to baseline pressure
+
+Flow triggering
+Base flow
+Adjustable - 10-20 Lpm
+Preset - twice the sensitivity setting
+Flow sensitivity
+The amount of flow (lpm) the patient needs to inhale from the base flow to trigger a breath
+Less work to trigger inspiration
+More commonly used than pressure triggering
+
+Alarms 
+Audio and/or visual cues to alert the operator of a problem or change in patient status
+Safety features designed to prevent improper use or danger to the patient  
+
+Alarm Types
+Pressure 
+Volume 
+Rate 
+Apnea / back-up ventilation
+Other
+
+ 
+
+
+High Pressure Alarm
+Alarm and limit
+If ventilating pressure PiP exceeds the high-pressure alarm setting -  inspiration ends and the ventilator cycles into expiration, remaining volume or pressure is not delivered to the patient
+
+Set 10-15 cmH20 above measured PIP
+
+Causes of high-pressure alarms:  
+Airway / circuit obstruction
+Patient coughing / secretions
+Increasing resistance (   RAW      Press)
+Decreasing compliance (   Comp    Press)
+Patient/ventilator synchrony issues 
+
+
+Low pressure Alarm
+Set 10 to 15 cm H20 below peak inspiratory pressure (PiP)
+Causes of Low-Pressure alarm:
+Leak
+Ventilator
+Heater / humidifier
+Circuit
+Patient 
+Disconnection 
+
+Volume Alarms
+Minute Volume Alarm
+Set “close” in spontaneous modes or low mandatory rates
+
+Tidal Volume Alarm
+Set “close” in pressure control modes
+
+
+High/Low Respiratory Rate Alarm
+Low rate  
+Over sedation or pain control medication
+Tired
+
+High rate 
+Under sedation
+Pain
+Increased work of breathing
+
+Apnea Alarm / backup ventilation
+Safety “back-up” ventilation for patients in spontaneous modes (CPAP or PSV) or on low SIMV rates (4bpm or less)
+Settings:
+Apnea interval (in seconds)
+The time a pt can be apneic before backup ventilation is initiated
+Normally 10 – 15 seconds
+Tidal Volume – set to match pts set Vt
+Respiratory Rate – to maintain PaCO2                                         (a rate that will keep patient alive)
+Additional Alarms
+Source gas (loss of compressed air or oxygen)
+Electrical power
+Backup battery
+FiO2 (blender or analyzer failure)
+Demand valve
+Vent Inop
+Flow transducer
+
+
+Initial Set Up 
+Select ventilator – Since most ventilators have the same modes, its rare a patient needs a specific brand of ventilator. The best choice is usually the ventilator the operator is most familiar with.
+
+Verify that an operational verification procedure (OVP) was performed, OVP = Calibration & functionality self-test
+An automated test performed by the ventilator to assure proper function
+
+OVP should be performed
+Prior to connecting to the patient 
+After circuit change or disassembled for any reason.
+ 
+
+Initial Set Up 
+Calibration / OVP – (manufacturer specific)
+Electronics check
+Audible and visual alarms
+Calibrates pressure transducers
+Calibrates flow transducer
+Measures / calculates tubing compliance 
+Pressurizes circuit to check for leaks 
+  
+
+Adjusting settings based on ABG results
+1. Interpret ABG
+Oxygenation issue
+Ventilation issue
+2. Evaluate the ventilator settings
+Oxygenation issue
+FiO2
+PEEP
+Ventilation Issue
+Ensure Tidal Volume is correct for patient size
+Vt is correct…change Rate.
+Vt is NOT correct…change Vt to correct (6-8ml/Kg)
+Adjusting settings based on ABG results
+23 y/o male, 5ft 10in; MVC vs Ped; Needle D in the field; deformed RUE; large facial lac, w/suspected brain injury
+Initial settings:
+Vt:500 mL
+RR: 12
+PEEP:5
+Fi02: 100%
+
+
+What adjustments would you recommend?
+
+ABG results:
+pH: 7.18
+PaO2: 98
+PaCO2: 58
+HCO3: 26
+
+Adjusting settings based on ABG results
+Settings:
+Vt: .500L 
+RR: 12 b/min
+PEEP: 5cmH20
+Fi02: 100%
+PIFR: 50L/min
+PS: 10cmH20
+ABG results:
+pH 7.18
+PaO2: 98mmHg
+PaCO2: 58mmHg
+HCO3: 26 Meq/L
+SaO2: 99%
+
+Adjusting settings based on ABG results
+Settings:
+Vt: .500L 
+RR: 12 b/min
+PEEP: 5cmH20
+Fi02: 50%
+PIFR: 50L/min
+PS: 10cmH20
+ABG results:
+pH 7.35
+PaO2: 60mmHg
+PaCO2: 45mmHg
+HCO3: 26 Meq/L
+SaO2: 89%
+
+Calculating Rate or Volume
+New RR= Current RR x Current PaCO2
+                                               Desired PaCO2
+
+
+New Vt=  Current Vt x Current PaCO2
+	             Desired PaCO2
+
+
+What you have over what you want…
+		
+
+Adjusting Vt  and RR to maintain Min Vol
+If set Vt is incorrect per the IBW equation, but the PaCO2 is within normal range
+Calculate the current Min Vol: RR x Vt = Min Vol
+Divide the Minute Volume by new Tidal Volume. 
+= New Resp Rate that will maintain the same Min Vol
+
+Adjusting Vt  and RR to maintain Min Vol
+5’10” Male
+Vt = .750L 
+RR = 12bpm
+PaCO2 = 40mmHg 
+
+Vt Range is 440-580mL
+Need to lower Vt to 500mL
+
+Lesson 4.1 Review
+Mode
+Tidal Volume
+Peak Inspiratory Pressure 
+Respiratory Rate 
+Peak Inspiratory Flow Rate
+Inspiratory Time 
+I:E Ratio 
+
+
+Positive End Expiratory Pressure (PEEP) 
+Fraction of Inspired Oxygen 
+Pressure Support 
+Sensitivity 
+Alarms 
+Initial Set Up 
+Adjusting settings per ABG
+
+Unit 4:  Mechanical Ventilation Initiation & Management
+Lesson 4.2. Maintaining and Monitoring Ventilatory Support
+Objectives: 
+4.2.1 - Monitoring Patient - Ventilator system parameters.
+4.2.2 - Perform Patient - Ventilator system check.
+4.2.3 - Correct patient - Ventilator dysynchrony using ventilator graphics.
+
+
+ 
+
+
+
+Lesson 4.2.Maintaining and Monitoring Ventilatory Support
+
+
+Objective 4.2.1. 
+Monitoring Patient – Ventilator System Parameters
+
+
+Overview
+Monitored Values
+Pressures
+Volumes
+Rates
+Pulmonary Mechanics
+
+
+Measured/monitored values 
+Pressures:
+Peak Inspiratory Pressure (PIP)
+Mean Airway Pressure (MAP/PAW)
+Plateau Pressure (pPlat)
+Driving Pressure
+Baseline (PEEP)
+Auto PEEP
+
+Rates
+Mandatory 
+Spontaneous 
+Total 
+Volumes:
+Inhaled tidal volume
+Exhaled tidal volume
+Minute volume 
+
+Pulmonary Mechanics
+Compliance
+MIP / MEP
+RAW
+P.01
+ Peak Inspiratory Pressure (PIP)
+Highest pressure during inspiration 
+
+Affected by: 
+Inspiratory Flow Rate
+High PIFR = Higher PiP  
+PEEP
+Increasing Baseline press = Higher PiP
+VT 
+Increasing Vt = Higher PiP
+Raw  
+Increasing Raw = Higher PiP
+Compliance  
+Decreased Compiance = Higher PiP
+
+Mean Airway Pressure (MAP or Paw)
+Average airway pressure during the total ventilatory cycle
+Normal range 5-10cmH20 
+Mean Airway Pressure is a good indicator of:
+Patient oxygenation status – Higher MAP = Poorer Oxygenation status
+Adverse cardiac effects – Higher MAP = greater chance for adversec effects from Positive pressure 
+  
+Factors that increase MAP:   
+PIP/tidal volume  
+PEEP   
+I-time/I:E
+Respiratory Rate
+Decreased Compliance
+Increased Raw
+Plateau Pressure (Pplat)
+End-inspiratory pressure under no-flow conditions
+Measured by: 
+Programming an “Inspiratory Hold” 
+Depressing the “inspiratory pause button”  
+Represents the pressure applied to small airways and alveoli 
+Pplat is always lower than PiP 
+Because there is no airflow 
+     there is no Raw
+Maintain less than 30cmH2O 
+
+
+Driving Pressure
+Driving pressure or    P
+The pressure required to deliver a tidal breath from baseline to Plateau
+Pplat – PEEP
+Current literature states to maintain less than 15cmH20
+
+
+Auto-PEEP
+Aka. Intrinsic PEEP, Occult PEEP
+Gas trapped in alveoli at end expiration
+Causes: 
+Inappropriate ventilator settings
+Inadequate expiratory time
+High respiratory rates
+Low inspiratory flow rates
+Obstructive disease process
+Dynamic hyperinflation
+Bronchoconstriction 
+Diseases that produce excessive secretions
+
+
+Auto-PEEP
+Detecting Auto PEEP
+Measured value
+“Auto-PEEP” maneuver
+Expiratory Hold 	
+Identify with graphics
+Flow time scalar
+Flow volume loop
+Volumes
+Inhaled tidal volume – (Measured or Set)
+Mandatory
+Spontaneous
+Exhaled tidal volume – (Measured)
+Mandatory
+Spontaneous
+Minute volume 
+Mandatory
+Spontaneous
+
+Monitored Values:Rates
+Mandatory 
+Spontaneous 
+Total 
+
+Monitored Values: Pulmonary Mechanics
+Compliance
+Static
+Dynamic
+Airway Resistance (RAW)
+Max Inspiratory Pressure (MIP)
+P.01
+Weaning parameter
+Inspiratory pressure measured 100 milliseconds after airway occlusion
+
+Monitored Values:Pulmonary Mechanics
+Dynamic Compliance
+Vt / (PIP – PEEP)
+
+
+Vt / (Plat – PEEP)
+Normal: 60-100 mL/cmH2O
+Lower values indicate:
+ARDs
+Atelectasis
+Pneumothorax
+Pulmonary fibrosis
+Chest-wall stiffness.
+
+Static Compliance
+Lesson 4.2.1 Review
+Measured/monitored values 
+Pressures:
+Peak Inspiratory Pressure (PIP)
+Mean Airway Pressure (MAP/PAW)
+Plateau Pressure (pPlat)
+Driving Pressure
+Baseline (PEEP)
+Auto PEEP
+
+Rates
+Mandatory 
+Spontaneous 
+Total 
+Volumes:
+Inhaled tidal volume
+Exhaled tidal volume
+Minute volume 
+
+Pulmonary Mechanics
+Compliance
+MIP / MEP
+RAW
+P.01
+Critical Care II 
+Unit 4.2.2
+Objective:
+Perform Patient – Ventilator System Check 
+Objectives 
+3.2.1.1 Understand the purpose of ventilator checks. 
+4.2.1.2 Understand the information that you can gather from a ventilator check. 
+
+Patient – Ventilator system check
+Defined: Documented evaluation of a mechanical ventilator and of the patient's response to mechanical ventilatory support
+Often referred to as a “ventilator check” 
+INDICATIONS
+Must be performed on a scheduled basis for any patient requiring mechanical ventilation for life support. 
+
+Generally performed q2hr but is institution- specific 
+
+In addition, a check should be performed
+Prior to obtaining blood samples for analysis of blood gases
+Prior to hemodynamic or bedside pulmonary function tests 
+Following any change in ventilator settings
+Following an acute deterioration of the patient's condition
+Any time that ventilator performance is questionable
+
+Objectives
+Evaluate and document the patient's response to mechanical ventilation at the time that the check is performed
+
+Verify and document:
+Proper operation of the mechanical ventilator
+Ventilator is functioning and is properly connected to the patient
+Alarms are set appropriately 
+Inspired gas is properly heated and humidified
+FiO2 is measured with every change or, at least, every 24 hours
+Ventilator settings comply with physician orders
+Hazards / Complications
+Disconnecting the patient from the ventilator during a check may result in: 
+Hypoventilation
+Hypoxemia
+Bradycardia
+Hypotension
+Pre-oxygenation and hyperventilation may minimize complications
+When disconnected, ventilators can generate a high flow through the circuit that can aerosolize contaminated condensate, putting both the patient and clinician at risk for nosocomial infection
+Equipment
+Stethoscope
+Supplies for Universal Precautions
+Documenting paperwork
+Oxygen analyzer
+Cuff monometer 
+
+Procedure
+Patient-ventilator checks must include information and observations indicative of the ventilator's settings at the time of the check – (IOW perform and document checks at the bedside) 
+
+Observations should include but are not limited to
+Date and time 
+Patient name and ID 
+Airway size and position
+Check circuit for condensation collection – empty as needed 
+Change expiratory filters as needed
+Date and time of last circuit change
+Assess patients vital signs and breath sounds
+
+Procedure Cont
+Ventilator settings
+Mode of ventilation
+FiO2 
+PEEP
+Tidal volume 
+Frequency
+Peak inspiratory pressure limit
+Pressure support 
+Inspiratory flowrate and waveform 
+I-E ratio, I–time or percent inspiration
+Sensitivity threshold 
+Humidifier temperature setting and water level
+Procedure Cont
+Ventilator measured values
+Peak inspiratory pressure
+Plateau pressure
+Mean airway pressure
+baseline airway pressure 
+auto-PEEP 
+Delivered tidal volume 
+Exhaled tidal volume
+Minute volume 
+Spontaneous Minute Volume
+
+
+Procedure Continue
+Verify alarm settings and functionality
+Patient ventilator synchrony via graphics
+Unit 4.2
+
+Objective 4.2.3.
+Identify the steps to correct patient - ventilator dyssynchrony using ventilator graphics.		
+Objectives 
+5.1.1.1 Understand ventilator graphics.
+5.1.1.2 Understand how to recognize an abnormal ventilator graphics. 
+5.1.1.3 Understand what is causing that abnormality.
+5.1.1.4 Understand how to trouble shoot problems. 
+Overview
+Normal Graphics 
+Abnormal Graphics
+Troubleshooting 
+
+Ventilator Graphics
+Definition: Waveforms that reflect the patient-ventilator system and their interaction
+
+Purpose: Interpret, evaluate, and troubleshoot
+Ventilator 
+Patient (Comp and Raw) 
+Response to tx
+Patient / ventilator interaction
+“Fine tuning” the ventilator to decrease WOB
+
+Types of Waveforms
+timed waveforms (Scalars)
+Pressure vs. Time Scalar
+Pressure measured on the Y axis , time is measured on the X axis
+Most common waveform displayed during volume ventilation
+
+Flow vs. Time Scalars 
+Flow is measured on the Y axis (L/min)
+Time is measured on the X axis (sec)
+Inspiration above baseline
+Expiration below baseline 
+Good for:
+Detecting auto-PEEP
+Bronchodilator response
+Volume vs. Time Scalars
+Volume measured on the Y axis (ml or L)
+Time measured the X axis (sec)
+If tracing does not return to baseline a leak should be suspected  
+Types of Waveforms
+Pressure / Volume
+Flow / Volume
+P/V Loop
+Pressure Control
+Volume Control
+Pressure Volume Loop
+Controlled breaths move counter clock
+
+
+Flow Volume Loop
+Good for detecting Auto PEEP
+Can see small airway obstruction
+FVC, but reversed and not “forced”
+
+Ventilator Graphics 
+Adjust Settings
+Tidal Volume
+Peak Inspiratory Flow Rate
+Determine optimal PEEP
+
+Changes in:
+RAW
+Compliance
+Auto PEEP
+Leaks
+
+Detecting
+Adjusting Tidal Volume (Vt)
+Initially set based on IBW to achieve adequate PaCO2 while avoiding alveolar over distention
+Pplat < 30cmH2O
+6-8mL/kg – protective lung strategy
+4-5mL/kg – ARDS protocol
+
+Adjusting Tidal Volume via P/V curve
+Normal Pressure / Volume Curve
+Adjusting Tidal Volume via P/V curve
+
+
+
+Adjusting Tidal Volume via P/V curve
+
+
+
+Adjusting Tidal Volume via P/V curve
+Peak Insp Flow Rate
+PIFR is a set parameter in Volume controlled modes.
+Varies based on 
+Tidal Volume
+I-time 
+Can be set too high or too low
+Termed “flow asynchrony”
+Flow Starvation
+Causes: Flow being delivered to the pt during volume-controlled breaths lower than patients inspiratory flow.
+Notice that the Pressure/Time scaler has a dip
+The flow is set too low
+Not meeting the pts demand.
+Resolve by:	
+Increasing the PIFR 
+Think of a NRB, if the bag collapse, you increase the flow.
+Peak flow too low - “Flow Starvation”
+Peak flow too low - “Flow Starvation”
+Peak flow too low - “Flow Starvation”
+Peak flow too low - “Flow Starvation”
+Peak flow too low - “Flow Starvation”
+Peak Flow too high
+When the flow is set too high, the I-time will be very short. 
+This will increase the pressure and cause the shown graphic. 
+Peak Flow too high
+Setting PEEP via P/V curve
+Initial setting 5 cmH20 to match normal intrinsic levels
+Used in conjunction with FiO2 to treat hypoxia and treat atelectasis
+
+Adjusting PEEP based on P/V
+Normal
+Opening Pressure
+15cmH20
+Adjusting PEEP based on P/V
+Detecting increased Raw Pressure time 
+1000 Check
+PIP – 30cmH20
+Pplat – 25cmH20
+Delta – 5cmH20
+1200 Check
+PIP – 50cmH20
+Pplat – 25cmH20
+Delta – 25cmH20
+Increased Airway Resistance 
+Causes 
+Secretions in airway
+Condensation in the circuit
+Bronchospasm
+Filter/HME full of water or secretions
+Suction patient
+Clear out the water
+Bronchodilator
+
+Treatment
+Detecting compliance via Pressure time 
+1000 Check
+PIP – 30cmH20
+Pplat – 25cmH20
+Delta – 5cmH20
+1200 Check
+PIP – 50cmH20
+Pplat – 45cmH20
+Delta – 5cmH20
+Detecting Compliance changes 
+Peak inspiratory pressure (PIP) increases
+Plateau pressure (Pplat) increases
+Common causes
+Atelectasis
+Pulmonary edema
+ARDS
+Pneumonia
+Treatment 
+Increase PEEP
+treat underlying cause.
+
+Detecting compliance via P/V curve
+Detecting compliance via P/V curve
+Detecting Auto-PEEP
+Auto-PEEP:
+Abnormal and usually undetected residual pressure, above atmospheric, remaining in the alveoli at end-exhalation due to air trapping or insufficient exhalation time
+
+Also referred to as 
+Occult PEEP
+Intrinsic PEEP 
+Dynamic hyperinflation
+Detecting Auto-PEEP
+Identifying Auto-PEEP
+Identifying Auto-PEEP
+Resolving auto-PEEP
+Treat underlying cause:
+Bronchodilator therapy 
+Suction the airway  
+Increase the airway size (if too small) 
+Decreasing the I:E ratio 
+Decrease rate
+Increase flow 
+Allow patient to breath spontaneously – CPAP
+Disconnect from ventilator
+Measure PEEPi (expiratory hold)
+Button on the vent. 
+ 
+Detecting Leaks
+Detected: any graph with volume
+Vol – Time scalar
+Flow / Volume curve
+Pressure / Volume curve
+
+Tracing doesn’t return to baseline
+Best seen on Volume – time scalar
+Detecting a Leak V/Time Scalar
+Detecting Leaks with P/V Loop
+Detecting a Leak F/V Loop
+Detecting Leaks
+Review Lesson 4.2.3
+Purpose: Interpret, evaluate, and troubleshoot
+Waveforms review
+Pressure vs. Time Scalar 
+Flow vs. Time Scalars 
+Volume vs. Time Scalars 
+Pressure / Volume Loop 
+Flow Volume Loop
+
+Adjusting Settings 
+Tidal Volume 
+Peak Insp Flow Rate 
+Setting PEEP levels via graphics
+
+Identifying 
+Changes airway resistance (Raw)
+Changes in compliance via P/V curve
+Identifying auto-PEEP 
+Detecting Leaks 
+
+Critical Care II
+Lesson 4.3 – Discontinuing Ventilatory Support
+Objectives: 
+4.3.1 Change Patient - Ventilator Circuit
+4.3.2 Determine the procedures for Transporting mechanically ventilated patients
+4.3.3 Initiate procedures for Discontinuing Mechanical Ventilation
+Objectives 
+Understand in indications for a circuit change. 
+Understand how to deter VAP.
+Comprehend all of the AARC guidelines. 
+Ventilator Associated Pneumonia (VAP)
+Defined
+Pneumonia occurring more than 48-72hr post intubation and mechanical ventilation. 
+VAP prevention Protocols
+Appropriate hand hygiene
+Gentle suctioning 
+Place patient in semi-recumbent position (30 – 45 degree)
+Do not routinely change ventilator circuits
+Drain circuit condensate AWAY from patient
+Heated wire circuits / HME
+MDI over HHN (if HHN change after every tx)
+Ultrasonic nebs are as effective as MDIs 
+Sedation holidays when performing spontaneous breathing trials 
+Use non-invasive ventilation whenever possible to avoid intubation
+Regular oral hygiene (every 4 hrs)
+
+Circuit change
+AARC Recommendation #1. Ventilator circuits should not be changed routinely for infection control purposes. The available evidence suggests no patient harm and considerable cost savings associated with extended ventilator circuit change intervals. The maximum duration of time that circuits can be used safely is unknown. 
+
+Additional CDC guidance: Change the circuit when it is visibly soiled or mechanically malfunctioning 
+
+Circuit change
+AARC Recommendation #2. Evidence is lacking related to VAP and issues of:
+Heated versus unheated circuits 
+Type of heated humidifier
+Method for filling the humidifier
+Technique for clearing condensate from the ventilator circuit. 
+It is prudent to avoid excessive accumulation of condensate in the circuit. 
+Care should be taken to avoid accidental drainage of condensate into the patient’s airway and to avoid contamination of caregivers during ventilator disconnection or during disposal of condensate. 
+Care should be taken to avoid disconnecting the ventilator circuit from the patients airway, which could contaminate the interior of the circuit. 
+
+Circuit change
+AARC Recommendation #3. Although the available evidence suggests a lower VAP rate with passive humidification (heat moisture exchanger – HME) than with active humidification (Heated Passover or wick humidifier), other issues related to the use of passive humidifiers (resistance, dead space volume, airway occlusion risk) preclude a recommendation for the general use of these devices. The decision to use a passive humidifier should not be based solely on infection control considerations.
+
+AARC Recommendation #4. Passive humidifiers (HME’s) do not need to be changed daily for reasons of infection control or technical performance. They can be safely used for at least 48 hours, and with some patient populations some devices may be able to be used for up to 1 week.
+
+Circuit change
+AARC Recommendation #5. The use of closed suction catheters should be considered part of a VAP prevention strategy. When closed suction catheters are used, they do not need to be changed daily for infection control purposes. The maximum duration of time that closed suction catheters can be used safely is unknown. 
+
+AARC Recommendation #6. Clinicians caring for mechanically ventilated patients should be aware of risk factors for VAP (eg, nebulizer therapy, manual ventilation, and patient transport).
+Circuit change
+Equipment: 
+Manual resuscitator 
+Circuit 
+Large bore corrugated tubing (inspiratory outlet to humidifier)
+Proximal Flow transducer 
+Inspiratory & Expiratory filter
+Humidifier or HME
+Distilled water 
+Closed suction catheter
+Aerosol treatment devices
+Water traps
+
+Circuit change
+Procedure: 
+Set up and confirm proper function of manual resuscitator 
+By-pass ventilator circuit from humidifier 
+Remove and replace sterile humidifier 
+Fill humidifier with sterile distilled water 
+Deactivate/silent ventilator alarms, reassure patient 
+Remove old circuit and replace with new circuit during exhalation 
+Check system for leaks  
+Confirm all parameters of ventilation 
+Assess patient (physical assessment, vital signs, airway) 
+Reset and verify all alarm functions/settings 
+Reassure patient 
+Dispose of old ventilator circuit 
+Document circuit change
+
+Lesson 4.3.1: Discontinuing ventilation/Weaning
+Definition
+Ventilator Associated Pneumonia (VAP) 
+Defined 
+VAP prevention Protocols 
+AARC 
+Equipment 
+Procedure 
+Definition 
+Goals 
+Indications
+Contraindications
+Hazards 
+
+
+Unit 4.2.
+Objective 4.3.2
+Determine the procedures for transporting mechanically ventilated patients.
+Objectives 
+6.1.1.1 Understand the circumstances of when you would and would not transport a patient. 
+6.1.1.2 Calculate the time you can transport a patient from one location to another using their Minute Volume.
+Intra-Hospital Transport
+Transportation of mechanically ventilated patients for diagnostic or therapeutic procedures  
+Computed tomography (CT)
+Magnetic resonance imaging (MRI)
+Angiography
+ 
+
+Includes preparation, movement to and from, and time spent at destination
+
+Inter-Hospital Transport
+Ambulance (Ground)
+Used when traveling 0-80 miles. 
+Helicopter (Rotary Wing Aircraft) 
+Used when traveling 80-150 miles. 
+Airplane (Fixed Wing Aircraft) 
+Used when traveling more that 150 miles. 
+Goals
+Improve survivability and decrease mortality.
+Indications
+Transportation of mechanically ventilated patients should only be undertaken following a careful evaluation of the risk-benefit ratio
+
+Literature suggests that nearly two thirds of all transports for diagnostic studies fail to yield results that affect patient care
+
+Contraindications
+Inability to adequately oxygenate and ventilate during transport by manual ventilation, portable ventilator, or standard ICU ventilator
+
+Inability to maintain acceptable hemodynamics during transport
+
+Inability to adequately monitor patient status during transport
+
+Inability to maintain airway control during transport
+
+All members of the transport team not present
+
+Hazards
+Hyperventilation during manual ventilation causing respiratory alkalosis
+Disconnection from ventilatory support and respiratory compromise
+Accidental extubation
+Loss of oxygen supply resulting in hypoxemia
+Loss of PEEP/CPAP resulting in hypoxemia 
+Position changes may result in hypotension, hypercarbia, and hypoxemia
+Equipment failure resulting in inaccurate data or loss of monitoring
+Inadvertent disconnection of IV access for pharmacologic agents
+
+Equipment - General
+Airway management supplies – check function before transport
+Portable oxygen source 
+Self-inflating bag and mask 
+Portable monitor able to display:
+ECG and heart rate
+SpO2 
+At least one channel for blood pressure measurement
+Portable cardiac monitor / defibrillator
+Infusion pumps
+Appropriate pharmacologic agents (ALS)
+
+Equipment - Ventilator
+Use of a transport ventilator will provide more consistent ventilation than manual ventilation  
+Hyperventilation during manual ventilation causing respiratory alkalosis
+
+
+Equipment - Ventilator
+Transport ventilator requirements
+Battery back-up power supply  
+Capable of assist-control or SIMV 
+Airway pressure monitoring 
+Audible and visual alarms 
+Disconnect / low pressure alarm
+High pressure release valve 
+Capable of providing PEEP
+Provide an FiO2 up to 1.0/100%
+Anti-asphyxia valve – in case of loss of gas supply  
+Rugged and Lightweight
+Ideally all gas leaving the cylinder is delivered to the patient – NOT ALWAYS TRUE
+
+Equipment - Ventilator
+Power source
+Pneumatic
+Pneumatic and electronic
+
+Circuit
+Single limb
+Exhalation valve
+Exhalation port
+PEEP valve
+
+Heat moisture exchanger (HME)
+Hand-held spirometer (wrights respirometer) for verifying delivered tidal volume 
+
+
+Transport Ventilators
+Impact Uni-vent 754 
+ 
+ 
+
+Transport Ventilators (New School)
+Impact Uni-vent 731 
+
+Transport Ventilators
+Viasys LTV 1200 
+Great Home Vent
+
+MRI Transport Ventilator
+MRI + metal = BAD
+Transport Team members
+Registered nurse
+ 
+Respiratory therapist
+ 
+Physician - not mandatory but should accompany unstable patients
+
+At least one member proficient in airway management
+
+At least one member must be an ACLS provider
+
+All members responsible for patient safety and implementing transport 
+
+Transport monitoring 
+Goal is to provide the same level monitoring during transport as the patient had in the intensive care unit. 
+
+Continuous measurement: 
+ECG monitoring 
+Blood pressure (arterial line)
+Pulse oximetry 
+Airway pressures (if transport ventilator is used)
+
+Periodic measurement:
+Blood pressure (non-invasive)
+Respiratory rate
+Tidal volume (if transport ventilator is used)
+
+
+Transport monitoring 
+Selected patients may require:
+Capnography (etCO2)
+Continuous intra-arterial blood pressure 
+Pulmonary artery pressure
+Intracranial pressure monitoring 
+
+Procedure
+Pre transport
+Transport to location
+Set up at location
+Transport back to ICU
+ 
+Pre transport considerations
+Can the patient be ventilated and oxygenated on a transport ventilator?
+Consider patients ventilator settings
+PEEP
+Mean airway pressure
+FiO2
+Minute volume
+Ventilation Mode (may not be available on transport vent)
+May place patient on transport ventilator prior to transport to ensure efficacy 
+Pre transport considerations
+What resources are available at destination?
+Gas source 
+Wall oxygen / compressed air / suction
+Type of compressed gas connector
+Cylinder oxygen
+Electrical power source availability
+
+How long will the patient be at the destination?
+Pre transport considerations
+Calculating tank duration 
+
+Tank PSI x tank factor =  Tank duration in minutes
+ Min volume (L/min)
+
+Tank duration  = Duration in hrs and FRACTION of hrs
+		 60
+
+NOTE: Not all ventilators are 100% efficient.  Some gas may be consumed to drive the internal circuitry.     
+Pre transport set-up
+Prepare equipment and supplies for transport and check for proper function.
+Oxygen supply – D or E cylinder
+Ventilator and circuit with HME
+Manual resuscitator and appropriate size mask. 
+PEEP valve, if necessary
+Assess patients airway 
+Security and placement 
+Need for suctioning
+Pre transport set-up
+Set transport ventilator parameters
+Mode
+Rate
+Tidal volume / Inspiratory pressure
+FiO2
+Check delivered volume with wrights spirometer
+Disconnect patient from ICU ventilator and place in “stand-by”
+Connect patient to transport ventilator  
+
+Transport to location
+After determining the transport ventilator is tolerated without adverse effects, begin transport
+Continue to monitor patient.
+If transporting to another floor send runner ahead to hold an elevator 
+Team member at the head of the bed must closely monitor the airway throughout transport
+Set up at location
+Transfer patient onto table / gurney etc.
+Person at the head of the bed coordinates all patient movement and maintains control of the patients airway 
+Ventilator gas supply hoses should be connected to wall gas source during the procedure to conserve gas cylinders 
+Battery operated equipment should be connected to wall electrical outlet 
+  
+
+Set up at location
+Assess patients airway 
+Security and placement 
+Need for suctioning
+
+Check ventilator placement and circuit position especially if patient is on a moveable table
+
+Set up monitors so they can be easily seen by the team members
+Transport back to ICU
+Transfer patient back to transport bed
+Person at the head of the bed coordinates all patient movement and maintains control of the patients airway
+Check portable gas cylinder pressure – ensure there’s enough to get back to ICU 
+Begin transport - continue to monitor patient.
+
+
+
+CCATT
+Objectives 
+6.2.1.1 Understand who makes up a CCATT unit.
+6.2.1.2 Understand the roles of each individual. 
+
+Critical Care Air Transport Team (CCATT)
+Goal: maintain the standard of care as provided in an ICU
+Move patient to more specialized care 
+  
+  
+
+CCATT Training
+Wright-Patterson AFB
+Cincinnati, Ohio 
+CCATT Members
+Critical Care Physician (Ideally) 
+
+Critical Care Nurse
+
+Respiratory Therapist
+  
+Equipment
+Transport Ventilator (3)
+Infusion Pumps
+Portable Suction
+Transport Monitor
+Airway Kit
+SMEED (platform for mounting equipment to litter)
+I/O
+Medicine kit (Sedation lock box)
+IStat
+
+
+SMEED 
+Ventilator 
+ISTAT
+IV Pump
+Trained and evaluated on this pump during CCATT training. 
+Portable Transport Suction
+Wound Vacs 
+Monitor/Defibrillator
+
+Allowance Standard 
+Aircraft that are used  
+KC-135
+
+
+
+
+C-130
+Aircraft Specific Factors
+Gas supply                        
+Portable Liquid Oxygen – most common 
+Aircraft oxygen supply
+Compressed oxygen cylinders and air compressor 
+Oxygen blender (neonatal transports) 
+Oxygen concentrators
+Aircraft Specific Factors 
+Electrical Power
+Aircraft power NOT compatible with 110v
+Temperature – NEVER a comfortable temp
+Vibration – Turboprop in particular
+G-Forces – Primarily on takeoff and landing
+Noise – 
+Communication difficult
+Can't hear alarms
+
+
+Effects of Altitude 
+As altitude increases Atmospheric pressure decreases and volume expands   
+Wrights spirometer to verify tidal volume  
+ETT cuff
+expand during ascent
+Deflate during decent 
+check before/after take-off and landing
+Lesson 4.3.2: Patient Transport Review
+Definition
+Goals 
+Indications 
+Contraindications 
+Hazards 
+Equipment – General
+Equipment – Ventilator 
+Transport Ventilators 
+Transport Team Members 
+
+Transport monitoring 
+Procedure 
+Pre transport considerations 
+Pre Transport Setup 
+Transport to Location 
+Setup at Location 
+Transport back to ICU 
+Critical Care Air Transport Team (CCATT) 
+Ventilator Discontinuation
+Ventilator Discontinuation
+4.3.3 Objective:
+Initiate procedures for discontinuing mechanical ventilation.
+Objectives
+7.1.1.1 Understand the parameters for extubation.  
+7.1.1.2 Calculate the RSBI using the equation given. 
+7.1.1.3 Understand the indications for an SBT and the contraindications. 
+
+Definitions
+Weaning – The process of decreasing ventilator support (oxygen, PEEP, mandatory rate) and allowing patients to assume a greater portion of their ventilation/WOB.
+
+“Ventilator discontinuation” or “Ventilator Liberation” – process of removing a patient from the ventilator 
+
+Occasionally important to differentiate the need for mechanical ventilation vs need for an airway
+Weaning parameters vs extubation parameters
+Weaning timelines
+Most patients weaning quickly – within 72hrs
+Post op
+Overdose
+25-20% will need a systematic approach
+5% will require weeks to wean
+Chronic pulmonary disease 
+ARDS
+1% Ventilator dependent and are un-weanable
+Neuromuscular disease
+Trauma / spinal cord injuries
+
+Weaning factors
+Success of weaning dependent on four factors
+Ventilation workload vs ventilatory capacity
+Oxygenation status
+Cardiovascular functions
+Psychological factors
+
+Ventilatory Workload vs. Capacity
+Causes of Increased Workload
+Decreased compliance
+Increased resistance
+Increased ventilation aka min. vol.
+
+Ventilatory muscle fatigue
+Loss of muscle strength and endurance
+Causes of Decreased Capacity 
+Oxygenation Status
+Ventilator settings
+FiO2		40-50%
+PEEP	 	5-8cmH20
+
+Arterial blood gas
+PaO2		60mmHg
+SaO2		90%
+P/F ratio	150-200
+
+Cardiovascular functions
+Hemodynamically stable
+No MI
+No significant arrhythmias
+Low cardiac output
+No “marked” hypotension
+Minimal vasopressor
+Psychological factors
+Fear of removal of life support 
+Anxiety, stress
+Depression
+Sleep deprivation
+ICU Psychosis - A disorder in which patients in an ICU or a similar setting may experience anxiety, become paranoid, hear voices, see things that are not there, become disoriented in time and place, become agitated, even violent.  ICU psychosis is a form of delirium, or acute brain failure. Factors including dehydration, hypoxia, heart failure, infection and drugs can cause or contribute to delirium.
+https://www.medicinenet.com/icu_psychosis/article.htm#icu_psychosis_facts
+
+Evaluating a Patient for Weaning
+Is there evidence of improvement or reversal of the underlying cause of respiratory failure?
+Is the patients oxygenation status adequate?
+Is the patient hemodynamically stable?
+Can the patient breath spontaneously?
+Preparing the patient
+Optimize the patients medical condition:
+Disease imposed ventilatory load minimized 
+Manage bronchospasm and airway edema
+Manage infections
+Airway clearance
+Patient should be rested
+Psychologic and communication needs
+ICU psychosis
+Sedatives, narcotics etc lifted
+Room with windows
+Writing tablet, picture/alphabet board
+Weaning parameters
+Criteria assessed to determine readiness for ventilator discontinuation 
+Oxygenation 
+Ventilation
+Ventilatory Mechanics
+Respiratory Muscle strength
+
+HOWEVER! - Overreliance on weaning parameters may result in unnecessary prolonged stay on ventilator
+
+ 
+
+Weaning/discontinuation Parameters
+Oxygenation Parameters
+FiO2		<  40-50%
+PEEP		<  5-8cmH20
+PaO2		>  60mmHg
+SaO2		>  90%
+SvO2		>  60%
+P/F ratio		>  150-200
+P(A-a)O2		<  350
+PaO2/PAO2 ratio 	>0.35	
+Weaning/Discontinuation Parameters
+Ventilation Parameters
+PaCO2	< 50mmHg
+pH   		>  7.35
+
+		
+Weaning/Discontinuation Parameters
+Ventilatory Mechanics
+Resp Rate 	- 12-30 B/min
+Tidal Vol  		>  5ml/kg
+Vital Capacity  	> 15ml/kg
+Static Comp  	> 25ml/cmH20
+RR/Vt (RSBI)  	< 105
+Qs/Qt		<15-20%
+No blood pressure issues 	
+Rapid Shallow Index (RSBI) aka. Tobins index
+Index of how fast (RR) to how deep (Vt) a pt is breathing
+RR / Vt (in L)      (.500L not 500mL) 
+Collect data after one minute of spontaneous mode with 
+PEEP 0 cmH20 
+PS  0 cmH20
+Results less than 105 good predictor of weaning success
+    
+ Examples (min volume of 6L/min for each)
+12bpm / .500 = 24
+24bpm / .250 = 96
+30bpm / .200 = 150 *Note min vol is norm, but not the RSBI
+
+Weaning/discontinuation Parameters
+Respiratory Muscle Strength
+Max Inspiratory Pressure  < -20cmH20
+(-19 bad / -21 good)
+Effort Dependent measurement
+Weaning/discontinuation Parameters
+Ventilatory Drive/Demand
+Min Vol.	< 10L
+VD/Vt 	<0.55-0.60
+P0.1		<6 cm H2O
+The inspiratory pressure measured 100 milliseconds after airway occlusion
+Measurement of ventilatory drive
+Effort independent measurement
+Patients with results greater than > 6cmH20 likely difficult to wean
+
+Weaning Methods
+Conventional techniques
+Synchronized Intermittent Mandatory Ventilation - SIMV
+Pressure Support Ventilation - PSV
+Spontaneous Breathing Trial - SBT
+
+Newer Modes (covered in phase II)
+Volume support ventilation (VSV)
+Adaptive Support ventilation (ASV)
+Automatic Tube Compensation (ATC)
+Proportional Assist ventilation (PAV)
+SIMV weaning
+Gradual reduction of the machine rate until minimal levels (rate of 4-6) 
+Patient tolerance based on 
+ABG 
+Vital signs
+Patient assessment
+
+If tolerated SBT performed and/or extubation considered
+
+Least aggressive and slowest method
+
+
+
+ 
+
+PSV trial
+Spontaneous/CPAP or PSV mode 
+High level Pressure Support
+Initially adjusted to provide 6-10ml/kg IBW (high level PS)
+Low Level Pressure Support – 
+Decrease PS until only providing enough pressure to compensate for the artificial airway (5-8cmH20) 
+  
+Advantages  
+Apnea back up
+Full alarms 
+Monitored ventilator data
+Circuit never broken
+No extra equipment needed 
+Spontaneous Breathing Trial (SBT)
+One of several methods to assess a patient's ability to breathe while receiving minimal or no ventilator support.
+Performed several times a day interspersed with periods of fully supported mechanical ventilation
+Can last minutes to hours but are gradually extended based on patients response
+Faster than SIMV for discontinuing ventilatory support 
+MUST routinely assess the patient during spontaneous trials 
+Successful SBT of should prompt consideration for extubation 
+
+Types of SBT’s
+T-piece trial (Oldest Method) 
+Patient removed from ventilator and placed on humidified supplemental oxygen via large volume nebulizer
+T-piece adaptor
+Trach collar 
+Closed suction catheter
+Disadvantage:
+Requires extra equipment 	
+Breaks the circuit 	
+No apnea back up or alarms 
+
+Types of SBT’s
+CPAP
+Patient remains on ventilator placed in CPAP mode
+CPAP = 0 cmH20
+PS = 0 cmH20 
+Flow triggering
+Advantage:
+No extra equipment 	
+No breaking the circuit 	
+Full apnea back up and alarms
+Ease of airway suctioning  
+
+Criteria for failing a SBT 
+Sustained respiratory rate greater than 35 breaths/min
+Sustained SpO2 less than 90% 
+Heart Rate 
+Tachycardia (140 bpm) or 20% increase from baseline
+bradycardia 20% decrease from baseline 
+Blood Pressure
+Hypertension – systolic pressure over 180 mmHg
+Hypotension – systolic pressure less than 90 mmHg 
+Agitation / anxiety
+Diaphoresis
+Change in mental status
+
+Causes of SBT failure
+Poor respiratory mechanics
+Untreated cardiac disease
+Electrolyte imbalances
+Anxiety
+Secretions
+Aspiration
+Alkalosis
+Neuromuscular weakness
+Sepsis
+Excessive sedation
+Inadequate nutrition
+Opiates
+Obesity
+SBT failure
+When an SBT is failed, ventilatory support should be promptly reestablished, the reason for failure identified and corrected before another SBT is preformed. 
+
+Patients should be rested for several hours on full ventilator support before attempting another SBT
+
+Ventilator weaning protocols have shown improved outcomes when implemented
+Respiratory Therapist-Driven Protocol Example 
+Terminal Weaning
+Discontinuing mechanical ventilation due to a catastrophic illness.
+Decision made by the family, with consultation with the MD. 
+Patient should be comfortable and terminal weaning should be done in a humane way. Patient may be given Morphine, Fentanyl, or other opioids to relieve pain. Midazolam or Lorazepam for anxiety
+Pts that are Unable to be weaned
+Brain Death
+Causes
+Prolonged Cardiac Arrest
+Massive Stroke
+Brain Infection/Tumor
+
+Determining Brain Death
+Clinical Evaluation (By Neurologist/ Critical Care MD):
+Absence of the following need to be assessed:
+Pupillary reflex (Eyes do not react to light or react unequally)
+Corneal reflex (AKA blink reflex, touching the eye or dropping Normal Saline in it)
+Gag reflex
+Oculovestibular reflex (Introduce iced water into the external ear canal)
+Electroencephalogram (EEG)
+If these are absent, an apnea test can be performed.
+Determining Brain Death
+Apnea Test
+Apnea test procedure:
+Before beginning, a compensated blood gas must be achieved. 
+ PaCO2 35-40mmHg
+ PaO2 200mmHg
+
+Patient is removed from the ventilator
+100% O2 is delivered via a catheter placed at the carina at 4-6Lpm
+Watch patient’s chest for spontaneous breathing.
+Obtain arterial blood gas after 8-10 mins. (if no chest rise noted)
+
+Apnea Test
+Results 
+Positive test
+PaCO2 increased to 60mmHg or 20mmHg above baseline, 
+AND the pt remains apneic 
+
+Return patient to full ventilation 
+Lesson 4.3.3: Discontinuing ventilation/Weaning
+Definition
+Weaning timelines 
+Weaning Factors 
+Evaluating a Patient for Weaning
+Preparing the Patient 
+Weaning parameters 
+Weaning Methods
+
+Spontaneous Breathing Trial (SBT) 
+Types of SBT’s 
+Criteria for Failing a SBT 
+Causes of SBT failure 
+SBT Failure 
+Terminal Weaning

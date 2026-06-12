@@ -1,0 +1,464 @@
+{
+  "title": "Critical Care II — Module Exam",
+  "questions": [
+    {
+      "text": "Which ABG finding is most consistent with Type I (hypoxemic) respiratory failure?",
+      "answers": [
+        { "text": "PaO₂ 54 mmHg, PaCO₂ 36 mmHg, elevated P(A-a)O₂ gradient", "correct": true },
+        { "text": "PaO₂ 58 mmHg, PaCO₂ 62 mmHg, normal P(A-a)O₂ gradient" },
+        { "text": "PaO₂ 72 mmHg, PaCO₂ 38 mmHg, normal P(A-a)O₂ gradient" },
+        { "text": "PaO₂ 90 mmHg, PaCO₂ 55 mmHg, normal P(A-a)O₂ gradient" }
+      ]
+    },
+    {
+      "text": "A patient is refractory hypoxemic — the PaO₂ does not improve significantly when FiO₂ is increased to 100%. Which mechanism best explains this?",
+      "answers": [
+        { "text": "Intrapulmonary shunt — blood bypasses ventilated alveoli and cannot be oxygenated", "correct": true },
+        { "text": "V/Q mismatch — partial perfusion of poorly ventilated alveoli that responds to added oxygen" },
+        { "text": "Diffusion impairment — oxygen cannot cross the thickened membrane" },
+        { "text": "Decreased PiO₂ from high altitude" }
+      ]
+    },
+    {
+      "text": "The P(A-a)O₂ gradient is NORMAL in a hypoxemic patient. Which cause is most consistent with this finding?",
+      "answers": [
+        { "text": "Hypoventilation or decreased PiO₂ from high altitude", "correct": true },
+        { "text": "Shunt — blood bypasses ventilated alveoli" },
+        { "text": "V/Q mismatch — poorly ventilated alveoli receive normal perfusion" },
+        { "text": "ARDS — diffuse alveolar damage impairs gas exchange" }
+      ]
+    },
+    {
+      "text": "A mechanically ventilated ARDS patient develops increased PIP and an increased Pplat. Both rise proportionally (delta unchanged). What is the most likely cause?",
+      "answers": [
+        { "text": "Decreased lung compliance — atelectasis, pneumonia, or worsening ARDS", "correct": true },
+        { "text": "Increased airway resistance — secretions or bronchospasm" },
+        { "text": "Auto-PEEP from air trapping" },
+        { "text": "Circuit disconnection causing pressure loss" }
+      ]
+    },
+    {
+      "text": "Which control variable keeps pressure constant while allowing volume to vary?",
+      "answers": [
+        { "text": "Pressure control", "correct": true },
+        { "text": "Volume control" },
+        { "text": "Flow control" },
+        { "text": "Time control" }
+      ]
+    },
+    {
+      "text": "In which mode does every breath — whether patient-triggered or time-triggered — receive the full ventilator-controlled inspiratory cycle?",
+      "answers": [
+        { "text": "Assist/Control (A/C) — CMV", "correct": true },
+        { "text": "SIMV — spontaneous breaths between mandatory breaths are unsupported" },
+        { "text": "PSV — each breath is supported but patient-controlled" },
+        { "text": "CPAP — no inspiratory support is provided" }
+      ]
+    },
+    {
+      "text": "What triggers the end of inspiration (cycle) in Pressure Support Ventilation?",
+      "answers": [
+        { "text": "Inspiratory flow decreasing to 25% of peak flow", "correct": true },
+        { "text": "The set tidal volume has been delivered" },
+        { "text": "The set inspiratory time has elapsed" },
+        { "text": "Airway pressure reaches the set support level" }
+      ]
+    },
+    {
+      "text": "APRV is best described as:",
+      "answers": [
+        { "text": "A time-cycled, pressure-controlled mode with two levels of CPAP and an inverse I:E ratio, used for refractory hypoxemia in ARDS", "correct": true },
+        { "text": "A volume-controlled mode with pressure support added to spontaneous breaths, used for weaning" },
+        { "text": "Continuous spontaneous breathing at atmospheric pressure, used to assess weaning readiness" },
+        { "text": "A mode where mandatory breaths are pressure-limited and spontaneous breaths are flow-cycled" }
+      ]
+    },
+    {
+      "text": "A male patient is 5'8\" (68 inches). What is his IBW and appropriate initial tidal volume range?",
+      "answers": [
+        { "text": "IBW ≈ 68 kg; Vt range 410–545 mL", "correct": true },
+        { "text": "IBW ≈ 80 kg; Vt range 480–640 mL" },
+        { "text": "IBW ≈ 68 kg; Vt range 680–900 mL" },
+        { "text": "Use actual body weight; Vt = 500 mL is appropriate for any adult male" }
+      ]
+    },
+    {
+      "text": "An ARDS patient's plateau pressure is 34 cmH₂O on a tidal volume of 7 mL/kg IBW. What is the most appropriate adjustment?",
+      "answers": [
+        { "text": "Reduce tidal volume to 4–6 mL/kg IBW to achieve a Pplat < 28 cmH₂O and driving pressure < 15 cmH₂O", "correct": true },
+        { "text": "Increase PEEP to 15 cmH₂O to improve oxygenation and reduce Pplat" },
+        { "text": "Increase respiratory rate to improve minute volume and CO₂ clearance" },
+        { "text": "Increase PIFR to shorten I-time and allow more time for exhalation" }
+      ]
+    },
+    {
+      "text": "What is the compressible volume loss in an adult patient ventilated at a peak pressure of 45 cmH₂O?",
+      "answers": [
+        { "text": "135 mL (45 × 3 mL/cmH₂O)", "correct": true },
+        { "text": "67.5 mL (45 × 1.5 mL/cmH₂O)" },
+        { "text": "22.5 mL (45 × 0.5 mL/cmH₂O)" },
+        { "text": "90 mL — a fixed value for all adults" }
+      ]
+    },
+    {
+      "text": "A patient's VD/Vt ratio is 0.68. How should this be interpreted?",
+      "answers": [
+        { "text": "Significantly elevated — indicates severe dead space ventilation, predicts high mortality risk; significant lung disease threshold is > 0.60", "correct": true },
+        { "text": "Normal — the normal VD/Vt ratio is approximately 0.60 to 0.70" },
+        { "text": "Mildly elevated — significant concern begins at VD/Vt > 0.80" },
+        { "text": "Indicates shunting — a high VD/Vt means blood is bypassing alveoli" }
+      ]
+    },
+    {
+      "text": "A patient is ventilated with RR 14, Vt 500 mL, and PaCO₂ is 58 mmHg. Using the correction formula, what new RR targets a PaCO₂ of 40 mmHg?",
+      "answers": [
+        { "text": "RR ≈ 20 breaths/min (14 × 58/40 = 20.3)", "correct": true },
+        { "text": "RR = 18 breaths/min" },
+        { "text": "RR = 24 breaths/min" },
+        { "text": "Increase Vt to 700 mL rather than changing rate" }
+      ]
+    },
+    {
+      "text": "When adjusting PEEP and FiO₂ to treat refractory hypoxemia, what is the correct sequence?",
+      "answers": [
+        { "text": "Increase FiO₂ to 60% first, then add PEEP; if PEEP causes cardiac compromise, return to increasing FiO₂ above 60%", "correct": true },
+        { "text": "Increase PEEP first to 10 cmH₂O, then increase FiO₂ above 60%" },
+        { "text": "Increase FiO₂ to 100% immediately; never increase PEEP above 5 cmH₂O" },
+        { "text": "Increase both FiO₂ and PEEP simultaneously in equal increments" }
+      ]
+    },
+    {
+      "text": "A high-pressure alarm triggers on a volume-control ventilated patient. PIP is now 52 cmH₂O (was 28 cmH₂O). Pplat remains at 26 cmH₂O. The MOST likely cause is:",
+      "answers": [
+        { "text": "Increased airway resistance — secretions, bronchospasm, or kinked ETT (delta = 26 cmH₂O)", "correct": true },
+        { "text": "Worsening lung compliance — atelectasis or pneumothorax" },
+        { "text": "Auto-PEEP from air trapping" },
+        { "text": "Patient-ventilator dyssynchrony from under-sedation" }
+      ]
+    },
+    {
+      "text": "What is the purpose of the apnea backup ventilation alarm on a ventilator?",
+      "answers": [
+        { "text": "To deliver mandatory breaths if the patient is apneic for 10–15 seconds in a spontaneous mode", "correct": true },
+        { "text": "To alert staff when the patient's respiratory rate exceeds the set rate" },
+        { "text": "To detect auto-PEEP and automatically adjust I:E ratio" },
+        { "text": "To reduce tidal volume when Pplat exceeds 30 cmH₂O" }
+      ]
+    },
+    {
+      "text": "What is the primary reason NIV is preferred over invasive mechanical ventilation when appropriate?",
+      "answers": [
+        { "text": "NIV avoids intubation, reducing VAP risk, ICU length of stay, and mortality", "correct": true },
+        { "text": "NIV delivers higher tidal volumes more efficiently than invasive ventilation" },
+        { "text": "NIV is always safer because the airway remains unprotected" },
+        { "text": "NIV is preferred because it allows higher PEEP levels than invasive ventilation" }
+      ]
+    },
+    {
+      "text": "A patient on BiPAP has improving oxygenation but PaCO₂ remains elevated at 60 mmHg. Which adjustment is most appropriate?",
+      "answers": [
+        { "text": "Increase IPAP — higher inspiratory pressure augments tidal volume and improves CO₂ clearance", "correct": true },
+        { "text": "Increase EPAP — higher expiratory pressure improves oxygenation and reduces CO₂" },
+        { "text": "Decrease EPAP — lower baseline pressure allows larger exhalation volume" },
+        { "text": "Decrease IPAP — lower support reduces respiratory alkalosis risk" }
+      ]
+    },
+    {
+      "text": "Which NIV interface is best for a patient who is a mouth-breather and needs moderate respiratory support?",
+      "answers": [
+        { "text": "Full face (oral/nasal) mask — covers both nose and mouth for a better seal", "correct": true },
+        { "text": "Nasal mask — requires the mouth to remain closed" },
+        { "text": "Nasal pillows — minimal facial contact but poor for mouth-breathers" },
+        { "text": "Helmet — provides full head coverage but is not practical for acute management" }
+      ]
+    },
+    {
+      "text": "A patient on NIV reports feeling too much pressure. What adjustment reduces discomfort without immediately changing therapeutic pressures?",
+      "answers": [
+        { "text": "Activate ramp mode — pressure gradually increases from low to therapeutic over 5–45 minutes", "correct": true },
+        { "text": "Switch to a total face mask to distribute pressure over a larger area" },
+        { "text": "Increase EPAP to reduce the sensation of inspiratory resistance" },
+        { "text": "Switch to S/T mode to guarantee a backup rate" }
+      ]
+    },
+    {
+      "text": "What monitoring value is a good indicator of oxygenation status and the risk of adverse cardiac effects from positive pressure ventilation?",
+      "answers": [
+        { "text": "Mean airway pressure (MAP) — higher MAP indicates poorer oxygenation and greater cardiac risk", "correct": true },
+        { "text": "Peak inspiratory pressure (PIP) — elevated PIP directly reflects oxygenation status" },
+        { "text": "Plateau pressure (Pplat) — values above 30 cmH₂O indicate oxygenation failure" },
+        { "text": "Driving pressure — values above 15 cmH₂O indicate cardiac compromise" }
+      ]
+    },
+    {
+      "text": "Dynamic compliance is calculated as:",
+      "answers": [
+        { "text": "Vt / (PIP − PEEP)", "correct": true },
+        { "text": "Vt / (Pplat − PEEP)" },
+        { "text": "Pplat − PEEP" },
+        { "text": "RR × Vt / (PIP − Pplat)" }
+      ]
+    },
+    {
+      "text": "How is plateau pressure different from peak inspiratory pressure?",
+      "answers": [
+        { "text": "Pplat is measured under no-flow conditions (inspiratory hold), so it excludes the RAW component and reflects only alveolar pressure", "correct": true },
+        { "text": "Pplat is measured at peak flow and is always higher than PIP" },
+        { "text": "Pplat includes both RAW and compliance components, making it more clinically relevant" },
+        { "text": "Pplat and PIP are interchangeable terms for the maximum inspiratory pressure" }
+      ]
+    },
+    {
+      "text": "A ventilator check reveals condensate has accumulated in the ventilator circuit. What is the correct action?",
+      "answers": [
+        { "text": "Empty the condensate into a collection container — drain it away from the patient, never toward the airway", "correct": true },
+        { "text": "Change the entire ventilator circuit immediately per AARC Recommendation #1" },
+        { "text": "Leave the condensate — it provides passive humidification for the patient" },
+        { "text": "Drain the condensate into the patient's airway to help mobilize secretions" }
+      ]
+    },
+    {
+      "text": "Per AARC guidelines, when should a ventilator circuit be routinely changed?",
+      "answers": [
+        { "text": "Only when visibly soiled or mechanically malfunctioning — not on a routine schedule", "correct": true },
+        { "text": "Every 48 hours to reduce VAP risk" },
+        { "text": "Every 24 hours as a standard infection control measure" },
+        { "text": "After every ABG draw and ventilator check" }
+      ]
+    },
+    {
+      "text": "Which of the following is a VAP prevention strategy specifically recommended in the AARC guidelines?",
+      "answers": [
+        { "text": "Do not routinely change ventilator circuits; use closed suction catheters; HMEs can be used safely for at least 48 hours", "correct": true },
+        { "text": "Change ventilator circuits every 24 hours; use open suction for better secretion clearance" },
+        { "text": "Increase PEEP to 10 cmH₂O to prevent aspiration around the ETT cuff" },
+        { "text": "Perform daily bronchoscopy to clear secretions and visualize the airway" }
+      ]
+    },
+    {
+      "text": "A patient on A/C ventilation shows a pattern of increasing spontaneous respiratory rate. The patient appears uncomfortable and is fighting the ventilator. What is the likely cause?",
+      "answers": [
+        { "text": "Patient-ventilator dyssynchrony — possible under-sedation, pain, or inadequate PIFR (flow starvation)", "correct": true },
+        { "text": "Auto-PEEP — the patient is developing dynamic hyperinflation" },
+        { "text": "Decreased compliance — the patient's lungs are getting stiffer" },
+        { "text": "The apnea alarm has been triggered, causing backup ventilation" }
+      ]
+    },
+    {
+      "text": "On the flow-time scalar, expiratory flow does not return to baseline (zero) before the next inspiratory breath begins. What does this indicate and what is the treatment?",
+      "answers": [
+        { "text": "Auto-PEEP — treat by decreasing respiratory rate, increasing PIFR, bronchodilators, or suctioning", "correct": true },
+        { "text": "A circuit leak — treat by checking all connections and replacing the circuit" },
+        { "text": "Flow starvation — increase PIFR to meet patient demand" },
+        { "text": "Decreased compliance — increase PEEP to improve alveolar recruitment" }
+      ]
+    },
+    {
+      "text": "Which transport distance guideline applies to helicopter (rotary-wing) transport of a mechanically ventilated patient?",
+      "answers": [
+        { "text": "80–150 miles", "correct": true },
+        { "text": "0–80 miles" },
+        { "text": "Greater than 150 miles" },
+        { "text": "Greater than 300 miles" }
+      ]
+    },
+    {
+      "text": "During a CCATT flight, the crew notices the patient's oxygen saturation is declining despite unchanged ventilator settings. Altitude is 25,000 feet. What is the most likely cause?",
+      "answers": [
+        { "text": "Decreased atmospheric pressure at altitude has reduced the partial pressure of delivered oxygen and expanded gas volumes in the circuit", "correct": true },
+        { "text": "The liquid oxygen supply has been depleted — switch to compressed cylinder backup" },
+        { "text": "The ETT has migrated into the right mainstem bronchus due to G-forces" },
+        { "text": "Aircraft electrical power has failed, disabling the ventilator's FiO₂ controller" }
+      ]
+    },
+    {
+      "text": "How long should a patient be rested on full ventilator support after a failed SBT before the next attempt?",
+      "answers": [
+        { "text": "Several hours — full ventilatory support allows the respiratory muscles to recover", "correct": true },
+        { "text": "30 minutes — a brief rest is sufficient before retrying" },
+        { "text": "24 hours — one SBT per day is the maximum" },
+        { "text": "No rest is needed — immediately retry the SBT after correcting the reason for failure" }
+      ]
+    },
+    {
+      "text": "Which weaning parameter is effort-independent and serves as a measure of ventilatory drive?",
+      "answers": [
+        { "text": "P0.1 — inspiratory pressure measured 100 milliseconds after airway occlusion", "correct": true },
+        { "text": "MIP — maximum inspiratory pressure generated by the patient" },
+        { "text": "RSBI — rapid shallow breathing index calculated from RR and Vt" },
+        { "text": "Vital capacity — forced volume of a maximal inhalation and exhalation" }
+      ]
+    },
+    {
+      "text": "A patient's RSBI is calculated at 112 after one minute of CPAP with PEEP 0 and PS 0. What does this predict?",
+      "answers": [
+        { "text": "Weaning failure — RSBI ≥ 105 predicts inability to sustain spontaneous ventilation", "correct": true },
+        { "text": "Weaning success — RSBI of 112 is within the acceptable range" },
+        { "text": "Indeterminate — the result must be combined with minute volume before interpreting" },
+        { "text": "Success — any RSBI below 150 is acceptable for extubation" }
+      ]
+    },
+    {
+      "text": "Calculate the RSBI for a patient breathing at 28 breaths/min with a tidal volume of 280 mL.",
+      "answers": [
+        { "text": "RSBI = 100 (28 / 0.280 = 100) — borderline but < 105; consider full assessment before SBT", "correct": true },
+        { "text": "RSBI = 28 — divide breaths by liters correctly" },
+        { "text": "RSBI = 7.84 — multiply RR by Vt in mL" },
+        { "text": "RSBI = 112 — use RR divided by Vt in liters, then multiply by 100" }
+      ]
+    },
+    {
+      "text": "What is the MIP threshold that suggests adequate respiratory muscle strength for weaning?",
+      "answers": [
+        { "text": "MIP less than −20 cmH₂O — meaning the patient can generate a pressure more negative than −20 (e.g., −25 is better than −15)", "correct": true },
+        { "text": "MIP greater than −20 cmH₂O — less negative values indicate greater strength" },
+        { "text": "MIP of exactly −20 cmH₂O is the ideal target" },
+        { "text": "MIP is not a valid weaning parameter — use RSBI alone" }
+      ]
+    },
+    {
+      "text": "Which oxygenation parameter set indicates a patient is ready to attempt weaning?",
+      "answers": [
+        { "text": "FiO₂ 40%, PEEP 6 cmH₂O, PaO₂ 68 mmHg, SaO₂ 93%, P/F ratio 170", "correct": true },
+        { "text": "FiO₂ 60%, PEEP 10 cmH₂O, PaO₂ 58 mmHg, SaO₂ 88%, P/F ratio 96" },
+        { "text": "FiO₂ 55%, PEEP 8 cmH₂O, PaO₂ 62 mmHg, SaO₂ 90%, P/F ratio 112" },
+        { "text": "FiO₂ 70%, PEEP 5 cmH₂O, PaO₂ 80 mmHg, SaO₂ 94%, P/F ratio 114" }
+      ]
+    },
+    {
+      "text": "A patient on a T-piece trial develops a respiratory rate of 38, diaphoresis, and a systolic BP of 185 mmHg. What action is indicated?",
+      "answers": [
+        { "text": "Immediately reconnect the patient to the ventilator — the SBT has failed", "correct": true },
+        { "text": "Continue the trial — mild tachypnea and hypertension are expected during T-piece trials" },
+        { "text": "Suction the airway and continue the trial to see if the patient improves" },
+        { "text": "Switch to a CPAP SBT at the same support level" }
+      ]
+    },
+    {
+      "text": "What is the primary advantage of a CPAP SBT over a T-piece SBT?",
+      "answers": [
+        { "text": "The circuit is not broken, alarms remain active, and apnea backup is available", "correct": true },
+        { "text": "The patient receives supplemental oxygen through a large-volume nebulizer" },
+        { "text": "Pressure support can be set to 5 cmH₂O during the CPAP trial" },
+        { "text": "The T-piece delivers inconsistent oxygen concentrations compared to CPAP" }
+      ]
+    },
+    {
+      "text": "Which of the following is a recognized cause of SBT failure?",
+      "answers": [
+        { "text": "Excessive sedation, inadequate nutrition, secretion burden, and electrolyte imbalances", "correct": true },
+        { "text": "Ventilator-associated pneumonia that developed during the weaning attempt" },
+        { "text": "Plateau pressure that exceeds 30 cmH₂O during the spontaneous trial" },
+        { "text": "An RSBI greater than 80 calculated before the SBT" }
+      ]
+    },
+    {
+      "text": "What is the definition of ventilator weaning, and how does it differ from ventilator liberation?",
+      "answers": [
+        { "text": "Weaning = gradual reduction of ventilator support; liberation = complete removal of the patient from the ventilator", "correct": true },
+        { "text": "Weaning = extubation; liberation = transition from invasive to non-invasive ventilation" },
+        { "text": "They are interchangeable terms describing the same process" },
+        { "text": "Weaning = discontinuing PEEP; liberation = discontinuing pressure support" }
+      ]
+    },
+    {
+      "text": "Which weaning method is considered the slowest and least aggressive?",
+      "answers": [
+        { "text": "SIMV weaning — mandatory rate is gradually reduced, which can extend the weaning period significantly", "correct": true },
+        { "text": "T-piece SBT — the patient is removed from the ventilator entirely" },
+        { "text": "PSV weaning — pressure support is reduced incrementally" },
+        { "text": "CPAP SBT — all support is removed abruptly for the trial period" }
+      ]
+    },
+    {
+      "text": "In PSV weaning, what range of pressure support is used to provide 'just enough to overcome ETT resistance'?",
+      "answers": [
+        { "text": "5–8 cmH₂O — compensates for the artificial airway without providing significant muscle support", "correct": true },
+        { "text": "10–15 cmH₂O — standard low-level support for most patients" },
+        { "text": "0 cmH₂O — no support is needed once the patient is breathing spontaneously" },
+        { "text": "15–20 cmH₂O — provides adequate support during early weaning" }
+      ]
+    },
+    {
+      "text": "What distinguishes terminal weaning from standard weaning?",
+      "answers": [
+        { "text": "Terminal weaning is discontinuation of mechanical ventilation in a catastrophic illness with no expectation of survival, focused on patient comfort", "correct": true },
+        { "text": "Terminal weaning refers to the final SBT performed before extubation in a recovering patient" },
+        { "text": "Terminal weaning means the patient has reached the maximum number of SBT attempts allowed" },
+        { "text": "Terminal weaning describes weaning from high PEEP in severe ARDS over several weeks" }
+      ]
+    },
+    {
+      "text": "Before performing an apnea test for brain death determination, which pre-test ABG values must be achieved?",
+      "answers": [
+        { "text": "PaCO₂ 35–40 mmHg and PaO₂ 200 mmHg", "correct": true },
+        { "text": "PaCO₂ 45–50 mmHg and PaO₂ 80 mmHg" },
+        { "text": "PaCO₂ 60 mmHg and PaO₂ 150 mmHg" },
+        { "text": "PaCO₂ < 35 mmHg and PaO₂ > 100 mmHg" }
+      ]
+    },
+    {
+      "text": "A patient undergoing an apnea test remains apneic for 10 minutes, and the ABG shows a PaCO₂ of 64 mmHg (baseline was 38 mmHg). How should this result be interpreted?",
+      "answers": [
+        { "text": "Positive apnea test — PaCO₂ rose 26 mmHg above baseline (> 20 mmHg rise) and patient remained apneic; consistent with brain death", "correct": true },
+        { "text": "Negative apnea test — PaCO₂ did not reach 80 mmHg; brain death cannot be confirmed" },
+        { "text": "Indeterminate — the test must be repeated with a longer observation period" },
+        { "text": "Positive apnea test — the patient's PaCO₂ reached 64 mmHg regardless of baseline" }
+      ]
+    },
+    {
+      "text": "During a brain death evaluation, which reflex is tested by introducing iced water into the external ear canal?",
+      "answers": [
+        { "text": "Oculovestibular reflex (cold caloric testing)", "correct": true },
+        { "text": "Corneal reflex" },
+        { "text": "Gag reflex" },
+        { "text": "Pupillary reflex" }
+      ]
+    },
+    {
+      "text": "A transport team is preparing to move a ventilated patient via ground ambulance. The E-cylinder reads 1800 PSI and the patient's minute volume is 9 L/min. The tank factor for an E-cylinder is 0.28. How long will the tank last?",
+      "answers": [
+        { "text": "Approximately 56 minutes (1800 × 0.28 / 9 = 56 min)", "correct": true },
+        { "text": "Approximately 200 minutes" },
+        { "text": "Approximately 28 minutes" },
+        { "text": "Approximately 112 minutes" }
+      ]
+    },
+    {
+      "text": "Which of the following is a contraindication to transporting a mechanically ventilated patient?",
+      "answers": [
+        { "text": "Inability to adequately oxygenate and ventilate on a transport ventilator", "correct": true },
+        { "text": "Current PEEP level of 8 cmH₂O" },
+        { "text": "Patient requiring FiO₂ of 0.45" },
+        { "text": "Patient on SIMV mode with a mandatory rate of 12" }
+      ]
+    },
+    {
+      "text": "When switching from SIMV to SIMV+PS, what is the primary benefit added for the patient?",
+      "answers": [
+        { "text": "Spontaneous breaths between mandatory breaths are pressure-augmented, reducing WOB and preventing muscle atrophy", "correct": true },
+        { "text": "The mandatory rate is automatically reduced as the patient's spontaneous rate increases" },
+        { "text": "The tidal volume is guaranteed on all breaths, both mandatory and spontaneous" },
+        { "text": "Backup apnea ventilation is activated at a lower threshold" }
+      ]
+    },
+    {
+      "text": "Which combination of factors most predisposes a mechanically ventilated patient to developing auto-PEEP?",
+      "answers": [
+        { "text": "High respiratory rate, low PIFR, and obstructive airway disease (e.g., COPD/asthma)", "correct": true },
+        { "text": "Low respiratory rate, high PIFR, and normal lung compliance" },
+        { "text": "High PEEP and inversed I:E ratio in ARDS" },
+        { "text": "Low tidal volume and frequent suctioning" }
+      ]
+    },
+    {
+      "text": "A male patient (5'10\", IBW 73 kg) has a current Vt of 800 mL, RR 10, and a PaCO₂ of 40 mmHg. You want to reduce Vt to 500 mL to implement lung-protective ventilation. What new RR maintains the current PaCO₂?",
+      "answers": [
+        { "text": "RR = 16 breaths/min (current MV = 8.0 L; 8.0 / 0.500 = 16)", "correct": true },
+        { "text": "RR = 12 breaths/min" },
+        { "text": "RR = 20 breaths/min" },
+        { "text": "RR = 10 breaths/min — rate does not need to change if PaCO₂ is normal" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+---
+title: "Ventilator Classification & Modes of Ventilation"
+description: "Input power, drive mechanisms, control variables (pressure/volume/flow/time), phase variables, breath types, and modes: CMV/A-C, SIMV, CSV/CPAP, PSV, and APRV."
+order: 2
+---
+
+# Ventilator Classification & Modes of Ventilation
+
+> **Objectives** — Identify the design features and classification of mechanical ventilators and apply classification to modes of ventilation.
+
+---
+
+## The Equation of Motion
+
+All ventilator function is governed by Newton's **equation of motion**:
+
+> **Pressure = Raw × Flow + Volume / Compliance**
+
+- **Raw** = airway resistance
+- **Flow** = gas flow rate
+- **Volume** = tidal volume delivered
+- **Compliance** = lung and chest wall distensibility
+
+Every ventilator setting and every monitored value relates back to this equation.
+
+---
+
+## Classification of Ventilators
+
+Ventilators are classified based on five components.
+
+### 1. Input Power
+
+| Type | Description | Examples |
+|------|-------------|---------|
+| Pneumatic | Requires only a 50 psi gas source | Bird ventilators, IPPB units, transport and MRI vents |
+| Electric | Requires only an electrical source | Transport vents, home ventilators |
+| Combination | Requires both gas and electric | Most ICU ventilators |
+
+### 2. Power Conversion & Transmission
+
+How the ventilator converts input power into pressurized gas flow delivered to the patient.
+
+**Drive Mechanisms:**
+- Bellows
+- Piston
+- Turbine
+
+**Output Control Valve (Demand Valve / Inspiratory Valve):**
+- Controls gas delivery to the patient
+- Can "shape" the flow waveform (square, sine, descending ramp)
+
+### 3. Control Circuit
+
+The system that governs ventilator operation:
+
+- Mechanical
+- Pneumatic
+- Fluidic
+- Electric
+- Electronic (most modern ICU vents)
+
+### 4. Control Variables
+
+The **primary variable the ventilator controls during inspiration**. Only **one variable can be controlled at a time**.
+
+| Control Variable | What stays constant | What changes |
+|-----------------|---------------------|--------------|
+| **Pressure** | Pressure | Volume (variable based on compliance and resistance) |
+| **Volume** | Volume | Pressure (variable based on compliance and resistance) |
+| **Flow** | Flow | Rarely used as primary control |
+| **Time** | Time | Neonatal ventilation primarily |
+
+#### Pressure Control
+- Inspiration ends when **preset pressure is reached**
+- Pressure is constant; volume is variable
+- Volume **decreases** with decreased compliance or increased resistance
+- Volume **increases** with increased compliance or decreased resistance
+
+#### Volume Control
+- Inspiration ends when **preset volume is reached**
+- Volume is constant; pressure is variable
+- Pressure **increases** with decreased compliance or increased resistance
+- Pressure **decreases** with increased compliance or decreased resistance
+
+### 5. Phase Variables
+
+Phase variables define what happens at each phase of the respiratory cycle.
+
+| Phase | Variable | Description |
+|-------|----------|-------------|
+| **Trigger** | Starts inspiration | Time, pressure drop, or flow change |
+| **Target** (limit) | Controls inspiratory phase | Volume, pressure, flow, or time |
+| **Cycle** | Starts exhalation | Volume, pressure, flow, or time |
+| **Baseline** | What occurs during exhalation | Usually pressure = PEEP |
+
+#### Trigger
+
+- **Time trigger**: Breath begins based on set respiratory rate (e.g., RR = 10 = one breath every 6 sec)
+- **Pressure trigger**: Ventilator senses a drop in baseline pressure (patient effort) — measured in cmH₂O
+- **Flow trigger**: Ventilator senses a drop in bias flow — measured in L/min; requires less patient effort than pressure trigger
+
+#### Target
+
+The variable controlled during inspiration — also called a "limit" if an alarm condition is met.
+
+#### Cycle
+
+The variable that causes inspiration to end:
+- Volume (most common)
+- Pressure (2nd most common)
+- Flow (PSV — flow cycled at 25% of peak flow)
+- Time (neonatal ventilation)
+
+#### Baseline
+
+The period from the start of exhalation to the start of the next breath. Pressure is the most common baseline variable — set as **PEEP**.
+
+---
+
+## Breath Types
+
+The combination of phase variables defines the **breath type**.
+
+| Breath Type | Triggered By | Targeted By | Cycled By | Patient WOB |
+|-------------|-------------|-------------|-----------|-------------|
+| **Mandatory (Controlled)** | Ventilator (time) | Volume / Pressure / Time | Ventilator | None — vent does all WOB |
+| **Assisted** | Patient | Volume / Pressure / Time | Ventilator | Only effort to trigger |
+| **Spontaneous** | Patient | Baseline (PEEP) | Patient | Patient does all WOB |
+| **Supported** | Patient | Pressure | Flow (25% peak) | Shared — vent assists |
+
+> **Spontaneous unsupported breaths** show a **negative deflection** on inspiration and **positive** on expiration on the pressure-time scalar — the opposite of mandatory breaths.
+
+---
+
+## Modes of Ventilation
+
+A **mode** is the method of inspiratory support and breath delivery. Modes combine breath types and timing algorithms to distribute WOB between the patient and the ventilator.
+
+### CMV — Continuous Mandatory Ventilation (A/C)
+
+Also called **Assist/Control (A/C)**.
+
+- **Trigger**: Patient or time (whichever comes first)
+- **Target**: Pressure or Volume
+- **Cycle**: Ventilator
+- **All breaths are mandatory or assisted** — every breath is ventilator-cycled
+- The initial "rest" mode — ventilator assumes all or most WOB
+- Available as Volume A/C or Pressure A/C
+
+### SIMV — Synchronized Intermittent Mandatory Ventilation
+
+- **Trigger**: Patient or ventilator
+- **Target**: Volume, Pressure, Time, or Flow
+- **Cycle**: Volume, Pressure, Time, or Flow
+- **Breath types**: Controlled, assisted, and **spontaneous**
+- Demand valves sense patient effort; timing algorithm **synchronizes** mandatory breaths with patient effort
+- Used for both resting and **weaning**
+- **SIMV + PS**: Spontaneous breaths are augmented with pressure support
+  - Overcomes RAW from the ET tube
+  - Improves patient-ventilator synchrony
+  - Prevents respiratory muscle atrophy
+
+### CSV — Continuous Spontaneous Ventilation (CPAP)
+
+Also called **CPAP** in the ventilator context.
+
+- **Spontaneous breathing at or above atmospheric pressure**
+- **Trigger**: Patient
+- **Limit**: Pressure alarm
+- **Cycle**: Patient
+- Used to evaluate patients for weaning and ventilator discontinuation
+
+### PSV — Pressure Support Ventilation (CPAP + PS)
+
+- **Trigger**: Patient
+- **Target**: Pressure (above baseline)
+- **Cycle**: Flow — inspiration ends when inspiratory flow decelerates to **25% of peak flow**
+- Reduces WOB, increases spontaneous Vt, improves synchrony
+- Used as a weaning mode or combined with SIMV
+
+### APRV — Airway Pressure Release Ventilation
+
+Also known as: **BiLevel, BiVent, BiPhasic, PCV+, DuoPAP**.
+
+- **Time-cycled**, pressure-controlled (dual)
+- Patient can breathe spontaneously throughout the cycle
+- Uses **two pressure levels**:
+  - **P-High**: elevated baseline pressure (like high CPAP)
+  - **P-Low**: brief pressure release to allow exhalation
+- **Inverse ratio**: Time-High is much longer than Time-Low (e.g., 4–5 sec : 0.4–0.8 sec)
+- Used to treat **refractory hypoxemia** (ARDS)
+
+| Setting | Effect |
+|---------|--------|
+| P-High | Controls oxygenation (like PEEP) |
+| P-Low | Controls CO₂ clearance during release |
+| T-High | Long — recruits alveoli |
+| T-Low | Short — just enough to release CO₂ |
+
+---
+
+## Additional Modes (Overview)
+
+These advanced modes are covered in Phase II but worth recognizing by name:
+
+- **PRVC** — Pressure-Regulated Volume Control
+- **PCIRV** — Pressure-Controlled Inverse Ratio Ventilation
+- **NAVA** — Neurally Adjusted Ventilatory Assist
+- **PAV** — Proportional Assist Ventilation
+- **ASV** — Adaptive Support Ventilation
+- **HFOV** — High-Frequency Oscillatory Ventilation
+- **HFV-A / HFV-P** — High-Frequency Ventilation variants
+- **Volume Guarantee**

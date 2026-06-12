@@ -1,0 +1,118 @@
+{
+  "title": "Critical Care II",
+  "description": "Mechanical ventilation fundamentals through weaning: indications, modes, NIV, initiation, monitoring, graphics, patient transport, and ventilator discontinuation.",
+  "order": 14,
+  "lessons": [
+    {
+      "slug": "critical-care-ii/lesson-1",
+      "title": "Indications, Goals & Hazards of Mechanical Ventilation",
+      "description": "Type I (hypoxemic) and Type II (hypercapnic) respiratory failure, V/Q mismatch versus shunt, bedside ventilatory parameters, physiologic measurements, contraindications, goals, and hazards of mechanical ventilation.",
+      "resources": [
+        {
+          "title": "Why Do We Need MV? — Type I Respiratory Failure (LibreTexts)",
+          "description": "Open-access RT student resource on hypoxemic respiratory failure: V/Q mismatch, shunt, diffusion impairment, and P(A-a)O₂.",
+          "url": "https://med.libretexts.org/Bookshelves/Medicine/Breathe_Easy:_RT_Student_Resource_for_Mechanical_Ventilation_(Drasovean)/07:_Chapter_7__Mechanical_Ventilation_Indications/7.01:_7.1_Why_Do_we_need_mechanical_ventilation_-_Respiratory_Failure_Type_I",
+          "type": "study-guide"
+        },
+        {
+          "title": "Why Do We Need MV? — Type II Respiratory Failure (LibreTexts)",
+          "description": "Open-access RT student resource on hypercapnic respiratory failure: decreased drive, muscle weakness, and altered mechanics.",
+          "url": "https://med.libretexts.org/Bookshelves/Medicine/Breathe_Easy:_RT_Student_Resource_for_Mechanical_Ventilation_(Drasovean)/07:_Chapter_7__Mechanical_Ventilation_Indications/7.02:_7.2_Why_Do_We_Need_Mechanical_Ventilation_-_Respiratory_Failure_Type_II",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-ii/lesson-2",
+      "title": "Ventilator Classification & Modes of Ventilation",
+      "description": "Input power, drive mechanisms, control variables (pressure/volume/flow/time), phase variables, breath types, and modes: CMV/A-C, SIMV, CSV/CPAP, PSV, and APRV.",
+      "resources": [
+        {
+          "title": "Mechanical Ventilation — StatPearls (NIH)",
+          "description": "Evidence-based clinical reference on ventilator classification, modes, and breath types including SIMV, PSV, and APRV.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539742/",
+          "type": "study-guide"
+        },
+        {
+          "title": "Synchronized Intermittent Mandatory Ventilation — StatPearls (NIH)",
+          "description": "Dedicated StatPearls article on SIMV: physiology, indication, weaning applications, and comparison with other modes.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549846/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-ii/lesson-3",
+      "title": "Non-Invasive Ventilation (NIV)",
+      "description": "NIV indications, contraindications, interfaces (nasal/full-face/total-face/helmet), CPAP vs. BiPAP, S/T mode, AVAPS, initial application procedure, and troubleshooting common side effects.",
+      "resources": [
+        {
+          "title": "NIV for Acute Cardiogenic Pulmonary Edema and COPD — PMC",
+          "description": "Review of CPAP and BiPAP evidence in prehospital and emergency settings; covers indications, settings, and outcomes.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8277092/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-ii/lesson-4",
+      "title": "Initiating & Adjusting Ventilatory Support",
+      "description": "Mode selection, IBW-based tidal volume calculation, ARDS lung-protective strategy, mechanical and physiologic dead space, PIFR, I-time, I:E ratio, PEEP/FiO₂ management, pressure support, alarms, and ABG-guided adjustments.",
+      "resources": [
+        {
+          "title": "ARDSNet Trial — Wiki Journal Club",
+          "description": "Plain-language summary of the landmark ARDSNet study establishing lung-protective ventilation at 6 mL/kg IBW with Pplat < 30 cmH₂O.",
+          "url": "https://www.wikijournalclub.org/wiki/ARDSNet",
+          "type": "study-guide"
+        },
+        {
+          "title": "Dead Space, Tidal Volume & Protective Ventilation — CoEMV",
+          "description": "Detailed breakdown of instrumental, anatomic, and alveolar dead space and how protective ventilation settings affect VD/VT.",
+          "url": "https://coemv.blog/relations-between-dead-space-respiratory-rate-tidal-volume-and-alveolar-ventilation-impact-of-protective-ventilation-settings-and-impact-of-instrumental-dead-space-part-2/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-ii/lesson-5",
+      "title": "Monitoring, Ventilator Graphics & Patient Transport",
+      "description": "Monitored values (PIP, MAP, Pplat, driving pressure, auto-PEEP, compliance), ventilator check procedure, pressure/flow/volume scalars, P/V and F/V loops, troubleshooting asynchrony and auto-PEEP, intra/inter-hospital transport, and CCATT.",
+      "resources": [
+        {
+          "title": "Ventilator Waveforms & Graphics: Interpretation Guide — Respiratory Therapy Zone",
+          "description": "Comprehensive RT study guide covering all scalar waveforms and loops, with annotated normal and abnormal graphic examples and 100 practice questions.",
+          "url": "https://www.respiratorytherapyzone.com/ventilator-waveforms/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "critical-care-ii/lesson-6",
+      "title": "Weaning, Discontinuation & Module Exam",
+      "description": "VAP prevention and circuit change protocols (AARC guidelines), weaning parameters (RSBI, MIP, oxygenation criteria), SBT methods, SBT failure criteria, terminal weaning, brain death evaluation, and the 50-question module exam.",
+      "resources": [
+        {
+          "title": "Ventilator Weaning and Spontaneous Breathing Trials: Educational Review — PMC",
+          "description": "Evidence-based review of weaning readiness, RSBI, SBT protocols, and management of SBT failure. Emergency (Tehran), 2016.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4893753/",
+          "type": "study-guide"
+        },
+        {
+          "title": "Optimizing Spontaneous Breathing Trials — GE Healthcare Clinical View",
+          "description": "Clinical guidance on SBT timing, methodology (T-piece vs. CPAP), and liberation decision-making.",
+          "url": "https://clinicalview.gehealthcare.com/article/optimizing-use-spontaneous-breathing-trials-determine-liberation-mechanical-ventilation",
+          "type": "study-guide"
+        }
+      ]
+    }
+  ],
+  "audio": [],
+  "resources": [
+    {
+      "title": "Critical Care II — Video Playlist",
+      "description": "Course video playlist covering mechanical ventilation topics aligned with this module.",
+      "url": "https://www.youtube.com/playlist?list=PLTF9h-T1TcJjdJppplKVsgPWNQ_beElaG",
+      "type": "video"
+    }
+  ]
+}

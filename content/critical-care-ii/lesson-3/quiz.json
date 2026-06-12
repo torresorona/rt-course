@@ -1,0 +1,95 @@
+{
+  "title": "Non-Invasive Ventilation (NIV) Quiz",
+  "questions": [
+    {
+      "text": "A COPD patient in moderate hypercapnic respiratory failure is alert and cooperative. Which intervention should be attempted BEFORE intubation?",
+      "answers": [
+        { "text": "Non-invasive ventilation with BiPAP in S/T mode", "correct": true },
+        { "text": "Immediate intubation and volume-control A/C ventilation" },
+        { "text": "Nasal cannula at 6 L/min" },
+        { "text": "High-flow oxygen via non-rebreather mask only" }
+      ]
+    },
+    {
+      "text": "A patient on BiPAP has an elevated PaCO₂ of 58 mmHg. Which setting adjustment is most appropriate?",
+      "answers": [
+        { "text": "Increase IPAP to augment ventilation and reduce CO₂", "correct": true },
+        { "text": "Increase EPAP to improve oxygenation and reduce CO₂" },
+        { "text": "Decrease EPAP to lower baseline pressure and reduce CO₂" },
+        { "text": "Decrease IPAP to reduce the work of breathing" }
+      ]
+    },
+    {
+      "text": "A patient's PaO₂ remains low despite adequate IPAP on BiPAP. What adjustment would most directly address the oxygenation deficit?",
+      "answers": [
+        { "text": "Increase EPAP — it functions like PEEP and directly improves PaO₂", "correct": true },
+        { "text": "Increase IPAP — higher inspiratory pressure will recruit more alveoli" },
+        { "text": "Switch to S/T mode to guarantee a backup rate" },
+        { "text": "Decrease IPAP to allow more spontaneous effort" }
+      ]
+    },
+    {
+      "text": "Which of the following patients has an ABSOLUTE contraindication to NIV?",
+      "answers": [
+        { "text": "A patient who is apneic", "correct": true },
+        { "text": "A patient with moderate dyspnea and a PaCO₂ of 55 mmHg" },
+        { "text": "An alert COPD patient who is anxious but cooperative" },
+        { "text": "A post-operative patient with mild hypoxemia" }
+      ]
+    },
+    {
+      "text": "How does the design of an NIV device circuit differ from an ICU invasive ventilator circuit?",
+      "answers": [
+        { "text": "NIV uses a single-limb circuit with no exhalation valve and tolerates continuous air leak", "correct": true },
+        { "text": "NIV uses a dual-limb circuit with an active exhalation valve" },
+        { "text": "NIV requires compressed gas and electricity; ICU vents are electrically powered only" },
+        { "text": "NIV circuits have larger tubing diameter to reduce resistance" }
+      ]
+    },
+    {
+      "text": "A patient on NIV complains of mouth dryness and a dry throat. What is the most appropriate first intervention?",
+      "answers": [
+        { "text": "Add a heated humidifier to the circuit", "correct": true },
+        { "text": "Increase the EPAP to improve flow delivery" },
+        { "text": "Switch to a nasal pillow interface" },
+        { "text": "Apply a chin strap to seal the mouth" }
+      ]
+    },
+    {
+      "text": "What is AVAPS and how does it differ from standard BiPAP?",
+      "answers": [
+        { "text": "AVAPS targets a set tidal volume and automatically adjusts IPAP between a min and max range to achieve it", "correct": true },
+        { "text": "AVAPS sets a fixed IPAP and EPAP that the clinician adjusts manually based on exhaled volume" },
+        { "text": "AVAPS delivers a constant flow rate rather than a constant pressure" },
+        { "text": "AVAPS uses a dual-limb circuit and an active exhalation valve unlike standard BiPAP" }
+      ]
+    },
+    {
+      "text": "When initially applying an NIV mask to a patient, which technique minimizes discomfort and improves compliance?",
+      "answers": [
+        { "text": "Hold the mask to the patient's face before strapping; start at low or zero settings", "correct": true },
+        { "text": "Apply the mask tightly first, then gradually reduce strap pressure after 30 minutes" },
+        { "text": "Start at full therapeutic settings immediately to quickly assess efficacy" },
+        { "text": "Always begin with a full face mask regardless of patient preference" }
+      ]
+    },
+    {
+      "text": "A patient on NIV is a mouth-breather and has an excessive air leak despite correct mask positioning. What is the best corrective action?",
+      "answers": [
+        { "text": "Apply a chin strap or switch to a full face (oral/nasal) mask", "correct": true },
+        { "text": "Increase EPAP to 12 cmH₂O to overcome the leak" },
+        { "text": "Switch to a nasal pillow interface" },
+        { "text": "Use the ramp mode to gradually increase pressure" }
+      ]
+    },
+    {
+      "text": "In S/T (Spontaneous/Timed) mode on a BiPAP device, what is the primary purpose of the backup respiratory rate setting?",
+      "answers": [
+        { "text": "To deliver a mandatory breath if the patient fails to breathe within the set interval", "correct": true },
+        { "text": "To limit the maximum number of breaths per minute the patient can take" },
+        { "text": "To automatically wean the IPAP as the rate increases" },
+        { "text": "To synchronize IPAP delivery with the patient's expiratory effort" }
+      ]
+    }
+  ]
+}

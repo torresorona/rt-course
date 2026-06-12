@@ -1,0 +1,421 @@
+---
+title: "Initiating & Adjusting Ventilatory Support"
+description: "Mode selection, IBW-based tidal volume calculation, ARDS lung-protective strategy, mechanical and physiologic dead space, PIFR, I-time, I:E ratio, PEEP/FiO₂ management, pressure support, alarms, and ABG-guided adjustments."
+order: 4
+---
+
+# Initiating & Adjusting Ventilatory Support
+
+> **Objectives** — Determine initial ventilator settings and input those settings correctly; adjust settings based on patient response and ABG results.
+
+---
+
+## Mode Selection
+
+| Mode | When to Use |
+|------|-------------|
+| **Assist/Control (A/C)** | Initial rest mode — ventilator assumes all or most WOB |
+| **SIMV** | Rest or wean — allows some spontaneous effort |
+| **Spontaneous / CPAP** | Evaluate for weaning and ventilator discontinuation |
+
+---
+
+## Tidal Volume (Vt)
+
+### Initial Setting
+
+Start at **6–8 mL/kg Ideal Body Weight (IBW)**.
+
+> Tidal volume is calculated from **IBW**, not actual body weight. Large patients with obese body habitus can receive dangerous volumes if actual weight is used.
+
+### Calculating IBW
+
+| Sex | Formula |
+|-----|---------|
+| Male | IBW (kg) = 50 + 2.3 × [Height (inches) − 60] |
+| Female | IBW (kg) = 45.5 + 2.3 × [Height (inches) − 60] |
+
+*Valid for patients ≥ 4 ft tall.*
+
+**Example — Male, 5'10" (70 inches):**
+- IBW = 50 + 2.3 × (70 − 60) = 50 + 23 = **73 kg**
+- Vt range: 6 × 73 = 438 mL → 8 × 73 = 584 mL
+- Appropriate Vt: **450–550 mL**
+
+### Adjusting Tidal Volume
+
+Adjust Vt to maintain:
+- Adequate **PaCO₂**
+- **Plateau pressure (Pplat) < 30 cmH₂O** — prevents alveolar overdistension
+
+### ARDS Lung-Protective Strategy
+
+When Pplat rises above 30 cmH₂O, implement lung-protective strategies:
+
+| Parameter | Target |
+|-----------|--------|
+| Tidal volume | **4–8 mL/kg IBW** (reduce toward 4–5 in severe ARDS) |
+| Plateau pressure | **< 28 cmH₂O** |
+| Driving pressure | **< 15 cmH₂O** |
+| Appropriate PEEP | Per ARDSnet PEEP/FiO₂ table |
+| Permissive hypercapnia | Allow PaCO₂ > 60 mmHg if pH > 7.15 |
+| Permissive hypoxemia | Allow PaO₂ > 55 mmHg |
+
+---
+
+## Dead Space
+
+Not all delivered volume reaches the alveoli. Three types of dead space reduce the alveolar tidal volume.
+
+### Mechanical Dead Space
+
+Any volume lost before reaching the patient's airways.
+
+**Sources:**
+- Ventilator circuit
+- Artificial airway (ETT)
+- Adaptors: HME, in-line suction catheter, ETCO₂ monitor, aerosol delivery device (HHN or MDI spacer)
+- Large-bore corrugated tubing placed distal to the circuit wye (intentionally used to treat hyperventilation by increasing CO₂)
+
+**Compressible volume** — the circuit expands when pressurized and contracts during exhalation, losing volume:
+
+| Circuit Size | Compressible Volume |
+|-------------|---------------------|
+| Adult | 3 mL/cmH₂O |
+| Pediatric | 1.5 mL/cmH₂O |
+| Neonatal | 0.5 mL/cmH₂O |
+
+*Example: An adult with a peak pressure of 33 cmH₂O loses 33 × 3 = **99 mL** in the circuit.*
+
+Most modern ventilators compensate for circuit compliance automatically.
+
+### Anatomic Dead Space
+
+Volume that reaches the upper airways (trachea, bronchioles) but **does not reach the alveolar-capillary level**. It participates in no gas exchange.
+
+- **1 mL/lb IBW**
+- Approximately **30% of inhaled tidal volume**
+
+### Alveolar Dead Space
+
+Volume that reaches the alveoli but **does not participate in gas exchange** because those alveoli are not perfused.
+
+- Caused by: **pulmonary embolism**, emphysema, shock, pulmonary hypertension, obstruction of pulmonary vessels
+
+### Physiologic Dead Space (VD/Vt Ratio)
+
+**Physiologic dead space = Anatomic dead space + Alveolar dead space**
+
+Calculated using the Bohr equation:
+
+> **VD/Vt = (PaCO₂ − PECO₂) / PaCO₂**
+
+- PaCO₂ from ABG
+- PECO₂ from end-tidal capnometry or Douglas bag collection
+
+| Condition | VD/Vt |
+|-----------|-------|
+| Normal | 0.30 (30%) |
+| During exercise | 0.20 (20%) |
+| Significant lung disease | > 0.60 (60%) |
+
+### Alveolar Tidal Volume — Worked Example
+
+Patient: 150 lb, Vt = 500 mL, peak pressure 33 cmH₂O, alveolar dead space 50 mL
+
+- Mechanical dead space (circuit): 33 × 3 = 99 mL
+- Anatomic dead space: 1 mL/lb × 150 lb = 150 mL
+- Alveolar dead space: 50 mL
+- **Alveolar Vt = 500 − (150 + 99 + 50) = 500 − 299 = 201 mL**
+
+Of the 500 mL set Vt, only 201 mL reached the alveolar level.
+
+---
+
+## Respiratory Rate (RR / Frequency)
+
+- **Initial setting: 10–20 breaths/min**
+- **Primary control for PaCO₂**
+- RR × Vt = Minute Volume
+
+| Action | Effect |
+|--------|--------|
+| ↑ Rate | ↑ Minute volume → ↓ PaCO₂ |
+| ↓ Rate | ↓ Minute volume → ↑ PaCO₂ |
+
+**Cycle time** = 60 ÷ RR. At RR = 10: mandatory breath every **6 seconds**.
+
+---
+
+## Peak Inspiratory Flow Rate (PIFR)
+
+- Measured in **L/min** (mL/sec for neonates)
+- **Set parameter** in volume control; **variable** in pressure control
+- Average: **60 L/min** (range: 40–80 L/min)
+- PIFR × I-Time = Tidal Volume
+
+| Change to PIFR | Effect on I-Time | Effect on E-Time | Effect on PIP | Gas Distribution |
+|----------------|-----------------|-----------------|---------------|-----------------|
+| ↑ PIFR | ↓ I-Time | ↑ E-Time | ↑ PIP | Worsens (uneven) |
+| ↓ PIFR | ↑ I-Time | ↓ E-Time | ↓ PIP | Improves (even) — risk of auto-PEEP |
+
+---
+
+## Inspiratory Time (I-Time)
+
+- Normal: **0.75–1.5 seconds** (adults)
+- Used with PIFR to determine Vt: I-Time × PIFR = Vt
+
+**Calculating I-Time from cycle time and I:E ratio:**
+> I-Time = Cycle Time ÷ Sum of I:E ratio
+
+Example: RR = 10 (cycle time = 6 sec), I:E = 1:2
+- 6 ÷ (1+2) = **2 sec I-Time**
+
+**Calculating I-Time from Vt and Flow:**
+> I-Time = Vt (L) / [Flow (L/min) / 60]
+
+Example: Vt = 0.5 L, Flow = 60 L/min
+- 0.5 ÷ (60/60) = 0.5 ÷ 1 = **0.5 sec I-Time**
+
+---
+
+## I:E Ratio
+
+| Population | Normal I:E |
+|-----------|-----------|
+| Adult | 1:2 to 1:3 |
+| Infant | 1:1 |
+| Obstructive disease (COPD/asthma) | 1:4 to 1:6 (longer E-Time) |
+| ARDS | 2:1 (inversed — longer I-Time for recruitment) |
+
+**Manipulating I:E ratio:**
+
+| Control | Effect on I:E |
+|---------|-------------|
+| ↑ Rate | ↓ E-Time → ↑ I:E ratio |
+| ↑ I-Time | ↓ E-Time → ↑ I:E ratio |
+| ↑ PIFR | ↓ I-Time → ↓ I:E ratio |
+
+---
+
+## Peak Inspiratory Pressure (PIP) in Pressure-Control
+
+In pressure-controlled modes, PIP is the primary determinant of **ventilation and Vt delivery**.
+
+- ↑ PIP → ↑ Vt
+- ↓ PIP → ↓ Vt
+
+Initial Vt is calculated the same way as volume control, but PIP is adjusted to achieve it.
+
+---
+
+## PEEP — Positive End-Expiratory Pressure
+
+### Indications for PEEP
+
+- Improve oxygenation in **refractory hypoxemia**:
+  - Atelectasis
+  - V/Q mismatching
+  - Pulmonary edema
+  - PaO₂ < 50–60 mmHg with FiO₂ > 50%
+- Reduce FiO₂ to **non-toxic levels (< 60%)**
+
+### Contraindications for PEEP
+
+- Untreated tension pneumothorax
+- Head trauma with elevated ICP
+- Hemodynamic instability
+- Bronchopleural fistula (BPF)
+
+### Hazards of PEEP
+
+- Alveolar over-distension and barotrauma
+- Decreased cardiac output (↓ venous return)
+- Decreased renal function
+- Increased intracranial pressure
+
+### Optimal PEEP
+
+The lowest PEEP that achieves adequate oxygenation at a non-toxic FiO₂ (< 60%). Determined by:
+- Oxygen delivery (DO₂ = Qt × CaO₂)
+- Compliance measurements
+- Pressure-volume curves
+- Esophageal manometry
+
+### Lung Recruitment Maneuver
+
+A sustained increase in airway pressure to open collapsed alveoli, followed by sufficient PEEP to keep them open.
+
+**Protocols:**
+- 30 cmH₂O for 30 seconds
+- 40 cmH₂O for 40 seconds
+- "Step-up" — pressure increased in 5–10 cmH₂O increments then held
+- Programmed "sigh" during ventilation
+
+**CPAP recruitment method:**
+1. Switch to CPAP mode
+2. Increase CPAP to 30–40 cmH₂O
+3. Hold for 30–40 seconds
+4. Monitor closely for hemodynamic compromise and desaturation
+5. Return to previous mode — likely with higher PEEP
+
+---
+
+## FiO₂
+
+- Adjustable from **21% to 100%**
+- **First setting to wean** (to avoid oxygen toxicity)
+- Used with PEEP to manipulate PaO₂
+
+### FiO₂ Adjustment Algorithm (Test World)
+
+**Correcting hypoxemia (low PaO₂):**
+1. Increase FiO₂ up to **60%**
+2. Once FiO₂ = 60%, **add or increase PEEP**
+3. Continue increasing PEEP until adverse cardiac effects appear (↓CO, hypotension)
+4. Return to increasing FiO₂ from 60% toward 100%
+
+**Weaning FiO₂ and PEEP:**
+1. Reduce **FiO₂ first to 60%**
+2. Then decrease **PEEP** in increments of 2–5 cmH₂O
+
+---
+
+## Pressure Support (PS)
+
+| Feature | Value |
+|---------|-------|
+| Trigger | Patient |
+| Target | Pressure (above baseline) |
+| Cycle | Flow — at **25% of PIFR** |
+| Active in modes | SIMV, CPAP/PSV, APRV |
+
+### Goals of Pressure Support
+
+- Reduce WOB
+- Overcome RAW induced by the endotracheal tube
+- Increase spontaneous Vt
+- Improve patient-ventilator synchrony
+
+### PS Levels
+
+| Level | PS Range | When to Use |
+|-------|----------|-------------|
+| Low (overcome ETT) | 5–10 cmH₂O | Compensate for tube resistance only |
+| High (support fatigued muscles) | > 10 cmH₂O | Adequate drive but fatigued muscles; weaning |
+
+**Automatic Tube Compensation (ATC)** — modern ventilators calculate the minimum PS needed to overcome the resistance of the specific ETT size; set automatically.
+
+---
+
+## Sensitivity
+
+### Pressure Trigger
+
+- Measures negative pressure deflection from baseline
+- Range: **−0.5 to −2.0 cmH₂O** (normal: **−2.0 cmH₂O**)
+- Automatically adjusts to baseline pressure
+
+### Flow Trigger (More Common)
+
+- Senses a drop in **bias flow** running through the circuit
+- **Base flow**: 10–20 L/min
+- **Flow sensitivity**: amount of flow the patient inhales to trigger a breath
+- Requires **less patient effort** than pressure triggering
+
+---
+
+## Alarms
+
+### High Pressure Alarm
+
+- Set **10–15 cmH₂O above measured PIP**
+- When exceeded → inspiration ends, remaining Vt is not delivered
+- Causes: airway/circuit obstruction, patient coughing/secretions, ↑ RAW, ↓ compliance, patient-ventilator asynchrony
+
+### Low Pressure Alarm
+
+- Set **10–15 cmH₂O below PIP**
+- Causes: leak (ventilator, humidifier, circuit, patient), **disconnection**
+
+### Volume Alarms
+
+| Alarm | When to Watch |
+|-------|--------------|
+| Minute volume | Set close in spontaneous modes or with low mandatory rates |
+| Tidal volume | Set close in pressure-control modes |
+
+### Rate Alarms
+
+| Alarm | Likely Cause |
+|-------|-------------|
+| Low rate | Over-sedation, fatigue, pain medication |
+| High rate | Under-sedation, pain, increased WOB |
+
+### Apnea Alarm / Backup Ventilation
+
+Activated in spontaneous modes (CPAP, PSV) or low SIMV rates (≤ 4 bpm).
+
+| Setting | Typical Value |
+|---------|--------------|
+| Apnea interval | 10–15 seconds of apnea before backup activates |
+| Backup Vt | Match patient's set Vt |
+| Backup RR | Set to maintain PaCO₂ — enough to keep the patient alive |
+
+### Additional Alarms
+
+- Source gas (O₂ or air loss)
+- Electrical power failure / battery backup
+- FiO₂ (blender or analyzer failure)
+- Demand valve malfunction
+- Ventilator inoperative (Vent Inop)
+- Flow transducer failure
+
+---
+
+## Initial Set-Up
+
+1. **Select ventilator** — choose what you know best; most ICU vents have equivalent modes
+2. Verify an **Operational Verification Procedure (OVP)** was performed (calibration and self-test)
+
+### OVP Checks
+
+- Electronics check
+- Audible and visual alarms
+- Calibrates pressure transducers and flow transducer
+- Measures/calculates tubing compliance
+- Pressurizes circuit to check for leaks
+
+> Perform OVP: (1) before connecting to a patient, and (2) after any circuit change or disassembly.
+
+---
+
+## Adjusting Settings Based on ABG Results
+
+### Systematic Approach
+
+1. **Interpret the ABG**: oxygenation problem or ventilation problem?
+2. **Evaluate settings**:
+   - Oxygenation issue → adjust FiO₂ and/or PEEP
+   - Ventilation issue → confirm Vt is correct for IBW; if yes, adjust RR; if no, correct Vt first
+
+### Adjustment Formulas
+
+> **New RR = Current RR × (Current PaCO₂ / Desired PaCO₂)**
+
+> **New Vt = Current Vt × (Current PaCO₂ / Desired PaCO₂)**
+
+*"What you have over what you want"*
+
+### Adjusting Vt While Maintaining Minute Volume
+
+If you need to correct an inappropriately large Vt but the PaCO₂ is currently normal:
+
+1. Calculate current minute volume: **RR × Vt = Min Vol**
+2. Divide minute volume by new Vt to find the new RR that maintains the same minute volume
+
+**Example:** 5'10" male
+- Current: Vt = 750 mL, RR = 12 → Min Vol = 9.0 L
+- Target Vt = 500 mL (correct for IBW)
+- New RR = 9,000 ÷ 500 = **18 breaths/min**
