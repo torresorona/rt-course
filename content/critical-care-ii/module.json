@@ -7,6 +7,7 @@
       "slug": "critical-care-ii/lesson-1",
       "title": "Indications, Goals & Hazards of Mechanical Ventilation",
       "description": "Type I (hypoxemic) and Type II (hypercapnic) respiratory failure, V/Q mismatch versus shunt, bedside ventilatory parameters, physiologic measurements, contraindications, goals, and hazards of mechanical ventilation.",
+      "audio": "/audio/critical-care-ii/The_Mechanics_of_Respiratory_Failure_and_Ventilators.m4a",
       "resources": [
         {
           "title": "Why Do We Need MV? — Type I Respiratory Failure (LibreTexts)",
@@ -26,6 +27,7 @@
       "slug": "critical-care-ii/lesson-2",
       "title": "Ventilator Classification & Modes of Ventilation",
       "description": "Input power, drive mechanisms, control variables (pressure/volume/flow/time), phase variables, breath types, and modes: CMV/A-C, SIMV, CSV/CPAP, PSV, and APRV.",
+      "audio": "/audio/critical-care-ii/The_physics_of_mechanical_ventilation.m4a",
       "resources": [
         {
           "title": "Mechanical Ventilation — StatPearls (NIH)",
@@ -45,6 +47,7 @@
       "slug": "critical-care-ii/lesson-3",
       "title": "Non-Invasive Ventilation (NIV)",
       "description": "NIV indications, contraindications, interfaces (nasal/full-face/total-face/helmet), CPAP vs. BiPAP, S/T mode, AVAPS, initial application procedure, and troubleshooting common side effects.",
+      "audio": "/audio/critical-care-ii/How_non-invasive_ventilation_avoids_the_tube.m4a",
       "resources": [
         {
           "title": "NIV for Acute Cardiogenic Pulmonary Edema and COPD — PMC",
@@ -58,6 +61,7 @@
       "slug": "critical-care-ii/lesson-4",
       "title": "Initiating & Adjusting Ventilatory Support",
       "description": "Mode selection, IBW-based tidal volume calculation, ARDS lung-protective strategy, mechanical and physiologic dead space, PIFR, I-time, I:E ratio, PEEP/FiO₂ management, pressure support, alarms, and ABG-guided adjustments.",
+      "audio": "/audio/critical-care-ii/The_Math_of_Mechanical_Ventilation.m4a",
       "resources": [
         {
           "title": "ARDSNet Trial — Wiki Journal Club",
@@ -77,6 +81,7 @@
       "slug": "critical-care-ii/lesson-5",
       "title": "Monitoring, Ventilator Graphics & Patient Transport",
       "description": "Monitored values (PIP, MAP, Pplat, driving pressure, auto-PEEP, compliance), ventilator check procedure, pressure/flow/volume scalars, P/V and F/V loops, troubleshooting asynchrony and auto-PEEP, intra/inter-hospital transport, and CCATT.",
+      "audio": "/audio/critical-care-ii/Ventilator_physics_and_the_transport_tightrope.m4a",
       "resources": [
         {
           "title": "Ventilator Waveforms & Graphics: Interpretation Guide — Respiratory Therapy Zone",
@@ -90,6 +95,7 @@
       "slug": "critical-care-ii/lesson-6",
       "title": "Weaning, Discontinuation & Module Exam",
       "description": "VAP prevention and circuit change protocols (AARC guidelines), weaning parameters (RSBI, MIP, oxygenation criteria), SBT methods, SBT failure criteria, terminal weaning, brain death evaluation, and the 50-question module exam.",
+      "audio": "/audio/critical-care-ii/The_Path_to_Ventilator_Liberation.m4a",
       "resources": [
         {
           "title": "Ventilator Weaning and Spontaneous Breathing Trials: Educational Review — PMC",
