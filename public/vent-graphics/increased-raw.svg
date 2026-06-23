@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="-apple-system, Segoe UI, Roboto, sans-serif">
+  <rect width="640" height="380" fill="#ffffff"/>
+  <text x="320" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#44403c">Pressure–Time Scalar (Inspiratory Hold)</text>
+
+  <!-- axes -->
+  <line x1="80" y1="60" x2="80" y2="320" stroke="#44403c" stroke-width="2"/>
+  <line x1="80" y1="320" x2="610" y2="320" stroke="#44403c" stroke-width="2"/>
+  <text x="30" y="195" text-anchor="middle" font-size="14" fill="#57534e" transform="rotate(-90 30 195)">Pressure (cmH₂O)</text>
+  <text x="345" y="360" text-anchor="middle" font-size="14" fill="#57534e">Time (sec)</text>
+
+  <!-- PIP reference line -->
+  <line x1="80" y1="90" x2="610" y2="90" stroke="#a8a29e" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="86" y="84" font-size="12" fill="#78716c">PIP = 50</text>
+  <!-- Pplat reference line -->
+  <line x1="80" y1="215" x2="610" y2="215" stroke="#a8a29e" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="86" y="231" font-size="12" fill="#78716c">Pplat = 25</text>
+  <!-- PEEP reference -->
+  <line x1="80" y1="290" x2="610" y2="290" stroke="#a8a29e" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="600" y="306" text-anchor="end" font-size="11" fill="#a8a29e">PEEP = 5</text>
+
+  <!-- waveform: sharp peak to PIP, drop to plateau during hold, then baseline -->
+  <path d="M 95,290 L 120,290 L 210,90 L 216,215 L 320,215 L 326,290 L 430,290"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- gap bracket between PIP and Pplat -->
+  <line x1="470" y1="90" x2="470" y2="215" stroke="#57534e" stroke-width="1.5"/>
+  <line x1="465" y1="90" x2="475" y2="90" stroke="#57534e" stroke-width="1.5"/>
+  <line x1="465" y1="215" x2="475" y2="215" stroke="#57534e" stroke-width="1.5"/>
+  <text x="482" y="157" font-size="12" fill="#57534e">PIP − Pplat</text>
+  <text x="482" y="174" font-size="12" fill="#57534e">gradient = 25</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="-apple-system, Segoe UI, Roboto, sans-serif">
+  <rect width="640" height="380" fill="#ffffff"/>
+  <text x="320" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#44403c">Pressure–Time Scalar (Volume Control)</text>
+
+  <!-- axes -->
+  <line x1="80" y1="60" x2="80" y2="320" stroke="#44403c" stroke-width="2"/>
+  <line x1="80" y1="320" x2="610" y2="320" stroke="#44403c" stroke-width="2"/>
+  <text x="30" y="195" text-anchor="middle" font-size="14" fill="#57534e" transform="rotate(-90 30 195)">Pressure (cmH₂O)</text>
+  <text x="345" y="360" text-anchor="middle" font-size="14" fill="#57534e">Time (sec)</text>
+
+  <!-- PEEP baseline reference -->
+  <line x1="80" y1="300" x2="610" y2="300" stroke="#a8a29e" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="600" y="316" text-anchor="end" font-size="11" fill="#a8a29e">PEEP</text>
+
+  <!-- Breath 1: concave / "dished out" inspiratory pressure (flow starvation) -->
+  <path d="M 95,300 L 110,300 L 125,235 Q 175,300 230,230 L 245,215 L 248,300 L 320,300"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Breath 2: same pattern repeated -->
+  <path d="M 320,300 L 345,235 Q 395,300 450,230 L 465,215 L 468,300 L 545,300"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- subtle highlight ring on the scooped region (no label) -->
+  <ellipse cx="180" cy="270" rx="40" ry="26" fill="none" stroke="#d6c2b8" stroke-width="1.5" stroke-dasharray="3 3"/>
+</svg>

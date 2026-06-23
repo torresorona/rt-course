@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="-apple-system, Segoe UI, Roboto, sans-serif">
+  <rect width="640" height="380" fill="#ffffff"/>
+  <text x="320" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#44403c">Flow–Time Scalar</text>
+
+  <!-- axes -->
+  <line x1="80" y1="60" x2="80" y2="330" stroke="#44403c" stroke-width="2"/>
+  <text x="30" y="195" text-anchor="middle" font-size="14" fill="#57534e" transform="rotate(-90 30 195)">Flow (L/min)</text>
+  <text x="345" y="362" text-anchor="middle" font-size="14" fill="#57534e">Time (sec)</text>
+
+  <!-- zero-flow baseline (middle) -->
+  <line x1="80" y1="190" x2="610" y2="190" stroke="#a8a29e" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="86" y="184" font-size="11" fill="#a8a29e">0 (insp ↑ / exp ↓)</text>
+
+  <!-- Breath 1 -->
+  <path d="M 95,190 L 100,105 L 150,105 L 153,285 C 175,250 195,213 208,205"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="208" y1="205" x2="208" y2="190" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="2 2"/>
+
+  <!-- Breath 2 -->
+  <path d="M 208,205 L 210,105 L 260,105 L 263,285 C 285,250 305,213 318,205"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="318" y1="205" x2="318" y2="190" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="2 2"/>
+
+  <!-- Breath 3 -->
+  <path d="M 318,205 L 320,105 L 370,105 L 373,285 C 395,250 415,213 428,205"
+        fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="428" y1="205" x2="428" y2="190" stroke="#b91c1c" stroke-width="1.5" stroke-dasharray="2 2"/>
+
+  <!-- next inspiration begins -->
+  <path d="M 428,205 L 430,105 L 470,105" fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round"/>
+
+  <text x="486" y="200" font-size="12" fill="#b91c1c">expiratory flow does not</text>
+  <text x="486" y="217" font-size="12" fill="#b91c1c">reach 0 before next breath</text>
+</svg>

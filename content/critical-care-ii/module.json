@@ -94,8 +94,15 @@
     {
       "slug": "critical-care-ii/lesson-6",
       "title": "Weaning, Discontinuation & Module Exam",
-      "description": "VAP prevention and circuit change protocols (AARC guidelines), weaning parameters (RSBI, MIP, oxygenation criteria), SBT methods, SBT failure criteria, terminal weaning, brain death evaluation, and the 50-question module exam.",
+      "description": "VAP prevention and circuit change protocols (AARC guidelines), weaning parameters (RSBI, MIP, oxygenation criteria), SBT methods, SBT failure criteria, terminal weaning, brain death evaluation, and the 50-question module exams.",
       "audio": "/audio/critical-care-ii/The_Path_to_Ventilator_Liberation.m4a",
+      "quizzes": [
+        {
+          "slug": "exam-2",
+          "view": "module-exam-2",
+          "label": "Module Exam 2"
+        }
+      ],
       "resources": [
         {
           "title": "Ventilator Weaning and Spontaneous Breathing Trials: Educational Review — PMC",
