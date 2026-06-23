@@ -1,7 +1,7 @@
 {
   "title": "Critical Care II",
   "description": "Mechanical ventilation fundamentals through weaning: indications, modes, NIV, initiation, monitoring, graphics, patient transport, and ventilator discontinuation.",
-  "order": 14,
+  "order": 15,
   "lessons": [
     {
       "slug": "critical-care-ii/lesson-1",
