@@ -1,7 +1,7 @@
 {
   "title": "Pharmacology",
   "description": "Principles of drug actions, receptor pathways, and medication administration.",
-  "order": 6,
+  "order": 7,
   "lessons": [
     {
       "slug": "pharmacology/lesson-1",

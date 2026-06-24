@@ -1,0 +1,75 @@
+{
+  "title": "General Anatomy & Physiology",
+  "description": "Foundational anatomy and physiology: levels of structural organization, the chemical and cellular basis of life, an overview of the body's organ systems, and acid-base homeostasis.",
+  "order": 1,
+  "lessons": [
+    {
+      "slug": "general-anatomy-physiology/lesson-1",
+      "title": "Intro to the Human Body",
+      "description": "Anatomy and physiology defined, levels of structural organization, tissue types, characteristics of the living human organism, homeostasis and feedback systems, anatomical terminology, body cavities, basic medical word parts, and medical imaging.",
+      "audio": "/audio/general-anatomy-physiology/The_user_manual_for_your_body.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-2",
+      "title": "Chemical Level of Organization",
+      "description": "How matter is organized, atoms, ions, molecules and compounds, free radicals, ionic/covalent/hydrogen bonds, chemical reactions and energy, carbohydrates, lipids, proteins, nucleic acids, and ATP/cellular respiration.",
+      "audio": "/audio/general-anatomy-physiology/Your_Body_is_a_Chemical_Equation.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-3",
+      "title": "Cellular Level of Organization",
+      "description": "The plasma membrane and selective permeability, passive and active transport, diffusion and osmosis, tonicity, cytoplasm and organelles, and the nucleus.",
+      "audio": "/audio/general-anatomy-physiology/Your_Body_Is_a_Microscopic_Metropolis.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-4",
+      "title": "Organ Systems I: Integumentary, Skeletal, Muscular, Nervous & Endocrine",
+      "description": "Skin structure, function, and diagnostic clues; skeletal divisions, major bones, joints, ligaments, and fractures; muscle tissue types and the sliding filament mechanism; nervous system organization and signal transmission; and endocrine hormone action and the stress response.",
+      "audio": "/audio/general-anatomy-physiology/Hidden_engineering_of_five_organ_systems.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-5",
+      "title": "Organ Systems II: Cardiovascular, Lymphatic, Respiratory, Digestive & Urinary",
+      "description": "Blood components and functions, red and white blood cells, hemostasis, basic cardiovascular anatomy and circulation; lymphatic function and immunity; upper and lower respiratory anatomy; digestive functions and notable organs; and kidney function and the nephron.",
+      "audio": "/audio/general-anatomy-physiology/Your_Body_Is_a_Self-Sustaining_Metropolis.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-6",
+      "title": "Acid-Base Homeostasis",
+      "description": "Normal blood pH and the effect of hydrogen ions, protein/bicarbonate/phosphate buffer systems, exhalation of CO2, kidney excretion of hydrogen ions, and the four acid-base imbalances.",
+      "audio": "/audio/general-anatomy-physiology/How_Your_Body_Balances_Blood_pH.m4a"
+    },
+    {
+      "slug": "general-anatomy-physiology/lesson-7",
+      "title": "Module Overview & Mock Exam",
+      "description": "Cumulative review of levels of organization, the chemical and cellular basis of life, the body's organ systems, and acid-base homeostasis, with a 50-question mock exam."
+    }
+  ],
+  "audio": [
+    {
+      "title": "The User Manual for Your Body",
+      "src": "/audio/general-anatomy-physiology/The_user_manual_for_your_body.m4a"
+    },
+    {
+      "title": "Your Body Is a Chemical Equation",
+      "src": "/audio/general-anatomy-physiology/Your_Body_is_a_Chemical_Equation.m4a"
+    },
+    {
+      "title": "Your Body Is a Microscopic Metropolis",
+      "src": "/audio/general-anatomy-physiology/Your_Body_Is_a_Microscopic_Metropolis.m4a"
+    },
+    {
+      "title": "Hidden Engineering of Five Organ Systems",
+      "src": "/audio/general-anatomy-physiology/Hidden_engineering_of_five_organ_systems.m4a"
+    },
+    {
+      "title": "Your Body Is a Self-Sustaining Metropolis",
+      "src": "/audio/general-anatomy-physiology/Your_Body_Is_a_Self-Sustaining_Metropolis.m4a"
+    },
+    {
+      "title": "How Your Body Balances Blood pH",
+      "src": "/audio/general-anatomy-physiology/How_Your_Body_Balances_Blood_pH.m4a"
+    }
+  ],
+  "resources": []
+}

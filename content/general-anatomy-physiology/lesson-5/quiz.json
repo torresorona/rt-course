@@ -1,0 +1,239 @@
+{
+  "title": "Organ Systems II Quiz",
+  "questions": [
+    {
+      "text": "Plasma is approximately what percentage water?",
+      "answers": [
+        { "text": "8.5%" },
+        { "text": "50%" },
+        { "text": "91.5%", "correct": true },
+        { "text": "99%" }
+      ]
+    },
+    {
+      "text": "Which of the following are the formed elements of blood?",
+      "answers": [
+        { "text": "Albumins, globulins, and fibrinogen" },
+        { "text": "RBCs, WBCs, and platelets", "correct": true },
+        { "text": "Water and solutes" },
+        { "text": "Hormones and antibodies" }
+      ]
+    },
+    {
+      "text": "Which function of blood includes pH regulation through buffers and adjusting body temperature through water?",
+      "answers": [
+        { "text": "Transportation" },
+        { "text": "Regulation", "correct": true },
+        { "text": "Protection" },
+        { "text": "Coagulation" }
+      ]
+    },
+    {
+      "text": "The oxygen-carrying protein found in red blood cells is:",
+      "answers": [
+        { "text": "Albumin" },
+        { "text": "Fibrinogen" },
+        { "text": "Hemoglobin", "correct": true },
+        { "text": "Globulin" }
+      ]
+    },
+    {
+      "text": "The normal white blood cell count is approximately:",
+      "answers": [
+        { "text": "500–1,000 per microliter" },
+        { "text": "5,000–10,000 per microliter", "correct": true },
+        { "text": "50,000–100,000 per microliter" },
+        { "text": "100–500 per microliter" }
+      ]
+    },
+    {
+      "text": "What is the correct order of the events of hemostasis?",
+      "answers": [
+        { "text": "Blood clotting, platelet plug formation, vascular spasm" },
+        { "text": "Vascular spasm, platelet plug formation, blood clotting", "correct": true },
+        { "text": "Platelet plug formation, vascular spasm, blood clotting" },
+        { "text": "Vascular spasm, blood clotting, platelet plug formation" }
+      ]
+    },
+    {
+      "text": "Arteries generally carry ____ blood ____ the heart.",
+      "answers": [
+        { "text": "deoxygenated; toward" },
+        { "text": "oxygenated; away from", "correct": true },
+        { "text": "oxygenated; toward" },
+        { "text": "deoxygenated; away from" }
+      ]
+    },
+    {
+      "text": "In systemic circulation, oxygenated blood flows from the left ventricle via the ____ to all organs.",
+      "answers": [
+        { "text": "pulmonary artery" },
+        { "text": "aorta", "correct": true },
+        { "text": "pulmonary vein" },
+        { "text": "vena cava" }
+      ]
+    },
+    {
+      "text": "In pulmonic circulation, deoxygenated blood flows from the right ventricle to the lungs via the:",
+      "answers": [
+        { "text": "Aorta" },
+        { "text": "Pulmonary artery", "correct": true },
+        { "text": "Pulmonary vein" },
+        { "text": "Coronary artery" }
+      ]
+    },
+    {
+      "text": "Which organ is the largest mass of lymph tissue in the body?",
+      "answers": [
+        { "text": "Liver" },
+        { "text": "Spleen", "correct": true },
+        { "text": "Thymus" },
+        { "text": "Tonsils" }
+      ]
+    },
+    {
+      "text": "Immunity is best defined as the ability to:",
+      "answers": [
+        { "text": "Produce red blood cells" },
+        { "text": "Ward off damage or disease through defenses", "correct": true },
+        { "text": "Filter blood plasma" },
+        { "text": "Exchange gases in the lungs" }
+      ]
+    },
+    {
+      "text": "Which type of immunity involves specific recognition of a microbe once it has breached the innate defenses?",
+      "answers": [
+        { "text": "Innate immunity" },
+        { "text": "Adaptive immunity", "correct": true },
+        { "text": "Passive immunity at birth" },
+        { "text": "Natural immunity" }
+      ]
+    },
+    {
+      "text": "Which function of the lymphatic system returns excess interstitial fluid to the blood?",
+      "answers": [
+        { "text": "Drains excess interstitial fluid from tissue spaces", "correct": true },
+        { "text": "Produces red blood cells" },
+        { "text": "Performs gas exchange" },
+        { "text": "Secretes digestive enzymes" }
+      ]
+    },
+    {
+      "text": "Gas exchange between the alveoli and the pulmonary capillaries is called:",
+      "answers": [
+        { "text": "Pulmonary ventilation" },
+        { "text": "External respiration", "correct": true },
+        { "text": "Internal respiration" },
+        { "text": "Perfusion of tissues" }
+      ]
+    },
+    {
+      "text": "Internal respiration is the gas exchange between blood in the systemic capillaries and:",
+      "answers": [
+        { "text": "The alveoli" },
+        { "text": "Tissue cells (perfusion)", "correct": true },
+        { "text": "The pulmonary capillaries" },
+        { "text": "The bronchi" }
+      ]
+    },
+    {
+      "text": "Which structure of the upper respiratory system houses the tonsils?",
+      "answers": [
+        { "text": "Nose" },
+        { "text": "Nasal cavity" },
+        { "text": "Pharynx (throat)", "correct": true },
+        { "text": "Larynx" }
+      ]
+    },
+    {
+      "text": "Which of the following is part of the lower respiratory tract?",
+      "answers": [
+        { "text": "Nasal cavity" },
+        { "text": "Pharynx" },
+        { "text": "Trachea", "correct": true },
+        { "text": "Oral cavity" }
+      ]
+    },
+    {
+      "text": "Which cells of the liver perform phagocytosis of bacteria in the blood?",
+      "answers": [
+        { "text": "Hepatocytes" },
+        { "text": "Kupffer cells", "correct": true },
+        { "text": "Keratinocytes" },
+        { "text": "Erythrocytes" }
+      ]
+    },
+    {
+      "text": "In the pancreas, low blood glucose stimulates the secretion of ____, while high blood glucose stimulates ____.",
+      "answers": [
+        { "text": "insulin; glucagon" },
+        { "text": "glucagon; insulin", "correct": true },
+        { "text": "calcitriol; renin" },
+        { "text": "EPO; ADH" }
+      ]
+    },
+    {
+      "text": "Which of the following is a function of the kidneys?",
+      "answers": [
+        { "text": "Gas exchange with the alveoli" },
+        { "text": "Regulation of blood pressure", "correct": true },
+        { "text": "Production of bile" },
+        { "text": "Storage of triglycerides" }
+      ]
+    },
+    {
+      "text": "Anti-diuretic hormone (ADH) levels ____ when blood pressure is low.",
+      "answers": [
+        { "text": "increase", "correct": true },
+        { "text": "decrease" },
+        { "text": "stay the same" },
+        { "text": "drop to zero" }
+      ]
+    },
+    {
+      "text": "Which kidney-produced hormone stimulates the production of red blood cells and becomes reduced during kidney failure?",
+      "answers": [
+        { "text": "Calcitriol" },
+        { "text": "Erythropoietin (EPO)", "correct": true },
+        { "text": "Renin" },
+        { "text": "Glucagon" }
+      ]
+    },
+    {
+      "text": "The functional unit of the kidney is the:",
+      "answers": [
+        { "text": "Glomerulus" },
+        { "text": "Nephron", "correct": true },
+        { "text": "Renal corpuscle" },
+        { "text": "Loop of Henle" }
+      ]
+    },
+    {
+      "text": "The renal corpuscle contains the glomerulus and the:",
+      "answers": [
+        { "text": "Loop of Henle" },
+        { "text": "Glomerular (Bowman's) capsule", "correct": true },
+        { "text": "Distal convoluted tubule" },
+        { "text": "Collecting duct" }
+      ]
+    },
+    {
+      "text": "During tubular reabsorption, renal tubular cells reabsorb approximately what percentage of filtered water and other solutes?",
+      "answers": [
+        { "text": "50%" },
+        { "text": "75%" },
+        { "text": "99%", "correct": true },
+        { "text": "9%" }
+      ]
+    },
+    {
+      "text": "Which nephron process secretes waste, drugs, and excess ions out of the body via the renal tubule and duct cells?",
+      "answers": [
+        { "text": "Glomerular filtration" },
+        { "text": "Tubular reabsorption" },
+        { "text": "Tubular secretion", "correct": true },
+        { "text": "Osmosis" }
+      ]
+    }
+  ]
+}

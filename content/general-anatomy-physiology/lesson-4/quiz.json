@@ -1,0 +1,257 @@
+{
+  "title": "Organ Systems I Quiz",
+  "questions": [
+    {
+      "text": "Which layer of the skin is the superficial, avascular portion composed of epithelial tissue that is 90% keratinocytes?",
+      "answers": [
+        { "text": "Dermis" },
+        { "text": "Epidermis", "correct": true },
+        { "text": "Hypodermis" },
+        { "text": "Subcutaneous layer" }
+      ]
+    },
+    {
+      "text": "Which skin layer contains blood vessels, nerve endings, hair follicles, and oil-producing glands?",
+      "answers": [
+        { "text": "Epidermis" },
+        { "text": "Dermis", "correct": true },
+        { "text": "Hypodermis" },
+        { "text": "Stratum corneum" }
+      ]
+    },
+    {
+      "text": "A blue coloration in the nail beds, lips, and skin caused by blood not carrying adequate oxygen is called:",
+      "answers": [
+        { "text": "Jaundice" },
+        { "text": "Erythema" },
+        { "text": "Cyanosis", "correct": true },
+        { "text": "Pallor" }
+      ]
+    },
+    {
+      "text": "Yellowing of the skin and the whites of the eyes from a buildup of bilirubin is called ____ and generally indicates ____.",
+      "answers": [
+        { "text": "jaundice; liver failure", "correct": true },
+        { "text": "cyanosis; hypoxemia" },
+        { "text": "erythema; inflammation" },
+        { "text": "pallor; anemia" }
+      ]
+    },
+    {
+      "text": "Paleness of the skin, indicative of shock and anemia, is termed:",
+      "answers": [
+        { "text": "Cyanosis" },
+        { "text": "Pallor", "correct": true },
+        { "text": "Erythema" },
+        { "text": "Jaundice" }
+      ]
+    },
+    {
+      "text": "The process by which the formed elements of blood develop, a function of the skeletal system, is called:",
+      "answers": [
+        { "text": "Hemostasis" },
+        { "text": "Hemopoiesis", "correct": true },
+        { "text": "Hemolysis" },
+        { "text": "Erythema" }
+      ]
+    },
+    {
+      "text": "Which of the following bones belongs to the axial skeleton?",
+      "answers": [
+        { "text": "Clavicle" },
+        { "text": "Scapula" },
+        { "text": "Vertebrae", "correct": true },
+        { "text": "Femur" }
+      ]
+    },
+    {
+      "text": "Which portion of the sternum is the flat surface used during CPR?",
+      "answers": [
+        { "text": "Manubrium" },
+        { "text": "Body", "correct": true },
+        { "text": "Xiphoid process" },
+        { "text": "Suprasternal notch" }
+      ]
+    },
+    {
+      "text": "The hyoid bone supports the muscles in the:",
+      "answers": [
+        { "text": "Tongue, neck, and pharynx", "correct": true },
+        { "text": "Shoulder and arm" },
+        { "text": "Chest and ribs" },
+        { "text": "Hip and pelvis" }
+      ]
+    },
+    {
+      "text": "Which type of joint is freely movable?",
+      "answers": [
+        { "text": "Fibrous" },
+        { "text": "Cartilaginous" },
+        { "text": "Synovial", "correct": true },
+        { "text": "Sutural" }
+      ]
+    },
+    {
+      "text": "A fracture in which one side of the bone is broken and the other side bends, occurring only in children whose bones have not fully ossified, is a:",
+      "answers": [
+        { "text": "Comminuted fracture" },
+        { "text": "Open (compound) fracture" },
+        { "text": "Greenstick fracture", "correct": true },
+        { "text": "Impacted fracture" }
+      ]
+    },
+    {
+      "text": "A fracture in which the broken ends of the bone protrude through the skin is classified as:",
+      "answers": [
+        { "text": "Comminuted" },
+        { "text": "Open (compound)", "correct": true },
+        { "text": "Greenstick" },
+        { "text": "Impacted" }
+      ]
+    },
+    {
+      "text": "Which type of muscle tissue is striated, involuntary, and autorhythmic?",
+      "answers": [
+        { "text": "Skeletal" },
+        { "text": "Cardiac", "correct": true },
+        { "text": "Smooth" },
+        { "text": "Connective" }
+      ]
+    },
+    {
+      "text": "Auto-rhythmicity, the ability to repeatedly generate spontaneous nerve impulses, controls the:",
+      "answers": [
+        { "text": "Voluntary movement of skeletal muscle" },
+        { "text": "Heart rhythm (pacemaker of the heart)", "correct": true },
+        { "text": "Stretch of smooth muscle" },
+        { "text": "Synthesis of vitamin D" }
+      ]
+    },
+    {
+      "text": "The ability of muscle fibers to shorten is called:",
+      "answers": [
+        { "text": "Extensibility" },
+        { "text": "Elasticity" },
+        { "text": "Contractility", "correct": true },
+        { "text": "Electrical excitability" }
+      ]
+    },
+    {
+      "text": "Which contractile proteins generate force during muscle contraction?",
+      "answers": [
+        { "text": "Actin and myosin", "correct": true },
+        { "text": "Tropomyosin and troponin" },
+        { "text": "Titin and nebulin" },
+        { "text": "Dystrophin and myomesin" }
+      ]
+    },
+    {
+      "text": "Which regulatory protein prevents myosin from binding to actin?",
+      "answers": [
+        { "text": "Troponin" },
+        { "text": "Tropomyosin", "correct": true },
+        { "text": "Titin" },
+        { "text": "Myosin" }
+      ]
+    },
+    {
+      "text": "During the sliding filament mechanism, skeletal muscle shortens because the:",
+      "answers": [
+        { "text": "Thick and thin filaments slide past one another", "correct": true },
+        { "text": "Filaments dissolve and reform" },
+        { "text": "Muscle fibers split apart" },
+        { "text": "Actin filaments lengthen" }
+      ]
+    },
+    {
+      "text": "In the contraction cycle, what happens during ATP hydrolysis?",
+      "answers": [
+        { "text": "The myosin head pivots and pulls the thin filament" },
+        { "text": "The phosphate bond on ATP is broken by water and energy is stored in the myosin head", "correct": true },
+        { "text": "ATP binds and myosin releases from actin" },
+        { "text": "The myosin head attaches to the binding site" }
+      ]
+    },
+    {
+      "text": "The central nervous system (CNS) consists of the:",
+      "answers": [
+        { "text": "Brain and spinal cord", "correct": true },
+        { "text": "Somatic and autonomic nerves" },
+        { "text": "Sympathetic and parasympathetic divisions" },
+        { "text": "Skeletal muscles and glands" }
+      ]
+    },
+    {
+      "text": "Which division of the peripheral nervous system conveys output to skeletal muscles for voluntary functions such as walking and writing?",
+      "answers": [
+        { "text": "Autonomic" },
+        { "text": "Somatic", "correct": true },
+        { "text": "Sympathetic" },
+        { "text": "Parasympathetic" }
+      ]
+    },
+    {
+      "text": "Electrical synapses communicate through gap junctions and are found in the:",
+      "answers": [
+        { "text": "Brain and spinal cord" },
+        { "text": "Heart and smooth muscle", "correct": true },
+        { "text": "Skeletal muscle only" },
+        { "text": "Endocrine glands" }
+      ]
+    },
+    {
+      "text": "In the cholinergic (parasympathetic) pathway, the receptors are ____ and the neurotransmitter is ____.",
+      "answers": [
+        { "text": "alpha and beta; epinephrine" },
+        { "text": "muscarinic; acetylcholine", "correct": true },
+        { "text": "muscarinic; norepinephrine" },
+        { "text": "alpha and beta; acetylcholine" }
+      ]
+    },
+    {
+      "text": "Which neurotransmitters act in the adrenergic (sympathetic) pathway?",
+      "answers": [
+        { "text": "Acetylcholine" },
+        { "text": "Epinephrine and norepinephrine", "correct": true },
+        { "text": "Muscarine and nicotine" },
+        { "text": "Dopamine and serotonin" }
+      ]
+    },
+    {
+      "text": "Compared with nerve impulses, hormones generally:",
+      "answers": [
+        { "text": "Act faster and last a shorter time" },
+        { "text": "Act slower but last longer", "correct": true },
+        { "text": "Act faster and last longer" },
+        { "text": "Act only on the gland that released them" }
+      ]
+    },
+    {
+      "text": "When a hormone cannot exert its full effects without the presence of another hormone, this is the ____ effect.",
+      "answers": [
+        { "text": "synergistic" },
+        { "text": "antagonistic" },
+        { "text": "permissive", "correct": true },
+        { "text": "additive" }
+      ]
+    },
+    {
+      "text": "The stress response is controlled mostly by the:",
+      "answers": [
+        { "text": "Hypothalamus", "correct": true },
+        { "text": "Cerebellum" },
+        { "text": "Spinal cord" },
+        { "text": "Adrenal cortex" }
+      ]
+    },
+    {
+      "text": "Which stage of the stress response results from prolonged exposure to high levels of cortisol and leads to a weakened immune system and chronic disease?",
+      "answers": [
+        { "text": "Fight or flight" },
+        { "text": "Resistance reaction" },
+        { "text": "Exhaustion", "correct": true },
+        { "text": "Recovery" }
+      ]
+    }
+  ]
+}

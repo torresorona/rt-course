@@ -1,0 +1,221 @@
+{
+  "title": "Cellular Level of Organization Quiz",
+  "questions": [
+    {
+      "text": "The plasma membrane is made of a flexible outer surface composed of a:",
+      "answers": [
+        { "text": "Single protein layer" },
+        { "text": "Lipid bilayer", "correct": true },
+        { "text": "Carbohydrate shell" },
+        { "text": "Layer of cytosol" }
+      ]
+    },
+    {
+      "text": "The property that allows the plasma membrane to control which substances cross it is called:",
+      "answers": [
+        { "text": "Electroneutrality" },
+        { "text": "Selective permeability", "correct": true },
+        { "text": "Osmotic pressure" },
+        { "text": "Differentiation" }
+      ]
+    },
+    {
+      "text": "Which membrane proteins determine blood type and allow the body to recognize self from non-self?",
+      "answers": [
+        { "text": "Carrier proteins" },
+        { "text": "Ion channels" },
+        { "text": "Identity markers", "correct": true },
+        { "text": "Enzymes" }
+      ]
+    },
+    {
+      "text": "Which membrane proteins allow certain ions to move into and out of the cell?",
+      "answers": [
+        { "text": "Ion channels", "correct": true },
+        { "text": "Identity markers" },
+        { "text": "Enzymes" },
+        { "text": "Ribosomes" }
+      ]
+    },
+    {
+      "text": "Diffusion occurs because of the particles':",
+      "answers": [
+        { "text": "Electrical charge" },
+        { "text": "Kinetic energy", "correct": true },
+        { "text": "Mass alone" },
+        { "text": "Color" }
+      ]
+    },
+    {
+      "text": "During diffusion, particles move from areas of ____ concentration to areas of ____ concentration.",
+      "answers": [
+        { "text": "lower; higher" },
+        { "text": "higher; lower", "correct": true },
+        { "text": "equal; lower" },
+        { "text": "higher; equal" }
+      ]
+    },
+    {
+      "text": "Which type of transport requires no cellular energy and moves substances down a concentration or electrical gradient?",
+      "answers": [
+        { "text": "Active transport" },
+        { "text": "Passive transport", "correct": true },
+        { "text": "Endocytosis" },
+        { "text": "Phagocytosis" }
+      ]
+    },
+    {
+      "text": "Active transport differs from passive transport because it:",
+      "answers": [
+        { "text": "Moves substances down their gradient" },
+        { "text": "Uses ATP to move substances against a concentration or electrical gradient", "correct": true },
+        { "text": "Never involves membrane proteins" },
+        { "text": "Only occurs in red blood cells" }
+      ]
+    },
+    {
+      "text": "The maintenance of an electrically neutral charge in the cell to preserve homeostasis is called:",
+      "answers": [
+        { "text": "Osmosis" },
+        { "text": "Electroneutrality", "correct": true },
+        { "text": "Facilitated diffusion" },
+        { "text": "Ionization" }
+      ]
+    },
+    {
+      "text": "Which of the following increases the rate of diffusion?",
+      "answers": [
+        { "text": "A larger mass of the diffusing substance" },
+        { "text": "A greater diffusion distance" },
+        { "text": "A steeper concentration gradient", "correct": true },
+        { "text": "A lower temperature" }
+      ]
+    },
+    {
+      "text": "Osmosis is best defined as the net movement of:",
+      "answers": [
+        { "text": "Solute through a selectively permeable membrane" },
+        { "text": "A solvent (water) through a selectively permeable membrane", "correct": true },
+        { "text": "Ions through carrier proteins only" },
+        { "text": "Proteins out of the nucleus" }
+      ]
+    },
+    {
+      "text": "Diffusion that occurs via ion channels or carrier-mediated channels is called:",
+      "answers": [
+        { "text": "Simple diffusion" },
+        { "text": "Facilitated diffusion", "correct": true },
+        { "text": "Active transport" },
+        { "text": "Osmosis" }
+      ]
+    },
+    {
+      "text": "A hypotonic solution has a ____ concentration of solute than is found inside normal cells.",
+      "answers": [
+        { "text": "higher" },
+        { "text": "lower", "correct": true },
+        { "text": "equal" },
+        { "text": "neutral" }
+      ]
+    },
+    {
+      "text": "A solution in which the solute concentration equals the water concentration compared to body fluids is:",
+      "answers": [
+        { "text": "Hypotonic" },
+        { "text": "Isotonic", "correct": true },
+        { "text": "Hypertonic" },
+        { "text": "Anisotonic" }
+      ]
+    },
+    {
+      "text": "Which quick tip best summarizes the relationship between solute and solvent movement?",
+      "answers": [
+        { "text": "Salt follows water" },
+        { "text": "Water follows salt", "correct": true },
+        { "text": "Water repels salt" },
+        { "text": "Solute never moves" }
+      ]
+    },
+    {
+      "text": "The fluid portion of the cytoplasm is called the:",
+      "answers": [
+        { "text": "Cytosol", "correct": true },
+        { "text": "Nucleus" },
+        { "text": "Lysosome" },
+        { "text": "Cristae" }
+      ]
+    },
+    {
+      "text": "Which organelles are the sites of protein synthesis?",
+      "answers": [
+        { "text": "Lysosomes" },
+        { "text": "Ribosomes", "correct": true },
+        { "text": "Mitochondria" },
+        { "text": "Golgi body complex" }
+      ]
+    },
+    {
+      "text": "The rough endoplasmic reticulum is lined with ribosomes and is responsible for:",
+      "answers": [
+        { "text": "Steroid synthesis" },
+        { "text": "Protein synthesis", "correct": true },
+        { "text": "Detoxification" },
+        { "text": "ATP production" }
+      ]
+    },
+    {
+      "text": "Which organelle performs steroid and fatty acid synthesis and detoxifies potentially harmful substances?",
+      "answers": [
+        { "text": "Rough ER" },
+        { "text": "Smooth ER", "correct": true },
+        { "text": "Golgi body complex" },
+        { "text": "Lysosome" }
+      ]
+    },
+    {
+      "text": "Which organelle packages and modifies proteins and other molecules?",
+      "answers": [
+        { "text": "Mitochondria" },
+        { "text": "Golgi body complex", "correct": true },
+        { "text": "Ribosomes" },
+        { "text": "Nucleus" }
+      ]
+    },
+    {
+      "text": "Which organelle is responsible for breaking down other molecules?",
+      "answers": [
+        { "text": "Lysosomes", "correct": true },
+        { "text": "Ribosomes" },
+        { "text": "Smooth ER" },
+        { "text": "Cilia" }
+      ]
+    },
+    {
+      "text": "The mitochondria are known as the 'powerhouse of the cell' because they:",
+      "answers": [
+        { "text": "Synthesize most of the cell's proteins" },
+        { "text": "Generate the majority of the cell's ATP", "correct": true },
+        { "text": "Store the cell's DNA" },
+        { "text": "Break down waste molecules" }
+      ]
+    },
+    {
+      "text": "The cristae of the mitochondria are the site of:",
+      "answers": [
+        { "text": "Protein synthesis" },
+        { "text": "Cellular respiration / the Krebs cycle", "correct": true },
+        { "text": "DNA storage" },
+        { "text": "Detoxification" }
+      ]
+    },
+    {
+      "text": "The nucleus of the cell primarily houses:",
+      "answers": [
+        { "text": "Most of the cell's DNA", "correct": true },
+        { "text": "The majority of the cell's ATP" },
+        { "text": "The cell's ribosomes" },
+        { "text": "The lipid bilayer" }
+      ]
+    }
+  ]
+}

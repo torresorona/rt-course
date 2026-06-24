@@ -1,0 +1,230 @@
+{
+  "title": "Intro to the Human Body Quiz",
+  "questions": [
+    {
+      "text": "Which term refers to the science of body structures and the relationships among them?",
+      "answers": [
+        { "text": "Physiology" },
+        { "text": "Anatomy", "correct": true },
+        { "text": "Pathology" },
+        { "text": "Epidemiology" }
+      ]
+    },
+    {
+      "text": "A student studying how the diaphragm contracts to move air into the lungs is studying which discipline?",
+      "answers": [
+        { "text": "Anatomy" },
+        { "text": "Physiology", "correct": true },
+        { "text": "Diagnosis" },
+        { "text": "Pharmacology" }
+      ]
+    },
+    {
+      "text": "Which level of structural organization describes groups of cells and the materials surrounding them that work together to perform a particular function?",
+      "answers": [
+        { "text": "Cellular level" },
+        { "text": "Organ level" },
+        { "text": "Tissue level", "correct": true },
+        { "text": "Chemical level" }
+      ]
+    },
+    {
+      "text": "Which tissue type covers body surfaces, lines hollow organs and cavities, and forms glands?",
+      "answers": [
+        { "text": "Connective tissue" },
+        { "text": "Epithelial tissue", "correct": true },
+        { "text": "Muscular tissue" },
+        { "text": "Nervous tissue" }
+      ]
+    },
+    {
+      "text": "Which tissue type maintains insulation, stores triglycerides, and acts as a shock absorber?",
+      "answers": [
+        { "text": "Adipose tissue", "correct": true },
+        { "text": "Connective tissue" },
+        { "text": "Epithelial tissue" },
+        { "text": "Nervous tissue" }
+      ]
+    },
+    {
+      "text": "Glands that secrete hormones are classified as:",
+      "answers": [
+        { "text": "Exocrine glands" },
+        { "text": "Endocrine glands", "correct": true },
+        { "text": "Sweat glands" },
+        { "text": "Sebaceous glands" }
+      ]
+    },
+    {
+      "text": "The breakdown of complex chemical substances into smaller components, which is generally exergonic, is called:",
+      "answers": [
+        { "text": "Anabolism" },
+        { "text": "Catabolism", "correct": true },
+        { "text": "Differentiation" },
+        { "text": "Responsiveness" }
+      ]
+    },
+    {
+      "text": "Which characteristic of the living human organism refers to the development of a cell from unspecialized to specialized?",
+      "answers": [
+        { "text": "Growth" },
+        { "text": "Reproduction" },
+        { "text": "Differentiation", "correct": true },
+        { "text": "Responsiveness" }
+      ]
+    },
+    {
+      "text": "A feedback system that reverses a change in a controlled condition is a:",
+      "answers": [
+        { "text": "Positive feedback system" },
+        { "text": "Negative feedback system", "correct": true },
+        { "text": "Permissive feedback system" },
+        { "text": "Antagonistic feedback system" }
+      ]
+    },
+    {
+      "text": "Which term describes an illness characterized by a recognizable set of signs and symptoms?",
+      "answers": [
+        { "text": "Disorder" },
+        { "text": "Disease", "correct": true },
+        { "text": "Diagnosis" },
+        { "text": "Syndrome" }
+      ]
+    },
+    {
+      "text": "The science that deals with why, when, and where diseases occur and how they are transmitted is:",
+      "answers": [
+        { "text": "Pharmacology" },
+        { "text": "Diagnosis" },
+        { "text": "Epidemiology", "correct": true },
+        { "text": "Physiology" }
+      ]
+    },
+    {
+      "text": "A patient lying face up is in which position?",
+      "answers": [
+        { "text": "Prone" },
+        { "text": "Supine", "correct": true },
+        { "text": "Anatomical position" },
+        { "text": "Lateral" }
+      ]
+    },
+    {
+      "text": "In anatomical position, which of the following is true of the upper limbs?",
+      "answers": [
+        { "text": "They are crossed over the chest" },
+        { "text": "They are at the sides with palms turned forward", "correct": true },
+        { "text": "They are raised above the head" },
+        { "text": "They are at the sides with palms facing the body" }
+      ]
+    },
+    {
+      "text": "The directional term meaning 'nearer to the midline' is:",
+      "answers": [
+        { "text": "Lateral" },
+        { "text": "Medial", "correct": true },
+        { "text": "Distal" },
+        { "text": "Superficial" }
+      ]
+    },
+    {
+      "text": "Which directional term means 'farther from the attachment or origination of the structure'?",
+      "answers": [
+        { "text": "Proximal" },
+        { "text": "Distal", "correct": true },
+        { "text": "Superior" },
+        { "text": "Deep" }
+      ]
+    },
+    {
+      "text": "The heart is located within which subdivision of the thoracic cavity?",
+      "answers": [
+        { "text": "Pleural cavity" },
+        { "text": "Pericardial cavity", "correct": true },
+        { "text": "Abdominal cavity" },
+        { "text": "Vertebral canal" }
+      ]
+    },
+    {
+      "text": "The spinal cord is housed within the:",
+      "answers": [
+        { "text": "Cranial cavity" },
+        { "text": "Vertebral canal", "correct": true },
+        { "text": "Pelvic cavity" },
+        { "text": "Pleural cavity" }
+      ]
+    },
+    {
+      "text": "Organs inside the thoracic and abdominal/pelvic cavities are collectively called:",
+      "answers": [
+        { "text": "Viscera", "correct": true },
+        { "text": "Glands" },
+        { "text": "Effectors" },
+        { "text": "Membranes" }
+      ]
+    },
+    {
+      "text": "The suffix '-pnea' refers to:",
+      "answers": [
+        { "text": "Blood condition" },
+        { "text": "Breathing or breath", "correct": true },
+        { "text": "Slow" },
+        { "text": "Surgical opening" }
+      ]
+    },
+    {
+      "text": "The prefix 'brady-' means:",
+      "answers": [
+        { "text": "Fast, rapid" },
+        { "text": "Slow", "correct": true },
+        { "text": "Difficult, abnormal" },
+        { "text": "Excessive, high" }
+      ]
+    },
+    {
+      "text": "Which medical word part means 'inflammation'?",
+      "answers": [
+        { "text": "-ectomy" },
+        { "text": "-itis", "correct": true },
+        { "text": "-osis" },
+        { "text": "-emia" }
+      ]
+    },
+    {
+      "text": "On a radiograph, bones appear ____ and air or hollow structures appear ____.",
+      "answers": [
+        { "text": "black; white" },
+        { "text": "white; black", "correct": true },
+        { "text": "gray; white" },
+        { "text": "white; gray" }
+      ]
+    },
+    {
+      "text": "Which imaging study cannot be used on patients with metal in the body but provides fine detail of soft tissue?",
+      "answers": [
+        { "text": "Computed tomography (CT)" },
+        { "text": "Magnetic resonance imaging (MRI)", "correct": true },
+        { "text": "Radiography" },
+        { "text": "Ultrasound" }
+      ]
+    },
+    {
+      "text": "Which imaging modality uses high-frequency sound waves, is noninvasive and painless, and is most commonly used to visualize a fetus?",
+      "answers": [
+        { "text": "PET" },
+        { "text": "Ultrasound", "correct": true },
+        { "text": "CCTA" },
+        { "text": "CT" }
+      ]
+    },
+    {
+      "text": "The primary use of coronary (cardiac) computed tomography angiography (CCTA) is to:",
+      "answers": [
+        { "text": "Study brain metabolism" },
+        { "text": "Identify coronary artery blockage", "correct": true },
+        { "text": "Visualize a fetus" },
+        { "text": "Detect lung infections" }
+      ]
+    }
+  ]
+}

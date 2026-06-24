@@ -1,0 +1,455 @@
+{
+  "title": "General Anatomy & Physiology Mock Exam",
+  "questions": [
+    {
+      "text": "Anatomy is best defined as the science of:",
+      "answers": [
+        { "text": "Body functions and how parts work" },
+        { "text": "Body structures and the relationships among them", "correct": true },
+        { "text": "The transmission of disease" },
+        { "text": "The effects and uses of drugs" }
+      ]
+    },
+    {
+      "text": "Which sequence correctly orders the levels of structural organization from simplest to most complex?",
+      "answers": [
+        { "text": "Cellular → chemical → tissue → organ → system → organismal" },
+        { "text": "Chemical → cellular → tissue → organ → system → organismal", "correct": true },
+        { "text": "Chemical → tissue → cellular → organ → organismal → system" },
+        { "text": "Organismal → system → organ → tissue → cellular → chemical" }
+      ]
+    },
+    {
+      "text": "Which tissue type carries information from one part of the body to another through nerve impulses?",
+      "answers": [
+        { "text": "Epithelial" },
+        { "text": "Connective" },
+        { "text": "Nervous", "correct": true },
+        { "text": "Adipose" }
+      ]
+    },
+    {
+      "text": "Which characteristic of the living human organism is the sum of all chemical processes that occur in the body?",
+      "answers": [
+        { "text": "Responsiveness" },
+        { "text": "Metabolism", "correct": true },
+        { "text": "Differentiation" },
+        { "text": "Growth" }
+      ]
+    },
+    {
+      "text": "A feedback system that strengthens or reinforces a change in a controlled condition is:",
+      "answers": [
+        { "text": "Negative feedback" },
+        { "text": "Positive feedback", "correct": true },
+        { "text": "Permissive feedback" },
+        { "text": "Antagonistic feedback" }
+      ]
+    },
+    {
+      "text": "A patient lying face down is described as:",
+      "answers": [
+        { "text": "Supine" },
+        { "text": "Prone", "correct": true },
+        { "text": "Lateral" },
+        { "text": "Medial" }
+      ]
+    },
+    {
+      "text": "The directional term 'superior' means:",
+      "answers": [
+        { "text": "Toward the head or upper part of a structure", "correct": true },
+        { "text": "Away from the head or lower part of a structure" },
+        { "text": "Nearer to the midline" },
+        { "text": "Toward the surface of the body" }
+      ]
+    },
+    {
+      "text": "The cranial cavity contains the:",
+      "answers": [
+        { "text": "Spinal cord" },
+        { "text": "Heart" },
+        { "text": "Brain", "correct": true },
+        { "text": "Lungs" }
+      ]
+    },
+    {
+      "text": "Which imaging study is the most rapid and utilized to identify lung issues?",
+      "answers": [
+        { "text": "MRI" },
+        { "text": "Chest x-ray (CXR)", "correct": true },
+        { "text": "PET scan" },
+        { "text": "Ultrasound" }
+      ]
+    },
+    {
+      "text": "The medical word part '-itis' means:",
+      "answers": [
+        { "text": "Removal" },
+        { "text": "Inflammation", "correct": true },
+        { "text": "Blood condition" },
+        { "text": "Breathing" }
+      ]
+    },
+    {
+      "text": "Which four elements make up the major portion of the human body's mass?",
+      "answers": [
+        { "text": "Oxygen, carbon, hydrogen, nitrogen", "correct": true },
+        { "text": "Calcium, phosphorus, sodium, potassium" },
+        { "text": "Iron, oxygen, carbon, calcium" },
+        { "text": "Hydrogen, helium, carbon, oxygen" }
+      ]
+    },
+    {
+      "text": "Which subatomic particle is uncharged?",
+      "answers": [
+        { "text": "Proton" },
+        { "text": "Electron" },
+        { "text": "Neutron", "correct": true },
+        { "text": "Cation" }
+      ]
+    },
+    {
+      "text": "The mass number of an atom is the sum of its:",
+      "answers": [
+        { "text": "Protons and electrons" },
+        { "text": "Protons and neutrons", "correct": true },
+        { "text": "Neutrons and electrons" },
+        { "text": "Electrons only" }
+      ]
+    },
+    {
+      "text": "An ion with a positive charge is called a(n):",
+      "answers": [
+        { "text": "Anion" },
+        { "text": "Cation", "correct": true },
+        { "text": "Isotope" },
+        { "text": "Isomer" }
+      ]
+    },
+    {
+      "text": "A free radical is characterized by:",
+      "answers": [
+        { "text": "A filled valence shell" },
+        { "text": "An unpaired electron in the outermost shell", "correct": true },
+        { "text": "An equal number of protons and electrons" },
+        { "text": "A neutral, stable state" }
+      ]
+    },
+    {
+      "text": "In an ionic bond, the bond essentially:",
+      "answers": [
+        { "text": "Shares the electron equally" },
+        { "text": "Shares the electron unequally" },
+        { "text": "Takes the electron", "correct": true },
+        { "text": "Splits the proton" }
+      ]
+    },
+    {
+      "text": "The reaction H₂O → H + OH is an example of which type of reaction?",
+      "answers": [
+        { "text": "Synthesis" },
+        { "text": "Decomposition", "correct": true },
+        { "text": "Exchange" },
+        { "text": "Reversible" }
+      ]
+    },
+    {
+      "text": "Carbohydrates are best described as the body's:",
+      "answers": [
+        { "text": "Primary source of cellular energy", "correct": true },
+        { "text": "Secondary source of energy used in stress" },
+        { "text": "Main structural protein" },
+        { "text": "Genetic material" }
+      ]
+    },
+    {
+      "text": "Enzymes are a type of ____ that speed up biochemical reactions.",
+      "answers": [
+        { "text": "carbohydrate" },
+        { "text": "lipid" },
+        { "text": "protein", "correct": true },
+        { "text": "nucleic acid" }
+      ]
+    },
+    {
+      "text": "Which of the following correctly describes RNA?",
+      "answers": [
+        { "text": "Double stranded and stores inherited information" },
+        { "text": "Single stranded genetic information", "correct": true },
+        { "text": "A type of triglyceride" },
+        { "text": "A structural protein" }
+      ]
+    },
+    {
+      "text": "The plasma membrane is composed of a flexible outer surface made of a:",
+      "answers": [
+        { "text": "Protein matrix" },
+        { "text": "Lipid bilayer", "correct": true },
+        { "text": "Carbohydrate capsule" },
+        { "text": "Layer of cytosol" }
+      ]
+    },
+    {
+      "text": "Active transport differs from passive transport in that it:",
+      "answers": [
+        { "text": "Requires ATP to move substances against a gradient", "correct": true },
+        { "text": "Moves substances down their gradient without energy" },
+        { "text": "Only moves water" },
+        { "text": "Never uses membrane proteins" }
+      ]
+    },
+    {
+      "text": "Which change increases the rate of diffusion?",
+      "answers": [
+        { "text": "A lower temperature" },
+        { "text": "A higher temperature", "correct": true },
+        { "text": "A larger mass of diffusing substance" },
+        { "text": "A greater diffusion distance" }
+      ]
+    },
+    {
+      "text": "Osmosis is the net movement of which substance through a selectively permeable membrane?",
+      "answers": [
+        { "text": "Solute (salt)" },
+        { "text": "Solvent (water)", "correct": true },
+        { "text": "Protein" },
+        { "text": "Ions only" }
+      ]
+    },
+    {
+      "text": "A hypertonic solution contains:",
+      "answers": [
+        { "text": "A lower concentration of solute than normal cells" },
+        { "text": "A higher concentration of solute than normal cells", "correct": true },
+        { "text": "Equal solute and solvent compared to body fluids" },
+        { "text": "No solute at all" }
+      ]
+    },
+    {
+      "text": "Which organelle is the site of protein synthesis?",
+      "answers": [
+        { "text": "Lysosome" },
+        { "text": "Ribosome", "correct": true },
+        { "text": "Mitochondrion" },
+        { "text": "Golgi body complex" }
+      ]
+    },
+    {
+      "text": "Which organelle packages and modifies proteins and other molecules?",
+      "answers": [
+        { "text": "Golgi body complex", "correct": true },
+        { "text": "Ribosome" },
+        { "text": "Smooth ER" },
+        { "text": "Lysosome" }
+      ]
+    },
+    {
+      "text": "Most of the cell's DNA is housed in the:",
+      "answers": [
+        { "text": "Cytosol" },
+        { "text": "Mitochondria" },
+        { "text": "Nucleus", "correct": true },
+        { "text": "Ribosomes" }
+      ]
+    },
+    {
+      "text": "The epidermis is avascular and composed of epithelial tissue that is approximately 90%:",
+      "answers": [
+        { "text": "Adipocytes" },
+        { "text": "Keratinocytes", "correct": true },
+        { "text": "Fibroblasts" },
+        { "text": "Melanocytes" }
+      ]
+    },
+    {
+      "text": "Yellowing of the skin and the whites of the eyes from a buildup of bilirubin is called:",
+      "answers": [
+        { "text": "Cyanosis" },
+        { "text": "Jaundice", "correct": true },
+        { "text": "Erythema" },
+        { "text": "Pallor" }
+      ]
+    },
+    {
+      "text": "Which group of bones belongs to the axial skeleton?",
+      "answers": [
+        { "text": "Skull, rib cage, and vertebrae", "correct": true },
+        { "text": "Clavicle, scapula, and humerus" },
+        { "text": "Femur, tibia, and fibula" },
+        { "text": "Carpals, metacarpals, and phalanges" }
+      ]
+    },
+    {
+      "text": "Which portion of the sternum is the flat surface used during CPR?",
+      "answers": [
+        { "text": "Manubrium" },
+        { "text": "Body", "correct": true },
+        { "text": "Xiphoid process" },
+        { "text": "Suprasternal notch" }
+      ]
+    },
+    {
+      "text": "A greenstick fracture occurs only in:",
+      "answers": [
+        { "text": "Older adults with osteoporosis" },
+        { "text": "Children whose bones have not fully ossified", "correct": true },
+        { "text": "Athletes after high-impact trauma" },
+        { "text": "Patients with metal implants" }
+      ]
+    },
+    {
+      "text": "Cardiac muscle tissue is:",
+      "answers": [
+        { "text": "Nonstriated and voluntary" },
+        { "text": "Striated, involuntary, and autorhythmic", "correct": true },
+        { "text": "Striated and voluntary" },
+        { "text": "Nonstriated and autorhythmic" }
+      ]
+    },
+    {
+      "text": "Which regulatory protein prevents myosin from binding to actin?",
+      "answers": [
+        { "text": "Troponin" },
+        { "text": "Tropomyosin", "correct": true },
+        { "text": "Titin" },
+        { "text": "Dystrophin" }
+      ]
+    },
+    {
+      "text": "The central nervous system (CNS) consists of the:",
+      "answers": [
+        { "text": "Somatic and autonomic divisions" },
+        { "text": "Brain and spinal cord", "correct": true },
+        { "text": "Sympathetic and parasympathetic nerves" },
+        { "text": "Skeletal muscles and glands" }
+      ]
+    },
+    {
+      "text": "The cholinergic (parasympathetic) pathway uses ____ receptors and the neurotransmitter ____.",
+      "answers": [
+        { "text": "alpha/beta; norepinephrine" },
+        { "text": "muscarinic; acetylcholine", "correct": true },
+        { "text": "muscarinic; epinephrine" },
+        { "text": "alpha/beta; acetylcholine" }
+      ]
+    },
+    {
+      "text": "The stress response is controlled mostly by the:",
+      "answers": [
+        { "text": "Cerebellum" },
+        { "text": "Hypothalamus", "correct": true },
+        { "text": "Pituitary gland" },
+        { "text": "Spinal cord" }
+      ]
+    },
+    {
+      "text": "Plasma is approximately what percentage water?",
+      "answers": [
+        { "text": "8.5%" },
+        { "text": "45%" },
+        { "text": "91.5%", "correct": true },
+        { "text": "99%" }
+      ]
+    },
+    {
+      "text": "The oxygen-carrying protein in red blood cells is:",
+      "answers": [
+        { "text": "Fibrinogen" },
+        { "text": "Albumin" },
+        { "text": "Hemoglobin", "correct": true },
+        { "text": "Globulin" }
+      ]
+    },
+    {
+      "text": "What is the correct order of the events of hemostasis?",
+      "answers": [
+        { "text": "Vascular spasm, platelet plug formation, blood clotting", "correct": true },
+        { "text": "Platelet plug formation, blood clotting, vascular spasm" },
+        { "text": "Blood clotting, vascular spasm, platelet plug formation" },
+        { "text": "Vascular spasm, blood clotting, platelet plug formation" }
+      ]
+    },
+    {
+      "text": "Arteries are blood vessels that carry blood:",
+      "answers": [
+        { "text": "Toward the heart and are generally deoxygenated" },
+        { "text": "Away from the heart and are generally oxygenated", "correct": true },
+        { "text": "Toward the heart and are generally oxygenated" },
+        { "text": "Away from the heart and are generally deoxygenated" }
+      ]
+    },
+    {
+      "text": "The largest mass of lymph tissue in the body is the:",
+      "answers": [
+        { "text": "Thymus" },
+        { "text": "Spleen", "correct": true },
+        { "text": "Liver" },
+        { "text": "Tonsils" }
+      ]
+    },
+    {
+      "text": "External respiration is the gas exchange between the alveoli and the:",
+      "answers": [
+        { "text": "Tissue cells" },
+        { "text": "Pulmonary capillaries", "correct": true },
+        { "text": "Systemic capillaries" },
+        { "text": "Bronchi" }
+      ]
+    },
+    {
+      "text": "Which structure of the upper respiratory system houses the tonsils?",
+      "answers": [
+        { "text": "Nasal cavity" },
+        { "text": "Larynx" },
+        { "text": "Pharynx (throat)", "correct": true },
+        { "text": "Trachea" }
+      ]
+    },
+    {
+      "text": "In the pancreas, low blood glucose stimulates the secretion of:",
+      "answers": [
+        { "text": "Insulin" },
+        { "text": "Glucagon", "correct": true },
+        { "text": "Calcitriol" },
+        { "text": "Renin" }
+      ]
+    },
+    {
+      "text": "Which kidney-produced hormone stimulates the production of red blood cells?",
+      "answers": [
+        { "text": "Calcitriol" },
+        { "text": "Erythropoietin (EPO)", "correct": true },
+        { "text": "Anti-diuretic hormone (ADH)" },
+        { "text": "Glucagon" }
+      ]
+    },
+    {
+      "text": "The functional unit of the kidney is the:",
+      "answers": [
+        { "text": "Glomerulus" },
+        { "text": "Nephron", "correct": true },
+        { "text": "Renal corpuscle" },
+        { "text": "Collecting duct" }
+      ]
+    },
+    {
+      "text": "What is the normal range for blood pH?",
+      "answers": [
+        { "text": "7.00–7.10" },
+        { "text": "7.35–7.45", "correct": true },
+        { "text": "7.50–7.60" },
+        { "text": "6.90–7.30" }
+      ]
+    },
+    {
+      "text": "Which receptors respond to changes in pH to bring the body back to homeostasis?",
+      "answers": [
+        { "text": "Baroreceptors" },
+        { "text": "Chemoreceptors", "correct": true },
+        { "text": "Mechanoreceptors" },
+        { "text": "Photoreceptors" }
+      ]
+    }
+  ]
+}

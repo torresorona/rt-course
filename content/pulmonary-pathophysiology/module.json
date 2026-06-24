@@ -1,7 +1,7 @@
 {
   "title": "Pulmonary Pathophysiology",
   "description": "Infectious, obstructive, restrictive, inflammatory, malignant, vascular, and sleep-related pulmonary disorders with diagnosis, signs and symptoms, treatment, and respiratory therapy considerations.",
-  "order": 4,
+  "order": 5,
   "lessons": [
     {
       "slug": "pulmonary-pathophysiology/lesson-1",

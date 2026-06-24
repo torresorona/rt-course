@@ -1,7 +1,7 @@
 {
   "title": "Pulmonary Anatomy & Physiology",
   "description": "Structure and functional dynamics of the respiratory system, gas exchange, regulation of breathing, and acid-base regulation.",
-  "order": 1,
+  "order": 2,
   "lessons": [
     {
       "slug": "pulmonary-anatomy-physiology/lesson-1",

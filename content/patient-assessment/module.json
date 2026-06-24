@@ -1,7 +1,7 @@
 {
   "title": "Patient Assessment",
   "description": "Clinical assessment techniques for evaluating respiratory patients.",
-  "order": 7,
+  "order": 8,
   "lessons": [
     {
       "slug": "patient-assessment/lesson-1",

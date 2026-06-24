@@ -1,7 +1,7 @@
 {
   "title": "Pulmonary Diagnostics I",
   "description": "Pulmonary function testing fundamentals: spirometry, flow-volume loops, lung volumes, DLCO, bronchoprovocation, CPX, MVV, respiratory muscle strength, FeNO, walk testing, oxygen titration, bronchoscopy, and sleep studies.",
-  "order": 10,
+  "order": 11,
   "lessons": [
     {
       "slug": "pulmonary-diagnostics-i/lesson-1",

@@ -1,7 +1,7 @@
 {
   "title": "Cardiovascular Pathophysiology",
   "description": "Congenital heart defects, valvular dysfunctions, cardiomyopathies, inflammatory heart diseases, and coronary artery disease with pathophysiology, clinical manifestations, diagnostics, and treatment concepts.",
-  "order": 5,
+  "order": 6,
   "lessons": [
     {
       "slug": "cardiovascular-pathophysiology/lesson-1",

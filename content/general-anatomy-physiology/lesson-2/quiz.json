@@ -1,0 +1,230 @@
+{
+  "title": "Chemical Level of Organization Quiz",
+  "questions": [
+    {
+      "text": "Which of the following is a building block of matter that cannot be broken down into simpler forms?",
+      "answers": [
+        { "text": "Molecule" },
+        { "text": "Element", "correct": true },
+        { "text": "Compound" },
+        { "text": "Ion" }
+      ]
+    },
+    {
+      "text": "Which four elements make up the major portion of the human body's mass?",
+      "answers": [
+        { "text": "Oxygen, carbon, hydrogen, nitrogen", "correct": true },
+        { "text": "Sodium, potassium, calcium, chloride" },
+        { "text": "Carbon, calcium, iron, oxygen" },
+        { "text": "Hydrogen, helium, oxygen, nitrogen" }
+      ]
+    },
+    {
+      "text": "Which subatomic particle is positively charged and located in the nucleus?",
+      "answers": [
+        { "text": "Electron" },
+        { "text": "Neutron" },
+        { "text": "Proton", "correct": true },
+        { "text": "Cation" }
+      ]
+    },
+    {
+      "text": "The atomic number of an element is defined as the number of:",
+      "answers": [
+        { "text": "Protons in the nucleus", "correct": true },
+        { "text": "Neutrons in the nucleus" },
+        { "text": "Electrons in the outer shell" },
+        { "text": "Protons plus neutrons" }
+      ]
+    },
+    {
+      "text": "Atoms of the same element that have a different number of neutrons but the same number of protons are called:",
+      "answers": [
+        { "text": "Ions" },
+        { "text": "Isotopes", "correct": true },
+        { "text": "Isomers" },
+        { "text": "Free radicals" }
+      ]
+    },
+    {
+      "text": "An ion with a positive charge is a ____, and an ion with a negative charge is a ____.",
+      "answers": [
+        { "text": "anion; cation" },
+        { "text": "cation; anion", "correct": true },
+        { "text": "proton; electron" },
+        { "text": "monomer; polymer" }
+      ]
+    },
+    {
+      "text": "Which statement correctly describes the relationship between molecules and compounds?",
+      "answers": [
+        { "text": "All molecules are compounds" },
+        { "text": "All compounds are molecules, but not all molecules are compounds", "correct": true },
+        { "text": "Compounds and molecules are identical terms" },
+        { "text": "No compounds are molecules" }
+      ]
+    },
+    {
+      "text": "A free radical is best described as an atom or group of atoms that:",
+      "answers": [
+        { "text": "Has a full valence shell and is very stable" },
+        { "text": "Has an unpaired electron in the outermost shell and is highly reactive", "correct": true },
+        { "text": "Cannot interact with other molecules" },
+        { "text": "Always carries a positive charge" }
+      ]
+    },
+    {
+      "text": "Which substances can slow the pace of damage caused by free radicals?",
+      "answers": [
+        { "text": "Electrolytes" },
+        { "text": "Antioxidants", "correct": true },
+        { "text": "Enzymes" },
+        { "text": "Isotopes" }
+      ]
+    },
+    {
+      "text": "According to the octet rule, elements bind in an attempt to:",
+      "answers": [
+        { "text": "Increase their atomic number" },
+        { "text": "Fill the valence (outer) shell for stability", "correct": true },
+        { "text": "Lose all of their electrons" },
+        { "text": "Become radioactive" }
+      ]
+    },
+    {
+      "text": "An ionic compound that breaks into positive and negative ions in solution and can conduct an electric current is called a(n):",
+      "answers": [
+        { "text": "Isomer" },
+        { "text": "Electrolyte", "correct": true },
+        { "text": "Catalyst" },
+        { "text": "Polymer" }
+      ]
+    },
+    {
+      "text": "In which type of bond do two or more atoms share electrons rather than gaining or losing them?",
+      "answers": [
+        { "text": "Ionic bond" },
+        { "text": "Covalent bond", "correct": true },
+        { "text": "Hydrogen bond" },
+        { "text": "Electrolyte bond" }
+      ]
+    },
+    {
+      "text": "Surface tension in the air sacs of the lungs results from which type of bonding between water molecules?",
+      "answers": [
+        { "text": "Ionic bonding" },
+        { "text": "Nonpolar covalent bonding" },
+        { "text": "Hydrogen bonding", "correct": true },
+        { "text": "Polar covalent bonding" }
+      ]
+    },
+    {
+      "text": "The reaction HCl + NaOH → NaCl + H₂O is an example of which type of chemical reaction?",
+      "answers": [
+        { "text": "Synthesis" },
+        { "text": "Decomposition" },
+        { "text": "Exchange", "correct": true },
+        { "text": "Reversible" }
+      ]
+    },
+    {
+      "text": "Which type of reaction occurs when two or more molecules combine to form a larger one?",
+      "answers": [
+        { "text": "Decomposition" },
+        { "text": "Synthesis", "correct": true },
+        { "text": "Exchange" },
+        { "text": "Hydrolysis" }
+      ]
+    },
+    {
+      "text": "A reaction that releases energy is termed:",
+      "answers": [
+        { "text": "Endergonic" },
+        { "text": "Exergonic", "correct": true },
+        { "text": "Anabolic" },
+        { "text": "Reversible" }
+      ]
+    },
+    {
+      "text": "Catalysts, such as enzymes, speed up chemical reactions by:",
+      "answers": [
+        { "text": "Raising the temperature of the reactants" },
+        { "text": "Lowering the activation energy required for the reaction", "correct": true },
+        { "text": "Increasing the concentration of reactants" },
+        { "text": "Adding water to the reaction" }
+      ]
+    },
+    {
+      "text": "Molecules that have the same molecular formula but different structures are called:",
+      "answers": [
+        { "text": "Monomers" },
+        { "text": "Polymers" },
+        { "text": "Isomers", "correct": true },
+        { "text": "Isotopes" }
+      ]
+    },
+    {
+      "text": "Which macromolecule is the primary source of chemical/cellular energy?",
+      "answers": [
+        { "text": "Carbohydrates", "correct": true },
+        { "text": "Lipids" },
+        { "text": "Proteins" },
+        { "text": "Nucleic acids" }
+      ]
+    },
+    {
+      "text": "A triglyceride is composed of:",
+      "answers": [
+        { "text": "Two fatty acid chains and a phosphate group" },
+        { "text": "Three fatty acid chains bonded to glycerol", "correct": true },
+        { "text": "Four amino acids" },
+        { "text": "A double helix of nucleotides" }
+      ]
+    },
+    {
+      "text": "Which lipids are signaling molecules especially involved in the inflammatory response, such as prostaglandins and leukotrienes?",
+      "answers": [
+        { "text": "Triglycerides" },
+        { "text": "Steroids" },
+        { "text": "Eicosanoids", "correct": true },
+        { "text": "Phospholipids" }
+      ]
+    },
+    {
+      "text": "In enzyme activity, the reactant molecules on which the enzyme acts are called the:",
+      "answers": [
+        { "text": "Active site" },
+        { "text": "Substrate", "correct": true },
+        { "text": "Product" },
+        { "text": "Catalyst" }
+      ]
+    },
+    {
+      "text": "Which of the following correctly describes DNA?",
+      "answers": [
+        { "text": "Single stranded and forms ribosomes" },
+        { "text": "Double stranded and forms inherited genetic information", "correct": true },
+        { "text": "Single stranded and carries amino acids" },
+        { "text": "Double stranded and used only for energy storage" }
+      ]
+    },
+    {
+      "text": "Glycolysis, the first phase of cellular respiration, occurs in the cytoplasm and is anaerobic, producing how many ATP?",
+      "answers": [
+        { "text": "2 ATP" },
+        { "text": "4 ATP", "correct": true },
+        { "text": "36 ATP" },
+        { "text": "38 ATP" }
+      ]
+    },
+    {
+      "text": "The Krebs cycle is aerobic, occurs in the cristae of the mitochondria, and produces approximately how many ATP?",
+      "answers": [
+        { "text": "2 ATP" },
+        { "text": "4 ATP" },
+        { "text": "36–38 ATP", "correct": true },
+        { "text": "100 ATP" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Acid-Base Homeostasis Quiz",
+  "questions": [
+    {
+      "text": "What is the normal range for blood pH?",
+      "answers": [
+        { "text": "7.00–7.10" },
+        { "text": "7.35–7.45", "correct": true },
+        { "text": "7.50–7.60" },
+        { "text": "6.80–7.20" }
+      ]
+    },
+    {
+      "text": "An increase in hydrogen ions (H⁺) will have what effect on pH?",
+      "answers": [
+        { "text": "Raise the pH" },
+        { "text": "Lower the pH", "correct": true },
+        { "text": "Have no effect on pH" },
+        { "text": "Stabilize the pH at 7.40" }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT one of the three ways the body removes H⁺?",
+      "answers": [
+        { "text": "Buffer systems" },
+        { "text": "Exhaling CO₂" },
+        { "text": "Kidney excretion of H⁺ in urine" },
+        { "text": "Sweating out H⁺ through the skin", "correct": true }
+      ]
+    },
+    {
+      "text": "Buffer systems prevent drastic changes in pH by:",
+      "answers": [
+        { "text": "Converting strong acids and bases into weak acids and bases", "correct": true },
+        { "text": "Converting weak acids into strong acids" },
+        { "text": "Removing all hydrogen ions instantly" },
+        { "text": "Increasing the respiratory rate" }
+      ]
+    },
+    {
+      "text": "Albumin and hemoglobin are components of which buffer system?",
+      "answers": [
+        { "text": "Phosphate buffer system" },
+        { "text": "Carbonic acid–bicarbonate buffer system" },
+        { "text": "Protein buffer system", "correct": true },
+        { "text": "Ammonia buffer system" }
+      ]
+    },
+    {
+      "text": "In the carbonic acid–bicarbonate buffer system, excess CO₂ is:",
+      "answers": [
+        { "text": "Excreted in the urine" },
+        { "text": "Exhaled from the lungs", "correct": true },
+        { "text": "Stored in the liver" },
+        { "text": "Bound to hemoglobin permanently" }
+      ]
+    },
+    {
+      "text": "The phosphate buffer system enables excess H⁺ to be:",
+      "answers": [
+        { "text": "Exhaled through the lungs" },
+        { "text": "Excreted through the urine", "correct": true },
+        { "text": "Stored in adipose tissue" },
+        { "text": "Converted into CO₂" }
+      ]
+    },
+    {
+      "text": "Which two factors affect CO₂ elimination?",
+      "answers": [
+        { "text": "Rate of breathing and depth of breathing", "correct": true },
+        { "text": "Blood glucose and blood volume" },
+        { "text": "Heart rate and stroke volume" },
+        { "text": "Sodium and potassium levels" }
+      ]
+    },
+    {
+      "text": "Which receptors respond to changes in pH to bring the body back to homeostasis?",
+      "answers": [
+        { "text": "Baroreceptors" },
+        { "text": "Chemoreceptors", "correct": true },
+        { "text": "Mechanoreceptors" },
+        { "text": "Muscarinic receptors" }
+      ]
+    },
+    {
+      "text": "Intercalated cells are epithelial cells associated with acid-base homeostasis located in the:",
+      "answers": [
+        { "text": "Distal segments of the kidney tubule", "correct": true },
+        { "text": "Alveoli of the lungs" },
+        { "text": "Liver sinusoids" },
+        { "text": "Walls of the arteries" }
+      ]
+    },
+    {
+      "text": "When the pH is too low, intercalated cells excrete excess ____; when the pH is too high, they excrete excess ____.",
+      "answers": [
+        { "text": "HCO₃; H⁺" },
+        { "text": "H⁺; HCO₃", "correct": true },
+        { "text": "CO₂; O₂" },
+        { "text": "Na⁺; K⁺" }
+      ]
+    },
+    {
+      "text": "In the collecting duct, ammonia (NH₃) binds to H⁺ to form:",
+      "answers": [
+        { "text": "Dihydrogen phosphate (H₂PO₄)" },
+        { "text": "Ammonium (NH₄)", "correct": true },
+        { "text": "Bicarbonate (HCO₃)" },
+        { "text": "Carbonic acid" }
+      ]
+    },
+    {
+      "text": "Monohydrogen phosphate (HPO₄) binds to H⁺ to form ____, which is then excreted in the urine.",
+      "answers": [
+        { "text": "ammonium (NH₄)" },
+        { "text": "dihydrogen phosphate (H₂PO₄)", "correct": true },
+        { "text": "bicarbonate (HCO₃)" },
+        { "text": "carbonic acid (H₂CO₃)" }
+      ]
+    },
+    {
+      "text": "Which of the following is one of the four key acid-base imbalances?",
+      "answers": [
+        { "text": "Respiratory acidosis", "correct": true },
+        { "text": "Renal hypoxia" },
+        { "text": "Hemolytic alkalosis" },
+        { "text": "Cardiac acidosis" }
+      ]
+    },
+    {
+      "text": "Which two acid-base imbalances originate from the respiratory system (lungs/CO₂)?",
+      "answers": [
+        { "text": "Metabolic acidosis and metabolic alkalosis" },
+        { "text": "Respiratory acidosis and respiratory alkalosis", "correct": true },
+        { "text": "Respiratory acidosis and metabolic acidosis" },
+        { "text": "Respiratory alkalosis and metabolic alkalosis" }
+      ]
+    }
+  ]
+}

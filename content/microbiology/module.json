@@ -1,7 +1,7 @@
 {
   "title": "Microbiology",
   "description": "Cell classification, bacterial and viral structure, microbial control, infection transmission, healthcare-associated infections, and immune defense.",
-  "order": 3,
+  "order": 4,
   "lessons": [
     {
       "slug": "microbiology/lesson-1",
