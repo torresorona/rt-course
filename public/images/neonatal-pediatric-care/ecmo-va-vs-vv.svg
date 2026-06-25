@@ -1,0 +1,69 @@
+<svg viewBox="0 0 820 460" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <defs>
+    <marker id="ec-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a78a0"/>
+    </marker>
+    <marker id="ec-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#a85c3a"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="458" rx="18" fill="#faf9f7" stroke="#e8e4dd" stroke-width="2"/>
+  <text x="410" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#1f1b17">ECMO: Veno-Arterial vs Veno-Venous</text>
+  <text x="410" y="57" text-anchor="middle" font-size="13" fill="#7a7068">Blood is drained, oxygenated through a Quadrox, warmed, and returned</text>
+  <line x1="410" y1="76" x2="410" y2="442" stroke="#e8e4dd" stroke-width="1.5"/>
+
+  <!-- ===== LEFT: VA ===== -->
+  <rect x="44" y="74" width="336" height="30" rx="8" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.5"/>
+  <text x="212" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#a85c3a">VA — Veno-Arterial · supports HEART + LUNGS</text>
+
+  <rect x="150" y="122" width="124" height="50" rx="12" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <text x="212" y="152" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f1b17">Patient</text>
+
+  <path d="M158,172 C120,200 110,220 108,250" fill="none" stroke="#5b8db8" stroke-width="3.5" marker-end="url(#ec-blue)"/>
+  <text x="72" y="214" font-size="10.5" fill="#4a78a0">drain</text>
+  <text x="72" y="226" font-size="10.5" fill="#4a78a0">O₂-poor</text>
+  <path d="M322,252 C340,220 320,196 266,172" fill="none" stroke="#a85c3a" stroke-width="3.5" marker-end="url(#ec-red)"/>
+  <text x="332" y="214" font-size="10.5" fill="#a85c3a">return</text>
+  <text x="332" y="226" font-size="10.5" fill="#a85c3a">O₂-rich</text>
+
+  <circle cx="108" cy="272" r="22" fill="#f5f3ef" stroke="#b8b0a2" stroke-width="1.6"/>
+  <text x="108" y="276" text-anchor="middle" font-size="11.5" font-weight="600" fill="#3d3832">Pump</text>
+  <path d="M132,272 L168,272" fill="none" stroke="#7a7068" stroke-width="2.5" marker-end="url(#ec-red)"/>
+  <rect x="170" y="250" width="166" height="44" rx="10" fill="#ecf0e8" stroke="#6b8f5e" stroke-width="1.6"/>
+  <text x="253" y="270" text-anchor="middle" font-size="12.5" font-weight="700" fill="#3f5a34">Quadrox</text>
+  <text x="253" y="285" text-anchor="middle" font-size="10.5" fill="#5c544d">oxygenator + warmer</text>
+
+  <rect x="44" y="318" width="336" height="116" rx="10" fill="#ffffff" stroke="#e8e4dd" stroke-width="1.5"/>
+  <text x="60" y="342" font-size="12" font-weight="700" fill="#3d3832">Cannulation</text>
+  <text x="60" y="364" font-size="11.5" fill="#5c544d">Drain: right internal jugular vein → right atrium</text>
+  <text x="60" y="386" font-size="11.5" fill="#5c544d">Return: right common carotid artery → aortic arch</text>
+  <text x="60" y="412" font-size="11.5" font-weight="600" fill="#a85c3a">↑ pump RPM → ↑ blood pressure</text>
+
+  <!-- ===== RIGHT: VV ===== -->
+  <rect x="444" y="74" width="332" height="30" rx="8" fill="#e4eef6" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="610" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#4a78a0">VV — Veno-Venous · supports LUNGS only</text>
+
+  <rect x="548" y="122" width="124" height="50" rx="12" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <text x="610" y="152" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f1b17">Patient</text>
+
+  <path d="M556,172 C518,200 508,220 506,250" fill="none" stroke="#5b8db8" stroke-width="3.5" marker-end="url(#ec-blue)"/>
+  <text x="470" y="214" font-size="10.5" fill="#4a78a0">drain</text>
+  <text x="470" y="226" font-size="10.5" fill="#4a78a0">O₂-poor</text>
+  <path d="M720,252 C738,220 718,196 664,172" fill="none" stroke="#a85c3a" stroke-width="3.5" marker-end="url(#ec-red)"/>
+  <text x="730" y="214" font-size="10.5" fill="#a85c3a">return</text>
+  <text x="730" y="226" font-size="10.5" fill="#a85c3a">O₂-rich</text>
+
+  <circle cx="506" cy="272" r="22" fill="#f5f3ef" stroke="#b8b0a2" stroke-width="1.6"/>
+  <text x="506" y="276" text-anchor="middle" font-size="11.5" font-weight="600" fill="#3d3832">Pump</text>
+  <path d="M530,272 L566,272" fill="none" stroke="#7a7068" stroke-width="2.5" marker-end="url(#ec-red)"/>
+  <rect x="568" y="250" width="166" height="44" rx="10" fill="#ecf0e8" stroke="#6b8f5e" stroke-width="1.6"/>
+  <text x="651" y="270" text-anchor="middle" font-size="12.5" font-weight="700" fill="#3f5a34">Quadrox</text>
+  <text x="651" y="285" text-anchor="middle" font-size="10.5" fill="#5c544d">oxygenator + warmer</text>
+
+  <rect x="444" y="318" width="332" height="116" rx="10" fill="#ffffff" stroke="#e8e4dd" stroke-width="1.5"/>
+  <text x="460" y="342" font-size="12" font-weight="700" fill="#3d3832">Cannulation</text>
+  <text x="460" y="364" font-size="11.5" fill="#5c544d">Drain: right internal jugular vein</text>
+  <text x="460" y="386" font-size="11.5" fill="#5c544d">Return: right femoral vein</text>
+  <text x="460" y="412" font-size="11.5" font-weight="600" fill="#4a78a0">Less cardiac support than VA</text>
+</svg>

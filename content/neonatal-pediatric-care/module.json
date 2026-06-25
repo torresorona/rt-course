@@ -1,0 +1,123 @@
+{
+  "title": "Neonatal & Pediatric Respiratory Care",
+  "description": "Neonatal, infant, and pediatric respiratory care: assessment of the mother and newborn, fetal circulation and shunts, RDS and the major neonatal/pediatric disease processes, conventional and high-frequency ventilation, and neonatal/pediatric respiratory equipment.",
+  "order": 17,
+  "lessons": [
+    {
+      "slug": "neonatal-pediatric-care/lesson-1",
+      "title": "Neonatal & Pediatric Foundations",
+      "description": "Neonatal and pediatric terminology, why neonatal care differs anatomically, the three fetal shunts (ductus venosus, ductus arteriosus, foramen ovale) and prostaglandin, maternal risk factors, the placenta, and fetal assessment tests (amniocentesis, L/S ratio, phosphatidylglycerol, fetal heart rate and decelerations, umbilical cord, and delivery).",
+      "audio": "/audio/neonatal-pediatric-care/How_newborns_transition_to_breathing_air.m4a",
+      "resources": [
+        {
+          "title": "Fetal Circulation — StatPearls (NIH)",
+          "description": "Evidence-based reference on fetal circulation, the ductus venosus, ductus arteriosus, and foramen ovale, and the circulatory changes that occur at birth.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539710/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-2",
+      "title": "The Newborn Assessment & RDS",
+      "description": "Post-birth evaluation, lung development, meconium and resuscitation, neonatal oxygen therapy targets, the APGAR and Ballard scores, weight classifications, the Colorado intrauterine growth chart, the Silverman score, the signs and treatment of respiratory distress syndrome, surfactant deficiency and replacement therapy, blood gas/saturation targets, pre- and post-ductal monitoring, the capillary stick, and pediatric assessment.",
+      "audio": "/audio/neonatal-pediatric-care/The_high_stakes_of_neonatal_resuscitation.m4a",
+      "resources": [
+        {
+          "title": "APGAR Score — StatPearls (NIH)",
+          "description": "Clinical reference on the APGAR scoring system: the five components, scoring at 1 and 5 minutes, and interpretation.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470569/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-3",
+      "title": "Neonatal & Pediatric Disease Processes",
+      "description": "Pathophysiology, clinical manifestations, and treatment of RDS, transient tachypnea of the newborn, apnea of prematurity, persistent pulmonary hypertension of the newborn, bronchopulmonary dysplasia, meconium aspiration syndrome, congenital diaphragmatic hernia, retinopathy of prematurity, pulmonary interstitial emphysema, gastroschisis, necrotizing enterocolitis, SIDS, GERD, bronchiolitis, croup, epiglottitis, and cystic fibrosis.",
+      "audio": "/audio/neonatal-pediatric-care/Neonatal_and_Pediatric_Respiratory_Pathophysiology.m4a",
+      "resources": [
+        {
+          "title": "Respiratory Distress Syndrome in the Newborn — StatPearls (NIH)",
+          "description": "Evidence-based review of neonatal RDS: surfactant deficiency pathophysiology, radiographic findings, and management.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560779/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-4",
+      "title": "Conventional Mechanical Ventilation",
+      "description": "NCPAP/NIV indications and contraindications, neonatal versus pediatric physiology and respiratory time constants, infant ventilators and pneumotachography, initial application, conventional ventilator settings (PIP, PEEP, delta P, tidal volume, rate, inspiratory time, FiO₂), AARC indications and hazards for intubation, air leak syndromes, monitoring, and assessment of outcome.",
+      "audio": "/audio/neonatal-pediatric-care/The_Delicate_Physics_of_Newborn_Lungs.m4a",
+      "resources": [
+        {
+          "title": "Continuous Positive Airway Pressure in the Neonate — StatPearls (NIH)",
+          "description": "Reference on nasal CPAP for neonates: indications, physiologic effects on FRC, and weaning.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482178/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-5",
+      "title": "High-Frequency Ventilation",
+      "description": "Principles and indications of high-frequency ventilation, HFOV versus HFJV, the five gas-transport mechanisms (spike formation, helical diffusion, Taylor dispersion, pendelluft ventilation, molecular diffusion), HFOV settings (bias flow, MAP, amplitude/∆P, frequency, I-time, FiO₂), HFJV settings, and servo pressure.",
+      "audio": "/audio/neonatal-pediatric-care/Breathing_at_nine_hundred_breaths_per_minute.m4a",
+      "resources": [
+        {
+          "title": "High-Frequency Ventilation — StatPearls (NIH)",
+          "description": "Reference on high-frequency oscillatory and jet ventilation: gas transport mechanisms, indications, and settings.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK553176/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-6",
+      "title": "Neonatal & Pediatric Respiratory Equipment",
+      "description": "Transcutaneous monitoring of PtcO₂ and PtcCO₂, inhaled nitric oxide delivery and weaning, ECMO (VA and VV), incubators and radiant warmers, oxygen-delivery devices for neonates and pediatrics, endotracheal tube sizing formulas, high-flow nasal cannula, air/oxygen blenders, bag-mask and bronchodilator delivery, and the Aerogen nebulizer.",
+      "audio": "/audio/neonatal-pediatric-care/Neonatal_Respiratory_Support_from_Warmers_to_ECMO.m4a",
+      "resources": [
+        {
+          "title": "Inhaled Nitric Oxide — StatPearls (NIH)",
+          "description": "Reference on inhaled nitric oxide as a selective pulmonary vasodilator: indications in PPHN, dosing, methemoglobinemia, and weaning.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470429/",
+          "type": "study-guide"
+        }
+      ]
+    },
+    {
+      "slug": "neonatal-pediatric-care/lesson-7",
+      "title": "Module Overview & Mock Exam",
+      "description": "Cumulative review of neonatal and pediatric assessment, the major disease processes, conventional and high-frequency ventilation, and neonatal/pediatric respiratory equipment, with a 50-question mock exam."
+    }
+  ],
+  "audio": [
+    {
+      "title": "How Newborns Transition to Breathing Air",
+      "src": "/audio/neonatal-pediatric-care/How_newborns_transition_to_breathing_air.m4a"
+    },
+    {
+      "title": "The High Stakes of Neonatal Resuscitation",
+      "src": "/audio/neonatal-pediatric-care/The_high_stakes_of_neonatal_resuscitation.m4a"
+    },
+    {
+      "title": "Neonatal and Pediatric Respiratory Pathophysiology",
+      "src": "/audio/neonatal-pediatric-care/Neonatal_and_Pediatric_Respiratory_Pathophysiology.m4a"
+    },
+    {
+      "title": "The Delicate Physics of Newborn Lungs",
+      "src": "/audio/neonatal-pediatric-care/The_Delicate_Physics_of_Newborn_Lungs.m4a"
+    },
+    {
+      "title": "Breathing at Nine Hundred Breaths Per Minute",
+      "src": "/audio/neonatal-pediatric-care/Breathing_at_nine_hundred_breaths_per_minute.m4a"
+    },
+    {
+      "title": "Neonatal Respiratory Support: From Warmers to ECMO",
+      "src": "/audio/neonatal-pediatric-care/Neonatal_Respiratory_Support_from_Warmers_to_ECMO.m4a"
+    }
+  ],
+  "resources": []
+}

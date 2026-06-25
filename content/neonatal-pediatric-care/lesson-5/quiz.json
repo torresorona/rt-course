@@ -1,0 +1,95 @@
+{
+  "title": "High-Frequency Ventilation Quiz",
+  "questions": [
+    {
+      "text": "What best describes high-frequency ventilation and its primary goal?",
+      "answers": [
+        { "text": "Small tidal volumes less than anatomic dead space at rapid frequencies, to provide gas exchange while limiting lung injury", "correct": true },
+        { "text": "Large tidal volumes at slow rates to maximize alveolar recruitment" },
+        { "text": "Normal tidal volumes with very high PEEP to drive CO₂ removal" },
+        { "text": "A non-invasive mode used to avoid intubation in neonates" }
+      ]
+    },
+    {
+      "text": "On HFOV, how is oxygenation primarily achieved?",
+      "answers": [
+        { "text": "By maintaining a high lung resting volume (increased FRC) through a high mean airway pressure, similar to CPAP", "correct": true },
+        { "text": "By increasing the amplitude to deliver larger tidal volumes" },
+        { "text": "By increasing the frequency to deliver more breaths per minute" },
+        { "text": "By allowing passive exhalation through elastic recoil" }
+      ]
+    },
+    {
+      "text": "Which gas-transport mechanism describes gas mixing between lung regions that have different time constants, where fast-filling units empty into slow-filling units at end-inspiration?",
+      "answers": [
+        { "text": "Pendelluft ventilation", "correct": true },
+        { "text": "Spike formation" },
+        { "text": "Taylor dispersion" },
+        { "text": "Molecular diffusion" }
+      ]
+    },
+    {
+      "text": "On HFOV, increasing the bias flow has what primary effect?",
+      "answers": [
+        { "text": "It increases the MAP, which raises the PaO₂", "correct": true },
+        { "text": "It increases the amplitude, which lowers the PaCO₂" },
+        { "text": "It increases the frequency, which lowers the tidal volume" },
+        { "text": "It decreases the MAP and improves CO₂ clearance only" }
+      ]
+    },
+    {
+      "text": "On HFOV, how is the MAP titrated for lung recruitment, and how can it be set from conventional ventilation?",
+      "answers": [
+        { "text": "Increase MAP until lung expansion reaches T8–T9; it can be set by adding +5 to the MAP currently required on conventional ventilation", "correct": true },
+        { "text": "Increase MAP until expansion reaches T4–T5; set it equal to the conventional MAP" },
+        { "text": "Decrease MAP until the wiggle disappears; set it 5 below the conventional MAP" },
+        { "text": "Set MAP to 33% of the PIP and do not adjust it" }
+      ]
+    },
+    {
+      "text": "On HFOV, frequency (Hz) has an inverse relationship with amplitude. To eliminate MORE CO₂, what should be done to the frequency?",
+      "answers": [
+        { "text": "Decrease the frequency, allowing more time for pressure to reach the alveoli", "correct": true },
+        { "text": "Increase the frequency, delivering more breath cycles per minute" },
+        { "text": "Leave the frequency unchanged and increase the I-time instead" },
+        { "text": "Increase the frequency, which directly raises the amplitude" }
+      ]
+    },
+    {
+      "text": "Which statement about high-frequency jet ventilation (HFJV) is correct?",
+      "answers": [
+        { "text": "It uses a nozzle/injector to create high-velocity jets with passive exhalation, and is used mostly for BPD, PIE, and air leak syndromes", "correct": true },
+        { "text": "It uses a piston to actively push and pull gas, and is the most common form of HFV" },
+        { "text": "It requires active exhalation and a long I-time of about 0.33 seconds" },
+        { "text": "It is used only in adult patients with ARDS" }
+      ]
+    },
+    {
+      "text": "On HFJV, which adjustment is the most important factor for decreasing the PaCO₂?",
+      "answers": [
+        { "text": "Increasing the delta P by raising the PIP (and decreasing PEEP)", "correct": true },
+        { "text": "Increasing the PEEP to recruit more alveoli" },
+        { "text": "Decreasing the rate below 240 BPM" },
+        { "text": "Increasing the I-time toward 1 second" }
+      ]
+    },
+    {
+      "text": "On HFJV paired with conventional ventilation, oxygenation is improved by which of the following?",
+      "answers": [
+        { "text": "Increasing PEEP, increasing the CV rate as a recruitment maneuver, and increasing I-time", "correct": true },
+        { "text": "Increasing the jet PIP and decreasing PEEP" },
+        { "text": "Decreasing PEEP and increasing the jet rate" },
+        { "text": "Lowering the MAP below 10 to reduce overdistension" }
+      ]
+    },
+    {
+      "text": "On HFJV, the servo pressure suddenly DECREASES. Which of the following could explain this change?",
+      "answers": [
+        { "text": "Worsening compliance/resistance, an obstructed ETT, a tension pneumothorax, or a right mainstem intubation", "correct": true },
+        { "text": "Improving compliance or resistance" },
+        { "text": "A leak around the ETT because the baby is growing" },
+        { "text": "A tubing leak in the circuit" }
+      ]
+    }
+  ]
+}

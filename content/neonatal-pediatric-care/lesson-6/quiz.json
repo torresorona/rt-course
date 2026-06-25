@@ -1,0 +1,95 @@
+{
+  "title": "Neonatal & Pediatric Respiratory Equipment Quiz",
+  "questions": [
+    {
+      "text": "How does a transcutaneous monitor differ from a standard pulse oximeter?",
+      "answers": [
+        { "text": "It measures both PtcO₂ and PtcCO₂ and heats the skin to arterialize the underlying capillaries", "correct": true },
+        { "text": "It measures only oxygen saturation but with greater accuracy" },
+        { "text": "It requires a continuous arterial blood draw to function" },
+        { "text": "It cools the skin to slow metabolism at the sensor site" }
+      ]
+    },
+    {
+      "text": "Why must a transcutaneous electrode be repositioned every 2–6 hours?",
+      "answers": [
+        { "text": "To prevent thermal damage to the skin from the heating element", "correct": true },
+        { "text": "To recalibrate the oxygen saturation reading" },
+        { "text": "Because the adhesive loses its seal after 2 hours" },
+        { "text": "To alternate between measuring O₂ and CO₂" }
+      ]
+    },
+    {
+      "text": "Inhaled nitric oxide improves oxygenation in PPHN by which mechanism?",
+      "answers": [
+        { "text": "It is a selective pulmonary vasodilator that dilates constricted capillaries around healthy alveoli, overcoming shunt", "correct": true },
+        { "text": "It is a systemic vasoconstrictor that raises blood pressure" },
+        { "text": "It directly increases surfactant production in type II cells" },
+        { "text": "It bronchodilates the small airways to reduce resistance" }
+      ]
+    },
+    {
+      "text": "When weaning a patient off inhaled nitric oxide, why should FiO₂ be increased as the iNO is decreased?",
+      "answers": [
+        { "text": "To prevent rebound hypoxemia and a return to PPHN", "correct": true },
+        { "text": "To keep nitrogen dioxide levels above 2 PPM" },
+        { "text": "To raise methemoglobin above 5% of total hemoglobin" },
+        { "text": "Because FiO₂ has no relationship to nitric oxide weaning" }
+      ]
+    },
+    {
+      "text": "A neonate requires both cardiac and pulmonary support on ECMO. Which configuration is appropriate, and how is it cannulated?",
+      "answers": [
+        { "text": "VA (veno-arterial) ECMO — right internal jugular vein to the right atrium, and the right common carotid artery to the aortic arch", "correct": true },
+        { "text": "VV (veno-venous) ECMO — right internal jugular vein and right femoral vein" },
+        { "text": "VV ECMO — because it provides the most cardiac support" },
+        { "text": "VA ECMO — cannulating only the right femoral vein" }
+      ]
+    },
+    {
+      "text": "Which device is the standard unit in the delivery room because it provides an open environment to manipulate the patient and perform CPR?",
+      "answers": [
+        { "text": "The radiant warmer", "correct": true },
+        { "text": "The closed incubator/isolette" },
+        { "text": "The oxyhood" },
+        { "text": "The bubble CPAP setup" }
+      ]
+    },
+    {
+      "text": "Using the formula Tube ID = (Age + 16) / 4, what is the appropriate uncuffed ETT internal diameter for a 4-year-old child?",
+      "answers": [
+        { "text": "5.0 mm", "correct": true },
+        { "text": "4.0 mm" },
+        { "text": "6.0 mm" },
+        { "text": "3.5 mm" }
+      ]
+    },
+    {
+      "text": "A pediatric patient is placed on a simple mask. What minimum flow is needed, and what happens below 5 L/min?",
+      "answers": [
+        { "text": "Greater than 10 L/min is satisfactory; less than 5 L/min causes CO₂ rebreathing", "correct": true },
+        { "text": "Greater than 2 L/min is satisfactory; less than 1 L/min causes CO₂ rebreathing" },
+        { "text": "Any flow is adequate because the mask stores oxygen between breaths" },
+        { "text": "Greater than 15 L/min is required to avoid pressure necrosis" }
+      ]
+    },
+    {
+      "text": "An infant has a small tidal volume and needs a bronchodilator. How is the medication best delivered?",
+      "answers": [
+        { "text": "By bagging in the medication with a spacer and Jackson-Reese bag, or via an inline Aerogen if ventilated", "correct": true },
+        { "text": "With a standard adult facemask and SVN" },
+        { "text": "By instilling the liquid medication directly down the ETT" },
+        { "text": "Only through a metered-dose inhaler held to the face" }
+      ]
+    },
+    {
+      "text": "An air/oxygen blender suddenly emits a harmonic sound. What does this indicate, and what should be done to confirm the delivered FiO₂?",
+      "answers": [
+        { "text": "A gas source has failed; confirm the FiO₂ with an O₂ analyzer", "correct": true },
+        { "text": "The proportioning valve is working normally; no action is needed" },
+        { "text": "The patient is over-oxygenated; lower the flow immediately" },
+        { "text": "The blender is calibrated; document the set FiO₂ as accurate" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "title": "Neonatal & Pediatric Respiratory Care Mock Exam",
+  "questions": [
+    {
+      "text": "A term newborn is in respiratory distress, and a chest x-ray reveals bowel, stomach, and part of the liver in the thoracic cavity with one severely compromised lung. What is the diagnosis and initial management?",
+      "answers": [
+        { "text": "Congenital diaphragmatic hernia — remove bowel gas, slowly suction the abdominal contents back to position, and close the breach", "correct": true },
+        { "text": "Gastroschisis — cover the exposed intestines and begin antibiotics" },
+        { "text": "Tension pneumothorax — perform immediate needle decompression" },
+        { "text": "Meconium aspiration syndrome — intubate and suction the ETT until clear" }
+      ]
+    },
+    {
+      "text": "Necrotizing enterocolitis (NEC) is most common in premature infants because they have:",
+      "answers": [
+        { "text": "Low blood flow to the intestines and underdeveloped intestinal tracts, which — with early gut bacteria — can infect and kill the intestinal wall", "correct": true },
+        { "text": "A CFTR mutation that thickens intestinal secretions and obstructs the bowel" },
+        { "text": "An abdominal wall defect that exposes the intestines to outside infection" },
+        { "text": "Excess swallowed surfactant that irritates and inflames the gut lining" }
+      ]
+    },
+    {
+      "text": "In utero, the ductus arteriosus shunts blood away from the lungs because:",
+      "answers": [
+        { "text": "Pulmonary vascular pressure is higher than systemic vascular pressure", "correct": true },
+        { "text": "Systemic vascular pressure is higher than pulmonary vascular pressure" },
+        { "text": "The lungs are fully oxygenating fetal blood" },
+        { "text": "Prostaglandin levels are low before birth" }
+      ]
+    },
+    {
+      "text": "Which shunt closes rapidly after birth, aided by clamping the umbilical cord?",
+      "answers": [
+        { "text": "The ductus venosus", "correct": true },
+        { "text": "The ductus arteriosus" },
+        { "text": "The foramen ovale" },
+        { "text": "The umbilical artery" }
+      ]
+    },
+    {
+      "text": "A mother is over 35 years old. Based on maternal risk factors, her infant is at increased risk for:",
+      "answers": [
+        { "text": "Prematurity and chromosomal defects such as Down syndrome", "correct": true },
+        { "text": "Low birth weight and facial dysmorphology" },
+        { "text": "Large gestational age and hypoglycemia" },
+        { "text": "Necrotizing enterocolitis only" }
+      ]
+    },
+    {
+      "text": "The placenta is best described as:",
+      "answers": [
+        { "text": "The organ of respiration for the fetus, extracting O₂ and excreting CO₂", "correct": true },
+        { "text": "A passive filter that only removes waste" },
+        { "text": "The structure that produces fetal surfactant" },
+        { "text": "A shunt between the liver and the inferior vena cava" }
+      ]
+    },
+    {
+      "text": "An L/S ratio of 2:1 from amniocentesis indicates:",
+      "answers": [
+        { "text": "Stable surfactant production in a mature lung", "correct": true },
+        { "text": "Surfactant deficiency and likely RDS" },
+        { "text": "The presence of meconium" },
+        { "text": "A chromosomal abnormality" }
+      ]
+    },
+    {
+      "text": "Gastroesophageal reflux disease (GERD) in an infant is the regurgitation of stomach contents. Which respiratory complications can it lead to?",
+      "answers": [
+        { "text": "Reactive airway disease, pneumonia, and other upper-airway issues", "correct": true },
+        { "text": "Retinopathy of prematurity and intraventricular hemorrhage" },
+        { "text": "Surfactant deficiency and hyaline membrane formation" },
+        { "text": "Subglottic stenosis and a steeple sign on neck x-ray" }
+      ]
+    },
+    {
+      "text": "Which two groups of newborns are most likely to need intervention at delivery?",
+      "answers": [
+        { "text": "Infants with evidence of meconium and premature infants", "correct": true },
+        { "text": "Infants delivered vaginally and large-for-gestational-age infants" },
+        { "text": "Term infants with normal APGAR scores" },
+        { "text": "Infants of mothers without risk factors" }
+      ]
+    },
+    {
+      "text": "A premature infant (30 weeks) requires resuscitation. What starting FiO₂ is recommended?",
+      "answers": [
+        { "text": "30%", "correct": true },
+        { "text": "21%" },
+        { "text": "60%" },
+        { "text": "100%" }
+      ]
+    },
+    {
+      "text": "During resuscitation, the heart rate remains below 60/min after 30 seconds of effective PPV. The next step is to:",
+      "answers": [
+        { "text": "Begin chest compressions", "correct": true },
+        { "text": "Stop ventilation and observe" },
+        { "text": "Administer surfactant" },
+        { "text": "Decrease the FiO₂ to 21%" }
+      ]
+    },
+    {
+      "text": "The Ballard Maturational Assessment is used to determine:",
+      "answers": [
+        { "text": "Gestational age, using six physical and neurological signs", "correct": true },
+        { "text": "The severity of lung disease after birth" },
+        { "text": "Surfactant maturity from amniotic fluid" },
+        { "text": "The need for chest compressions" }
+      ]
+    },
+    {
+      "text": "An infant weighs 900 grams at birth. This is classified as:",
+      "answers": [
+        { "text": "Extremely low birth weight (ELBW)", "correct": true },
+        { "text": "Very low birth weight (VLBW)" },
+        { "text": "Low birth weight (LBW)" },
+        { "text": "Normal birth weight" }
+      ]
+    },
+    {
+      "text": "The Silverman scoring system identifies the severity of lung disease using observable signs because:",
+      "answers": [
+        { "text": "Auscultation of the infant chest is difficult due to size and sound transfer", "correct": true },
+        { "text": "Infants cannot be placed on pulse oximetry" },
+        { "text": "Blood gases are never available in neonates" },
+        { "text": "Chest x-rays are contraindicated in infants" }
+      ]
+    },
+    {
+      "text": "A chest x-ray showing diffuse reticulogranular (ground glass) densities, air bronchograms, and low lung volumes is most characteristic of:",
+      "answers": [
+        { "text": "Respiratory distress syndrome", "correct": true },
+        { "text": "Transient tachypnea of the newborn" },
+        { "text": "Meconium aspiration syndrome" },
+        { "text": "Croup" }
+      ]
+    },
+    {
+      "text": "Surfactant produced before 34–35 weeks is ineffective at lowering surface tension because:",
+      "answers": [
+        { "text": "It is trapped inside the alveolar type II cells and cannot be released", "correct": true },
+        { "text": "It is destroyed by fetal hemoglobin" },
+        { "text": "It is washed out by retained lung fluid" },
+        { "text": "It is not produced until 36 weeks" }
+      ]
+    },
+    {
+      "text": "Which surfactant preparation is correctly matched to its generic name?",
+      "answers": [
+        { "text": "Survanta — beractant", "correct": true },
+        { "text": "Infasurf — poractant alfa" },
+        { "text": "Curosurf — calfactant" },
+        { "text": "Survanta — poractant alfa" }
+      ]
+    },
+    {
+      "text": "Recommended saturation and PaO₂ targets for a pre-term infant are:",
+      "answers": [
+        { "text": "SpO₂ > 88% with PaO₂ 40–70 mmHg", "correct": true },
+        { "text": "SpO₂ > 95% with PaO₂ 80–100 mmHg" },
+        { "text": "SpO₂ > 99% with PaO₂ > 100 mmHg" },
+        { "text": "SpO₂ > 80% with PaO₂ 20–40 mmHg" }
+      ]
+    },
+    {
+      "text": "Head bobbing, chin up, and abdominal expansion in a pediatric patient are signs of:",
+      "answers": [
+        { "text": "Impending respiratory failure", "correct": true },
+        { "text": "Normal sleep behavior" },
+        { "text": "Adequate oxygenation" },
+        { "text": "Mild dehydration" }
+      ]
+    },
+    {
+      "text": "RDS is also known as:",
+      "answers": [
+        { "text": "Hyaline membrane disease, a lung disease of prematurity", "correct": true },
+        { "text": "Type II RDS, the most common newborn disorder" },
+        { "text": "Persistent fetal circulation" },
+        { "text": "Laryngotracheobronchitis" }
+      ]
+    },
+    {
+      "text": "Transient tachypnea of the newborn is most associated with:",
+      "answers": [
+        { "text": "Slow clearance of lung fluid, especially after cesarean section; resolves in 24–48 hours", "correct": true },
+        { "text": "Surfactant deficiency below 34 weeks" },
+        { "text": "Inhalation of meconium in a term infant" },
+        { "text": "A CFTR gene mutation" }
+      ]
+    },
+    {
+      "text": "Treatment options for apnea of prematurity include:",
+      "answers": [
+        { "text": "Theophylline, caffeine, CPAP, and stimulation", "correct": true },
+        { "text": "Prostaglandin and surfactant" },
+        { "text": "Racemic epinephrine and heliox" },
+        { "text": "Pancreatic enzymes and antibiotics" }
+      ]
+    },
+    {
+      "text": "In PPHN, blood continues to shunt through the foramen ovale and ductus arteriosus after birth because:",
+      "answers": [
+        { "text": "Pulmonary vascular resistance rises above systemic vascular resistance", "correct": true },
+        { "text": "Systemic vascular resistance rises above pulmonary vascular resistance" },
+        { "text": "Surfactant production suddenly increases" },
+        { "text": "The placenta continues to function after delivery" }
+      ]
+    },
+    {
+      "text": "From an RT standpoint, the two most important contributors to BPD are:",
+      "answers": [
+        { "text": "Atelectrauma and volutrauma", "correct": true },
+        { "text": "Surfactant excess and hypocapnia" },
+        { "text": "Subglottic and supraglottic swelling" },
+        { "text": "Low FiO₂ and low PEEP" }
+      ]
+    },
+    {
+      "text": "Correct management of a severely depressed term infant with meconium streaking is:",
+      "answers": [
+        { "text": "Intubate and apply direct ETT suction (−70 to −100 mmHg) until clear or after 2–4 aspirations", "correct": true },
+        { "text": "Aggressive bag-mask ventilation to push the meconium through" },
+        { "text": "Immediate surfactant administration" },
+        { "text": "Cool mist therapy and observation" }
+      ]
+    },
+    {
+      "text": "To reduce the likelihood of retinopathy of prematurity, maintain:",
+      "answers": [
+        { "text": "PaO₂ less than 80 mmHg, with SpO₂ between >88% and <94%", "correct": true },
+        { "text": "PaO₂ of 80–100 mmHg" },
+        { "text": "SpO₂ above 98% at all times" },
+        { "text": "FiO₂ of 100% continuously" }
+      ]
+    },
+    {
+      "text": "A ventilated preterm infant develops PIE. The most appropriate ventilator response is to:",
+      "answers": [
+        { "text": "Lower airway pressures, ideally by switching to high-frequency jet ventilation", "correct": true },
+        { "text": "Increase PEEP and PIP to recruit collapsed lung" },
+        { "text": "Increase the inspiratory time" },
+        { "text": "Increase FiO₂ to 100%" }
+      ]
+    },
+    {
+      "text": "A congenital defect where the intestines are found outside the body, exiting beside the umbilicus, is:",
+      "answers": [
+        { "text": "Gastroschisis", "correct": true },
+        { "text": "Congenital diaphragmatic hernia" },
+        { "text": "Necrotizing enterocolitis" },
+        { "text": "Omphalocele within the cord" }
+      ]
+    },
+    {
+      "text": "The single most important guidance to reduce SIDS risk is to:",
+      "answers": [
+        { "text": "Place the infant supine or side-lying and remove excess blankets and toys", "correct": true },
+        { "text": "Place the infant prone with extra blankets" },
+        { "text": "Give nightly caffeine" },
+        { "text": "Keep the room cold during winter" }
+      ]
+    },
+    {
+      "text": "Bronchiolitis is usually caused by:",
+      "answers": [
+        { "text": "Respiratory syncytial virus (RSV)", "correct": true },
+        { "text": "Parainfluenza virus" },
+        { "text": "Haemophilus influenzae" },
+        { "text": "A CFTR mutation" }
+      ]
+    },
+    {
+      "text": "A child with stridor, a barking seal cough, and a steeple sign on A-P neck x-ray most likely has:",
+      "answers": [
+        { "text": "Croup (laryngotracheobronchitis), usually from parainfluenza virus", "correct": true },
+        { "text": "Epiglottitis, usually from Haemophilus influenzae" },
+        { "text": "Bronchiolitis, usually from RSV" },
+        { "text": "Cystic fibrosis" }
+      ]
+    },
+    {
+      "text": "Epiglottitis differs from croup in that it is:",
+      "answers": [
+        { "text": "Supraglottic swelling with a thumb sign on lateral neck x-ray, most often from H. influenzae", "correct": true },
+        { "text": "Subglottic swelling with a steeple sign, most often from parainfluenza" },
+        { "text": "A lower respiratory tract infection from RSV" },
+        { "text": "Always managed safely with repeated airway exams" }
+      ]
+    },
+    {
+      "text": "Cystic fibrosis is caused by a mutation affecting:",
+      "answers": [
+        { "text": "The CFTR protein that regulates chloride ion movement across cell membranes", "correct": true },
+        { "text": "Surfactant production by type II cells" },
+        { "text": "Sodium reabsorption in the kidney" },
+        { "text": "Fetal hemoglobin structure" }
+      ]
+    },
+    {
+      "text": "CPAP (NCPAP) is indicated, rather than contraindicated, in which scenario?",
+      "answers": [
+        { "text": "PaO₂ < 50 mmHg or an FiO₂ requirement > 60% with adequate spontaneous effort", "correct": true },
+        { "text": "Respiratory arrest with no spontaneous effort" },
+        { "text": "pH < 7.25 with PaCO₂ > 50 mmHg" },
+        { "text": "A patient needing CO₂ removal" }
+      ]
+    },
+    {
+      "text": "The respiratory time constant is calculated as:",
+      "answers": [
+        { "text": "Compliance × Resistance", "correct": true },
+        { "text": "Compliance ÷ Resistance" },
+        { "text": "Resistance ÷ Compliance" },
+        { "text": "PIP − PEEP" }
+      ]
+    },
+    {
+      "text": "A stiff, surfactant-deficient neonatal lung has a short time constant, which means:",
+      "answers": [
+        { "text": "The lungs fill and empty faster, so shorter I:E ratios are needed", "correct": true },
+        { "text": "The lungs fill and empty slower, so longer I:E ratios are needed" },
+        { "text": "Compliance is high and resistance is low" },
+        { "text": "Inspiratory time should be set to 1 second" }
+      ]
+    },
+    {
+      "text": "On a neonatal ventilator, peak inspiratory pressure should generally not exceed:",
+      "answers": [
+        { "text": "30 cmH₂O, except for prematurity or chest-wall rigidity from fentanyl", "correct": true },
+        { "text": "20 cmH₂O under any circumstances" },
+        { "text": "40 cmH₂O for all neonates" },
+        { "text": "50 cmH₂O when on HFOV" }
+      ]
+    },
+    {
+      "text": "An appropriate tidal volume for a neonate with normal lung function is:",
+      "answers": [
+        { "text": "6–8 mL/kg", "correct": true },
+        { "text": "4–5 mL/kg" },
+        { "text": "10–12 mL/kg" },
+        { "text": "2–3 mL/kg" }
+      ]
+    },
+    {
+      "text": "Which is an AARC indication to intubate an infant?",
+      "answers": [
+        { "text": "Hypoxemia with PaO₂ < 50 mmHg, or hypercapnia with pH < 7.20–7.25", "correct": true },
+        { "text": "An SpO₂ of 95% on room air" },
+        { "text": "A normal chest radiograph" },
+        { "text": "A respiratory rate of 45 breaths/min in a neonate" }
+      ]
+    },
+    {
+      "text": "Air collecting within the chest but outside the normal air cells of the lungs describes:",
+      "answers": [
+        { "text": "Air leak syndromes (e.g., pneumothorax, pneumomediastinum, PIE)", "correct": true },
+        { "text": "Bronchopulmonary dysplasia" },
+        { "text": "Transient tachypnea of the newborn" },
+        { "text": "Necrotizing enterocolitis" }
+      ]
+    },
+    {
+      "text": "The primary goal of high-frequency ventilation is to:",
+      "answers": [
+        { "text": "Provide adequate ventilation and oxygenation while limiting lung injury", "correct": true },
+        { "text": "Deliver large tidal volumes to maximize CO₂ removal" },
+        { "text": "Avoid the need for any sedation" },
+        { "text": "Eliminate the need for mean airway pressure" }
+      ]
+    },
+    {
+      "text": "On HFOV, which setting primarily controls CO₂ removal?",
+      "answers": [
+        { "text": "Amplitude (∆P)", "correct": true },
+        { "text": "Bias flow" },
+        { "text": "MAP" },
+        { "text": "FiO₂" }
+      ]
+    },
+    {
+      "text": "On HFOV, to eliminate MORE CO₂ you should:",
+      "answers": [
+        { "text": "Decrease the frequency, allowing more time for pressure to reach the alveoli", "correct": true },
+        { "text": "Increase the frequency to deliver more cycles" },
+        { "text": "Decrease the amplitude" },
+        { "text": "Decrease the bias flow" }
+      ]
+    },
+    {
+      "text": "On HFOV, the MAP is titrated for lung recruitment until expansion reaches:",
+      "answers": [
+        { "text": "The thoracic vertebrae T8–T9", "correct": true },
+        { "text": "The thoracic vertebrae T4–T5" },
+        { "text": "The first rib" },
+        { "text": "The diaphragm at end-expiration" }
+      ]
+    },
+    {
+      "text": "High-frequency jet ventilation is characterized by:",
+      "answers": [
+        { "text": "High-velocity jets from a nozzle/injector with passive exhalation, used mostly for BPD, PIE, and air leaks", "correct": true },
+        { "text": "A piston that actively pushes and pulls gas, used for all adult patients" },
+        { "text": "Active exhalation with a long inspiratory time" },
+        { "text": "Tidal volumes larger than anatomic dead space" }
+      ]
+    },
+    {
+      "text": "On HFJV, a sudden DECREASE in servo pressure may indicate:",
+      "answers": [
+        { "text": "Worsening compliance/resistance, an obstructed ETT, tension pneumothorax, or right mainstem intubation", "correct": true },
+        { "text": "Improving compliance and resistance" },
+        { "text": "A leak around the ETT as the baby grows" },
+        { "text": "A tubing leak in the circuit" }
+      ]
+    },
+    {
+      "text": "A transcutaneous monitor differs from a pulse oximeter because it:",
+      "answers": [
+        { "text": "Measures both PtcO₂ and PtcCO₂ and heats the skin to arterialize the capillaries", "correct": true },
+        { "text": "Measures oxygen saturation only, with higher accuracy" },
+        { "text": "Requires continuous arterial sampling" },
+        { "text": "Cannot be used on neonates" }
+      ]
+    },
+    {
+      "text": "Inhaled nitric oxide is best described as:",
+      "answers": [
+        { "text": "A selective pulmonary vasodilator, started at 20 PPM, used for hypoxic respiratory failure/PPHN", "correct": true },
+        { "text": "A systemic vasoconstrictor that raises blood pressure" },
+        { "text": "A bronchodilator that reduces airway resistance" },
+        { "text": "A surfactant replacement delivered via the ETT" }
+      ]
+    },
+    {
+      "text": "Veno-arterial (VA) ECMO is distinguished from veno-venous (VV) ECMO because VA:",
+      "answers": [
+        { "text": "Supports both the heart and the lungs", "correct": true },
+        { "text": "Supports only the lungs" },
+        { "text": "Uses only the right femoral vein" },
+        { "text": "Provides less circulatory support" }
+      ]
+    },
+    {
+      "text": "Using Tube ID = (Age + 16) / 4, the estimated ETT internal diameter for an 8-year-old is:",
+      "answers": [
+        { "text": "6.0 mm", "correct": true },
+        { "text": "5.0 mm" },
+        { "text": "5.5 mm" },
+        { "text": "6.5 mm" }
+      ]
+    }
+  ]
+}

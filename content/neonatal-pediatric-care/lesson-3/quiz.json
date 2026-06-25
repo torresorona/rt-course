@@ -1,0 +1,104 @@
+{
+  "title": "Neonatal & Pediatric Disease Processes Quiz",
+  "questions": [
+    {
+      "text": "A full-term infant delivered by cesarean section develops tachypnea, and a chest x-ray shows diffuse haziness with perihilar streaking. The symptoms resolve over the next 36 hours. What is the most likely diagnosis?",
+      "answers": [
+        { "text": "Transient tachypnea of the newborn (Type II RDS) from slow clearance of lung fluid", "correct": true },
+        { "text": "Respiratory distress syndrome from surfactant deficiency" },
+        { "text": "Meconium aspiration syndrome" },
+        { "text": "Persistent pulmonary hypertension of the newborn" }
+      ]
+    },
+    {
+      "text": "A premature infant has recurrent apneic episodes. Which treatments are appropriate for apnea of prematurity?",
+      "answers": [
+        { "text": "Theophylline, caffeine, CPAP, and stimulation", "correct": true },
+        { "text": "Surfactant replacement via the ETT" },
+        { "text": "Prostaglandin infusion to maintain ductal patency" },
+        { "text": "Immediate high-frequency oscillatory ventilation" }
+      ]
+    },
+    {
+      "text": "A newborn's oxygen saturation and PaO₂ change rapidly regardless of incremental FiO₂ changes, and a pre/post-ductal saturation difference of 7% is noted. What process does this best describe?",
+      "answers": [
+        { "text": "PPHN — PVR rises above SVR, shunting blood through the foramen ovale and ductus arteriosus after birth", "correct": true },
+        { "text": "Transient tachypnea of the newborn from retained fluid" },
+        { "text": "Bronchopulmonary dysplasia from chronic ventilation" },
+        { "text": "Retinopathy of prematurity from high oxygen exposure" }
+      ]
+    },
+    {
+      "text": "From a respiratory therapist's standpoint, which two mechanisms are the most important contributors to bronchopulmonary dysplasia?",
+      "answers": [
+        { "text": "Atelectrauma (lung collapse) and volutrauma (large tidal volumes)", "correct": true },
+        { "text": "Surfactant deficiency and retained lung fluid" },
+        { "text": "Subglottic and supraglottic airway swelling" },
+        { "text": "Chloride ion transport failure and mucus plugging" }
+      ]
+    },
+    {
+      "text": "A term infant with meconium streaking is severely depressed at birth with gasping retractions and an APGAR of 4. What is the appropriate immediate intervention?",
+      "answers": [
+        { "text": "Intubate and apply direct ETT suction (−70 to −100 mmHg) until no meconium is noted or after 2–4 aspirations, then place a clean ETT", "correct": true },
+        { "text": "Apply vigorous bag-mask ventilation immediately to clear the meconium" },
+        { "text": "Administer surfactant before any suctioning" },
+        { "text": "Place on CPAP at 4–6 cmH₂O and observe" }
+      ]
+    },
+    {
+      "text": "A ventilated preterm infant develops worsening V/Q mismatch and deteriorating ABGs from air dissecting into the interstitial space (PIE). What is the correct ventilator strategy?",
+      "answers": [
+        { "text": "Lower airway pressures while maintaining gas exchange, ideally by switching to high-frequency jet ventilation", "correct": true },
+        { "text": "Increase PEEP and PIP to recruit the collapsed regions" },
+        { "text": "Increase inspiratory time to improve distribution" },
+        { "text": "Add prophylactic surfactant and increase FiO₂" }
+      ]
+    },
+    {
+      "text": "To reduce the likelihood of retinopathy of prematurity, what oxygenation target is recommended for a premature infant?",
+      "answers": [
+        { "text": "PaO₂ less than 80 mmHg, with saturation maintained between >88% and <94%", "correct": true },
+        { "text": "PaO₂ of 80–100 mmHg, as in a term infant" },
+        { "text": "Saturation greater than 95% at all times" },
+        { "text": "FiO₂ of 100% to ensure adequate retinal perfusion" }
+      ]
+    },
+    {
+      "text": "Parents ask how to reduce their healthy infant's risk of SIDS. Which guidance is correct?",
+      "answers": [
+        { "text": "Place the infant supine or side-lying and remove excess blankets and toys from the bed", "correct": true },
+        { "text": "Place the infant prone to reduce the risk of aspiration" },
+        { "text": "Keep the infant warm with extra blankets during winter" },
+        { "text": "Administer caffeine nightly to prevent apneic episodes" }
+      ]
+    },
+    {
+      "text": "A 3-year-old presents with a barking, seal-like cough and stridor. An A-P neck x-ray shows a steeple sign — narrowing of the trachea at the cricoid cartilage. What is the diagnosis and the usual cause?",
+      "answers": [
+        { "text": "Croup (laryngotracheobronchitis), usually caused by the parainfluenza virus", "correct": true },
+        { "text": "Epiglottitis, usually caused by Haemophilus influenzae" },
+        { "text": "Bronchiolitis, usually caused by RSV" },
+        { "text": "Cystic fibrosis, caused by a CFTR mutation" }
+      ]
+    },
+    {
+      "text": "A child with epiglottitis is in the emergency department. Which statement reflects the correct understanding of this condition?",
+      "answers": [
+        { "text": "It is supraglottic swelling shown by a thumb sign on lateral neck x-ray; only staff familiar with emergency intubation should manage the airway", "correct": true },
+        { "text": "It is subglottic swelling shown by a steeple sign and is managed with cool mist alone" },
+        { "text": "It is a lower respiratory tract infection treated with RSV prophylaxis" },
+        { "text": "It is best managed by repeated airway examination to monitor swelling" }
+      ]
+    },
+    {
+      "text": "A child with cystic fibrosis has salty-tasting sweat and recurrent pulmonary infections. Which underlying defect and diagnostic test correspond to this disease?",
+      "answers": [
+        { "text": "A CFTR mutation affecting chloride ion movement, diagnosed with the sweat chloride test (iontophoresis)", "correct": true },
+        { "text": "Surfactant deficiency, diagnosed with the L/S ratio" },
+        { "text": "An autosomal dominant defect in sodium transport, diagnosed by chest x-ray" },
+        { "text": "RSV infection, diagnosed by viral culture" }
+      ]
+    }
+  ]
+}

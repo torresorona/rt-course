@@ -57,18 +57,31 @@ rt-course/
 │   ├── Quiz.tsx                # Client — quiz form with localStorage drafts + server grading
 │   ├── DataTable.tsx           # Server — renders CSV files as styled tables
 │   ├── YouTube.tsx             # Server — privacy-enhanced YouTube embed
+│   ├── FeedbackButton.tsx      # Client — opens the feedback form (POSTs to /api/feedback)
 │   ├── ReceptorTable.tsx       # Client — interactive expandable receptor reference
 │   ├── LabRanges.tsx           # Client — lab values reference with flashcard mode
-│   └── GCSScenarios.tsx        # Client — GCS clinical scenario trainer
+│   ├── GCSScenarios.tsx        # Client — GCS clinical scenario trainer
+│   ├── PulmonaryDiagnosticsIReview.tsx  # Client — Pulmonary Diagnostics I review tool
+│   └── CylinderDurationExercises.tsx    # Client — cylinder duration calculation practice
 │
-├── content/                    # ⭐ ALL COURSE CONTENT LIVES HERE
-│   ├── pulmonary-anatomy-physiology/ # Module 1 (order: 1) — 5 lessons
-│   ├── cardiovascular-anatomy-physiology/ # Module 2 (order: 2) — 6 lessons
-│   ├── pharmacology/           # Module 3 (order: 3) — 5 lessons
-│   ├── patient-assessment/     # Module 4 (order: 4) — 4 lessons
-│   ├── cardiac-diagnostics-i/  # Module 5 (order: 5) — 6 lessons
-│   ├── cardiac-diagnostics-ii/ # Module 6 (order: 6) — 4 lessons
-│   └── pulmonary-diagnostics-ii/ # Module 7 (order: 7) — 3 lessons
+├── content/                    # ⭐ ALL COURSE CONTENT LIVES HERE (17 modules, ordered by `order`)
+│   ├── general-anatomy-physiology/        # order 1  — 7 lessons
+│   ├── pulmonary-anatomy-physiology/      # order 2  — 5 lessons
+│   ├── cardiovascular-anatomy-physiology/ # order 3  — 6 lessons
+│   ├── microbiology/                      # order 4  — 4 lessons
+│   ├── pulmonary-pathophysiology/         # order 5  — 7 lessons
+│   ├── cardiovascular-pathophysiology/    # order 6  — 6 lessons
+│   ├── pharmacology/                      # order 7  — 5 lessons
+│   ├── patient-assessment/                # order 8  — 4 lessons
+│   ├── cardiac-diagnostics-i/             # order 9  — 6 lessons
+│   ├── cardiac-diagnostics-ii/            # order 10 — 4 lessons
+│   ├── pulmonary-diagnostics-i/           # order 11 — 7 lessons
+│   ├── pulmonary-diagnostics-ii/          # order 12 — 6 lessons
+│   ├── respiratory-therapeutics/          # order 13 — 9 lessons
+│   ├── community-health/                  # order 14 — 3 lessons
+│   ├── critical-care-i/                   # order 15 — 7 lessons
+│   ├── critical-care-ii/                  # order 16 — 6 lessons
+│   └── neonatal-pediatric-care/           # order 17 — 7 lessons
 │
 ├── db/
 │   ├── schema.ts               # Drizzle schema — modules, quizzes, questions, answers, progress
@@ -221,6 +234,8 @@ Set `interactive` on a lesson in `module.json` to one of: `ReceptorTable`, `LabR
 | `pharmacology/lesson-1` | `ReceptorTable` |
 | `patient-assessment/lesson-1` | `LabRanges` |
 | `patient-assessment/lesson-2` | `GCSScenarios` |
+| `pulmonary-diagnostics-i/lesson-7` | `PulmonaryDiagnosticsIReview` |
+| `respiratory-therapeutics/lesson-2` | `CylinderDurationExercises` |
 
 ---
 
@@ -279,18 +294,32 @@ The lesson page (`app/[...slug]/page.tsx`) has three views controlled by `?view=
 
 ## 8. Current Module Inventory
 
-| # | Module Slug | Title | Lessons |
-|---|-------------|-------|---------|
-| 1 | `pulmonary-anatomy-physiology` | Pulmonary Anatomy & Physiology | 5 (incl. module exam) |
-| 2 | `cardiovascular-anatomy-physiology` | Cardiovascular Anatomy & Physiology | 6 (incl. module exam) |
-| 3 | `pharmacology` | Pharmacology | 5 (incl. module exam) |
-| 4 | `patient-assessment` | Patient Assessment | 4 |
-| 5 | `cardiac-diagnostics-i` | Cardiac Diagnostics I | 6 (incl. review + exam) |
-| 6 | `cardiac-diagnostics-ii` | Cardiac Diagnostics II | 4 (incl. review + exam) |
-| 7 | `pulmonary-diagnostics-ii` | Pulmonary Diagnostics II | 3 |
+The course has **17 modules**, ordered by the `order` field in each `module.json` (this controls display order on the home page). Module/lesson counts below reflect the current filesystem; most modules end with a review and/or module-exam lesson.
+
+| Order | Module Slug | Title | Lessons |
+|-------|-------------|-------|---------|
+| 1 | `general-anatomy-physiology` | General Anatomy & Physiology | 7 |
+| 2 | `pulmonary-anatomy-physiology` | Pulmonary Anatomy & Physiology | 5 |
+| 3 | `cardiovascular-anatomy-physiology` | Cardiovascular Anatomy & Physiology | 6 |
+| 4 | `microbiology` | Microbiology | 4 |
+| 5 | `pulmonary-pathophysiology` | Pulmonary Pathophysiology | 7 |
+| 6 | `cardiovascular-pathophysiology` | Cardiovascular Pathophysiology | 6 |
+| 7 | `pharmacology` | Pharmacology | 5 |
+| 8 | `patient-assessment` | Patient Assessment | 4 |
+| 9 | `cardiac-diagnostics-i` | Cardiac Diagnostics I | 6 |
+| 10 | `cardiac-diagnostics-ii` | Cardiac Diagnostics II | 4 |
+| 11 | `pulmonary-diagnostics-i` | Pulmonary Diagnostics I | 7 |
+| 12 | `pulmonary-diagnostics-ii` | Pulmonary Diagnostics II | 6 |
+| 13 | `respiratory-therapeutics` | Respiratory Therapeutics | 9 |
+| 14 | `community-health` | Community Health | 3 |
+| 15 | `critical-care-i` | Critical Care I | 7 |
+| 16 | `critical-care-ii` | Critical Care II | 6 |
+| 17 | `neonatal-pediatric-care` | Neonatal & Pediatric Respiratory Care | 7 |
+
+> `order` values must stay unique — duplicates produce an ambiguous home-page sort. When inserting a module out of sequence, renumber the trailing modules rather than reusing a number.
 
 ### NotebookLM Source Files
-Some lessons have `notebooklm-source.md` files — these are expanded study guides used as input for generating audio podcasts via Google NotebookLM. Currently only `cardiac-diagnostics-i` lessons have these files.
+Most content lessons have a `notebooklm-source.md` file — an expanded conversational transcript used as input for generating audio podcasts via Google NotebookLM. These now exist across nearly all modules (review/exam lessons typically omit them). Some modules also keep a raw `content.txt` source dump at the module root (e.g. `critical-care-ii`, `neonatal-pediatric-care`) used to author the lessons; it is not read by the app.
 
 ---
 
@@ -428,12 +457,24 @@ Changes must be promoted through explicit, user-approved stages:
 
 ## 15. Content Domain Context
 
-This is a **Respiratory Therapy** course for a student in a military RT program. Content covers:
+This is a **Respiratory Therapy** course for a student in a military RT program. Content spans all 17 modules:
 
-- **Pharmacology**: Drug actions, receptors (adrenergic/cholinergic), bronchodilators, cardiac meds, dose calculations
+- **General Anatomy & Physiology**: Levels of organization, the chemical/cellular basis of life, organ systems overview, acid-base homeostasis
+- **Pulmonary Anatomy & Physiology**: Respiratory structure and dynamics, gas exchange, regulation of breathing, acid-base regulation
+- **Cardiovascular Anatomy & Physiology**: Heart structure/function, cardiac conduction, hemodynamics, blood-pressure regulation
+- **Microbiology**: Cell classification, bacterial/viral structure, microbial control, infection transmission, HAIs, immune defense
+- **Pulmonary Pathophysiology**: Infectious, obstructive, restrictive, inflammatory, malignant, vascular, and sleep-related pulmonary disorders
+- **Cardiovascular Pathophysiology**: Congenital defects, valvular dysfunction, cardiomyopathies, inflammatory heart disease, CAD
+- **Pharmacology**: Drug actions, receptor pathways (adrenergic/cholinergic), bronchodilators, cardiac meds, dose calculations
 - **Patient Assessment**: History taking, lab values (CBC, BMP, coagulation), physical exam, vital signs, auscultation
-- **Cardiac Diagnostics I**: 12-lead ECG, rhythm interpretation, arrhythmias, AV blocks, stress testing
-- **Cardiac Diagnostics II**: Echocardiography, cardiac catheterization, hemodynamic monitoring, cardiac rehab
-- **Pulmonary Diagnostics II**: ABG sampling, acid-base balance, oxygenation evaluation, blood gas analyzers
+- **Cardiac Diagnostics I**: 12-lead ECG acquisition, paper measurements, waveform interpretation, lead anatomy
+- **Cardiac Diagnostics II**: Echocardiography (TTE/TEE), Doppler, stress echo, hemodynamic assessment
+- **Pulmonary Diagnostics I**: Spirometry, flow-volume loops, lung volumes, DLCO, bronchoprovocation, CPX, bronchoscopy, sleep studies
+- **Pulmonary Diagnostics II**: Arterial/capillary blood gas sampling, acid-base and gas exchange, ABG analyzers, pulmonary imaging
+- **Respiratory Therapeutics**: Documentation/EMR workflows, medical gases, oxygen delivery devices, humidification, aerosol therapy, airway clearance, cylinder duration, Heliox
+- **Community Health**: Post-acute care settings, home oxygen/ventilator support, pulmonary/cardiac rehab, patient education, disease prevention
+- **Critical Care I**: Airway management, artificial airways, tracheostomy care, suctioning, intubation/extubation, airway emergencies, ICU monitoring
+- **Critical Care II**: Mechanical ventilation through weaning — indications, modes, NIV, initiation, monitoring, graphics, transport, discontinuation
+- **Neonatal & Pediatric Respiratory Care**: Maternal/newborn assessment, fetal circulation and shunts, RDS and neonatal/pediatric disease processes, conventional and high-frequency ventilation, neonatal/pediatric equipment
 
 When creating new content, always use the provided content as the sole source — do not add external vocabulary, facts, or terminology not present in the source material. Avoid excessive auxiliary info or elaboration beyond what's in the original content. Maintain clinical accuracy and use proper medical terminology. Quiz questions should test understanding, not just recall — include clinical scenarios when possible.

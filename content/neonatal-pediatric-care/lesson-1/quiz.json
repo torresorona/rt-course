@@ -1,0 +1,95 @@
+{
+  "title": "Neonatal & Pediatric Foundations Quiz",
+  "questions": [
+    {
+      "text": "An infant is delivered at 36 weeks of gestation. How is this infant best classified?",
+      "answers": [
+        { "text": "Premature — born before 38 weeks and considered high risk", "correct": true },
+        { "text": "Mature — within the normal 38–42 week range" },
+        { "text": "Post-term and at risk for meconium aspiration" },
+        { "text": "Congenital, because prematurity is a birth defect" }
+      ]
+    },
+    {
+      "text": "Which statement correctly describes the ductus arteriosus in the fetus?",
+      "answers": [
+        { "text": "It connects the pulmonary artery and the aorta, shunting blood away from the non-functional lungs", "correct": true },
+        { "text": "It connects the liver and the inferior vena cava, returning blood quickly to the heart" },
+        { "text": "It connects the two atria, shunting blood from the right to the left atrium" },
+        { "text": "It connects the umbilical vein to the placenta for gas exchange" }
+      ]
+    },
+    {
+      "text": "After birth, what change in the pulmonary capillaries triggers constriction of the ductus arteriosus?",
+      "answers": [
+        { "text": "A rise in PaO₂ (and a drop in prostaglandin) sensed by the vessel smooth muscle", "correct": true },
+        { "text": "A fall in PaO₂ with a rise in pulmonary vascular resistance" },
+        { "text": "An increase in prostaglandin levels that closes the duct" },
+        { "text": "A drop in systemic vascular resistance below pulmonary vascular resistance" }
+      ]
+    },
+    {
+      "text": "A neonate is found to have a ductal-dependent congenital heart defect. Which agent is given to maintain patency of the ductus arteriosus?",
+      "answers": [
+        { "text": "Prostaglandin", "correct": true },
+        { "text": "Surfactant" },
+        { "text": "Indomethacin" },
+        { "text": "Beractant" }
+      ]
+    },
+    {
+      "text": "The foramen ovale normally closes about three weeks after birth. What change is primarily responsible for sealing it?",
+      "answers": [
+        { "text": "An increase in left-sided heart pressure (SVR) that presses a flap of tissue over the opening", "correct": true },
+        { "text": "An increase in pulmonary vascular resistance above systemic vascular resistance" },
+        { "text": "Clamping of the umbilical cord, which closes it directly" },
+        { "text": "A rise in prostaglandin that constricts the interatrial septum" }
+      ]
+    },
+    {
+      "text": "A 38-year-old mother with gestational diabetes is in labor. Based on maternal risk factors, which adverse outcomes are most associated with her history?",
+      "answers": [
+        { "text": "Large gestational age, congenital malformations, RDS, and hypoglycemia (diabetes); plus prematurity and chromosomal defects (age > 35)", "correct": true },
+        { "text": "Small for gestational age and facial dysmorphology from her diabetes" },
+        { "text": "Low birth weight and prematurity, typical of mothers under 17 years" },
+        { "text": "Sudden infant death syndrome, the hallmark outcome of gestational diabetes" }
+      ]
+    },
+    {
+      "text": "A pregnant patient presents with the placenta attached over the cervix. Which condition does this describe, and what is a key risk?",
+      "answers": [
+        { "text": "Placenta previa — increased risk of prematurity, bleeding, and small gestational age", "correct": true },
+        { "text": "Abruptio placentae — fetal asphyxia from the placenta detaching from the uterine wall" },
+        { "text": "Nuchal cord — compression of the cord around the infant's neck" },
+        { "text": "Occult cord prolapse — compression of the cord within the uterus" }
+      ]
+    },
+    {
+      "text": "An amniocentesis returns an L/S ratio of 2:1 and phosphatidylglycerol greater than 1%. What do these results indicate?",
+      "answers": [
+        { "text": "Mature lungs with stable surfactant production and a low chance of respiratory distress", "correct": true },
+        { "text": "Surfactant deficiency with a high likelihood of RDS at birth" },
+        { "text": "The presence of meconium in the amniotic fluid" },
+        { "text": "A chromosomal abnormality detected from sloughed fetal cells" }
+      ]
+    },
+    {
+      "text": "During labor, the fetal heart rate is noted to be 175 beats/min. How should this finding be interpreted?",
+      "answers": [
+        { "text": "Tachycardia (normal is 100–160 beats/min), which can indicate fetal hypoxemia, prematurity, or maternal fever", "correct": true },
+        { "text": "A normal fetal heart rate that requires no further evaluation" },
+        { "text": "Bradycardia indicating cord compression" },
+        { "text": "A severe deceleration of more than 45 beats/min" }
+      ]
+    },
+    {
+      "text": "A neonate is delivered by cesarean section. Compared with a vaginal delivery, which difference is most clinically relevant for the respiratory therapist?",
+      "answers": [
+        { "text": "The infant does not get \"squeezed\" through the birth canal, so lung secretions/fluid are not cleared as effectively", "correct": true },
+        { "text": "The infant retains more fetal hemoglobin, causing cyanosis" },
+        { "text": "The ductus venosus fails to close because the cord is not clamped" },
+        { "text": "The infant is always premature and requires surfactant" }
+      ]
+    }
+  ]
+}

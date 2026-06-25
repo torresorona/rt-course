@@ -1,0 +1,96 @@
+<svg viewBox="0 0 820 580" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <defs>
+    <marker id="ar-terra" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#a85c3a"/>
+    </marker>
+    <marker id="ar-sky" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a78a0"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="578" rx="18" fill="#faf9f7" stroke="#e8e4dd" stroke-width="2"/>
+  <text x="410" y="40" text-anchor="middle" font-size="25" font-weight="700" fill="#1f1b17">Fetal Circulation: The Three Shunts</text>
+  <text x="410" y="62" text-anchor="middle" font-size="13" fill="#7a7068">Oxygenated blood from the placenta bypasses the liver and the non-functional lungs</text>
+
+  <!-- Lungs (non-functional) -->
+  <ellipse cx="180" cy="120" rx="58" ry="34" fill="#ecf0e8" stroke="#d4ddc9" stroke-width="1.5"/>
+  <ellipse cx="640" cy="120" rx="58" ry="34" fill="#ecf0e8" stroke="#d4ddc9" stroke-width="1.5"/>
+  <text x="180" y="118" text-anchor="middle" font-size="12" fill="#7a7068">Lungs</text>
+  <text x="180" y="134" text-anchor="middle" font-size="11" fill="#9c9284">(non-functional)</text>
+  <text x="640" y="118" text-anchor="middle" font-size="12" fill="#7a7068">Lungs</text>
+  <text x="640" y="134" text-anchor="middle" font-size="11" fill="#9c9284">(non-functional)</text>
+
+  <!-- Great vessels -->
+  <rect x="250" y="120" width="120" height="40" rx="8" fill="#e4eef6" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="310" y="145" text-anchor="middle" font-size="13" font-weight="600" fill="#3d3832">Pulmonary artery</text>
+  <rect x="450" y="120" width="120" height="40" rx="8" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.5"/>
+  <text x="510" y="145" text-anchor="middle" font-size="13" font-weight="600" fill="#3d3832">Aorta → body</text>
+
+  <!-- Ductus arteriosus (shunt 1) -->
+  <path d="M370,140 L450,140" fill="none" stroke="#a85c3a" stroke-width="5" marker-end="url(#ar-terra)"/>
+  <circle cx="410" cy="140" r="13" fill="#c4704b" stroke="#faf9f7" stroke-width="2"/>
+  <text x="410" y="145" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">1</text>
+  <text x="410" y="100" text-anchor="middle" font-size="12.5" font-weight="700" fill="#a85c3a">Ductus arteriosus</text>
+  <text x="410" y="116" text-anchor="middle" font-size="11" fill="#7a7068">bypasses the lungs (PA → aorta)</text>
+
+  <!-- vessel connectors to ventricles -->
+  <path d="M310,210 L310,162" fill="none" stroke="#5b8db8" stroke-width="3" marker-end="url(#ar-sky)"/>
+  <path d="M510,210 L510,162" fill="none" stroke="#c4704b" stroke-width="3" marker-end="url(#ar-terra)"/>
+
+  <!-- Heart chambers -->
+  <rect x="250" y="212" width="120" height="86" rx="10" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <rect x="450" y="212" width="120" height="86" rx="10" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <rect x="250" y="300" width="120" height="100" rx="10" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <rect x="450" y="300" width="120" height="100" rx="10" fill="#ffffff" stroke="#d4cec4" stroke-width="1.5"/>
+  <text x="310" y="250" text-anchor="middle" font-size="20" font-weight="700" fill="#1f1b17">RA</text>
+  <text x="310" y="270" text-anchor="middle" font-size="11" fill="#7a7068">right atrium</text>
+  <text x="510" y="250" text-anchor="middle" font-size="20" font-weight="700" fill="#1f1b17">LA</text>
+  <text x="510" y="270" text-anchor="middle" font-size="11" fill="#7a7068">left atrium</text>
+  <text x="310" y="345" text-anchor="middle" font-size="20" font-weight="700" fill="#1f1b17">RV</text>
+  <text x="310" y="365" text-anchor="middle" font-size="11" fill="#7a7068">right ventricle</text>
+  <text x="510" y="345" text-anchor="middle" font-size="20" font-weight="700" fill="#1f1b17">LV</text>
+  <text x="510" y="365" text-anchor="middle" font-size="11" fill="#7a7068">left ventricle</text>
+
+  <!-- Foramen ovale (shunt 2): RA -> LA -->
+  <path d="M372,250 L448,250" fill="none" stroke="#a85c3a" stroke-width="5" marker-end="url(#ar-terra)"/>
+  <circle cx="410" cy="250" r="13" fill="#c4704b" stroke="#ffffff" stroke-width="2"/>
+  <text x="410" y="255" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">2</text>
+  <text x="410" y="300" text-anchor="middle" font-size="12.5" font-weight="700" fill="#a85c3a">Foramen ovale</text>
+  <text x="410" y="316" text-anchor="middle" font-size="11" fill="#7a7068">RA → LA</text>
+
+  <!-- IVC into RA -->
+  <path d="M210,470 C210,360 250,330 270,300" fill="none" stroke="#5b8db8" stroke-width="3" marker-end="url(#ar-sky)"/>
+  <rect x="168" y="470" width="92" height="38" rx="8" fill="#e4eef6" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="214" y="494" text-anchor="middle" font-size="13" font-weight="600" fill="#3d3832">IVC</text>
+
+  <!-- Liver + Placenta + umbilical vein -->
+  <rect x="430" y="452" width="100" height="40" rx="8" fill="#f5f3ef" stroke="#b8b0a2" stroke-width="1.5"/>
+  <text x="480" y="477" text-anchor="middle" font-size="13" font-weight="600" fill="#3d3832">Liver</text>
+  <rect x="330" y="522" width="150" height="44" rx="10" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.5"/>
+  <text x="405" y="549" text-anchor="middle" font-size="13" font-weight="600" fill="#3d3832">Placenta (O₂ source)</text>
+
+  <!-- umbilical vein up -->
+  <path d="M405,522 L405,472" fill="none" stroke="#c4704b" stroke-width="3" marker-end="url(#ar-terra)"/>
+  <text x="338" y="508" text-anchor="end" font-size="10.5" fill="#7a7068">umbilical</text>
+  <text x="338" y="520" text-anchor="end" font-size="10.5" fill="#7a7068">vein</text>
+  <!-- small branch through liver -->
+  <path d="M430,472 L460,468" fill="none" stroke="#d4cec4" stroke-width="2"/>
+
+  <!-- Ductus venosus (shunt 3): umbilical vein -> IVC, bypassing liver -->
+  <path d="M388,484 C320,486 280,500 230,508" fill="none" stroke="#a85c3a" stroke-width="5" marker-end="url(#ar-terra)"/>
+  <circle cx="300" cy="494" r="13" fill="#c4704b" stroke="#faf9f7" stroke-width="2"/>
+  <text x="300" y="499" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">3</text>
+  <text x="300" y="455" text-anchor="middle" font-size="12.5" font-weight="700" fill="#a85c3a">Ductus venosus</text>
+  <text x="300" y="471" text-anchor="middle" font-size="11" fill="#7a7068">bypasses the liver</text>
+
+  <!-- legend: blood color key -->
+  <rect x="610" y="455" width="190" height="110" rx="10" fill="#ffffff" stroke="#e8e4dd" stroke-width="1.5"/>
+  <text x="625" y="478" font-size="12" font-weight="700" fill="#3d3832">Key</text>
+  <line x1="625" y1="498" x2="655" y2="498" stroke="#c4704b" stroke-width="4"/>
+  <text x="662" y="502" font-size="11.5" fill="#5c544d">Oxygen-rich (placenta)</text>
+  <line x1="625" y1="520" x2="655" y2="520" stroke="#5b8db8" stroke-width="4"/>
+  <text x="662" y="524" font-size="11.5" fill="#5c544d">Oxygen-poor (return)</text>
+  <circle cx="640" cy="544" r="9" fill="#c4704b"/>
+  <text x="640" y="548" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">#</text>
+  <text x="662" y="548" font-size="11.5" fill="#5c544d">Fetal shunt</text>
+</svg>

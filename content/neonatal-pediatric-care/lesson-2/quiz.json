@@ -1,0 +1,104 @@
+{
+  "title": "The Newborn Assessment & RDS Quiz",
+  "questions": [
+    {
+      "text": "A premature infant is delivered apneic with a heart rate of 80 beats/min. What is the most appropriate first action?",
+      "answers": [
+        { "text": "Begin bag-mask ventilation at 40–60/min with room air", "correct": true },
+        { "text": "Begin chest compressions immediately" },
+        { "text": "Apply 100% oxygen by nasal cannula and observe" },
+        { "text": "Intubate and administer surfactant before any ventilation" }
+      ]
+    },
+    {
+      "text": "During resuscitation of a 32-week premature infant, what starting FiO₂ is recommended?",
+      "answers": [
+        { "text": "30% — for infants less than 35 weeks gestation", "correct": true },
+        { "text": "21% — room air is required for all premature infants" },
+        { "text": "60% — premature lungs need a high baseline FiO₂" },
+        { "text": "100% — to rapidly correct any shunt" }
+      ]
+    },
+    {
+      "text": "PPV has been provided for an apneic newborn, but the heart rate remains below 60/min. According to the resuscitation sequence, what should be done?",
+      "answers": [
+        { "text": "Continue PPV first for 30 seconds; if there is no recovery, begin chest compressions", "correct": true },
+        { "text": "Begin chest compressions immediately and stop PPV" },
+        { "text": "Increase FiO₂ to 100% and continue to observe" },
+        { "text": "Stop resuscitation, as a heart rate below 60 is not survivable" }
+      ]
+    },
+    {
+      "text": "A newborn has an APGAR score of 5 at one minute of life. How is this interpreted?",
+      "answers": [
+        { "text": "Below normal — a score less than 6 at 1 minute may require more aggressive support", "correct": true },
+        { "text": "Normal — any score of 5 or higher requires no intervention" },
+        { "text": "A measure of gestational age rather than clinical status" },
+        { "text": "An indication to immediately discontinue all support" }
+      ]
+    },
+    {
+      "text": "An infant weighs 1,200 grams at birth. How is this infant classified by weight?",
+      "answers": [
+        { "text": "Very low birth weight (VLBW) — less than 1500 g", "correct": true },
+        { "text": "Low birth weight (LBW) — less than 2500 g but more than 1500 g" },
+        { "text": "Extremely low birth weight (ELBW) — less than 1000 g" },
+        { "text": "Normal birth weight" }
+      ]
+    },
+    {
+      "text": "On exam, a neonate has bounding peripheral pulses with a strong brachial pulse and a weak femoral pulse. What does this combination most suggest?",
+      "answers": [
+        { "text": "A patent ductus arteriosus (with major left-to-right shunting), or possibly coarctation of the aorta", "correct": true },
+        { "text": "Hypovolemic shock with peripheral vasoconstriction" },
+        { "text": "A normal newborn pulse pattern requiring no concern" },
+        { "text": "Severe RDS from surfactant deficiency" }
+      ]
+    },
+    {
+      "text": "A grunting, flaring infant has a chest x-ray showing diffuse hazy reticulogranular (ground glass) densities with air bronchograms and low lung volumes. What is the most likely diagnosis and cause?",
+      "answers": [
+        { "text": "Respiratory distress syndrome due to insufficient surfactant", "correct": true },
+        { "text": "Transient tachypnea of the newborn due to retained lung fluid" },
+        { "text": "Meconium aspiration syndrome due to airway obstruction" },
+        { "text": "Pulmonary interstitial emphysema due to barotrauma" }
+      ]
+    },
+    {
+      "text": "A term infant with RDS appears pink despite an ABG showing a PaO₂ of 30 mmHg. What best explains the absence of cyanosis?",
+      "answers": [
+        { "text": "High fetal hemoglobin and hyperbilirubinemia can mask cyanosis even with severe hypoxemia", "correct": true },
+        { "text": "A PaO₂ of 30 mmHg is normal for a newborn" },
+        { "text": "Cyanosis only appears when PaCO₂ is also elevated" },
+        { "text": "Surfactant administration always restores normal color" }
+      ]
+    },
+    {
+      "text": "Why is surfactant ineffective at lowering alveolar surface tension in an infant born at 30 weeks, even though surfactant production began at 24 weeks?",
+      "answers": [
+        { "text": "Before 34–35 weeks the surfactant is trapped inside the alveolar type II cells and cannot be released", "correct": true },
+        { "text": "Surfactant is not produced at all until 36 weeks of gestation" },
+        { "text": "Fetal hemoglobin destroys surfactant before it reaches the alveoli" },
+        { "text": "The ductus arteriosus prevents surfactant from reaching the lungs" }
+      ]
+    },
+    {
+      "text": "Pre- and post-ductal saturation probes show a difference of more than 5% between the right arm and the left lower leg. What does this indicate?",
+      "answers": [
+        { "text": "A right-to-left shunt, most likely a patent ductus arteriosus and patent foramen ovale", "correct": true },
+        { "text": "A normal variation in newborn saturation readings" },
+        { "text": "Inaccurate probes that should be repositioned" },
+        { "text": "A left-to-right shunt that requires no further evaluation" }
+      ]
+    },
+    {
+      "text": "An infant has chronically elevated PCO₂ with normal oxygenation values. What is the best method to monitor the PCO₂ status?",
+      "answers": [
+        { "text": "A capillary stick from the heel — accurate for PCO₂ and electrolytes", "correct": true },
+        { "text": "A capillary stick from the heel, relying on its oxygen value" },
+        { "text": "Pulse oximetry alone, which reflects PCO₂" },
+        { "text": "A pre-ductal saturation probe on the right hand" }
+      ]
+    }
+  ]
+}

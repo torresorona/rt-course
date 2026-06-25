@@ -1,0 +1,95 @@
+{
+  "title": "Conventional Mechanical Ventilation Quiz",
+  "questions": [
+    {
+      "text": "An infant on a nasal cannula has an SpO₂ of 86% and an FiO₂ requirement of 70%. An ABG shows PaO₂ 48 mmHg and PCO₂ 45 mmHg. What is the most appropriate next step?",
+      "answers": [
+        { "text": "Place the patient on NCPAP — this is an oxygenation problem with a normal PCO₂", "correct": true },
+        { "text": "Intubate immediately because the pH and PCO₂ contraindicate CPAP" },
+        { "text": "Increase the nasal cannula flow and continue to observe" },
+        { "text": "Begin chest compressions and bag-mask ventilation" }
+      ]
+    },
+    {
+      "text": "Which set of values represents a CONTRAINDICATION to NCPAP rather than an indication?",
+      "answers": [
+        { "text": "Respiratory arrest with pH 7.20 and PaCO₂ 55 mmHg — CPAP is not indicated for CO₂ removal", "correct": true },
+        { "text": "PaO₂ of 45 mmHg on supplemental oxygen" },
+        { "text": "An FiO₂ requirement greater than 60%" },
+        { "text": "Decreased lung volumes on chest radiograph with RDS" }
+      ]
+    },
+    {
+      "text": "Why do premature neonates with stiff, surfactant-deficient lungs require shorter inspiratory and expiratory times than pediatric patients?",
+      "answers": [
+        { "text": "Their low compliance gives a short time constant, so the lungs fill and empty faster", "correct": true },
+        { "text": "Their high resistance gives a long time constant, so the lungs fill and empty faster" },
+        { "text": "Their high compliance requires more time to equilibrate airway pressure" },
+        { "text": "Their time constant is unrelated to compliance and resistance" }
+      ]
+    },
+    {
+      "text": "A pediatric asthma patient has high airway resistance. How does this affect the respiratory time constant and ventilator settings?",
+      "answers": [
+        { "text": "The time constant is long, so longer inspiratory and expiratory times are needed to fill and empty the lungs", "correct": true },
+        { "text": "The time constant is short, so shorter I:E ratios are needed" },
+        { "text": "The time constant is unaffected, so neonatal settings apply" },
+        { "text": "Resistance lowers the time constant, requiring faster rates" }
+      ]
+    },
+    {
+      "text": "What is the general upper limit for peak inspiratory pressure on a neonate, and when may it be exceeded?",
+      "answers": [
+        { "text": "PIP should not exceed 30 cmH₂O, but this can be broken for premature birth or chest-wall rigidity from a fentanyl infusion", "correct": true },
+        { "text": "PIP should not exceed 20 cmH₂O and may never be exceeded" },
+        { "text": "PIP should not exceed 40 cmH₂O and may be exceeded for any premature infant" },
+        { "text": "There is no upper limit for PIP in neonates" }
+      ]
+    },
+    {
+      "text": "On a pressure-controlled neonatal ventilator, what is the relationship between delta P and tidal volume?",
+      "answers": [
+        { "text": "Delta P is the difference between PIP and PEEP; increasing delta P increases tidal volume", "correct": true },
+        { "text": "Delta P is the sum of PIP and PEEP; increasing it decreases tidal volume" },
+        { "text": "Delta P equals the PEEP, and it has no effect on tidal volume" },
+        { "text": "Delta P is the FiO₂ setting and controls oxygenation only" }
+      ]
+    },
+    {
+      "text": "What tidal volume range is appropriate for a neonate with ARDS or lung injury?",
+      "answers": [
+        { "text": "4–5 mL/kg", "correct": true },
+        { "text": "6–8 mL/kg" },
+        { "text": "8–10 mL/kg" },
+        { "text": "10–12 mL/kg" }
+      ]
+    },
+    {
+      "text": "Which inspiratory time setting is appropriate for a neonate?",
+      "answers": [
+        { "text": "0.2–0.4 seconds", "correct": true },
+        { "text": "0.6–0.8 seconds" },
+        { "text": "Up to 1 second, as in pediatrics" },
+        { "text": "1.5 seconds to match a slow rate" }
+      ]
+    },
+    {
+      "text": "A neonate develops air collecting within the chest but outside the normal air cells of the lungs, making breathing difficult. This describes which category of complication, and what are examples?",
+      "answers": [
+        { "text": "Air leak syndromes — pneumothorax, pneumomediastinum, and PIE, more likely in underdeveloped lungs", "correct": true },
+        { "text": "Subglottic stenosis — a chronic airway complication" },
+        { "text": "Bronchopulmonary dysplasia — a progressive parenchymal disease" },
+        { "text": "Transient tachypnea of the newborn — retained lung fluid" }
+      ]
+    },
+    {
+      "text": "Which combination of values best indicates a successful outcome of mechanical ventilation in a neonate?",
+      "answers": [
+        { "text": "PaO₂ > 50 mmHg with FiO₂ < 60%, reversal of respiratory acidosis to a pH > 7.25, and reduced work of breathing", "correct": true },
+        { "text": "PaO₂ > 100 mmHg with FiO₂ of 80% and a pH of 7.20" },
+        { "text": "PaCO₂ maintained above 70 mmHg with a pH of 7.15" },
+        { "text": "An SpO₂ of 99% on 100% FiO₂ regardless of work of breathing" }
+      ]
+    }
+  ]
+}

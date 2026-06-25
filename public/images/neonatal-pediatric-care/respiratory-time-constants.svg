@@ -1,0 +1,40 @@
+<svg viewBox="0 0 760 450" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect x="1" y="1" width="758" height="448" rx="18" fill="#faf9f7" stroke="#e8e4dd" stroke-width="2"/>
+  <text x="380" y="38" text-anchor="middle" font-size="24" font-weight="700" fill="#1f1b17">Respiratory Time Constants</text>
+  <text x="380" y="60" text-anchor="middle" font-size="13.5" fill="#7a7068">Time Constant = Compliance × Resistance — the time to equilibrate a change in airway pressure</text>
+
+  <!-- plot frame -->
+  <line x1="120" y1="100" x2="120" y2="330" stroke="#b8b0a2" stroke-width="2"/>
+  <line x1="120" y1="330" x2="680" y2="330" stroke="#b8b0a2" stroke-width="2"/>
+  <!-- 100% gridline -->
+  <line x1="120" y1="100" x2="680" y2="100" stroke="#d4cec4" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="112" y="104" text-anchor="end" font-size="11" fill="#7a7068">100%</text>
+  <text x="112" y="334" text-anchor="end" font-size="11" fill="#7a7068">0%</text>
+  <!-- axis labels -->
+  <text x="58" y="220" text-anchor="middle" font-size="12.5" font-weight="600" fill="#5c544d" transform="rotate(-90 58 220)">Alveolar filling / emptying</text>
+  <text x="400" y="356" text-anchor="middle" font-size="12.5" font-weight="600" fill="#5c544d">Time →</text>
+
+  <!-- Short time constant curve (neonate) -->
+  <polyline points="120,330 150,233 180,178 220,137 280,113 380,102 520,100 680,100"
+            fill="none" stroke="#5b8db8" stroke-width="3.5"/>
+  <!-- Long time constant curve (pediatric asthma) -->
+  <polyline points="120,330 180,261 260,198 360,154 480,126 600,113 680,109"
+            fill="none" stroke="#c4704b" stroke-width="3.5"/>
+
+  <!-- inline curve labels -->
+  <circle cx="300" cy="108" r="5" fill="#5b8db8"/>
+  <text x="312" y="112" font-size="12.5" font-weight="700" fill="#4a78a0">Short TC</text>
+  <circle cx="455" cy="132" r="5" fill="#c4704b"/>
+  <text x="467" y="136" font-size="12.5" font-weight="700" fill="#a85c3a">Long TC</text>
+
+  <!-- bottom explanatory cards -->
+  <rect x="120" y="378" width="262" height="60" rx="10" fill="#e4eef6" stroke="#5b8db8" stroke-width="1.6"/>
+  <text x="134" y="399" font-size="12.5" font-weight="700" fill="#4a78a0">Short TC — Neonate</text>
+  <text x="134" y="416" font-size="11.5" fill="#5c544d">Low compliance (stiff, surfactant-poor)</text>
+  <text x="134" y="431" font-size="11.5" fill="#5c544d">Fills &amp; empties fast → shorter I:E</text>
+
+  <rect x="398" y="378" width="282" height="60" rx="10" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.6"/>
+  <text x="412" y="399" font-size="12.5" font-weight="700" fill="#a85c3a">Long TC — Pediatric asthma</text>
+  <text x="412" y="416" font-size="11.5" fill="#5c544d">High airway resistance</text>
+  <text x="412" y="431" font-size="11.5" fill="#5c544d">Fills &amp; empties slowly → longer I:E</text>
+</svg>

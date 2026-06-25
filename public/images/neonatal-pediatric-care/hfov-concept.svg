@@ -1,0 +1,46 @@
+<svg viewBox="0 0 760 440" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect x="1" y="1" width="758" height="438" rx="18" fill="#faf9f7" stroke="#e8e4dd" stroke-width="2"/>
+  <text x="380" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#1f1b17">HFOV — “CPAP with a Wiggle”</text>
+  <text x="380" y="58" text-anchor="middle" font-size="13.5" fill="#7a7068">Rapid, tiny oscillations around a high mean airway pressure</text>
+
+  <!-- axes -->
+  <line x1="92" y1="82" x2="92" y2="300" stroke="#b8b0a2" stroke-width="2"/>
+  <line x1="92" y1="300" x2="624" y2="300" stroke="#b8b0a2" stroke-width="2"/>
+  <text x="56" y="195" text-anchor="middle" font-size="12.5" font-weight="600" fill="#5c544d" transform="rotate(-90 56 195)">Airway pressure</text>
+  <text x="360" y="324" text-anchor="middle" font-size="12.5" font-weight="600" fill="#5c544d">Time →</text>
+
+  <!-- MAP baseline -->
+  <line x1="92" y1="190" x2="600" y2="190" stroke="#a85c3a" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <rect x="96" y="150" width="150" height="22" rx="6" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.4"/>
+  <text x="171" y="166" text-anchor="middle" font-size="12" font-weight="700" fill="#a85c3a">MAP → oxygenation</text>
+
+  <!-- oscillation waveform -->
+  <path d="M100,190 Q135,86 170,190 Q205,294 240,190 Q275,86 310,190 Q345,294 380,190 Q415,86 450,190 Q485,294 520,190 Q555,86 590,190"
+        fill="none" stroke="#5b8db8" stroke-width="3.5"/>
+
+  <!-- amplitude bracket -->
+  <line x1="604" y1="86" x2="604" y2="294" stroke="#6b8f5e" stroke-width="2"/>
+  <line x1="598" y1="86" x2="610" y2="86" stroke="#6b8f5e" stroke-width="2"/>
+  <line x1="598" y1="294" x2="610" y2="294" stroke="#6b8f5e" stroke-width="2"/>
+  <text x="618" y="180" font-size="12.5" font-weight="700" fill="#3f5a34">Amplitude</text>
+  <text x="618" y="196" font-size="12.5" font-weight="700" fill="#3f5a34">(∆P)</text>
+  <text x="618" y="214" font-size="11" fill="#7a7068">→ CO₂</text>
+
+  <!-- control -> effect cards -->
+  <rect x="92" y="346" width="170" height="78" rx="10" fill="#fbe9e0" stroke="#c4704b" stroke-width="1.6"/>
+  <text x="177" y="368" text-anchor="middle" font-size="12.5" font-weight="700" fill="#a85c3a">Bias flow / MAP</text>
+  <text x="177" y="387" text-anchor="middle" font-size="11.5" fill="#5c544d">Controls oxygenation</text>
+  <text x="177" y="404" text-anchor="middle" font-size="11.5" fill="#5c544d">↑ bias flow → ↑ MAP</text>
+  <text x="177" y="419" text-anchor="middle" font-size="11" fill="#7a7068">Recruit to T8–T9</text>
+
+  <rect x="278" y="346" width="170" height="78" rx="10" fill="#ecf0e8" stroke="#6b8f5e" stroke-width="1.6"/>
+  <text x="363" y="368" text-anchor="middle" font-size="12.5" font-weight="700" fill="#3f5a34">Amplitude (∆P)</text>
+  <text x="363" y="387" text-anchor="middle" font-size="11.5" fill="#5c544d">Controls CO₂ (the wiggle</text>
+  <text x="363" y="404" text-anchor="middle" font-size="11.5" fill="#5c544d">on belly / thighs)</text>
+
+  <rect x="464" y="346" width="204" height="78" rx="10" fill="#e4eef6" stroke="#5b8db8" stroke-width="1.6"/>
+  <text x="566" y="368" text-anchor="middle" font-size="12.5" font-weight="700" fill="#4a78a0">Frequency (Hz)</text>
+  <text x="566" y="387" text-anchor="middle" font-size="11.5" fill="#5c544d">1 Hz = 60 cycles · inverse to ∆P</text>
+  <text x="566" y="404" text-anchor="middle" font-size="11.5" fill="#5c544d">↓ Hz → removes MORE CO₂</text>
+  <text x="566" y="419" text-anchor="middle" font-size="11" fill="#7a7068">(more time per cycle)</text>
+</svg>
