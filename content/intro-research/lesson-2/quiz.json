@@ -1,0 +1,275 @@
+{
+  "title": "Introduction to Research Mock Exam",
+  "questions": [
+    {
+      "text": "The lesson states that you may never conduct a study, but you must still do what?",
+      "answers": [
+        { "text": "Become familiar with the concepts of research and an educated consumer of medical research", "correct": true },
+        { "text": "Memorize every published clinical trial" },
+        { "text": "Personally fund a research project" },
+        { "text": "Serve as a peer reviewer for a journal" }
+      ]
+    },
+    {
+      "text": "What can a mentor specifically help a new respiratory care scientist do?",
+      "answers": [
+        { "text": "Turn ideas into practical realities", "correct": true },
+        { "text": "Guarantee publication in any journal" },
+        { "text": "Bypass the Institutional Review Board" },
+        { "text": "Eliminate the need for a literature review" }
+      ]
+    },
+    {
+      "text": "Which of the following is one of the three basic missions of academic medicine?",
+      "answers": [
+        { "text": "Discover", "correct": true },
+        { "text": "Reimburse" },
+        { "text": "Regulate" },
+        { "text": "Advertise" }
+      ]
+    },
+    {
+      "text": "In the R.A.C.E. model, which stakeholder needs to generate new ideas that inform or benefit the other stakeholders?",
+      "answers": [
+        { "text": "Researchers", "correct": true },
+        { "text": "Administrators" },
+        { "text": "Clinicians" },
+        { "text": "Educators" }
+      ]
+    },
+    {
+      "text": "Which R.A.C.E. stakeholder needs to evaluate the quality of services and the validity of policies and procedures?",
+      "answers": [
+        { "text": "Administrators", "correct": true },
+        { "text": "Researchers" },
+        { "text": "Clinicians" },
+        { "text": "Educators" }
+      ]
+    },
+    {
+      "text": "Which R.A.C.E. stakeholder needs the ability to assess the usefulness of new procedures, equipment, and treatments?",
+      "answers": [
+        { "text": "Clinicians", "correct": true },
+        { "text": "Administrators" },
+        { "text": "Educators" },
+        { "text": "Researchers" }
+      ]
+    },
+    {
+      "text": "According to the lesson, what happens without research?",
+      "answers": [
+        { "text": "You cannot have meaningful evaluations of current practices and cannot plan research", "correct": true },
+        { "text": "Clinical care becomes faster and cheaper" },
+        { "text": "Peer review is no longer necessary" },
+        { "text": "Hypotheses become unnecessary" }
+      ]
+    },
+    {
+      "text": "Bibliographic databases offer search result filters using which tool?",
+      "answers": [
+        { "text": "My NCBI (National Center for Biotechnology Information)", "correct": true },
+        { "text": "The Cochrane Collaboration" },
+        { "text": "EndNote" },
+        { "text": "Ovid" }
+      ]
+    },
+    {
+      "text": "PubMed includes over 18 million citations from MEDLINE and other life science journals dating back to what year?",
+      "answers": [
+        { "text": "1948", "correct": true },
+        { "text": "1968" },
+        { "text": "1988" },
+        { "text": "2008" }
+      ]
+    },
+    {
+      "text": "Which search engine delivers only the most clinically reputable content intended for practicing medical clinicians?",
+      "answers": [
+        { "text": "SearchMedica", "correct": true },
+        { "text": "PubMed" },
+        { "text": "Google" },
+        { "text": "MD Consult" }
+      ]
+    },
+    {
+      "text": "What is described as the main disadvantage of synthesized databases such as the Cochrane Collaboration?",
+      "answers": [
+        { "text": "They are subscription based with relatively large fees", "correct": true },
+        { "text": "They contain no abstracts" },
+        { "text": "They cannot be searched by topic" },
+        { "text": "They are only available in print" }
+      ]
+    },
+    {
+      "text": "Which portal provides links to books, journals, evidence-based medicine databases, and CINAHL?",
+      "answers": [
+        { "text": "Ovid", "correct": true },
+        { "text": "MD Consult" },
+        { "text": "PubMed" },
+        { "text": "STAT!Ref" }
+      ]
+    },
+    {
+      "text": "Which of the following is named as the most popular general search engine?",
+      "answers": [
+        { "text": "Google.com", "correct": true },
+        { "text": "SearchMedica" },
+        { "text": "Ovid" },
+        { "text": "Safari Books Online" }
+      ]
+    },
+    {
+      "text": "EndNote, RefWorks, and Zotero are examples of what?",
+      "answers": [
+        { "text": "Bibliographic (reference management) software", "correct": true },
+        { "text": "Synthesized databases" },
+        { "text": "Portals" },
+        { "text": "Search engines" }
+      ]
+    },
+    {
+      "text": "Why is device evaluation described as a good starting point for RT research?",
+      "answers": [
+        { "text": "It is usually very inexpensive because vendors often donate or loan equipment and supplies", "correct": true },
+        { "text": "It always requires IRB approval, ensuring rigor" },
+        { "text": "It guarantees publication in the Respiratory Care Journal" },
+        { "text": "It eliminates the need for a mentor" }
+      ]
+    },
+    {
+      "text": "When is approval from the Institutional Review Board (IRB) required?",
+      "answers": [
+        { "text": "For studies of human subjects", "correct": true },
+        { "text": "For any evaluation of a new device" },
+        { "text": "Whenever a vendor loans equipment" },
+        { "text": "Only when the study will be published" }
+      ]
+    },
+    {
+      "text": "In the M.A.D.S.A.K. feasibility acronym, what does the 'D' represent?",
+      "answers": [
+        { "text": "Duration and timing of study", "correct": true },
+        { "text": "Data analysis plan" },
+        { "text": "Discovery of new devices" },
+        { "text": "Documentation requirements" }
+      ]
+    },
+    {
+      "text": "Which M.A.D.S.A.K. factor refers to the significance or potential benefits to results?",
+      "answers": [
+        { "text": "The 'S' in M.A.D.S.A.K.", "correct": true },
+        { "text": "The 'M' in M.A.D.S.A.K." },
+        { "text": "The 'A' in M.A.D.S.A.K." },
+        { "text": "The 'K' in M.A.D.S.A.K." }
+      ]
+    },
+    {
+      "text": "When developing a study idea, choosing and defining a research topic is usually based on what?",
+      "answers": [
+        { "text": "The observer's experience from clinical practice", "correct": true },
+        { "text": "A random selection of journal titles" },
+        { "text": "The preferences of the journal editor" },
+        { "text": "The availability of bibliographic software" }
+      ]
+    },
+    {
+      "text": "From the formal problem statement comes either a brief statement of the study purpose or what?",
+      "answers": [
+        { "text": "A hypothesis statement", "correct": true },
+        { "text": "A references section" },
+        { "text": "A peer-review recommendation" },
+        { "text": "A poster layout" }
+      ]
+    },
+    {
+      "text": "What is the primary value of writing out a study protocol?",
+      "answers": [
+        { "text": "It helps clarify the goals of the study and the methods of investigation, and provides an operational guide for the research team", "correct": true },
+        { "text": "It replaces the need for statistical analysis" },
+        { "text": "It guarantees IRB approval" },
+        { "text": "It serves as the published abstract" }
+      ]
+    },
+    {
+      "text": "An investigator wants to compare two mean values. Which statistical test should be used?",
+      "answers": [
+        { "text": "A t-test", "correct": true },
+        { "text": "ANOVA" },
+        { "text": "A chi-square test" },
+        { "text": "A Fisher Exact test" }
+      ]
+    },
+    {
+      "text": "What does the abbreviation 'p-value' stand for?",
+      "answers": [
+        { "text": "Probability-value", "correct": true },
+        { "text": "Proportion-value" },
+        { "text": "Protocol-value" },
+        { "text": "Population-value" }
+      ]
+    },
+    {
+      "text": "What are the three basic ways to formally present research findings?",
+      "answers": [
+        { "text": "The abstract, the poster, and the paper", "correct": true },
+        { "text": "The hypothesis, the protocol, and the references" },
+        { "text": "The introduction, the results, and the discussion" },
+        { "text": "The database, the portal, and the journal" }
+      ]
+    },
+    {
+      "text": "A research poster is generally what size?",
+      "answers": [
+        { "text": "4 feet tall by 6 feet long", "correct": true },
+        { "text": "2 feet tall by 3 feet long" },
+        { "text": "6 feet tall by 8 feet long" },
+        { "text": "3 feet tall by 3 feet long" }
+      ]
+    },
+    {
+      "text": "Most journals limit the full text of a research paper to approximately what word count?",
+      "answers": [
+        { "text": "2000 to 3000 words", "correct": true },
+        { "text": "500 to 1000 words" },
+        { "text": "5000 to 6000 words" },
+        { "text": "There is no limit on the full text" }
+      ]
+    },
+    {
+      "text": "Which section of a research article shows how the results answered the research question and interprets them in the face of earlier studies' conclusions?",
+      "answers": [
+        { "text": "Discussion", "correct": true },
+        { "text": "Results" },
+        { "text": "Materials and Methods" },
+        { "text": "Introduction" }
+      ]
+    },
+    {
+      "text": "A peer-reviewed paper is usually reviewed by how many peer reviewers?",
+      "answers": [
+        { "text": "Two or three", "correct": true },
+        { "text": "Exactly one" },
+        { "text": "Five or six" },
+        { "text": "Ten to fifteen" }
+      ]
+    },
+    {
+      "text": "Which of the following is one of the three possible outcomes a peer reviewer can recommend to the journal editor?",
+      "answers": [
+        { "text": "Rejected with an opportunity to revise and resubmit", "correct": true },
+        { "text": "Forwarded to the IRB for funding" },
+        { "text": "Converted automatically into a poster" },
+        { "text": "Published without an abstract" }
+      ]
+    },
+    {
+      "text": "Which type of research observes and describes associations, shows patterns of disease occurrence, records events, and helps to generate hypotheses?",
+      "answers": [
+        { "text": "Descriptive research", "correct": true },
+        { "text": "Analytic research" },
+        { "text": "Quantitative research" },
+        { "text": "Qualitative research" }
+      ]
+    }
+  ]
+}

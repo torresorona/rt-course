@@ -64,7 +64,7 @@ rt-course/
 │   ├── PulmonaryDiagnosticsIReview.tsx  # Client — Pulmonary Diagnostics I review tool
 │   └── CylinderDurationExercises.tsx    # Client — cylinder duration calculation practice
 │
-├── content/                    # ⭐ ALL COURSE CONTENT LIVES HERE (17 modules, ordered by `order`)
+├── content/                    # ⭐ ALL COURSE CONTENT LIVES HERE (18 modules, ordered by `order`)
 │   ├── general-anatomy-physiology/        # order 1  — 7 lessons
 │   ├── pulmonary-anatomy-physiology/      # order 2  — 5 lessons
 │   ├── cardiovascular-anatomy-physiology/ # order 3  — 6 lessons
@@ -81,7 +81,8 @@ rt-course/
 │   ├── community-health/                  # order 14 — 3 lessons
 │   ├── critical-care-i/                   # order 15 — 7 lessons
 │   ├── critical-care-ii/                  # order 16 — 6 lessons
-│   └── neonatal-pediatric-care/           # order 17 — 7 lessons
+│   ├── neonatal-pediatric-care/           # order 17 — 7 lessons
+│   └── intro-research/                     # order 18 — 2 lessons
 │
 ├── db/
 │   ├── schema.ts               # Drizzle schema — modules, quizzes, questions, answers, progress
@@ -294,7 +295,7 @@ The lesson page (`app/[...slug]/page.tsx`) has three views controlled by `?view=
 
 ## 8. Current Module Inventory
 
-The course has **17 modules**, ordered by the `order` field in each `module.json` (this controls display order on the home page). Module/lesson counts below reflect the current filesystem; most modules end with a review and/or module-exam lesson.
+The course has **18 modules**, ordered by the `order` field in each `module.json` (this controls display order on the home page). Module/lesson counts below reflect the current filesystem; most modules end with a review and/or module-exam lesson.
 
 | Order | Module Slug | Title | Lessons |
 |-------|-------------|-------|---------|
@@ -315,6 +316,7 @@ The course has **17 modules**, ordered by the `order` field in each `module.json
 | 15 | `critical-care-i` | Critical Care I | 7 |
 | 16 | `critical-care-ii` | Critical Care II | 6 |
 | 17 | `neonatal-pediatric-care` | Neonatal & Pediatric Respiratory Care | 7 |
+| 18 | `intro-research` | Introduction to Research | 2 |
 
 > `order` values must stay unique — duplicates produce an ambiguous home-page sort. When inserting a module out of sequence, renumber the trailing modules rather than reusing a number.
 
@@ -457,7 +459,7 @@ Changes must be promoted through explicit, user-approved stages:
 
 ## 15. Content Domain Context
 
-This is a **Respiratory Therapy** course for a student in a military RT program. Content spans all 17 modules:
+This is a **Respiratory Therapy** course for a student in a military RT program. Content spans all 18 modules:
 
 - **General Anatomy & Physiology**: Levels of organization, the chemical/cellular basis of life, organ systems overview, acid-base homeostasis
 - **Pulmonary Anatomy & Physiology**: Respiratory structure and dynamics, gas exchange, regulation of breathing, acid-base regulation
@@ -476,5 +478,6 @@ This is a **Respiratory Therapy** course for a student in a military RT program.
 - **Critical Care I**: Airway management, artificial airways, tracheostomy care, suctioning, intubation/extubation, airway emergencies, ICU monitoring
 - **Critical Care II**: Mechanical ventilation through weaning — indications, modes, NIV, initiation, monitoring, graphics, transport, discontinuation
 - **Neonatal & Pediatric Respiratory Care**: Maternal/newborn assessment, fetal circulation and shunts, RDS and neonatal/pediatric disease processes, conventional and high-frequency ventilation, neonatal/pediatric equipment
+- **Introduction to Research**: Purpose and importance of research, R.A.C.E. stakeholders, reviewing the literature, feasibility (M.A.D.S.A.K.), steps in research, statistical basics, research article structure, peer review, and types of research
 
 When creating new content, always use the provided content as the sole source — do not add external vocabulary, facts, or terminology not present in the source material. Avoid excessive auxiliary info or elaboration beyond what's in the original content. Maintain clinical accuracy and use proper medical terminology. Quiz questions should test understanding, not just recall — include clinical scenarios when possible.

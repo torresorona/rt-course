@@ -1,0 +1,25 @@
+{
+  "title": "Introduction to Research",
+  "description": "Fundamentals of respiratory care research: the purpose and importance of research in health care, how to review the literature, the steps and feasibility of conducting a study, the structure of a research article, peer review, and the types of research.",
+  "order": 18,
+  "lessons": [
+    {
+      "slug": "intro-research/lesson-1",
+      "title": "Fundamentals of Respiratory Care Research",
+      "description": "Purposes of a research article, the importance of research in health care, how to review the literature, starting RT research, factors affecting feasibility, the steps in research, the structure of a research article, peer review, and the types of research.",
+      "audio": "/audio/intro-research/How_to_spot_flawed_medical_research.m4a"
+    },
+    {
+      "slug": "intro-research/lesson-2",
+      "title": "Mock Exam",
+      "description": "Cumulative mock exam covering the purpose and importance of respiratory care research, reviewing the literature, feasibility and steps in research, statistical basics, the structure of a research article, peer review, and the types of research."
+    }
+  ],
+  "audio": [
+    {
+      "title": "How to Spot Flawed Medical Research",
+      "src": "/audio/intro-research/How_to_spot_flawed_medical_research.m4a"
+    }
+  ],
+  "resources": []
+}

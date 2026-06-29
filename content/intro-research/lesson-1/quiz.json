@@ -1,0 +1,140 @@
+{
+  "title": "Fundamentals of Respiratory Care Research Quiz",
+  "questions": [
+    {
+      "text": "Even if a respiratory therapist never conducts a study, what is the minimum expectation regarding research?",
+      "answers": [
+        { "text": "To become an educated consumer of medical research", "correct": true },
+        { "text": "To publish at least one paper per year" },
+        { "text": "To serve on an Institutional Review Board" },
+        { "text": "To memorize every statistical test" }
+      ]
+    },
+    {
+      "text": "A new RT student wants to eventually become a respiratory care scientist. According to the lesson, what is the single most helpful first step?",
+      "answers": [
+        { "text": "Find a mentor experienced in conducting and publishing studies", "correct": true },
+        { "text": "Submit an abstract to a journal immediately" },
+        { "text": "Purchase bibliographic software" },
+        { "text": "Apply for IRB membership" }
+      ]
+    },
+    {
+      "text": "What are the three basic missions of academic medicine?",
+      "answers": [
+        { "text": "Heal, teach, and discover", "correct": true },
+        { "text": "Diagnose, treat, and bill" },
+        { "text": "Prevent, screen, and rehabilitate" },
+        { "text": "Research, regulate, and reimburse" }
+      ]
+    },
+    {
+      "text": "In the R.A.C.E. stakeholder model, which group needs the ability to find, summarize, and present evidence for clinical activities?",
+      "answers": [
+        { "text": "Educators", "correct": true },
+        { "text": "Researchers" },
+        { "text": "Administrators" },
+        { "text": "Clinicians" }
+      ]
+    },
+    {
+      "text": "What is the common skill that all research stakeholders must possess?",
+      "answers": [
+        { "text": "The ability to read and critically evaluate published scientific reports", "correct": true },
+        { "text": "The ability to perform advanced statistical modeling" },
+        { "text": "The ability to secure research funding" },
+        { "text": "The ability to design medical devices" }
+      ]
+    },
+    {
+      "text": "Which search engine is described as the most popular and is a service of the U.S. National Library of Medicine?",
+      "answers": [
+        { "text": "PubMed", "correct": true },
+        { "text": "SearchMedica" },
+        { "text": "Google" },
+        { "text": "Ovid" }
+      ]
+    },
+    {
+      "text": "Which resource is identified as the leading synthesized database?",
+      "answers": [
+        { "text": "The Cochrane Collaboration", "correct": true },
+        { "text": "MD Consult" },
+        { "text": "STAT!Ref" },
+        { "text": "CINAHL" }
+      ]
+    },
+    {
+      "text": "A vendor loans an RT a new airway device for an inexpensive evaluation that does not involve human subjects. What is true about IRB approval?",
+      "answers": [
+        { "text": "IRB approval is not required, because the IRB is required for studies of human subjects", "correct": true },
+        { "text": "IRB approval is always required for any RT research" },
+        { "text": "IRB approval is required only because the device is new" },
+        { "text": "IRB approval is required because the vendor donated equipment" }
+      ]
+    },
+    {
+      "text": "In the feasibility acronym M.A.D.S.A.K., what does the 'M' stand for?",
+      "answers": [
+        { "text": "Measurability", "correct": true },
+        { "text": "Mentorship" },
+        { "text": "Methodology" },
+        { "text": "Motivation" }
+      ]
+    },
+    {
+      "text": "How is a hypothesis defined in this lesson?",
+      "answers": [
+        { "text": "A supposition or proposed explanation for an observation", "correct": true },
+        { "text": "A proven conclusion drawn from completed experiments" },
+        { "text": "A condensed summary of a research paper" },
+        { "text": "A statistical test used to compare proportions" }
+      ]
+    },
+    {
+      "text": "An investigator wants to compare the mean values of three different treatment groups. Which statistical test is appropriate?",
+      "answers": [
+        { "text": "Analysis of variance (ANOVA)", "correct": true },
+        { "text": "T-test" },
+        { "text": "Chi-square test" },
+        { "text": "P-value" }
+      ]
+    },
+    {
+      "text": "Which statistical test is used to compare proportions?",
+      "answers": [
+        { "text": "A chi-square or Fisher Exact test", "correct": true },
+        { "text": "A t-test" },
+        { "text": "ANOVA" },
+        { "text": "Standard deviation" }
+      ]
+    },
+    {
+      "text": "Which document is described as a condensed version of a research paper that appears at the beginning of the publication?",
+      "answers": [
+        { "text": "The abstract", "correct": true },
+        { "text": "The poster" },
+        { "text": "The discussion" },
+        { "text": "The references section" }
+      ]
+    },
+    {
+      "text": "Which section of a research article presents the data gathered as the 'bare facts' with little or no explanation of their significance?",
+      "answers": [
+        { "text": "Results", "correct": true },
+        { "text": "Discussion" },
+        { "text": "Introduction" },
+        { "text": "Materials and Methods" }
+      ]
+    },
+    {
+      "text": "A study asks, 'Tell me why men aren't getting their physicals this year.' Which type of research does this represent?",
+      "answers": [
+        { "text": "Qualitative research", "correct": true },
+        { "text": "Quantitative research" },
+        { "text": "Descriptive research" },
+        { "text": "Analytic research" }
+      ]
+    }
+  ]
+}

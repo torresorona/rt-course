@@ -1,0 +1,405 @@
+Fundamentals of Respiratory Care Research
+ 
+ 
+Objectives
+• 1.1.1 Describe the purposes for a research article
+• 1.2.1 Describe how a properly-written research article is
+structured
+• 1.3.1 Describe the types of research
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+2
+ 
+Overview of Respiratory Care Research
+• You may never conduct a study but you must be familiar with
+the concepts of research
+• You need to become an educated consumer of medical
+research
+• If you want to become a respiratory care scientist
+§ Find a mentor, someone who has experience conducting
+scientific studies and publishing the results.
+§ A mentor can help you turn the ideas in this chapter into
+practical realities.
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+3
+ 
+Importance of Research in Health Care
+• Academic medicine has three basic missions:
+1. Heal
+2. Teach
+3. Discover
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+4
+ 
+Importance of Research in Health Care
+• Stakeholders involvement: (R.A.C.E)
+§ Researchers
+ü Need to be able to generate new ideas that inform or benefit
+the other stakeholders
+§ Administrators
+ü Need to evaluate the quality of services and the validity of
+policies and procedures
+§ Clinicians
+ü Need the ability to assess the usefulness of new procedures,
+equipment and treatments
+§ Educators
+ü Need the ability to find, summarize, and present evidence for
+clinical activities
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+5
+ 
+Importance of Research in Health Care
+• The Common Skill all stakeholders must have:
+§ The ability to read and critically evaluate published scientific
+reports.
+• Without research
+§ Cannot have meaningful evaluations of current practices
+§ Cannot plan research
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+6
+ 
+How to Review the Literature
+Bibliographic databases
+§ Contain books, book chapters, reports, citations, abstracts,
+and either the full text of the articles indexed or links to the
+full text
+§ Provides search filters, automatic e-mailing of search updates,
+the ability to save records, and filters for search results using "My
+NCBI” (National Center for Biotechnology Information)
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+7
+ 
+How to Review the Literature
+Search engines
+§ PubMed- Most Popular
+ü A service of the U.S. National Library of Medicine
+ü Includes over 18 million citations from MEDLINE and other life
+science journals for biomedical articles
+ü Dates back to1948
+ü https://www.youtube.com/watch?v=ZAtP0x9eb0A
+§ SearchMedica
+ü Delivers only the most clinically reputable content intended
+for practicing medical clinicians
+ü https://www.youtube.com/watch?v=V66tI7uv_gg
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+8
+ 
+How to Review the Literature
+Synthesized databases
+• Pros:
+§ The Cochrane Collaboration is the leading synthesized
+database.
+§ Pre-filtered records for particular topics
+§ May provide the “best” evidence without extensive searches of
+standard bibliographic databases
+• Con:
+§ Subscription based with relatively large fees!
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+9
+ 
+How to Review the Literature
+Portals
+§ Web pages that act as a starting point for using the Web or web-
+based services
+ü Provides access or links to other sites
+Examples:
+üMD Consult
+– Provides links to books, journals, Clinics in Medicine,
+patient education resources, and images
+üOvid
+– Provides links to books, journals, evidence-based
+medicine databases, and the Cumulative Index to
+Nursing and Allied Health Literature (CINAHL)
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+10
+ 
+How to Review the Literature
+Electronic Journals and Books
+• We are rapidly reaching the point where all medical journals are
+available online
+§ Some are available only online (due to cost restraints)
+• Electronic versions of textbooks available on the Internet
+• Subscription services include:
+§ Oxford Reference Online
+§ STAT!Ref (great source for nursing and drugs)
+§ Safari Books Online (excellent source of technical reference books)
+§ Respiratory Care Journal (AARC)
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+11
+ 
+How to Review the Literature
+General Internet resources
+§ Google.com
+ü Most popular general search engine
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+12
+ 
+How to Review the Literature
+Suggestions for conducting literature searches
+• Talk to a professional librarian!
+• Use Bibliographic software
+Examples
+ü EndNote
+ü RefWorks
+ü Zotero
+§ AKA, Reference Management software
+ü A database of the sources you use (books, journal
+articles, websites etc.) when researching your
+assignments.
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+13
+ 
+Starting RT Research
+• Beginning on device evaluation
+§ Particularly a new device
+• Usually very inexpensive
+§ Vendors often donate or loan equipment and supplies
+• Approval not require by the “Institutional Review Board” (IRB)
+§ IRB is required for studies of human subjects
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+14
+ 
+Factors Affecting Feasibility of Research (M.A.D.S.A.K.)
+• Measurability
+• Availability of research subjects
+• Duration and timing of study
+• Significance or potential benefits to results
+• Availability of equipment and funds
+• Knowledge and experience of investigators
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+15
+ 
+Objective 1.2.1
+• Describe how a properly-written research article is structured
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+16
+ 
+Steps in Research
+• Find your motivation
+• Find a mentor
+• Find a good textbook on respiratory care research
+• Develop a study idea
+• Write a study protocol
+• Analyze the data
+• Publish a scientific paper
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+17
+ 
+Steps in Research
+Develop a study idea
+• Choose and define a research topic
+§ Implies concern or doubt about some concept or observation
+§ Usually based on the observer’s experience from clinical
+practice
+• Clarify your study purpose through literature review
+• Develop a formal problem statement
+• From the problem statement comes either:
+§ A brief statement of the study purpose(s)
+§ A hypothesis statement
+üA hypothesis is a supposition or proposed explanation
+for an observation
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+18
+ 
+Steps in Research
+Write a study protocol
+• The process of writing it out will help you clarify the goals of
+the study and methods of investigation
+• Permission may need to be sought from a funding source,
+institutional review board (IRB), department manager, or
+student advisor before a study may begin
+• The research plan or research protocol
+§ Provides an operational guide for the entire research team
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+19
+ 
+Steps in Research
+How to analyze the data
+Statistical analysis
+• Be familiar with the basics:
+• The mean and standard deviation of a set of numbers
+• P-value (probability-value)
+• T-test
+o Used to compare two mean values
+• Analysis of variance (ANOVA)
+o Used to compare more than two mean values
+• A chi-square or Fisher Exact test
+o Used to compare proportions
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+20
+ 
+Steps in Research
+How to get a scientific paper published
+• Once you complete a project, you need to communicate the
+results
+• Three basics ways to formally present your findings:
+1. The abstract
+2. The poster
+3. The paper
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+21
+ 
+Steps in Research
+How to write the “abstract”
+• A condensed version of a research paper
+• Appears at the beginning of the publication
+• Most journals restrict the length of the abstract
+• Should include:
+§ Introduction
+§ Background
+§ Study purpose
+§ Methods
+§ Results
+§ Discussion
+• Start with a longer abstract and then edit
+§ The idea is to decrease word count while increasing clarity!
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+22
+ 
+Steps in Research
+How to make a “poster”
+• Allows a bit more freedom in terms of space as
+compared to an abstract
+• Generally 4 feet tall by 6 feet long
+• Graphics should be at least 300 dots per inch (dpi)
+• Usually presented in a group of 10-15 in small rooms
+§ Hung on stands and visitors walk around reading and
+discussing them with the authors
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+23
+ 
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+24
+ 
+Steps in Research
+How to write a “research paper”
+• Takes anywhere from 20 to 100 hours
+• Has the same basic outline as an abstract or poster but
+goes into much greater detail
+• Has a references section
+• No word limit for the Introduction
+• Most journals have a maximum word count for the full text
+of the paper
+§ Usually in the range of 2000-3000 words
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+25
+ 
+Basic Structure of a Research Article
+• Abstract/summary (slide 22)
+• Introduction
+• Materials and Methods
+• Results
+• Discussion
+• Conclusion
+• References
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+26
+ 
+Basic Structure of a Research Article
+Introduction
+• Provide a brief background explaining why the study was conducted and why it is of
+interest
+• Research problem or hypothesis should be included
+Materials and Methods
+• Explains to the reader exactly what was done to answer the research question
+and/or test the hypotheses described in the Introduction
+Results
+• Presents the data gathered from the experiments,
+• “bare facts” with little or no explanation of its significance
+Discussion
+• Show how the results answered the research question that was first described in the
+Introduction
+• Should interpret the results in the face of earlier studies’ conclusions
+Conclusion
+• Should be briefly explained
+• Includes reasons for rejecting alternate interpretations
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+27
+ 
+Peer Review Articles
+• Usually reviewed by two or three “peer reviewers”
+• Read and critique any and everything about your paper
+§ What words you use
+§ What measurements you made
+§ What statistical procedures you used
+• Make a recommendation to the journal editor
+§ Three possible outcomes
+ü Should not be considered for publication
+ü Rejected with an opportunity to revise and resubmit
+ü Should be accepted as is
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+28
+ 
+Objective 1.3.1
+• Describe the types of research
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+29
+ 
+Types of Research
+• Quantitative Research
+§ Collects data for numerical analysis
+§ Example:
+ü “How many men got their physical this year at our hospital?”
+• Qualitative Research
+§ Increases our understanding of “why” people act a way they do
+§ Example:
+ü “Tell me why men aren’t getting their physicals this year”
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+30
+ 
+Types of Research
+• Descriptive Research
+§ Observes and describes associations between exposures and
+outcomes
+§ Show patterns of disease occurrence
+§ Records events
+§ Helps to generate hypotheses
+• Analytic Research
+§ Analyzes associations
+§ Investigates relationships
+§ Tests hypotheses
+§ Also known as “explanatory” research
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+31
+ 
+Summary
+• Everyone practicing respiratory care has the responsibility to
+intelligently evaluate what they are doing in light of scientific
+evidence
+• Even after doing research, we may still be confused, but we
+believe we are confused at a higher level about more important
+things
+• Find a mentor and begin to create basic study ideas and conduct
+experiments
+Improving Health and Building Readiness. Anytime, Anywhere — Always
+ 
+32
