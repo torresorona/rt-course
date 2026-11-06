@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/next";
 import FeedbackButton from "@/components/FeedbackButton";
 import "./globals.css";
 
@@ -72,6 +73,7 @@ export default function RootLayout({
           <footer className="border-t border-sand-200 py-6 text-center text-xs text-sand-500">
             Built for learning, one module at a time.
           </footer>
+          <Analytics />
         </body>
     </html>
   );
